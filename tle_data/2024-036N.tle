@@ -1,0 +1,38 @@
+date:2024-08-28T07:28:46+00:00
+validtle:1
+satid:59010
+launchyear:2024
+epoch:24240.95821792
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31528
+meananomly:279.4721
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3635010312
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1595
+eccentricity:0.0001745
+argumentofperigree:80.6477
+nickname:STARLINK-31528
+idesg:24036N  
+cosparid:2024-036N
+altkm:475.92950604039
+velkms:7.6291533997114
+velkmh:27465
+onumepoch:2977
+onumnow:45559.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:59:50+00:00
+nowjuliandate:2460550.8116534
+nowepochdate:24241.3116435185
+TLE:
+STARLINK-31528
+1 59010U 24036N   24240.95821792  .00003198  00000+0  12008-3 0  9999
+2 59010  53.1595 153.7539 0001745  80.6477 279.4721 15.30196856 29778

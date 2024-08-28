@@ -1,0 +1,38 @@
+date:2024-08-28T03:26:55+00:00
+validtle:1
+satid:58835
+launchyear:2024
+epoch:24240.85603872
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31246
+meananomly:266.5270
+meanmotion:15.3421
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.4003346172
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1584
+eccentricity:0.0001113
+argumentofperigree:93.586
+nickname:STARLINK-31246
+idesg:24017K  
+cosparid:2024-017K
+altkm:464.21060060503
+velkms:7.6355594500864
+velkmh:27488
+onumepoch:3437
+onumnow:52735.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:32:42+00:00
+nowjuliandate:2460550.6437013
+nowepochdate:24241.1436921296
+TLE:
+STARLINK-31246
+1 58835U 24017K   24240.85603872  .00001032  00000+0  41906-4 0  9993
+2 58835  53.1584 289.4526 0001113  93.5860 266.5270 15.34212262 34373

@@ -1,0 +1,38 @@
+date:2024-08-27T17:17:38+00:00
+validtle:1
+satid:60065
+launchyear:2024
+epoch:24239.26968161
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11102
+meananomly:295.6333
+meanmotion:15.6971
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8625665845
+altitudeatperigee:359
+altitudeatapogee:361
+inclination:53.1541
+eccentricity:0.0001563
+argumentofperigree:64.4846
+nickname:STARLINK-11102
+idesg:24113G  
+cosparid:2024-113G
+altkm:360.18452021794
+velkms:7.6946550900521
+velkmh:27701
+onumepoch:1154
+onumnow:18137.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T06:28:20+00:00
+nowjuliandate:2460550.220586
+nowepochdate:24240.7205787037
+TLE:
+STARLINK-11102 [DTC]
+1 60065U 24113G   24239.26968161  .00029923  00000+0  25094-3 0  9994
+2 60065  53.1541  73.6876 0001563  64.4846 295.6333 15.69711116 11542

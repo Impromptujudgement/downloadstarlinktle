@@ -1,0 +1,38 @@
+date:2024-08-27T23:53:09+00:00
+validtle:1
+satid:59495
+launchyear:2024
+epoch:24239.87629575
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31719
+meananomly:106.2145
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1753345543
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0012
+eccentricity:0.0001696
+argumentofperigree:253.8525
+nickname:STARLINK-31719
+idesg:24071M  
+cosparid:2024-071M
+altkm:444.13576646553
+velkms:7.6472778434976
+velkmh:27530
+onumepoch:2223
+onumnow:34282.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T21:01:52+00:00
+nowjuliandate:2460550.4952515
+nowepochdate:24241.9952430556
+TLE:
+STARLINK-31719
+1 59495U 24071M   24239.87629575  .00002010  00000+0  55369-4 0  9999
+2 59495  43.0012 293.7939 0001696 253.8525 106.2145 15.40701981 22232

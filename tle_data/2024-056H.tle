@@ -1,0 +1,38 @@
+date:2024-08-28T05:24:08+00:00
+validtle:1
+satid:59303
+launchyear:2024
+epoch:24240.53458349
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31504
+meananomly:279.0380
+meanmotion:15.4063
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.3732865549
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0047
+eccentricity:0.0001597
+argumentofperigree:81.0657
+nickname:STARLINK-31504
+idesg:24056H  
+cosparid:2024-056H
+altkm:443.83993856393
+velkms:7.6477199087124
+velkmh:27532
+onumepoch:2533
+onumnow:39034.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:49:48+00:00
+nowjuliandate:2460550.7250945
+nowepochdate:24241.2250925926
+TLE:
+STARLINK-31504
+1 59303U 24056H   24240.53458349  .00014530  00000+0  35520-3 0  9990
+2 59303  43.0047 175.7919 0001597  81.0657 279.0380 15.40634926 25330

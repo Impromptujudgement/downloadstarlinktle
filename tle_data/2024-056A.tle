@@ -1,0 +1,38 @@
+date:2024-08-28T05:28:56+00:00
+validtle:1
+satid:59296
+launchyear:2024
+epoch:24240.12107449
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31463
+meananomly:90.6655
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1541187777
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0022
+eccentricity:0.0001457
+argumentofperigree:269.4034
+nickname:STARLINK-31463
+idesg:24056A  
+cosparid:2024-056A
+altkm:443.80313609882
+velkms:7.6476386681607
+velkmh:27531
+onumepoch:2525
+onumnow:38919.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:54:21+00:00
+nowjuliandate:2460550.7284285
+nowepochdate:24241.2284259259
+TLE:
+STARLINK-31463
+1 59296U 24056A   24240.12107449  .00003564  00000+0  92524-4 0  9991
+2 59296  43.0022 178.7231 0001457 269.4034  90.6655 15.40709168 25254

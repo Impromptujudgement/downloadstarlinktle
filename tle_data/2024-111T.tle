@@ -1,0 +1,38 @@
+date:2024-08-27T17:39:47+00:00
+validtle:1
+satid:60033
+launchyear:2024
+epoch:24239.48662632
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31998
+meananomly:286.8234
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3584707794
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1607
+eccentricity:0.000131
+argumentofperigree:73.2915
+nickname:STARLINK-31998
+idesg:24111T  
+cosparid:2024-111T
+altkm:447.86621766678
+velkms:7.6448803936181
+velkmh:27522
+onumepoch:1311
+onumnow:20203.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:40:45+00:00
+nowjuliandate:2460550.2359684
+nowepochdate:24240.7359606481
+TLE:
+STARLINK-31998
+1 60033U 24111T   24239.48662632 -.00000160  00000+0  59806-5 0  9998
+2 60033  53.1607 160.5670 0001310  73.2915 286.8234 15.39624303 13118

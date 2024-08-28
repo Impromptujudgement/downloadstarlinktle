@@ -1,0 +1,38 @@
+date:2024-08-28T07:06:41+00:00
+validtle:1
+satid:59043
+launchyear:2024
+epoch:24240.44123663
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31234
+meananomly:119.1925
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1803347083
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:42.999
+eccentricity:0.0001417
+argumentofperigree:240.8785
+nickname:STARLINK-31234
+idesg:24038W  
+cosparid:2024-038W
+altkm:488.29332660147
+velkms:7.6225183470149
+velkmh:27441
+onumepoch:2918
+onumnow:44539.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:35:23+00:00
+nowjuliandate:2460550.7963092
+nowepochdate:24241.2963078704
+TLE:
+STARLINK-31234
+1 59043U 24038W   24240.44123663  .00001350  00000+0  61440-4 0  9996
+2 59043  42.9990 299.7475 0001417 240.8785 119.1925 15.25914317 29182

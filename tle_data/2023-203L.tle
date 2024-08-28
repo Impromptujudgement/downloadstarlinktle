@@ -1,0 +1,38 @@
+date:2024-08-28T07:39:10+00:00
+validtle:1
+satid:58628
+launchyear:2023
+epoch:24240.59543424
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31092
+meananomly:43.6771
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1512187034
+altitudeatperigee:488
+altitudeatapogee:488
+inclination:43.0014
+eccentricity:5.52E-5
+argumentofperigree:316.4036
+nickname:STARLINK-31092
+idesg:23203L  
+cosparid:2023-203L
+altkm:487.51583313685
+velkms:7.6233649881199
+velkmh:27444
+onumepoch:3925
+onumnow:59903.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:17:26+00:00
+nowjuliandate:2460550.818867
+nowepochdate:24241.3188657407
+TLE:
+STARLINK-31092
+1 58628U 23203L   24240.59543424  .00008733  00000+0  34315-3 0  9996
+2 58628  43.0014 342.0952 0000552 316.4036  43.6771 15.25924023 39253

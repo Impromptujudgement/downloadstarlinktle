@@ -1,0 +1,38 @@
+date:2024-08-28T00:17:09+00:00
+validtle:1
+satid:59470
+launchyear:2024
+epoch:24240.53361922
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31546
+meananomly:193.6999
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1538767175
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0033
+eccentricity:4.99E-5
+argumentofperigree:166.3871
+nickname:STARLINK-31546
+idesg:24068R  
+cosparid:2024-068R
+altkm:444.12201787073
+velkms:7.6472812551899
+velkmh:27530
+onumepoch:2278
+onumnow:35104.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:48:25+00:00
+nowjuliandate:2460550.5119178
+nowepochdate:24241.0119097222
+TLE:
+STARLINK-31546
+1 59470U 24068R   24240.53361922  .00002670  00000+0  71138-4 0  9996
+2 59470  43.0033 331.6765 0000499 166.3871 193.6999 15.40709250 22783

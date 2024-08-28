@@ -1,0 +1,38 @@
+date:2024-08-28T01:06:37+00:00
+validtle:1
+satid:59415
+launchyear:2024
+epoch:24240.58976002
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31398
+meananomly:221.7955
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1731117165
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001157
+argumentofperigree:138.299
+nickname:STARLINK-31398
+idesg:24064T  
+cosparid:2024-064T
+altkm:444.39876543681
+velkms:7.6469819482417
+velkmh:27529
+onumepoch:2350
+onumnow:36213.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:09:15+00:00
+nowjuliandate:2460550.5462669
+nowepochdate:24241.0462615741
+TLE:
+STARLINK-31398
+1 59415U 24064T   24240.58976002  .00003642  00000+0  94394-4 0  9996
+2 59415  43.0014 352.2830 0001157 138.2990 221.7955 15.40702734 23501

@@ -1,0 +1,38 @@
+date:2024-08-28T00:59:14+00:00
+validtle:1
+satid:59423
+launchyear:2024
+epoch:24240.01398972
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11093
+meananomly:274.5122
+meanmotion:15.7148
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.7984387702
+altitudeatperigee:354
+altitudeatapogee:355
+inclination:53.1568
+eccentricity:3.13E-5
+argumentofperigree:85.5932
+nickname:STARLINK-11093
+idesg:24065C  
+cosparid:2024-065C
+altkm:355.56025373507
+velkms:7.697050869447
+velkmh:27709
+onumepoch:2351
+onumnow:36961.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:20:09+00:00
+nowjuliandate:2460550.5411439
+nowepochdate:24241.0411342593
+TLE:
+STARLINK-11093 [DTC]
+1 59423U 24065C   24240.01398972  .00013143  00000+0  10519-3 0  9991
+2 59423  53.1568 340.6678 0000313  85.5932 274.5122 15.71482455 23512

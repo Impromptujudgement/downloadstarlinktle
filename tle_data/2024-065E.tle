@@ -1,0 +1,38 @@
+date:2024-08-28T00:57:52+00:00
+validtle:1
+satid:59425
+launchyear:2024
+epoch:24240.00885381
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11085
+meananomly:268.2862
+meanmotion:15.7147
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.8344219321
+altitudeatperigee:353
+altitudeatapogee:357
+inclination:53.1587
+eccentricity:0.0002859
+argumentofperigree:91.8484
+nickname:STARLINK-11085
+idesg:24065E  
+cosparid:2024-065E
+altkm:355.67112673836
+velkms:7.6969446839004
+velkmh:27709
+onumepoch:2346
+onumnow:36882.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:12:45+00:00
+nowjuliandate:2460550.5401928
+nowepochdate:24241.0401851852
+TLE:
+STARLINK-11085 [DTC]
+1 59425U 24065E   24240.00885381 -.00000097  00000+0  39099-5 0  9998
+2 59425  53.1587 340.6319 0002859  91.8484 268.2862 15.71469857 23462

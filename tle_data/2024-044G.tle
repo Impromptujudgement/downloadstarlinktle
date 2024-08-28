@@ -1,0 +1,38 @@
+date:2024-08-28T06:43:16+00:00
+validtle:1
+satid:59158
+launchyear:2024
+epoch:24240.70157876
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31297
+meananomly:49.4513
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1671535732
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0062
+eccentricity:9.31E-5
+argumentofperigree:310.6257
+nickname:STARLINK-31297
+idesg:24044G  
+cosparid:2024-044G
+altkm:487.39089587363
+velkms:7.6235124562594
+velkmh:27445
+onumepoch:2814
+onumnow:42948.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:50:16+00:00
+nowjuliandate:2460550.7800578
+nowepochdate:24241.2800462963
+TLE:
+STARLINK-31297
+1 59158U 24044G   24240.70157876 -.00001605  00000+0 -51504-4 0  9997
+2 59158  43.0062  20.6067 0000931 310.6257  49.4513 15.25918711 28144

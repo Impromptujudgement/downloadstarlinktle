@@ -1,0 +1,38 @@
+date:2024-08-28T02:14:40+00:00
+validtle:1
+satid:59320
+launchyear:2024
+epoch:24240.02087706
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31402
+meananomly:102.0836
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1765448651
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9996
+eccentricity:8.16E-5
+argumentofperigree:257.9929
+nickname:STARLINK-31402
+idesg:24057A  
+cosparid:2024-057A
+altkm:443.93014180068
+velkms:7.6475089000065
+velkmh:27531
+onumepoch:2386
+onumnow:36777.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:30:04+00:00
+nowjuliandate:2460550.5935203
+nowepochdate:24241.0935185185
+TLE:
+STARLINK-31402
+1 59320U 24057A   24240.02087706  .00005012  00000+0  12715-3 0  9995
+2 59320  42.9996 140.8005 0000816 257.9929 102.0836 15.40701571 23866

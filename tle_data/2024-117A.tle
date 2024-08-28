@@ -1,0 +1,38 @@
+date:2024-08-27T17:07:36+00:00
+validtle:1
+satid:60091
+launchyear:2024
+epoch:24239.39359766
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31441
+meananomly:278.5598
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3629785109
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1628
+eccentricity:0.0001295
+argumentofperigree:81.5549
+nickname:STARLINK-31441
+idesg:24117A  
+cosparid:2024-117A
+altkm:475.99396174693
+velkms:7.629081382489
+velkmh:27465
+onumepoch:1110
+onumnow:17005.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T09:26:47+00:00
+nowjuliandate:2460550.2136195
+nowepochdate:24240.7136111111
+TLE:
+STARLINK-31441
+1 60091U 24117A   24239.39359766  .00003812  00000+0  14078-3 0  9995
+2 60091  53.1628 119.5677 0001295  81.5549 278.5598 15.30197031 11105

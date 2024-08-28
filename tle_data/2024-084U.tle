@@ -1,0 +1,38 @@
+date:2024-08-27T22:11:19+00:00
+validtle:1
+satid:59672
+launchyear:2024
+epoch:24240.00119775
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31842
+meananomly:250.8592
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.178121222
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0018
+eccentricity:0.0001169
+argumentofperigree:109.2391
+nickname:STARLINK-31842
+idesg:24084U  
+cosparid:2024-084U
+altkm:444.0769432531
+velkms:7.6473453048117
+velkmh:27530
+onumepoch:1855
+onumnow:28579.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:01:43+00:00
+nowjuliandate:2460550.4245345
+nowepochdate:24240..924525463
+TLE:
+STARLINK-31842
+1 59672U 24084U   24240.00119775  .00003999  00000+0  10294-3 0  9997
+2 59672  43.0018 341.8684 0001169 109.2391 250.8592 15.40701037 18551

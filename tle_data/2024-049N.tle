@@ -1,0 +1,38 @@
+date:2024-08-28T05:50:43+00:00
+validtle:1
+satid:59243
+launchyear:2024
+epoch:24239.84535797
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31433
+meananomly:79.3238
+meanmotion:15.4076
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.0150646188
+altitudeatperigee:442
+altitudeatapogee:445
+inclination:43.0022
+eccentricity:0.0002223
+argumentofperigree:280.7368
+nickname:STARLINK-31433
+idesg:24049N  
+cosparid:2024-049N
+altkm:443.37180112433
+velkms:7.6480442599448
+velkmh:27533
+onumepoch:2654
+onumnow:40913.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:17:19+00:00
+nowjuliandate:2460550.7435574
+nowepochdate:24241.2435532407
+TLE:
+STARLINK-31433
+1 59243U 24049N   24239.84535797 -.00011250  00000+0 -26191-3 0  9992
+2 59243  43.0022  86.1404 0002223 280.7368  79.3238 15.40756275 26543

@@ -1,0 +1,38 @@
+date:2024-08-27T22:14:39+00:00
+validtle:1
+satid:59667
+launchyear:2024
+epoch:24239.56530064
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31913
+meananomly:95.9181
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1652210996
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.006
+eccentricity:0.0001868
+argumentofperigree:264.1462
+nickname:STARLINK-31913
+idesg:24084P  
+cosparid:2024-084P
+altkm:443.93459140752
+velkms:7.6474975880975
+velkmh:27531
+onumepoch:1845
+onumnow:28446.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T13:34:02+00:00
+nowjuliandate:2460550.426841
+nowepochdate:24240.9268402778
+TLE:
+STARLINK-31913
+1 59667U 24084P   24239.56530064  .00000910  00000+0  29044-4 0  9992
+2 59667  43.0060 344.6232 0001868 264.1462  95.9181 15.40705407 18454

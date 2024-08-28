@@ -1,0 +1,38 @@
+date:2024-08-28T07:23:41+00:00
+validtle:1
+satid:59017
+launchyear:2024
+epoch:24240.94766604
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31406
+meananomly:283.7312
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3690487106
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1587
+eccentricity:8.33E-5
+argumentofperigree:76.3781
+nickname:STARLINK-31406
+idesg:24036V  
+cosparid:2024-036V
+altkm:475.99611111968
+velkms:7.6290823605161
+velkmh:27465
+onumepoch:2977
+onumnow:45559.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:44:38+00:00
+nowjuliandate:2460550.8081165
+nowepochdate:24241.3081134259
+TLE:
+STARLINK-31406
+1 59017U 24036V   24240.94766604  .00000640  00000+0  33718-4 0  9996
+2 59017  53.1587 153.6901 0000833  76.3781 283.7312 15.30194998 29774

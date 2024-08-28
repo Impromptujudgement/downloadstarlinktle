@@ -1,0 +1,38 @@
+date:2024-08-28T05:19:49+00:00
+validtle:1
+satid:59309
+launchyear:2024
+epoch:24240.1098782
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31455
+meananomly:96.4851
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1834347913
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0036
+eccentricity:0.0002034
+argumentofperigree:263.5773
+nickname:STARLINK-31455
+idesg:24056P  
+cosparid:2024-056P
+altkm:443.97790755193
+velkms:7.64745923455
+velkmh:27531
+onumepoch:2525
+onumnow:38919.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:38:13+00:00
+nowjuliandate:2460550.7220996
+nowepochdate:24241.2220949074
+TLE:
+STARLINK-31455
+1 59309U 24056P   24240.10987820  .00006418  00000+0  16078-3 0  9993
+2 59309  43.0036 178.6324 0002034 263.5773  96.4851 15.40699237 25250

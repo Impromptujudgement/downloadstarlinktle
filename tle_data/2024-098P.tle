@@ -1,0 +1,38 @@
+date:2024-08-27T18:41:56+00:00
+validtle:1
+satid:59871
+launchyear:2024
+epoch:24238.49088255
+epochday:238
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31937
+meananomly:122.5038
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1747707267
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0013
+eccentricity:0.0001123
+argumentofperigree:237.571
+nickname:STARLINK-31937
+idesg:24098P  
+cosparid:2024-098P
+altkm:444.22368092184
+velkms:7.6471790315161
+velkmh:27530
+onumepoch:1569
+onumnow:24208.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-25T11:46:52+00:00
+nowjuliandate:2460550.2791237
+nowepochdate:24240.7791203704
+TLE:
+STARLINK-31937
+1 59871U 24098P   24238.49088255  .00000742  00000+0  25024-4 0  9992
+2 59871  43.0013 235.4226 0001123 237.5710 122.5038 15.40702172 15690

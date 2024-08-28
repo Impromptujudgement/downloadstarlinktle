@@ -1,0 +1,38 @@
+date:2024-08-27T22:12:38+00:00
+validtle:1
+satid:59670
+launchyear:2024
+epoch:24240.00565385
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31860
+meananomly:111.2105
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1394918843
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0032
+eccentricity:0.0003237
+argumentofperigree:248.8405
+nickname:STARLINK-31860
+idesg:24084S  
+cosparid:2024-084S
+altkm:444.57640456686
+velkms:7.646764146713
+velkmh:27528
+onumepoch:1853
+onumnow:28563.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:08:08+00:00
+nowjuliandate:2460550.4254449
+nowepochdate:24240.9254398148
+TLE:
+STARLINK-31860
+1 59670U 24084S   24240.00565385  .00003607  00000+0  93534-4 0  9992
+2 59670  43.0032 341.8993 0003237 248.8405 111.2105 15.40714123 18530

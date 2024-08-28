@@ -1,0 +1,38 @@
+date:2024-08-28T03:47:27+00:00
+validtle:1
+satid:58789
+launchyear:2024
+epoch:24240.27620093
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31166
+meananomly:96.1986
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.193080932
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0026
+eccentricity:0.0001642
+argumentofperigree:263.8678
+nickname:STARLINK-31166
+idesg:24012C  
+cosparid:2024-012C
+altkm:487.9537967588
+velkms:7.6229021545209
+velkmh:27442
+onumepoch:3574
+onumnow:54549.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:37:44+00:00
+nowjuliandate:2460550.657961
+nowepochdate:24241.1579513889
+TLE:
+STARLINK-31166
+1 58789U 24012C   24240.27620093  .00000660  00000+0  35086-4 0  9994
+2 58789  43.0026  79.1192 0001642 263.8678  96.1986 15.25910068 35741

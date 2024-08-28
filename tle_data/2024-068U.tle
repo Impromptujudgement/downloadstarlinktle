@@ -1,0 +1,38 @@
+date:2024-08-28T00:14:46+00:00
+validtle:1
+satid:59473
+launchyear:2024
+epoch:24240.55588186
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31610
+meananomly:138.9430
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1086000251
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0023
+eccentricity:6.06E-5
+argumentofperigree:221.1381
+nickname:STARLINK-31610
+idesg:24068U  
+cosparid:2024-068U
+altkm:444.05764069866
+velkms:7.6473280788681
+velkmh:27530
+onumepoch:2279
+onumnow:35120.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:20:28+00:00
+nowjuliandate:2460550.5102582
+nowepochdate:24241.0102546296
+TLE:
+STARLINK-31610
+1 59473U 24068U   24240.55588186  .00007089  00000+0  17667-3 0  9999
+2 59473  43.0023 330.9724 0000606 221.1381 138.9430 15.40724588 22792

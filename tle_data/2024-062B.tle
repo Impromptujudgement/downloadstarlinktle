@@ -1,0 +1,38 @@
+date:2024-08-28T01:33:52+00:00
+validtle:1
+satid:59375
+launchyear:2024
+epoch:24240.54721322
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31430
+meananomly:269.6701
+meanmotion:15.3958
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4810585102
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1604
+eccentricity:9.15E-5
+argumentofperigree:90.4408
+nickname:STARLINK-31430
+idesg:24062B  
+cosparid:2024-062B
+altkm:448.25108883698
+velkms:7.6445179616011
+velkmh:27520
+onumepoch:2398
+onumnow:36927.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:07:59+00:00
+nowjuliandate:2460550.5651926
+nowepochdate:24241.0651851852
+TLE:
+STARLINK-31430
+1 59375U 24062B   24240.54721322  .00000930  00000+0  33248-4 0  9996
+2 59375  53.1604 338.5526 0000915  90.4408 269.6701 15.39582825 23983

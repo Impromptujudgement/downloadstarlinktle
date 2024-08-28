@@ -1,0 +1,38 @@
+date:2024-08-27T16:04:33+00:00
+validtle:1
+satid:60196
+launchyear:2024
+epoch:24239.76647792
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31869
+meananomly:293.1406
+meanmotion:15.3964
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3240994421
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1628
+eccentricity:0.0001103
+argumentofperigree:66.9715
+nickname:STARLINK-31869
+idesg:24124P  
+cosparid:2024-124P
+altkm:447.79497120251
+velkms:7.644940965014
+velkmh:27522
+onumepoch:846
+onumnow:13039.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T18:23:44+00:00
+nowjuliandate:2460550.1698334
+nowepochdate:24240.6698263889
+TLE:
+STARLINK-31869
+1 60196U 24124P   24239.76647792  .00001574  00000+0  49285-4 0  9991
+2 60196  53.1628  50.7678 0001103  66.9715 293.1406 15.39635933  8461

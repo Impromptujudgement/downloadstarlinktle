@@ -1,0 +1,38 @@
+date:2024-08-27T15:57:46+00:00
+validtle:1
+satid:60244
+launchyear:2024
+epoch:24198.53421304
+epochday:198
+tleage:42
+tleclassification:U
+active:0
+name:STARLINK-11214
+meananomly:302.4407
+meanmotion:16.5089
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6515.1380736009
+altitudeatperigee:134
+altitudeatapogee:140
+inclination:53.2936
+eccentricity:0.0005292
+argumentofperigree:150.3844
+nickname:STARLINK-11214
+idesg:24129A  
+cosparid:2024-129A
+altkm:141.69301170764
+velkms:7.8289194857347
+velkmh:28184
+onumepoch:150
+onumnow:3171.87
+otype:99
+otypedesc:Reentry
+status:99
+timestamp:2024-07-16T12:49:16+00:00
+nowjuliandate:2460550.1651217
+nowepochdate:24240.6651157407
+TLE:
+STARLINK-11214 [DTC]
+1 60244U 24129A   24198.53421304  .22208332  12564-4  21394-3 0  9996
+2 60244  53.2936  35.7088 0005292 150.3844 302.4407 16.50887656  1508

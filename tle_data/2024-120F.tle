@@ -1,0 +1,38 @@
+date:2024-08-27T16:31:45+00:00
+validtle:1
+satid:60140
+launchyear:2024
+epoch:24239.7423568
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31694
+meananomly:285.5254
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3662937917
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1645
+eccentricity:0.0001031
+argumentofperigree:74.5864
+nickname:STARLINK-31694
+idesg:24120F  
+cosparid:2024-120F
+altkm:447.94484521734
+velkms:7.644796727024
+velkmh:27521
+onumepoch:1061
+onumnow:16349.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T17:49:00+00:00
+nowjuliandate:2460550.1887178
+nowepochdate:24240.6887152778
+TLE:
+STARLINK-31694
+1 60140U 24120F   24239.74235680  .00001077  00000+0  36899-4 0  9998
+2 60140  53.1645  48.7847 0001031  74.5864 285.5254 15.39621656 10617

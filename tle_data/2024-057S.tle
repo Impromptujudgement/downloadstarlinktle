@@ -1,0 +1,38 @@
+date:2024-08-28T02:00:33+00:00
+validtle:1
+satid:59336
+launchyear:2024
+epoch:24240.45016488
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31596
+meananomly:82.1518
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1299807558
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0048
+eccentricity:0.000281
+argumentofperigree:277.902
+nickname:STARLINK-31596
+idesg:24057S  
+cosparid:2024-057S
+altkm:443.50639114825
+velkms:7.6479576706705
+velkmh:27533
+onumepoch:2392
+onumnow:36863.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:48:14+00:00
+nowjuliandate:2460550.5837264
+nowepochdate:24241.0837152778
+TLE:
+STARLINK-31596
+1 59336U 24057S   24240.45016488  .00006255  00000+0  15680-3 0  9992
+2 59336  43.0048 138.8551 0002810 277.9020  82.1518 15.40717345 23924

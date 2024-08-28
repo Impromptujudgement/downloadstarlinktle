@@ -1,0 +1,38 @@
+date:2024-08-27T17:52:06+00:00
+validtle:1
+satid:59964
+launchyear:2024
+epoch:24239.48875531
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31979
+meananomly:286.5340
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3436523355
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1592
+eccentricity:0.0001191
+argumentofperigree:73.5795
+nickname:STARLINK-31979
+idesg:24107V  
+cosparid:2024-107V
+altkm:447.87867331517
+velkms:7.6448581677154
+velkmh:27521
+onumepoch:1395
+onumnow:21497.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:43:48+00:00
+nowjuliandate:2460550.2445217
+nowepochdate:24240.7445138889
+TLE:
+STARLINK-31979
+1 59964U 24107V   24239.48875531  .00004951  00000+0  13363-3 0  9995
+2 59964  53.1592 149.2793 0001191  73.5795 286.5340 15.39629317 13955

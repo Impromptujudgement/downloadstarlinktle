@@ -1,0 +1,38 @@
+date:2024-08-27T21:21:47+00:00
+validtle:1
+satid:59756
+launchyear:2024
+epoch:24239.86112062
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11131
+meananomly:350.6537
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8330148517
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.155
+eccentricity:5.24E-5
+argumentofperigree:9.449
+nickname:STARLINK-11131
+idesg:24091D  
+cosparid:2024-091D
+altkm:360.26215637645
+velkms:7.6945496283029
+velkmh:27700
+onumepoch:1758
+onumnow:27611.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:40:01+00:00
+nowjuliandate:2460550.3901381
+nowepochdate:24240.8901273148
+TLE:
+STARLINK-11131 [DTC]
+1 59756U 24091D   24239.86112062  .00006817  00000+0  61043-4 0  9993
+2 59756  53.1550  86.1816 0000524   9.4490 350.6537 15.69721443 17582

@@ -1,0 +1,38 @@
+date:2024-08-28T02:58:00+00:00
+validtle:1
+satid:58882
+launchyear:2024
+epoch:24239.9343254
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31323
+meananomly:269.6886
+meanmotion:15.3424
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3286698364
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1624
+eccentricity:0.0001286
+argumentofperigree:90.4264
+nickname:STARLINK-31323
+idesg:24020G  
+cosparid:2024-020G
+altkm:464.09806122169
+velkms:7.635645112024
+velkmh:27488
+onumepoch:3234
+onumnow:49635.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:25:26+00:00
+nowjuliandate:2460550.6236123
+nowepochdate:24241.1236111111
+TLE:
+STARLINK-31323
+1 58882U 24020G   24239.93432540  .00005830  00000+0  18447-3 0  9991
+2 58882  53.1624  44.2986 0001286  90.4264 269.6886 15.34236369 32348

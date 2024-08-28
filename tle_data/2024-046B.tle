@@ -1,0 +1,38 @@
+date:2024-08-28T06:14:37+00:00
+validtle:1
+satid:59202
+launchyear:2024
+epoch:24240.68876122
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31602
+meananomly:281.2769
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3970156605
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.159
+eccentricity:0.0001052
+argumentofperigree:78.8354
+nickname:STARLINK-31602
+idesg:24046B  
+cosparid:2024-046B
+altkm:448.02290992517
+velkms:7.6447264839608
+velkmh:27521
+onumepoch:2741
+onumnow:42205.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:31:49+00:00
+nowjuliandate:2460550.7601517
+nowepochdate:24241..260150463
+TLE:
+STARLINK-31602
+1 59202U 24046B   24240.68876122  .00002612  00000+0  75265-4 0  9995
+2 59202  53.1590 235.4161 0001052  78.8354 281.2769 15.39611261 27412

@@ -1,0 +1,38 @@
+date:2024-08-28T06:10:29+00:00
+validtle:1
+satid:59208
+launchyear:2024
+epoch:24240.69340446
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31576
+meananomly:255.0819
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4098483126
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1572
+eccentricity:0.0001168
+argumentofperigree:105.0315
+nickname:STARLINK-31576
+idesg:24046H  
+cosparid:2024-046H
+altkm:448.381198714
+velkms:7.6443325023543
+velkmh:27520
+onumepoch:2741
+onumnow:42209.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:38:30+00:00
+nowjuliandate:2460550.7572839
+nowepochdate:24241.2572800926
+TLE:
+STARLINK-31576
+1 59208U 24046H   24240.69340446  .00001383  00000+0  44562-4 0  9997
+2 59208  53.1572 235.4462 0001168 105.0315 255.0819 15.39606919 27419

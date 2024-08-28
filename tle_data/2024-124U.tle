@@ -1,0 +1,38 @@
+date:2024-08-27T16:00:07+00:00
+validtle:1
+satid:60201
+launchyear:2024
+epoch:24240.16517261
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32020
+meananomly:268.0933
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3774860284
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1611
+eccentricity:9.31E-5
+argumentofperigree:92.0179
+nickname:STARLINK-32020
+idesg:24124U  
+cosparid:2024-124U
+altkm:448.1651412388
+velkms:7.6445563235341
+velkmh:27520
+onumepoch:973
+onumnow:14988.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:57:51+00:00
+nowjuliandate:2460550.1667533
+nowepochdate:24240.6667476852
+TLE:
+STARLINK-32020
+1 60201U 24124U   24240.16517261 -.00000716  00000+0 -79371-5 0  9990
+2 60201  53.1611  48.2751 0000931  92.0179 268.0933 15.39617869  9731

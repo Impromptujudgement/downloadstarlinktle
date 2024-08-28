@@ -1,0 +1,38 @@
+date:2024-08-27T22:28:58+00:00
+validtle:1
+satid:59646
+launchyear:2024
+epoch:24240.27799946
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31796
+meananomly:90.5406
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1401117914
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0022
+eccentricity:0.0003547
+argumentofperigree:269.5044
+nickname:STARLINK-31796
+idesg:24082R  
+cosparid:2024-082R
+altkm:443.80112321366
+velkms:7.6476330962994
+velkmh:27531
+onumepoch:1918
+onumnow:29561.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:40:19+00:00
+nowjuliandate:2460550.4367861
+nowepochdate:24240.9367824074
+TLE:
+STARLINK-31796
+1 59646U 24082R   24240.27799946  .00004685  00000+0  11930-3 0  9990
+2 59646  43.0022  79.2766 0003547 269.5044  90.5406 15.40713913 19186

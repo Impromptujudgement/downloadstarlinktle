@@ -1,0 +1,38 @@
+date:2024-08-27T14:48:17+00:00
+validtle:1
+satid:60346
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32082
+meananomly:19.2685
+meanmotion:15.6638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6747.4190975842
+altitudeatperigee:369
+altitudeatapogee:370
+inclination:53.1559
+eccentricity:8.7E-5
+argumentofperigree:94.7392
+nickname:STARLINK-32082
+idesg:24136T  
+cosparid:2024-136T
+altkm:373.87770309468
+velkms:7.6915616270987
+velkmh:27690
+onumepoch:507
+onumnow:7948.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.1168643
+nowepochdate:24240.6168634259
+TLE:
+STARLINK-32082
+1 60346U 24136T   24240.16667824 -.01681619  00000+0 -18040-1 0  9994
+2 60346  53.1559 157.5973 0000870  94.7392  19.2685 15.66377468  5071

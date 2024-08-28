@@ -1,0 +1,38 @@
+date:2024-08-27T23:10:40+00:00
+validtle:1
+satid:59556
+launchyear:2024
+epoch:24240.41108147
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31718
+meananomly:113.0050
+meanmotion:15.4068
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2521106534
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0015
+eccentricity:0.0001725
+argumentofperigree:247.0625
+nickname:STARLINK-31718
+idesg:24074Y  
+cosparid:2024-074Y
+altkm:444.34938391283
+velkms:7.6470814231431
+velkmh:27529
+onumepoch:2022
+onumnow:31176.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:51:57+00:00
+nowjuliandate:2460550.4657426
+nowepochdate:24241.9657407407
+TLE:
+STARLINK-31718
+1 59556U 24074Y   24240.41108147  .00005337  00000+0  13504-3 0  9998
+2 59556  43.0015 284.2098 0001725 247.0625 113.0050 15.40675973 20222

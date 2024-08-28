@@ -1,0 +1,38 @@
+date:2024-08-27T14:14:40+00:00
+validtle:1
+satid:60412
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32186
+meananomly:141.8331
+meanmotion:15.7880
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6711.9915853285
+altitudeatperigee:333
+altitudeatapogee:334
+inclination:53.1525
+eccentricity:8.8E-5
+argumentofperigree:70.8335
+nickname:STARLINK-32186
+idesg:24141Q  
+cosparid:2024-141Q
+altkm:341.88489530751
+velkms:7.7033047770222
+velkmh:27732
+onumepoch:380
+onumnow:6006.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.0935291
+nowepochdate:24240.5935185185
+TLE:
+STARLINK-32186
+1 60412U 24141Q   24240.16667824 -.00618795  00000+0 -36987-2 0  9999
+2 60412  53.1525 324.7855 0000880  70.8335 141.8331 15.78795396  3804

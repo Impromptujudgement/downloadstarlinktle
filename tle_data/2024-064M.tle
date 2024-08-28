@@ -1,0 +1,38 @@
+date:2024-08-28T01:10:58+00:00
+validtle:1
+satid:59409
+launchyear:2024
+epoch:24239.60389317
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31396
+meananomly:123.1160
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1863926827
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0053
+eccentricity:0.0001073
+argumentofperigree:236.9594
+nickname:STARLINK-31396
+idesg:24064M  
+cosparid:2024-064M
+altkm:444.22398832668
+velkms:7.6471851831446
+velkmh:27530
+onumepoch:2329
+onumnow:35905.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T14:29:36+00:00
+nowjuliandate:2460550.5492935
+nowepochdate:24241.0492824074
+TLE:
+STARLINK-31396
+1 59409U 24064M   24239.60389317  .00003028  00000+0  79734-4 0  9996
+2 59409  43.0053 357.7788 0001073 236.9594 123.1160 15.40698235 23291

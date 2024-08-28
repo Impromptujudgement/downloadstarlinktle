@@ -1,0 +1,38 @@
+date:2024-08-27T21:14:21+00:00
+validtle:1
+satid:59760
+launchyear:2024
+epoch:24240.28718639
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-11098
+meananomly:74.7467
+meanmotion:15.6971
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8558417984
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1558
+eccentricity:6.6E-5
+argumentofperigree:285.3478
+nickname:STARLINK-11098
+idesg:24091H  
+cosparid:2024-091H
+altkm:360.51646388172
+velkms:7.6942723202247
+velkmh:27699
+onumepoch:1765
+onumnow:27714.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:53:33+00:00
+nowjuliandate:2460550.3849764
+nowepochdate:24240.8849652778
+TLE:
+STARLINK-11098 [DTC]
+1 59760U 24091H   24240.28718639  .00003772  00000+0  35970-4 0  9995
+2 59760  53.1558  83.8596 0000660 285.3478  74.7467 15.69713466 17656

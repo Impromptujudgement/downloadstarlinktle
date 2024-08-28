@@ -1,0 +1,38 @@
+date:2024-08-27T15:09:47+00:00
+validtle:1
+satid:60312
+launchyear:2024
+epoch:24239.70599663
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11206
+meananomly:260.6507
+meanmotion:15.7684
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6717.5300791262
+altitudeatperigee:338
+altitudeatapogee:341
+inclination:53.1567
+eccentricity:0.0001748
+argumentofperigree:99.4711
+nickname:STARLINK-11206
+idesg:24133M  
+cosparid:2024-133M
+altkm:340.50148563497
+velkms:7.7055676242121
+velkmh:27740
+onumepoch:575
+onumnow:9081.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T16:56:38+00:00
+nowjuliandate:2460550.1318001
+nowepochdate:24240.6317939815
+TLE:
+STARLINK-11206 [DTC]
+1 60312U 24133M   24239.70599663  .00184401  00000+0  11008-2 0  9999
+2 60312  53.1567  28.8558 0001748  99.4711 260.6507 15.76843262  5755

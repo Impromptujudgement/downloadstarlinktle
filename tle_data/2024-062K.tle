@@ -1,0 +1,38 @@
+date:2024-08-28T01:27:27+00:00
+validtle:1
+satid:59383
+launchyear:2024
+epoch:24240.56534455
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31709
+meananomly:296.3906
+meanmotion:15.3960
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4303150693
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1588
+eccentricity:7.5E-5
+argumentofperigree:63.7176
+nickname:STARLINK-31709
+idesg:24062K  
+cosparid:2024-062K
+altkm:447.96901543617
+velkms:7.6448054319205
+velkmh:27521
+onumepoch:2395
+onumnow:36881.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:34:06+00:00
+nowjuliandate:2460550.5607331
+nowepochdate:24241.0607291667
+TLE:
+STARLINK-31709
+1 59383U 24062K   24240.56534455 -.00002967  00000+0 -64274-4 0  9993
+2 59383  53.1588 337.9485 0000750  63.7176 296.3906 15.39599994 23958

@@ -1,0 +1,38 @@
+date:2024-08-27T16:41:19+00:00
+validtle:1
+satid:60126
+launchyear:2024
+epoch:24239.93486552
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31846
+meananomly:55.3018
+meanmotion:15.3966
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.2437496326
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1575
+eccentricity:0.0001496
+argumentofperigree:304.7846
+nickname:STARLINK-31846
+idesg:24118P  
+cosparid:2024-118P
+altkm:447.42871043167
+velkms:7.6453061881201
+velkmh:27523
+onumepoch:991
+onumnow:15269.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:26:12+00:00
+nowjuliandate:2460550.1953651
+nowepochdate:24240.6953587963
+TLE:
+STARLINK-31846
+1 60126U 24118P   24239.93486552  .00062081  00000+0  15472-2 0  9990
+2 60126  53.1575 112.5372 0001496 304.7846  55.3018 15.39663121  9914

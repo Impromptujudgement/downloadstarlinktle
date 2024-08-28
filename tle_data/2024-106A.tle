@@ -1,0 +1,38 @@
+date:2024-08-27T18:19:57+00:00
+validtle:1
+satid:59922
+launchyear:2024
+epoch:24239.81184289
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31872
+meananomly:94.3687
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1618676682
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9995
+eccentricity:0.000126
+argumentofperigree:265.7026
+nickname:STARLINK-31872
+idesg:24106A  
+cosparid:2024-106A
+altkm:443.86446216411
+velkms:7.6475742864198
+velkmh:27531
+onumepoch:1467
+onumnow:22616.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:29:03+00:00
+nowjuliandate:2460550.263863
+nowepochdate:24240.7638541667
+TLE:
+STARLINK-31872
+1 59922U 24106A   24239.81184289  .00003377  00000+0  88038-4 0  9991
+2 59922  42.9995 277.1906 0001260 265.7026  94.3687 15.40706543 14676

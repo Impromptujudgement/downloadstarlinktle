@@ -1,0 +1,38 @@
+date:2024-08-27T23:48:26+00:00
+validtle:1
+satid:59497
+launchyear:2024
+epoch:24240.44407401
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31720
+meananomly:96.1563
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1892472576
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0011
+eccentricity:0.0001892
+argumentofperigree:263.9078
+nickname:STARLINK-31720
+idesg:24071P  
+cosparid:2024-071P
+altkm:443.96509282732
+velkms:7.6474768398835
+velkmh:27531
+onumepoch:2230
+onumnow:34381.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:39:28+00:00
+nowjuliandate:2460550.4919749
+nowepochdate:24241.9919675926
+TLE:
+STARLINK-31720
+1 59497U 24071P   24240.44407401  .00001862  00000+0  51847-4 0  9999
+2 59497  43.0011 290.3112 0001892 263.9078  96.1563 15.40697268 22303

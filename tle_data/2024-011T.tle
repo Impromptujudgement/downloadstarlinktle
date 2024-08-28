@@ -1,0 +1,38 @@
+date:2024-08-28T03:52:33+00:00
+validtle:1
+satid:58782
+launchyear:2024
+epoch:24240.63121535
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31060
+meananomly:325.4435
+meanmotion:15.3425
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.2827978703
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1582
+eccentricity:0.0001021
+argumentofperigree:34.6634
+nickname:STARLINK-31060
+idesg:24011T  
+cosparid:2024-011T
+altkm:463.47162362091
+velkms:7.636318538967
+velkmh:27491
+onumepoch:3595
+onumnow:55164.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:08:57+00:00
+nowjuliandate:2460550.6614935
+nowepochdate:24241.1614930556
+TLE:
+STARLINK-31060
+1 58782U 24011T   24240.63121535  .00018006  00000+0  54530-3 0  9990
+2 58782  53.1582   1.0917 0001021  34.6634 325.4435 15.34251800 35951

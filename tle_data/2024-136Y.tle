@@ -1,0 +1,38 @@
+date:2024-08-27T14:44:30+00:00
+validtle:1
+satid:60351
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32097
+meananomly:142.9076
+meanmotion:15.6606
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6748.3244004256
+altitudeatperigee:370
+altitudeatapogee:371
+inclination:53.1554
+eccentricity:5.39E-5
+argumentofperigree:104.2359
+nickname:STARLINK-32097
+idesg:24136Y  
+cosparid:2024-136Y
+altkm:386.79140109617
+velkms:7.6775006687262
+velkmh:27639
+onumepoch:518
+onumnow:8117.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.1142459
+nowepochdate:24240.6142361111
+TLE:
+STARLINK-32097
+1 60351U 24136Y   24240.25001157 -.01670898  00000+0 -18143-1 0  9992
+2 60351  53.1554 157.1400 0000539 104.2359 142.9076 15.66062279  5186

@@ -1,0 +1,38 @@
+date:2024-08-27T21:33:38+00:00
+validtle:1
+satid:59738
+launchyear:2024
+epoch:24240.3949814
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31819
+meananomly:55.5393
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.180500519
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0003
+eccentricity:0.0001416
+argumentofperigree:304.533
+nickname:STARLINK-31819
+idesg:24090J  
+cosparid:2024-090J
+altkm:443.2711666005
+velkms:7.6482494694405
+velkmh:27534
+onumepoch:1767
+onumnow:27231.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:28:46+00:00
+nowjuliandate:2460550.3983574
+nowepochdate:24240.8983564815
+TLE:
+STARLINK-31819
+1 59738U 24090J   24240.39498140  .00001178  00000+0  35459-4 0  9993
+2 59738  43.0003 121.9708 0001416 304.5330  55.5393 15.40700231 17676

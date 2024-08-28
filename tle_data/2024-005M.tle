@@ -1,0 +1,38 @@
+date:2024-08-28T04:12:30+00:00
+validtle:1
+satid:58739
+launchyear:2024
+epoch:24240.105561
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31042
+meananomly:97.2450
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1448453404
+altitudeatperigee:557
+altitudeatapogee:561
+inclination:43.0039
+eccentricity:0.0002377
+argumentofperigree:262.8122
+nickname:STARLINK-31042
+idesg:24005M  
+cosparid:2024-005M
+altkm:558.9944108151
+velkms:7.5836489638601
+velkmh:27301
+onumepoch:3624
+onumnow:54468.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:32:00+00:00
+nowjuliandate:2460550.675353
+nowepochdate:24241.1753472222
+TLE:
+STARLINK-31042
+1 58739U 24005M   24240.10556100 -.00003213  00000+0 -22272-3 0  9991
+2 58739  43.0039  22.4083 0002377 262.8122  97.2450 15.02559963 36241

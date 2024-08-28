@@ -1,0 +1,38 @@
+date:2024-08-27T22:33:36+00:00
+validtle:1
+satid:59639
+launchyear:2024
+epoch:24240.25560314
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31807
+meananomly:81.2112
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1635443834
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0017
+eccentricity:0.0001666
+argumentofperigree:278.8556
+nickname:STARLINK-31807
+idesg:24082J  
+cosparid:2024-082J
+altkm:443.62736112302
+velkms:7.6478408821113
+velkmh:27532
+onumepoch:1902
+onumnow:29314.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:08:04+00:00
+nowjuliandate:2460550.440011
+nowepochdate:24240.9006.94
+TLE:
+STARLINK-31807
+1 59639U 24082J   24240.25560314  .00002686  00000+0  71532-4 0  9999
+2 59639  43.0017  79.1061 0001666 278.8556  81.2112 15.40705975 19023

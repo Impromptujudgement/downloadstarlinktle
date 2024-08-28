@@ -1,0 +1,38 @@
+date:2024-08-27T16:02:49+00:00
+validtle:1
+satid:60198
+launchyear:2024
+epoch:24240.18838277
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32046
+meananomly:259.7159
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3664652066
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1628
+eccentricity:9.12E-5
+argumentofperigree:100.3949
+nickname:STARLINK-32046
+idesg:24124R  
+cosparid:2024-124R
+altkm:448.2442891373
+velkms:7.644461549591
+velkmh:27520
+onumepoch:961
+onumnow:14803.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:31:16+00:00
+nowjuliandate:2460550.1686279
+nowepochdate:24240.6686226852
+TLE:
+STARLINK-32046
+1 60198U 24124R   24240.18838277  .00001137  00000+0  38391-4 0  9992
+2 60198  53.1628  48.4218 0000912 100.3949 259.7159 15.39621598  9619

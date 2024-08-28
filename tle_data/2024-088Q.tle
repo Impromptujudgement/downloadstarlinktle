@@ -1,0 +1,38 @@
+date:2024-08-27T21:42:58+00:00
+validtle:1
+satid:59722
+launchyear:2024
+epoch:24240.14829374
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31843
+meananomly:273.6867
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3440188058
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1593
+eccentricity:0.0001399
+argumentofperigree:86.4298
+nickname:STARLINK-31843
+idesg:24088Q  
+cosparid:2024-088Q
+altkm:448.04902220267
+velkms:7.6446676372226
+velkmh:27521
+onumepoch:1791
+onumnow:27572.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:33:33+00:00
+nowjuliandate:2460550.4048392
+nowepochdate:24240..904837963
+TLE:
+STARLINK-31843
+1 59722U 24088Q   24240.14829374  .00001936  00000+0  58362-4 0  9993
+2 59722  53.1593 226.0427 0001399  86.4298 273.6867 15.39629193 17910

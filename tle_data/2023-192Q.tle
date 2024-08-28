@@ -1,0 +1,38 @@
+date:2024-08-28T08:08:37+00:00
+validtle:1
+satid:58545
+launchyear:2023
+epoch:24240.01524224
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31057
+meananomly:259.1561
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.363593592
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1592
+eccentricity:6.85E-5
+argumentofperigree:100.9517
+nickname:STARLINK-31057
+idesg:23192Q  
+cosparid:2023-192Q
+altkm:476.21451595929
+velkms:7.6288362915735
+velkmh:27464
+onumepoch:4029
+onumnow:61671.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:21:57+00:00
+nowjuliandate:2460550.839322
+nowepochdate:24241.3393171296
+TLE:
+STARLINK-31057
+1 58545U 23192Q   24240.01524224  .00005626  00000+0  20195-3 0  9994
+2 58545  53.1592 142.5920 0000685 100.9517 259.1561 15.30196825 40293

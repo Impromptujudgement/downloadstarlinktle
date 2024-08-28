@@ -1,0 +1,38 @@
+date:2024-08-27T23:49:13+00:00
+validtle:1
+satid:59496
+launchyear:2024
+epoch:24239.87853647
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31728
+meananomly:93.7211
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1669037208
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0012
+eccentricity:0.0001661
+argumentofperigree:266.3455
+nickname:STARLINK-31728
+idesg:24071N  
+cosparid:2024-071N
+altkm:443.87784016991
+velkms:7.6475621122577
+velkmh:27531
+onumepoch:2217
+onumnow:34190.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T21:05:06+00:00
+nowjuliandate:2460550.4925162
+nowepochdate:24241.9925115741
+TLE:
+STARLINK-31728
+1 59496U 24071N   24239.87853647  .00003168  00000+0  83058-4 0  9990
+2 59496  43.0012 293.8146 0001661 266.3455  93.7211 15.40704837 22177

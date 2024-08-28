@@ -1,0 +1,38 @@
+date:2024-08-27T15:44:20+00:00
+validtle:1
+satid:60270
+launchyear:2024
+epoch:24239.45431758
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32211
+meananomly:255.7029
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3584241525
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1626
+eccentricity:0.0001311
+argumentofperigree:104.4119
+nickname:STARLINK-32211
+idesg:24131R  
+cosparid:2024-131R
+altkm:464.34453700938
+velkms:7.6353866839293
+velkmh:27487
+onumepoch:587
+onumnow:9014.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:54:13+00:00
+nowjuliandate:2460550.1557976
+nowepochdate:24240..655787037
+TLE:
+STARLINK-32211
+1 60270U 24131R   24239.45431758 -.00000908  00000+0 -15840-4 0  9993
+2 60270  53.1626 139.6770 0001311 104.4119 255.7029 15.34226360  5871

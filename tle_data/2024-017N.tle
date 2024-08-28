@@ -1,0 +1,38 @@
+date:2024-08-28T03:24:50+00:00
+validtle:1
+satid:58838
+launchyear:2024
+epoch:24240.85137512
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31249
+meananomly:262.8041
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3892876485
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.159
+eccentricity:0.0001122
+argumentofperigree:97.3089
+nickname:STARLINK-31249
+idesg:24017N  
+cosparid:2024-017N
+altkm:464.24964652292
+velkms:7.6355097359866
+velkmh:27488
+onumepoch:3437
+onumnow:52735.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:25:59+00:00
+nowjuliandate:2460550.6422543
+nowepochdate:24241.1422453704
+TLE:
+STARLINK-31249
+1 58838U 24017N   24240.85137512 -.00000538  00000+0 -48471-5 0  9996
+2 58838  53.1590 289.4232 0001122  97.3089 262.8041 15.34215978 34374

@@ -1,0 +1,38 @@
+date:2024-08-28T04:21:50+00:00
+validtle:1
+satid:58724
+launchyear:2024
+epoch:24240.32354406
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30893
+meananomly:258.9981
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8556976507
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1582
+eccentricity:0.0001239
+argumentofperigree:101.1147
+nickname:STARLINK-30893
+idesg:24002V  
+cosparid:2024-002V
+altkm:552.77222793059
+velkms:7.5864779061366
+velkmh:27311
+onumepoch:3711
+onumnow:55860.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:45:54+00:00
+nowjuliandate:2460550.6818376
+nowepochdate:24241.1818287037
+TLE:
+STARLINK-30893
+1 58724U 24002V   24240.32354406 -.00001778  00000+0 -10485-3 0  9998
+2 58724  53.1582 256.3971 0001239 101.1147 258.9981 15.04931281 37113

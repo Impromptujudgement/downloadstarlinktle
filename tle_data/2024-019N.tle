@@ -1,0 +1,38 @@
+date:2024-08-28T03:09:40+00:00
+validtle:1
+satid:58865
+launchyear:2024
+epoch:24240.47364572
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31223
+meananomly:75.1455
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1571972685
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0024
+eccentricity:0.0001628
+argumentofperigree:284.9216
+nickname:STARLINK-31223
+idesg:24019N  
+cosparid:2024-019N
+altkm:487.50962981593
+velkms:7.6233751815891
+velkmh:27444
+onumepoch:3359
+onumnow:51263.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:22:03+00:00
+nowjuliandate:2460550.6317179
+nowepochdate:24241..131712963
+TLE:
+STARLINK-31223
+1 58865U 24019N   24240.47364572  .00001739  00000+0  76276-4 0  9999
+2 58865  43.0024 162.2578 0001628 284.9216  75.1455 15.25922030 33593

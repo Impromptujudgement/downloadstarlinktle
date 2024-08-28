@@ -1,0 +1,38 @@
+date:2024-08-27T14:01:30+00:00
+validtle:1
+satid:60435
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32222
+meananomly:358.6140
+meanmotion:15.8762
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6687.0842040396
+altitudeatperigee:309
+altitudeatapogee:309
+inclination:53.1506
+eccentricity:5.68E-5
+argumentofperigree:83.9513
+nickname:STARLINK-32222
+idesg:24144L  
+cosparid:2024-144L
+altkm:314.96668023615
+velkms:7.7258339073862
+velkmh:27813
+onumepoch:347
+onumnow:5510.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0843845
+nowepochdate:24240.006.584375
+TLE:
+STARLINK-32222
+1 60435U 24144L   24239.91667824 -.00607087  00000+0 -23812-2 0  9993
+2 60435  53.1506 303.6624 0000568  83.9513 358.6140 15.87624413  3474

@@ -1,0 +1,38 @@
+date:2024-08-28T04:07:38+00:00
+validtle:1
+satid:58746
+launchyear:2024
+epoch:24240.59190003
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31181
+meananomly:96.8610
+meanmotion:15.2590
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.2142297745
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.002
+eccentricity:0.0001298
+argumentofperigree:263.2093
+nickname:STARLINK-31181
+idesg:24005U  
+cosparid:2024-005U
+altkm:487.95954947533
+velkms:7.622907476584
+velkmh:27442
+onumepoch:3676
+onumnow:56101.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:12:20+00:00
+nowjuliandate:2460550.6719735
+nowepochdate:24241.1719675926
+TLE:
+STARLINK-31181
+1 58746U 24005U   24240.59190003  .00000051  00000+0  11800-4 0  9999
+2 58746  43.0020 346.0203 0001298 263.2093  96.8610 15.25903018 36760

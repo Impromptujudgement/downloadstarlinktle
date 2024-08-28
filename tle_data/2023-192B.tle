@@ -1,0 +1,38 @@
+date:2024-08-28T08:17:43+00:00
+validtle:1
+satid:58532
+launchyear:2023
+epoch:24240.94958737
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31035
+meananomly:290.8095
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3802784662
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1586
+eccentricity:0.000149
+argumentofperigree:69.3065
+nickname:STARLINK-31035
+idesg:23192B  
+cosparid:2023-192B
+altkm:475.7801520952
+velkms:7.6293289219763
+velkmh:27466
+onumepoch:4044
+onumnow:61886.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:47:24+00:00
+nowjuliandate:2460550.8456396
+nowepochdate:24241.3456365741
+TLE:
+STARLINK-31035
+1 58532U 23192B   24240.94958737  .00001539  00000+0  64089-4 0  9992
+2 58532  53.1586 137.7292 0001490  69.3065 290.8095 15.30191237 40444

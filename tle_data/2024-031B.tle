@@ -1,0 +1,38 @@
+date:2024-08-28T02:30:52+00:00
+validtle:1
+satid:58966
+launchyear:2024
+epoch:24240.08569637
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31449
+meananomly:281.9085
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3425020304
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1603
+eccentricity:0.0001188
+argumentofperigree:78.205
+nickname:STARLINK-31449
+idesg:24031B  
+cosparid:2024-031B
+altkm:463.93916403211
+velkms:7.6358301009295
+velkmh:27489
+onumepoch:3083
+onumnow:47316.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:03:24+00:00
+nowjuliandate:2460550.604775
+nowepochdate:24241.1047685185
+TLE:
+STARLINK-31449
+1 58966U 24031B   24240.08569637  .00002401  00000+0  82598-4 0  9992
+2 58966  53.1603  17.5379 0001188  78.2050 281.9085 15.34231716 30836

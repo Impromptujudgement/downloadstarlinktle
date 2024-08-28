@@ -1,0 +1,38 @@
+date:2024-08-27T17:50:47+00:00
+validtle:1
+satid:60017
+launchyear:2024
+epoch:24240.07550109
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31987
+meananomly:305.8408
+meanmotion:15.3965
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.278832194
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1576
+eccentricity:8.52E-5
+argumentofperigree:54.2676
+nickname:STARLINK-31987
+idesg:24111B  
+cosparid:2024-111B
+altkm:447.70446862842
+velkms:7.6450170099076
+velkmh:27522
+onumepoch:1327
+onumnow:20430.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:48:43+00:00
+nowjuliandate:2460550.2436067
+nowepochdate:24240..743599537
+TLE:
+STARLINK-31987
+1 60017U 24111B   24240.07550109  .00015237  00000+0  38975-3 0  9994
+2 60017  53.1576 157.8440 0000852  54.2676 305.8408 15.39651250 13275

@@ -1,0 +1,38 @@
+date:2024-08-28T06:27:39+00:00
+validtle:1
+satid:59183
+launchyear:2024
+epoch:24240.71189689
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31347
+meananomly:69.1946
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1563917833
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0066
+eccentricity:8.96E-5
+argumentofperigree:290.8814
+nickname:STARLINK-31347
+idesg:24045F  
+cosparid:2024-045F
+altkm:443.57717441577
+velkms:7.6478931185636
+velkmh:27532
+onumepoch:2746
+onumnow:42316.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:05:08+00:00
+nowjuliandate:2460550.7692061
+nowepochdate:24241.2692013889
+TLE:
+STARLINK-31347
+1 59183U 24045F   24240.71189689  .00002704  00000+0  71953-4 0  9993
+2 59183  43.0066  27.4480 0000896 290.8814  69.1946 15.40708398 27466

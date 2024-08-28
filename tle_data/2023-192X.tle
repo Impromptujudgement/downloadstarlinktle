@@ -1,0 +1,38 @@
+date:2024-08-28T08:03:33+00:00
+validtle:1
+satid:58552
+launchyear:2023
+epoch:24240.94336473
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31046
+meananomly:274.1495
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.358126541
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1609
+eccentricity:8.83E-5
+argumentofperigree:85.9607
+nickname:STARLINK-31046
+idesg:23192X  
+cosparid:2023-192X
+altkm:476.07714663575
+velkms:7.6289861190162
+velkmh:27464
+onumepoch:4043
+onumnow:61871.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:38:27+00:00
+nowjuliandate:2460550.8358051
+nowepochdate:24241.3357986111
+TLE:
+STARLINK-31046
+1 58552U 23192X   24240.94336473  .00001069  00000+0  48202-4 0  9998
+2 58552  53.1609 138.4269 0000883  85.9607 274.1495 15.30198656 40435

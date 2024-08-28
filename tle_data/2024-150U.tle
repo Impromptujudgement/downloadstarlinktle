@@ -1,0 +1,38 @@
+date:2024-08-27T13:39:50+00:00
+validtle:1
+satid:60601
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31988
+meananomly:62.7156
+meanmotion:15.8607
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.4427339261
+altitudeatperigee:313
+altitudeatapogee:314
+inclination:53.1569
+eccentricity:0.0001167
+argumentofperigree:84.5886
+nickname:STARLINK-31988
+idesg:24150U  
+cosparid:2024-150U
+altkm:314.02367851288
+velkms:7.7235362132272
+velkmh:27805
+onumepoch:211
+onumnow:3356.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0693372
+nowepochdate:24240.5693287037
+TLE:
+STARLINK-31988
+1 60601U 24150U   24239.91667824 -.01110259  00000+0 -49849-2 0  9994
+2 60601  53.1569  34.2664 0001167  84.5886  62.7156 15.86073496  2113

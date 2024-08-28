@@ -1,0 +1,38 @@
+date:2024-08-28T01:59:47+00:00
+validtle:1
+satid:59337
+launchyear:2024
+epoch:24239.45758194
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31612
+meananomly:81.7702
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.181551425
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9987
+eccentricity:0.0001428
+argumentofperigree:278.2992
+nickname:STARLINK-31612
+idesg:24057T  
+cosparid:2024-057T
+altkm:443.67919314242
+velkms:7.6477928685538
+velkmh:27532
+onumepoch:2377
+onumnow:36647.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:58:55+00:00
+nowjuliandate:2460550.583185
+nowepochdate:24241.0831828704
+TLE:
+STARLINK-31612
+1 59337U 24057T   24239.45758194  .00001141  00000+0  34581-4 0  9999
+2 59337  42.9987 144.3021 0001428 278.2992  81.7702 15.40699875 23775

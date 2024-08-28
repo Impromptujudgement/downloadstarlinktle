@@ -1,0 +1,38 @@
+date:2024-08-27T22:43:34+00:00
+validtle:1
+satid:59617
+launchyear:2024
+epoch:24240.60155439
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31769
+meananomly:74.5813
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1442533649
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0083
+eccentricity:0.0001796
+argumentofperigree:285.4845
+nickname:STARLINK-31769
+idesg:24080S  
+cosparid:2024-080S
+altkm:443.4567534931
+velkms:7.6480212654215
+velkmh:27533
+onumepoch:1869
+onumnow:28801.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:26:14+00:00
+nowjuliandate:2460550.4469279
+nowepochdate:24240.9469212963
+TLE:
+STARLINK-31769
+1 59617U 24080S   24240.60155439  .00006171  00000+0  15481-3 0  9993
+2 59617  43.0083 344.2300 0001796 285.4845  74.5813 15.40712510 18691

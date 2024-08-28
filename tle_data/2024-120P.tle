@@ -1,0 +1,38 @@
+date:2024-08-27T16:25:32+00:00
+validtle:1
+satid:60148
+launchyear:2024
+epoch:24239.75652384
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32021
+meananomly:335.3444
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3377651739
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1629
+eccentricity:6.13E-5
+argumentofperigree:24.759
+nickname:STARLINK-32021
+idesg:24120P  
+cosparid:2024-120P
+altkm:447.72418844804
+velkms:7.6450278559109
+velkmh:27522
+onumepoch:1062
+onumnow:16365.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T18:09:24+00:00
+nowjuliandate:2460550.1844032
+nowepochdate:24240.6843981481
+TLE:
+STARLINK-32021
+1 60148U 24120P   24239.75652384 -.00001281  00000+0 -22046-4 0  9999
+2 60148  53.1629  48.1526 0000613  24.7590 335.3444 15.39631309 10625

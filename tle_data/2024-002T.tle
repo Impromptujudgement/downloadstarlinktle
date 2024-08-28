@@ -1,0 +1,38 @@
+date:2024-08-28T04:23:27+00:00
+validtle:1
+satid:58722
+launchyear:2024
+epoch:24240.32676249
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31040
+meananomly:267.7371
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.856716839
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1595
+eccentricity:0.0001351
+argumentofperigree:92.3773
+nickname:STARLINK-31040
+idesg:24002T  
+cosparid:2024-002T
+altkm:552.64651266088
+velkms:7.586616046065
+velkmh:27312
+onumepoch:3711
+onumnow:55860.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:50:32+00:00
+nowjuliandate:2460550.6829564
+nowepochdate:24241.1829513889
+TLE:
+STARLINK-31040
+1 58722U 24002T   24240.32676249  .00000618  00000+0  62549-4 0  9997
+2 58722  53.1595 256.4032 0001351  92.3773 267.7371 15.04930949 37116

@@ -1,0 +1,38 @@
+date:2024-08-27T15:56:59+00:00
+validtle:1
+satid:60245
+launchyear:2024
+epoch:24202.57221789
+epochday:202
+tleage:38
+tleclassification:U
+active:0
+name:STARLINK-11202
+meananomly:32.4641
+meanmotion:16.5078
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6515.409187457
+altitudeatperigee:129
+altitudeatapogee:145
+inclination:53.111
+eccentricity:0.0012251
+argumentofperigree:81.7228
+nickname:STARLINK-11202
+idesg:24129B  
+cosparid:2024-129B
+altkm:135.62128571695
+velkms:7.8349020664464
+velkmh:28206
+onumepoch:215
+onumnow:4178.01
+otype:99
+otypedesc:Reentry
+status:99
+timestamp:2024-07-20T13:44:00+00:00
+nowjuliandate:2460550.1645782
+nowepochdate:24240.6645717593
+TLE:
+STARLINK-11202 [DTC]
+1 60245U 24129B   24202.57221789  .18812113  12686-4  16820-3 0  9998
+2 60245  53.1110  14.6183 0012251  81.7228  32.4641 16.50784614  2152

@@ -1,0 +1,38 @@
+date:2024-08-28T00:42:53+00:00
+validtle:1
+satid:59460
+launchyear:2024
+epoch:24240.52462508
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31620
+meananomly:99.8045
+meanmotion:15.4081
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.8466458019
+altitudeatperigee:442
+altitudeatapogee:445
+inclination:43.0045
+eccentricity:0.0002434
+argumentofperigree:260.2536
+nickname:STARLINK-31620
+idesg:24068F  
+cosparid:2024-068F
+altkm:443.76732739813
+velkms:7.6475069535743
+velkmh:27531
+onumepoch:2278
+onumnow:35107.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:35:28+00:00
+nowjuliandate:2460550.5297852
+nowepochdate:24241.0297800926
+TLE:
+STARLINK-31620
+1 59460U 24068F   24240.52462508 -.00022200  00000+0 -52368-3 0  9992
+2 59460  43.0045 331.6074 0002434 260.2536  99.8045 15.40813333 22788

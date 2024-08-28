@@ -1,0 +1,38 @@
+date:2024-08-27T21:22:28+00:00
+validtle:1
+satid:59755
+launchyear:2024
+epoch:24239.86603087
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11132
+meananomly:282.5355
+meanmotion:15.6971
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8684128696
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1572
+eccentricity:7.66E-5
+argumentofperigree:77.5748
+nickname:STARLINK-11132
+idesg:24091C  
+cosparid:2024-091C
+altkm:360.53417684664
+velkms:7.6942592613065
+velkmh:27699
+onumepoch:1758
+onumnow:27611.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:47:05+00:00
+nowjuliandate:2460550.3906026
+nowepochdate:24240.8906018519
+TLE:
+STARLINK-11132 [DTC]
+1 59755U 24091C   24239.86603087  .00002419  00000+0  24816-4 0  9995
+2 59755  53.1572  86.2163 0000766  77.5748 282.5355 15.69709073 17587

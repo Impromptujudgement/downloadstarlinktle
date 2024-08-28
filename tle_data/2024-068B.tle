@@ -1,0 +1,38 @@
+date:2024-08-28T00:45:45+00:00
+validtle:1
+satid:59456
+launchyear:2024
+epoch:24239.98362326
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31622
+meananomly:110.8147
+meanmotion:15.4073
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.0947320113
+altitudeatperigee:442
+altitudeatapogee:445
+inclination:43.0091
+eccentricity:0.0002257
+argumentofperigree:249.2468
+nickname:STARLINK-31622
+idesg:24068B  
+cosparid:2024-068B
+altkm:444.28019629166
+velkms:7.6470709838444
+velkmh:27529
+onumepoch:2270
+onumnow:34990.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:36:25+00:00
+nowjuliandate:2460550.5317805
+nowepochdate:24241.0317708333
+TLE:
+STARLINK-31622
+1 59456U 24068B   24239.98362326 -.00003128  00000+0 -67558-4 0  9998
+2 59456  43.0091 334.4245 0002257 249.2468 110.8147 15.40729286 22701

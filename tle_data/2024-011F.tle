@@ -1,0 +1,38 @@
+date:2024-08-28T04:00:45+00:00
+validtle:1
+satid:58770
+launchyear:2024
+epoch:24239.9201108
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31143
+meananomly:268.2777
+meanmotion:15.0494
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8311973365
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1609
+eccentricity:0.0001498
+argumentofperigree:91.8384
+nickname:STARLINK-31143
+idesg:24011F  
+cosparid:2024-011F
+altkm:552.61540697578
+velkms:7.5866361509179
+velkmh:27312
+onumepoch:3537
+onumnow:53247.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:04:58+00:00
+nowjuliandate:2460550.6671908
+nowepochdate:24241.07.1671875
+TLE:
+STARLINK-31143
+1 58770U 24011F   24239.92011080  .00001536  00000+0  12659-3 0  9996
+2 58770  53.1609  37.3221 0001498  91.8384 268.2777 15.04939262 35374

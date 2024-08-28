@@ -1,0 +1,38 @@
+date:2024-08-28T01:08:06+00:00
+validtle:1
+satid:59413
+launchyear:2024
+epoch:24240.5919864
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31615
+meananomly:245.7046
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1404128892
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0031
+eccentricity:0.0003277
+argumentofperigree:114.4153
+nickname:STARLINK-31615
+idesg:24064R  
+cosparid:2024-064R
+altkm:444.6981342958
+velkms:7.6466282864597
+velkmh:27528
+onumepoch:2350
+onumnow:36213.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:12:28+00:00
+nowjuliandate:2460550.5472924
+nowepochdate:24241.0472916667
+TLE:
+STARLINK-31615
+1 59413U 24064R   24240.59198640  .00005836  00000+0  14680-3 0  9995
+2 59413  43.0031 352.2945 0003277 114.4153 245.7046 15.40713811 23502

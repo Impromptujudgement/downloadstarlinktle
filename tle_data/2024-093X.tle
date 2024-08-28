@@ -1,0 +1,38 @@
+date:2024-08-27T19:16:46+00:00
+validtle:1
+satid:59803
+launchyear:2024
+epoch:24240.03426404
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31794
+meananomly:73.1137
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.199077409
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0029
+eccentricity:0.0001423
+argumentofperigree:286.9563
+nickname:STARLINK-31794
+idesg:24093X  
+cosparid:2024-093X
+altkm:443.55466107306
+velkms:7.6479421967255
+velkmh:27533
+onumepoch:1692
+onumnow:26080.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:49:20+00:00
+nowjuliandate:2460550.3033157
+nowepochdate:24240.8033101852
+TLE:
+STARLINK-31794
+1 59803U 24093X   24240.03426404  .00004296  00000+0  11008-3 0  9991
+2 59803  43.0029 150.2815 0001423 286.9563  73.1137 15.40693938 16924

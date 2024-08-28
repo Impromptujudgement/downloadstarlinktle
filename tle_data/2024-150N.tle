@@ -1,0 +1,38 @@
+date:2024-08-27T13:43:55+00:00
+validtle:1
+satid:60595
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32202
+meananomly:40.6234
+meanmotion:15.8570
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.5060532942
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.1571
+eccentricity:7.76E-5
+argumentofperigree:96.7612
+nickname:STARLINK-32202
+idesg:24150N  
+cosparid:2024-150N
+altkm:316.16725986914
+velkms:7.7230998018349
+velkmh:27803
+onumepoch:223
+onumnow:3546.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0721699
+nowepochdate:24240.5721643519
+TLE:
+STARLINK-32202
+1 60595U 24150N   24239.91667824 -.01063193  00000+0 -48363-2 0  9990
+2 60595  53.1571  34.2866 0000776  96.7612  40.6234 15.85695513  2233

@@ -1,0 +1,38 @@
+date:2024-08-28T04:18:58+00:00
+validtle:1
+satid:58730
+launchyear:2024
+epoch:24240.42665986
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31150
+meananomly:96.9524
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1328057523
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0021
+eccentricity:0.0001486
+argumentofperigree:263.1164
+nickname:STARLINK-31150
+idesg:24005C  
+cosparid:2024-005C
+altkm:443.89295564276
+velkms:7.6475261211961
+velkmh:27531
+onumepoch:3730
+onumnow:57477.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:14:23+00:00
+nowjuliandate:2460550.679842
+nowepochdate:24241..179837963
+TLE:
+STARLINK-31150
+1 58730U 24005C   24240.42665986  .00016856  00000+0  40967-3 0  9996
+2 58730  43.0021 293.4062 0001486 263.1164  96.9524 15.40716388 37304

@@ -1,0 +1,38 @@
+date:2024-08-27T17:01:02+00:00
+validtle:1
+satid:60100
+launchyear:2024
+epoch:24239.37987729
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31996
+meananomly:277.7580
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3606495642
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1605
+eccentricity:0.0001143
+argumentofperigree:82.3551
+nickname:STARLINK-31996
+idesg:24117K  
+cosparid:2024-117K
+altkm:476.01770657871
+velkms:7.6290536652527
+velkmh:27465
+onumepoch:1110
+onumnow:17005.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T09:07:01+00:00
+nowjuliandate:2460550.209059
+nowepochdate:24240.7090509259
+TLE:
+STARLINK-31996
+1 60100U 24117K   24239.37987729  .00006379  00000+0  22732-3 0  9997
+2 60100  53.1605 119.4794 0001143  82.3551 277.7580 15.30197811 11102

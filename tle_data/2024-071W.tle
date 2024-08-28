@@ -1,0 +1,38 @@
+date:2024-08-27T23:43:03+00:00
+validtle:1
+satid:59504
+launchyear:2024
+epoch:24239.43096935
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31535
+meananomly:100.0183
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2048692445
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0013
+eccentricity:0.0001249
+argumentofperigree:260.0533
+nickname:STARLINK-31535
+idesg:24071W  
+cosparid:2024-071W
+altkm:443.99040458048
+velkms:7.6474572107116
+velkmh:27531
+onumepoch:2215
+onumnow:34165.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:20:36+00:00
+nowjuliandate:2460550.4882328
+nowepochdate:24241.9882291667
+TLE:
+STARLINK-31535
+1 59504U 24071W   24239.43096935  .00001426  00000+0  41413-4 0  9995
+2 59504  43.0013 295.6007 0001249 260.0533 100.0183 15.40691976 22151

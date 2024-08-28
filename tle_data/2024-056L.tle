@@ -1,0 +1,38 @@
+date:2024-08-28T05:22:06+00:00
+validtle:1
+satid:59306
+launchyear:2024
+epoch:24240.54799652
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31480
+meananomly:81.7510
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1716622973
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0056
+eccentricity:0.0001397
+argumentofperigree:278.3188
+nickname:STARLINK-31480
+idesg:24056L  
+cosparid:2024-056L
+altkm:443.67277873594
+velkms:7.6477945309265
+velkmh:27532
+onumepoch:2517
+onumnow:38789.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:09:07+00:00
+nowjuliandate:2460550.7236848
+nowepochdate:24241.2236805556
+TLE:
+STARLINK-31480
+1 59306U 24056L   24240.54799652  .00001425  00000+0  41372-4 0  9991
+2 59306  43.0056 175.8967 0001397 278.3188  81.7510 15.40703225 25179

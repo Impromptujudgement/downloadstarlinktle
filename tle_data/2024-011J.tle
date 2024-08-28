@@ -1,0 +1,38 @@
+date:2024-08-28T03:58:41+00:00
+validtle:1
+satid:58773
+launchyear:2024
+epoch:24240.17610114
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31073
+meananomly:268.5423
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8695979378
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1605
+eccentricity:0.0001106
+argumentofperigree:91.5693
+nickname:STARLINK-31073
+idesg:24011J  
+cosparid:2024-011J
+altkm:552.64198820869
+velkms:7.5866280329795
+velkmh:27312
+onumepoch:3529
+onumnow:53123.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:13:35+00:00
+nowjuliandate:2460550.6657543
+nowepochdate:24241.1657523148
+TLE:
+STARLINK-31073
+1 58773U 24011J   24240.17610114  .00000620  00000+0  62690-4 0  9995
+2 58773  53.1605  36.0797 0001106  91.5693 268.5423 15.04926753 35296

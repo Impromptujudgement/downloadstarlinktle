@@ -1,0 +1,38 @@
+date:2024-08-27T17:04:43+00:00
+validtle:1
+satid:60095
+launchyear:2024
+epoch:24239.92561071
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32028
+meananomly:272.7591
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3875340892
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1614
+eccentricity:9.17E-5
+argumentofperigree:87.3514
+nickname:STARLINK-32028
+idesg:24117E  
+cosparid:2024-117E
+altkm:476.1201554836
+velkms:7.6289545892761
+velkmh:27464
+onumepoch:1115
+onumnow:17073.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:12:53+00:00
+nowjuliandate:2460550.2116089
+nowepochdate:24240.7116087963
+TLE:
+STARLINK-32028
+1 60095U 24117E   24239.92561071  .00002026  00000+0  80546-4 0  9992
+2 60095  53.1614 117.2009 0000917  87.3514 272.7591 15.30188807 11159

@@ -1,0 +1,38 @@
+date:2024-08-28T00:57:12+00:00
+validtle:1
+satid:59426
+launchyear:2024
+epoch:24240.54422159
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11089
+meananomly:80.5437
+meanmotion:15.7145
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.8883575877
+altitudeatperigee:354
+altitudeatapogee:355
+inclination:53.1537
+eccentricity:0.0001067
+argumentofperigree:279.5461
+nickname:STARLINK-11089
+idesg:24065F  
+cosparid:2024-065F
+altkm:355.54843589255
+velkms:7.6971156494531
+velkmh:27710
+onumepoch:2360
+onumnow:37094.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:03:41+00:00
+nowjuliandate:2460550.5397248
+nowepochdate:24241.0397222222
+TLE:
+STARLINK-11089 [DTC]
+1 59426U 24065F   24240.54422159 -.00000453  00000+0  11575-5 0  9993
+2 59426  53.1537 337.5715 0001067 279.5461  80.5437 15.71450974 23602

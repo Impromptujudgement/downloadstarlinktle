@@ -1,0 +1,38 @@
+date:2024-08-28T02:56:38+00:00
+validtle:1
+satid:58884
+launchyear:2024
+epoch:24240.10664533
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31315
+meananomly:255.7823
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3844461037
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1629
+eccentricity:0.0001249
+argumentofperigree:104.332
+nickname:STARLINK-31315
+idesg:24020J  
+cosparid:2024-020J
+altkm:448.36057913875
+velkms:7.6443413960253
+velkmh:27520
+onumepoch:3270
+onumnow:50359.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:33:34+00:00
+nowjuliandate:2460550.6226688
+nowepochdate:24241..122662037
+TLE:
+STARLINK-31315
+1 58884U 24020J   24240.10664533 -.00001423  00000+0 -25610-4 0  9990
+2 58884  53.1629  19.6698 0001249 104.3320 255.7823 15.39615514 32703

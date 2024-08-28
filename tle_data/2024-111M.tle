@@ -1,0 +1,38 @@
+date:2024-08-27T17:43:49+00:00
+validtle:1
+satid:60027
+launchyear:2024
+epoch:24239.0461576
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32012
+meananomly:295.2242
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3674700531
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1611
+eccentricity:0.0001309
+argumentofperigree:64.8898
+nickname:STARLINK-32012
+idesg:24111M  
+cosparid:2024-111M
+altkm:447.75328943082
+velkms:7.645011867108
+velkmh:27522
+onumepoch:1315
+onumnow:20272.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T01:06:28+00:00
+nowjuliandate:2460550.2387692
+nowepochdate:24240.7387615741
+TLE:
+STARLINK-32012
+1 60027U 24111M   24239.04615760 -.00003875  00000+0 -86941-4 0  9999
+2 60027  53.1611 162.7952 0001309  64.8898 295.2242 15.39621258 13150

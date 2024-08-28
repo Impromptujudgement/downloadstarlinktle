@@ -1,0 +1,38 @@
+date:2024-08-28T00:30:08+00:00
+validtle:1
+satid:59463
+launchyear:2024
+epoch:24240.53587128
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31364
+meananomly:109.2865
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2084205136
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0055
+eccentricity:0.0002019
+argumentofperigree:250.7774
+nickname:STARLINK-31364
+idesg:24068J  
+cosparid:2024-068J
+altkm:444.30123752368
+velkms:7.6471109475738
+velkmh:27530
+onumepoch:2278
+onumnow:35104.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:51:39+00:00
+nowjuliandate:2460550.5209296
+nowepochdate:24241.0209259259
+TLE:
+STARLINK-31364
+1 59463U 24068J   24240.53587128  .00001082  00000+0  33190-4 0  9998
+2 59463  43.0055 331.6950 0002019 250.7774 109.2865 15.40690773 22789

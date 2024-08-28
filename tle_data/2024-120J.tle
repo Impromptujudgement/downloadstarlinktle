@@ -1,0 +1,38 @@
+date:2024-08-27T16:29:25+00:00
+validtle:1
+satid:60143
+launchyear:2024
+epoch:24240.1640668
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32027
+meananomly:277.5361
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3885571374
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1645
+eccentricity:9.9E-5
+argumentofperigree:82.5756
+nickname:STARLINK-32027
+idesg:24120J  
+cosparid:2024-120J
+altkm:448.06683289803
+velkms:7.6446725803878
+velkmh:27521
+onumepoch:1070
+onumnow:16481.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:56:15+00:00
+nowjuliandate:2460550.1870971
+nowepochdate:24240.6870949074
+TLE:
+STARLINK-32027
+1 60143U 24120J   24240.16406680 -.00000494  00000+0 -23798-5 0  9998
+2 60143  53.1645  44.9730 0000990  82.5756 277.5361 15.39614123 10702

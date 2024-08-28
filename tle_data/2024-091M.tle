@@ -1,0 +1,38 @@
+date:2024-08-27T21:00:59+00:00
+validtle:1
+satid:59764
+launchyear:2024
+epoch:24239.30762359
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11111
+meananomly:258.3778
+meanmotion:15.6970
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8931946205
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1573
+eccentricity:6.6E-5
+argumentofperigree:101.7314
+nickname:STARLINK-11111
+idesg:24091M  
+cosparid:2024-091M
+altkm:360.76055598217
+velkms:7.6940149599078
+velkmh:27698
+onumepoch:1750
+onumnow:27494.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T07:22:59+00:00
+nowjuliandate:2460550.3756893
+nowepochdate:24240.8756828704
+TLE:
+STARLINK-11111 [DTC]
+1 59764U 24091M   24239.30762359 -.00001879  00000+0 -10662-4 0  9997
+2 59764  53.1573  88.4019 0000660 101.7314 258.3778 15.69700413 17505

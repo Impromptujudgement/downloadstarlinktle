@@ -1,0 +1,38 @@
+date:2024-08-28T01:50:39+00:00
+validtle:1
+satid:59351
+launchyear:2024
+epoch:24240.17799783
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31555
+meananomly:87.2015
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1587622054
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9993
+eccentricity:0.0001766
+argumentofperigree:272.8639
+nickname:STARLINK-31555
+idesg:24060D  
+cosparid:2024-060D
+altkm:443.73716292021
+velkms:7.6477151813981
+velkmh:27532
+onumepoch:2428
+onumnow:37422.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:16:19+00:00
+nowjuliandate:2460550.5768417
+nowepochdate:24241.0768402778
+TLE:
+STARLINK-31555
+1 59351U 24060D   24240.17799783  .00002158  00000+0  58889-4 0  9995
+2 59351  42.9993 202.1047 0001766 272.8639  87.2015 15.40707595 24286

@@ -1,0 +1,38 @@
+date:2024-08-28T05:32:27+00:00
+validtle:1
+satid:59269
+launchyear:2024
+epoch:24240.31587646
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31609
+meananomly:271.7576
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3817773629
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1623
+eccentricity:0.0001331
+argumentofperigree:88.3577
+nickname:STARLINK-31609
+idesg:24050R  
+cosparid:2024-050R
+altkm:476.1168289856
+velkms:7.6289550945466
+velkmh:27464
+onumepoch:2490
+onumnow:38115.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:34:52+00:00
+nowjuliandate:2460550.7308786
+nowepochdate:24241.2308680556
+TLE:
+STARLINK-31609
+1 59269U 24050R   24240.31587646  .00001049  00000+0  47541-4 0  9992
+2 59269  53.1623 259.3897 0001331  88.3577 271.7576 15.30190735 24906

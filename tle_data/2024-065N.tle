@@ -1,0 +1,38 @@
+date:2024-08-28T00:52:21+00:00
+validtle:1
+satid:59433
+launchyear:2024
+epoch:24239.66423485
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31740
+meananomly:303.6767
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3593514952
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1614
+eccentricity:0.0001196
+argumentofperigree:56.4352
+nickname:STARLINK-31740
+idesg:24065N  
+cosparid:2024-065N
+altkm:447.67327025324
+velkms:7.6450969299839
+velkmh:27522
+onumepoch:2305
+onumnow:35509.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T15:56:30+00:00
+nowjuliandate:2460550.5363647
+nowepochdate:24241.0363541667
+TLE:
+STARLINK-31740
+1 59433U 24065N   24239.66423485  .00002279  00000+0  66920-4 0  9995
+2 59433  53.1614  12.4113 0001196  56.4352 303.6767 15.39624005 23057

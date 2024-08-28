@@ -1,0 +1,38 @@
+date:2024-08-27T21:56:09+00:00
+validtle:1
+satid:59699
+launchyear:2024
+epoch:24240.07781077
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32102
+meananomly:114.9691
+meanmotion:15.4064
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.349943679
+altitudeatperigee:443
+altitudeatapogee:446
+inclination:43.0086
+eccentricity:0.0001921
+argumentofperigree:245.0966
+nickname:STARLINK-32102
+idesg:24086T  
+cosparid:2024-086T
+altkm:444.54135148446
+velkms:7.6469210355155
+velkmh:27529
+onumepoch:1824
+onumnow:28114.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:52:03+00:00
+nowjuliandate:2460550.4140012
+nowepochdate:24240.9139930556
+TLE:
+STARLINK-32102
+1 59699U 24086T   24240.07781077  .00014833  00000+0  36235-3 0  9997
+2 59699  43.0086   4.7850 0001921 245.0966 114.9691 15.40642833 18242

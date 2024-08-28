@@ -1,0 +1,38 @@
+date:2024-08-28T06:30:33+00:00
+validtle:1
+satid:59179
+launchyear:2024
+epoch:24239.70388458
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31410
+meananomly:77.5101
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1420128408
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0041
+eccentricity:0.000304
+argumentofperigree:282.5415
+nickname:STARLINK-31410
+idesg:24045B  
+cosparid:2024-045B
+altkm:443.33169488961
+velkms:7.6481601411059
+velkmh:27533
+onumepoch:2729
+onumnow:42070.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T16:53:36+00:00
+nowjuliandate:2460550.7712223
+nowepochdate:24241.2712152778
+TLE:
+STARLINK-31410
+1 59179U 24045B   24239.70388458  .00005529  00000+0  13947-3 0  9996
+2 59179  43.0041  34.5315 0003040 282.5415  77.5101 15.40713269 27299

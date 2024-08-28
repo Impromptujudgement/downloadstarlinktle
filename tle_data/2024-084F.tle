@@ -1,0 +1,38 @@
+date:2024-08-27T22:20:06+00:00
+validtle:1
+satid:59659
+launchyear:2024
+epoch:24239.56753584
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31881
+meananomly:61.4241
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1597511119
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0023
+eccentricity:7.71E-5
+argumentofperigree:298.6538
+nickname:STARLINK-31881
+idesg:24084F  
+cosparid:2024-084F
+altkm:443.54556050395
+velkms:7.6479304173079
+velkmh:27533
+onumepoch:1845
+onumnow:28432.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T13:37:15+00:00
+nowjuliandate:2460550.4306306
+nowepochdate:24240.006.930625
+TLE:
+STARLINK-31881
+1 59659U 24084F   24239.56753584  .00004966  00000+0  12604-3 0  9995
+2 59659  43.0023 344.6492 0000771 298.6538  61.4241 15.40707260 18454

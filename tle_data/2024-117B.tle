@@ -1,0 +1,38 @@
+date:2024-08-27T17:06:53+00:00
+validtle:1
+satid:60092
+launchyear:2024
+epoch:24239.96137219
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32044
+meananomly:263.5965
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3508500951
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1615
+eccentricity:8.56E-5
+argumentofperigree:96.5133
+nickname:STARLINK-32044
+idesg:24117B  
+cosparid:2024-117B
+altkm:476.17915278027
+velkms:7.6288685667996
+velkmh:27464
+onumepoch:1099
+onumnow:16828.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:04:23+00:00
+nowjuliandate:2460550.2131172
+nowepochdate:24240.7131134259
+TLE:
+STARLINK-32044
+1 60092U 24117B   24239.96137219  .00001556  00000+0  64635-4 0  9994
+2 60092  53.1615 116.7133 0000856  96.5133 263.5965 15.30201093 10997

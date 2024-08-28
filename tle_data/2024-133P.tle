@@ -1,0 +1,38 @@
+date:2024-08-27T15:08:13+00:00
+validtle:1
+satid:60314
+launchyear:2024
+epoch:24236.45510268
+epochday:236
+tleage:4
+tleclassification:U
+active:1
+name:STARLINK-32191
+meananomly:277.9727
+meanmotion:15.7132
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6733.2528678856
+altitudeatperigee:355
+altitudeatapogee:356
+inclination:53.16
+eccentricity:8.73E-5
+argumentofperigree:82.1391
+nickname:STARLINK-32191
+idesg:24133P  
+cosparid:2024-133P
+altkm:355.9500575278
+velkms:7.6968645404488
+velkmh:27709
+onumepoch:529
+onumnow:8377.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-23T10:55:21+00:00
+nowjuliandate:2460550.1307136
+nowepochdate:24240.6307060185
+TLE:
+STARLINK-32191
+1 60314U 24133P   24236.45510268 -.01224678  00000+0 -10495-1 0  9996
+2 60314  53.1600  44.8331 0000873  82.1391 277.9727 15.71323368  5292

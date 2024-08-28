@@ -1,0 +1,38 @@
+date:2024-08-27T15:16:58+00:00
+validtle:1
+satid:60303
+launchyear:2024
+epoch:24240.13018711
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-11227
+meananomly:69.2974
+meanmotion:15.7676
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6717.7539204532
+altitudeatperigee:339
+altitudeatapogee:340
+inclination:53.1549
+eccentricity:0.000131
+argumentofperigree:290.7906
+nickname:STARLINK-11227
+idesg:24133C  
+cosparid:2024-133C
+altkm:340.22314754769
+velkms:7.7060148678575
+velkmh:27742
+onumepoch:590
+onumnow:9310.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:07:28+00:00
+nowjuliandate:2460550.1367835
+nowepochdate:24240.6367824074
+TLE:
+STARLINK-11227 [DTC]
+1 60303U 24133C   24240.13018711  .00025007  00000+0  15609-3 0  9996
+2 60303  53.1549  27.2546 0001310 290.7906  69.2974 15.76764450  5901

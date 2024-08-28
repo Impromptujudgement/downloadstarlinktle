@@ -1,0 +1,38 @@
+date:2024-08-28T06:11:10+00:00
+validtle:1
+satid:59207
+launchyear:2024
+epoch:24240.2856702
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31591
+meananomly:269.9640
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3475120979
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1582
+eccentricity:0.0001441
+argumentofperigree:90.153
+nickname:STARLINK-31591
+idesg:24046G  
+cosparid:2024-046G
+altkm:448.11442166847
+velkms:7.6445963639596
+velkmh:27521
+onumepoch:2735
+onumnow:42123.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:51:22+00:00
+nowjuliandate:2460550.7577601
+nowepochdate:24241.2577546296
+TLE:
+STARLINK-31591
+1 59207U 24046G   24240.28567020 -.00003095  00000+0 -67409-4 0  9999
+2 59207  53.1582 237.1690 0001441  90.1530 269.9640 15.39628011 27354

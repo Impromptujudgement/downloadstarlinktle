@@ -1,0 +1,38 @@
+date:2024-08-28T06:07:03+00:00
+validtle:1
+satid:59213
+launchyear:2024
+epoch:24240.68445113
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31517
+meananomly:287.6592
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3482450397
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1582
+eccentricity:0.0001108
+argumentofperigree:72.4533
+nickname:STARLINK-31517
+idesg:24046N  
+cosparid:2024-046N
+altkm:447.88507256493
+velkms:7.6448535683042
+velkmh:27521
+onumepoch:2740
+onumnow:42194.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:25:37+00:00
+nowjuliandate:2460550.7548973
+nowepochdate:24241.2548958333
+TLE:
+STARLINK-31517
+1 59213U 24046N   24240.68445113 -.00000954  00000+0 -13872-4 0  9994
+2 59213  53.1582 235.4172 0001108  72.4533 287.6592 15.39627763 27405

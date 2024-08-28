@@ -1,0 +1,38 @@
+date:2024-08-27T18:18:38+00:00
+validtle:1
+satid:59924
+launchyear:2024
+epoch:24239.98889912
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31958
+meananomly:86.1401
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.145357392
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0009
+eccentricity:0.0001245
+argumentofperigree:273.9313
+nickname:STARLINK-31958
+idesg:24106C  
+cosparid:2024-106C
+altkm:443.72547396337
+velkms:7.6477207874278
+velkmh:27532
+onumepoch:1466
+onumnow:22598.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:44:01+00:00
+nowjuliandate:2460550.2629477
+nowepochdate:24240.7629398148
+TLE:
+STARLINK-31958
+1 59924U 24106C   24239.98889912  .00003700  00000+0  95749-4 0  9993
+2 59924  43.0009 276.8039 0001245 273.9313  86.1401 15.40712136 14669

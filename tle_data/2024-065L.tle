@@ -1,0 +1,38 @@
+date:2024-08-28T00:53:42+00:00
+validtle:1
+satid:59431
+launchyear:2024
+epoch:24240.61939389
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31613
+meananomly:241.7629
+meanmotion:15.3960
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4411676847
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1643
+eccentricity:0.0001197
+argumentofperigree:118.3497
+nickname:STARLINK-31613
+idesg:24065L  
+cosparid:2024-065L
+altkm:448.59457277646
+velkms:7.6441111131205
+velkmh:27519
+onumepoch:2320
+onumnow:35725.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:51:56+00:00
+nowjuliandate:2460550.5373023
+nowepochdate:24241.0372916667
+TLE:
+STARLINK-31613
+1 59431U 24065L   24240.61939389  .00001659  00000+0  51492-4 0  9994
+2 59431  53.1643   7.7089 0001197 118.3497 241.7629 15.39596322 23201

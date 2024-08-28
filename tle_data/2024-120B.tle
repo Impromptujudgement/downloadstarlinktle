@@ -1,0 +1,38 @@
+date:2024-08-27T16:34:59+00:00
+validtle:1
+satid:60136
+launchyear:2024
+epoch:24240.20604893
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32112
+meananomly:278.3354
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3678631255
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1645
+eccentricity:0.0001073
+argumentofperigree:81.7772
+nickname:STARLINK-32112
+idesg:24120B  
+cosparid:2024-120B
+altkm:448.02860684489
+velkms:7.6447038185308
+velkmh:27521
+onumepoch:1068
+onumnow:16450.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:56:43+00:00
+nowjuliandate:2460550.1909636
+nowepochdate:24240.6909606481
+TLE:
+STARLINK-32112
+1 60136U 24120B   24240.20604893 -.00000739  00000+0 -85093-5 0  9999
+2 60136  53.1645  46.7020 0001073  81.7772 278.3354 15.39621125 10686

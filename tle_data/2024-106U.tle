@@ -1,0 +1,38 @@
+date:2024-08-27T18:08:02+00:00
+validtle:1
+satid:59940
+launchyear:2024
+epoch:24240.39082237
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31946
+meananomly:84.1269
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1786880023
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001727
+argumentofperigree:275.939
+nickname:STARLINK-31946
+idesg:24106U  
+cosparid:2024-106U
+altkm:443.6955886238
+velkms:7.6477728987824
+velkmh:27532
+onumepoch:1476
+onumnow:22746.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:22:47+00:00
+nowjuliandate:2460550.2555875
+nowepochdate:24240.7555787037
+TLE:
+STARLINK-31946
+1 59940U 24106U   24240.39082237  .00003088  00000+0  81165-4 0  9999
+2 59940  43.0014 273.7861 0001727 275.9390  84.1269 15.40700845 14769

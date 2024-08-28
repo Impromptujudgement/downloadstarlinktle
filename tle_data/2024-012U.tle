@@ -1,0 +1,38 @@
+date:2024-08-28T03:36:33+00:00
+validtle:1
+satid:58805
+launchyear:2024
+epoch:24240.91667824
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31105
+meananomly:45.8733
+meanmotion:15.7760
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6715.3923390175
+altitudeatperigee:317
+altitudeatapogee:358
+inclination:42.9943
+eccentricity:0.003077
+argumentofperigree:305.2607
+nickname:STARLINK-31105
+idesg:24012U  
+cosparid:2024-012U
+altkm:323.63795839666
+velkms:7.7238466623937
+velkmh:27806
+onumepoch:3592
+onumnow:56670.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:00:01+00:00
+nowjuliandate:2460550.6503901
+nowepochdate:24241.1503819444
+TLE:
+STARLINK-31105
+1 58805U 24012U   24240.91667824  .00762515  00000+0  39528-2 0  9994
+2 58805  42.9943  56.2651 0030770 305.2607  45.8733 15.77596267 35928

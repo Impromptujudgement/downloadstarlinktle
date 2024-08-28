@@ -1,0 +1,38 @@
+date:2024-08-27T18:30:00+00:00
+validtle:1
+satid:59893
+launchyear:2024
+epoch:24240.25337099
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31963
+meananomly:79.2181
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1576286534
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0029
+eccentricity:0.0001391
+argumentofperigree:280.8519
+nickname:STARLINK-31963
+idesg:24100J  
+cosparid:2024-100J
+altkm:443.61766008566
+velkms:7.6478484461335
+velkmh:27532
+onumepoch:1530
+onumnow:23580.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:04:51+00:00
+nowjuliandate:2460550.2708403
+nowepochdate:24240.7708333333
+TLE:
+STARLINK-31963
+1 59893U 24100J   24240.25337099  .00004114  00000+0  10566-3 0  9991
+2 59893  43.0029  69.4368 0001391 280.8519  79.2181 15.40707979 15303

@@ -1,0 +1,38 @@
+date:2024-08-28T03:30:19+00:00
+validtle:1
+satid:58830
+launchyear:2024
+epoch:24240.87000895
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31253
+meananomly:279.2861
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3688407664
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1587
+eccentricity:0.0001288
+argumentofperigree:80.8287
+nickname:STARLINK-31253
+idesg:24017E  
+cosparid:2024-017E
+altkm:463.99086023397
+velkms:7.6357870850413
+velkmh:27489
+onumepoch:3438
+onumnow:52750.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:52:49+00:00
+nowjuliandate:2460550.6460588
+nowepochdate:24241.1460532407
+TLE:
+STARLINK-31253
+1 58830U 24017E   24240.87000895  .00002644  00000+0  89839-4 0  9993
+2 58830  53.1587 289.5395 0001288  80.8287 279.2861 15.34222856 34389

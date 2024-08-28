@@ -1,0 +1,38 @@
+date:2024-08-28T07:08:49+00:00
+validtle:1
+satid:59040
+launchyear:2024
+epoch:24240.85844645
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31225
+meananomly:74.9988
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1864273298
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0025
+eccentricity:8.71E-5
+argumentofperigree:285.0767
+nickname:STARLINK-31225
+idesg:24038T  
+cosparid:2024-038T
+altkm:487.6705011472
+velkms:7.6232128382539
+velkmh:27444
+onumepoch:2927
+onumnow:44670.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:36:10+00:00
+nowjuliandate:2460550.7977952
+nowepochdate:24241.2977893519
+TLE:
+STARLINK-31225
+1 59040U 24038T   24240.85844645  .00002670  00000+0  11188-3 0  9997
+2 59040  43.0025 295.0728 0000871 285.0767  74.9988 15.25912286 29274

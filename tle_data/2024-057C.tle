@@ -1,0 +1,38 @@
+date:2024-08-28T02:13:38+00:00
+validtle:1
+satid:59322
+launchyear:2024
+epoch:24240.44793158
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31530
+meananomly:80.5030
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1886332433
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9992
+eccentricity:8.35E-5
+argumentofperigree:279.5732
+nickname:STARLINK-31530
+idesg:24057C  
+cosparid:2024-057C
+altkm:443.73169203621
+velkms:7.6477380037843
+velkmh:27532
+onumepoch:2392
+onumnow:36863.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:45:01+00:00
+nowjuliandate:2460550.592804
+nowepochdate:24241.0928009259
+TLE:
+STARLINK-31530
+1 59322U 24057C   24240.44793158  .00000107  00000+0  98056-5 0  9992
+2 59322  42.9992 138.8397 0000835 279.5732  80.5030 15.40697476 23929

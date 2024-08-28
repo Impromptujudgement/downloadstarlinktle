@@ -1,0 +1,38 @@
+date:2024-08-27T13:40:31+00:00
+validtle:1
+satid:60600
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31923
+meananomly:53.8706
+meanmotion:15.8601
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.6092664638
+altitudeatperigee:313
+altitudeatapogee:314
+inclination:53.1569
+eccentricity:6.86E-5
+argumentofperigree:91.829
+nickname:STARLINK-31923
+idesg:24150T  
+cosparid:2024-150T
+altkm:314.43753163047
+velkms:7.7233755031037
+velkmh:27804
+onumepoch:223
+onumnow:3547.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0698056
+nowepochdate:24240.5698032407
+TLE:
+STARLINK-31923
+1 60600U 24150T   24239.91667824 -.01106022  00000+0 -49791-2 0  9992
+2 60600  53.1569  34.2696 0000686  91.8290  53.8706 15.86014288  2231

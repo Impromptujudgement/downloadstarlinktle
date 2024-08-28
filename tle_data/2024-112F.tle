@@ -1,0 +1,38 @@
+date:2024-08-27T17:32:29+00:00
+validtle:1
+satid:60043
+launchyear:2024
+epoch:24239.99334332
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11086
+meananomly:274.6113
+meanmotion:15.6973
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8169928944
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1573
+eccentricity:0.0001102
+argumentofperigree:85.503
+nickname:STARLINK-11086
+idesg:24112F  
+cosparid:2024-112F
+altkm:360.53514637711
+velkms:7.6942288655107
+velkmh:27699
+onumepoch:1349
+onumnow:21187.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:50:25+00:00
+nowjuliandate:2460550.230895
+nowepochdate:24240.7308912037
+TLE:
+STARLINK-11086 [DTC]
+1 60043U 24112F   24239.99334332  .00010824  00000+0  94014-4 0  9995
+2 60043  53.1573 145.4263 0001102  85.5030 274.6113 15.69727042 13493

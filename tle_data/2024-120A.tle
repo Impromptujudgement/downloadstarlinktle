@@ -1,0 +1,38 @@
+date:2024-08-27T16:35:44+00:00
+validtle:1
+satid:60135
+launchyear:2024
+epoch:24240.16889685
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32043
+meananomly:274.7569
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3566591065
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.164
+eccentricity:0.0001203
+argumentofperigree:85.3573
+nickname:STARLINK-32043
+idesg:24120A  
+cosparid:2024-120A
+altkm:448.05544500895
+velkms:7.6446675090018
+velkmh:27521
+onumepoch:1046
+onumnow:16112.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:03:13+00:00
+nowjuliandate:2460550.191492
+nowepochdate:24240.6914814815
+TLE:
+STARLINK-32043
+1 60135U 24120A   24240.16889685  .00001403  00000+0  45050-4 0  9992
+2 60135  53.1640  46.4678 0001203  85.3573 274.7569 15.39624916 10465

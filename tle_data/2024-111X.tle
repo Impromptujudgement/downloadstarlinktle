@@ -1,0 +1,38 @@
+date:2024-08-27T17:37:04+00:00
+validtle:1
+satid:60037
+launchyear:2024
+epoch:24240.05261055
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31918
+meananomly:277.8503
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.389600413
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1613
+eccentricity:0.0001004
+argumentofperigree:82.2616
+nickname:STARLINK-31918
+idesg:24111X  
+cosparid:2024-111X
+altkm:448.06254960464
+velkms:7.6446779585194
+velkmh:27521
+onumepoch:1325
+onumnow:20410.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:15:46+00:00
+nowjuliandate:2460550.2340799
+nowepochdate:24240.7340740741
+TLE:
+STARLINK-31918
+1 60037U 24111X   24240.05261055  .00003656  00000+0  10135-3 0  9993
+2 60037  53.1613 157.6943 0001004  82.2616 277.8503 15.39613770 13257

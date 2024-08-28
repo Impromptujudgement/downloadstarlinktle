@@ -1,0 +1,38 @@
+date:2024-08-28T04:53:36+00:00
+validtle:1
+satid:58677
+launchyear:2023
+epoch:24240.06873093
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31058
+meananomly:126.3972
+meanmotion:15.2590
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.2170046347
+altitudeatperigee:488
+altitudeatapogee:488
+inclination:43.0016
+eccentricity:5.0E-5
+argumentofperigree:233.6833
+nickname:STARLINK-31058
+idesg:23211L  
+cosparid:2023-211L
+altkm:488.05940463589
+velkms:7.6227982085902
+velkmh:27442
+onumepoch:3692
+onumnow:56353.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:38:58+00:00
+nowjuliandate:2460550.7038949
+nowepochdate:24241.2038888889
+TLE:
+STARLINK-31058
+1 58677U 23211L   24240.06873093  .00001048  00000+0  49890-4 0  9996
+2 58677  43.0016   1.7894 0000500 233.6833 126.3972 15.25902093 36927

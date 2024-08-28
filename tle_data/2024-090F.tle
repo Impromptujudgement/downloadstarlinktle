@@ -1,0 +1,38 @@
+date:2024-08-27T21:35:35+00:00
+validtle:1
+satid:59735
+launchyear:2024
+epoch:24240.36599406
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31661
+meananomly:79.0297
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1633908813
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9969
+eccentricity:0.0001727
+argumentofperigree:281.0365
+nickname:STARLINK-31661
+idesg:24090F  
+cosparid:2024-090F
+altkm:443.57614160181
+velkms:7.6478981849451
+velkmh:27532
+onumepoch:1766
+onumnow:27217.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:47:02+00:00
+nowjuliandate:2460550.399713
+nowepochdate:24240.8997106481
+TLE:
+STARLINK-31661
+1 59735U 24090F   24240.36599406  .00005035  00000+0  12769-3 0  9998
+2 59735  42.9969 122.6195 0001727 281.0365  79.0297 15.40706027 17664

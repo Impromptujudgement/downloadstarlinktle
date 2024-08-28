@@ -1,0 +1,38 @@
+date:2024-08-28T02:57:19+00:00
+validtle:1
+satid:58883
+launchyear:2024
+epoch:24240.19456156
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31209
+meananomly:283.0280
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3516105669
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1605
+eccentricity:0.0001606
+argumentofperigree:77.0901
+nickname:STARLINK-31209
+idesg:24020H  
+cosparid:2024-020H
+altkm:463.86839958126
+velkms:7.6359141283614
+velkmh:27489
+onumepoch:3238
+onumnow:49692.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:40:10+00:00
+nowjuliandate:2460550.6231391
+nowepochdate:24241.1231365741
+TLE:
+STARLINK-31209
+1 58883U 24020H   24240.19456156  .00001829  00000+0  65608-4 0  9997
+2 58883  53.1605  43.0792 0001606  77.0901 283.0280 15.34228652 32383

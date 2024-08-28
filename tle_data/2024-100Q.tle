@@ -1,0 +1,38 @@
+date:2024-08-27T18:25:59+00:00
+validtle:1
+satid:59899
+launchyear:2024
+epoch:24239.81749495
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31942
+meananomly:86.0119
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1664933973
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0003
+eccentricity:0.0001614
+argumentofperigree:274.0553
+nickname:STARLINK-31942
+idesg:24100Q  
+cosparid:2024-100Q
+altkm:443.72721207653
+velkms:7.6477306514012
+velkmh:27532
+onumepoch:1523
+onumnow:23479.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:37:12+00:00
+nowjuliandate:2460550.2680453
+nowepochdate:24240.7680439815
+TLE:
+STARLINK-31942
+1 59899U 24100Q   24239.81749495  .00005623  00000+0  14174-3 0  9999
+2 59899  43.0003  72.1865 0001614 274.0553  86.0119 15.40704976 15238

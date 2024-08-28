@@ -1,0 +1,38 @@
+date:2024-08-28T06:22:07+00:00
+validtle:1
+satid:59191
+launchyear:2024
+epoch:24240.69425942
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31551
+meananomly:85.0993
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1766511364
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0053
+eccentricity:0.0001487
+argumentofperigree:274.9694
+nickname:STARLINK-31551
+idesg:24045P  
+cosparid:2024-045P
+altkm:443.72781929433
+velkms:7.6477356486314
+velkmh:27532
+onumepoch:2744
+onumnow:42285.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:39:44+00:00
+nowjuliandate:2460550.7653673
+nowepochdate:24241.2653587963
+TLE:
+STARLINK-31551
+1 59191U 24045P   24240.69425942  .00002366  00000+0  63884-4 0  9992
+2 59191  43.0053  29.0657 0001487 274.9694  85.0993 15.40701535 27444

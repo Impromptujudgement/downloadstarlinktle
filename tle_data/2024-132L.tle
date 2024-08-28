@@ -1,0 +1,38 @@
+date:2024-08-27T15:29:09+00:00
+validtle:1
+satid:60288
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31997
+meananomly:230.5635
+meanmotion:15.4686
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6804.0461731243
+altitudeatperigee:425
+altitudeatapogee:426
+inclination:53.1585
+eccentricity:7.71E-5
+argumentofperigree:110.3685
+nickname:STARLINK-31997
+idesg:24132L  
+cosparid:2024-132L
+altkm:430.37356757242
+velkms:7.6534808361273
+velkmh:27553
+onumepoch:592
+onumnow:9168.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1452495
+nowepochdate:24240.6452430556
+TLE:
+STARLINK-31997
+1 60288U 24132L   24239.91667824 -.02201038  00000+0 -48888-1 0  9993
+2 60288  53.1585 134.1961 0000771 110.3685 230.5635 15.46863807  5925

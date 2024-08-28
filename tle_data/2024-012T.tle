@@ -1,0 +1,38 @@
+date:2024-08-28T03:37:14+00:00
+validtle:1
+satid:58804
+launchyear:2024
+epoch:24240.81795899
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31188
+meananomly:69.1457
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1525386062
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0013
+eccentricity:0.0001642
+argumentofperigree:290.9219
+nickname:STARLINK-31188
+idesg:24012T  
+cosparid:2024-012T
+altkm:487.39006523882
+velkms:7.6235052883231
+velkmh:27445
+onumepoch:3583
+onumnow:54678.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T19:37:52+00:00
+nowjuliandate:2460550.6508636
+nowepochdate:24241.1508564815
+TLE:
+STARLINK-31188
+1 58804U 24012T   24240.81795899  .00002158  00000+0  92264-4 0  9994
+2 58804  43.0013  76.3218 0001642 290.9219  69.1457 15.25923583 35834

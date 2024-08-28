@@ -1,0 +1,38 @@
+date:2024-08-27T23:35:36+00:00
+validtle:1
+satid:59519
+launchyear:2024
+epoch:24240.34762331
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31679
+meananomly:86.8260
+meanmotion:15.4084
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.773133707
+altitudeatperigee:442
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001857
+argumentofperigree:273.2384
+nickname:STARLINK-31679
+idesg:24073J  
+cosparid:2024-073J
+altkm:443.34046003621
+velkms:7.6479441737871
+velkmh:27533
+onumepoch:2036
+onumnow:31396.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:20:35+00:00
+nowjuliandate:2460550.4830619
+nowepochdate:24241.9830555556
+TLE:
+STARLINK-31679
+1 59519U 24073J   24240.34762331 -.00030841  00000+0 -73062-3 0  9994
+2 59519  43.0014 260.0696 0001857 273.2384  86.8260 15.40838239 20366

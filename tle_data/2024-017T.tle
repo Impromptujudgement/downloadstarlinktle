@@ -1,0 +1,38 @@
+date:2024-08-28T03:21:26+00:00
+validtle:1
+satid:58843
+launchyear:2024
+epoch:24240.83772208
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31280
+meananomly:289.6404
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3684097129
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1578
+eccentricity:0.0001221
+argumentofperigree:70.473
+nickname:STARLINK-31280
+idesg:24017T  
+cosparid:2024-017T
+altkm:463.85173713998
+velkms:7.635942071957
+velkmh:27489
+onumepoch:3438
+onumnow:52751.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:06:19+00:00
+nowjuliandate:2460550.639887
+nowepochdate:24241.1398842593
+TLE:
+STARLINK-31280
+1 58843U 24017T   24240.83772208  .00001049  00000+0  42397-4 0  9993
+2 58843  53.1578 289.3350 0001221  70.4730 289.6404 15.34223001 34388

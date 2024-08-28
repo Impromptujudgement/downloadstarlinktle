@@ -1,0 +1,38 @@
+date:2024-08-27T22:57:53+00:00
+validtle:1
+satid:59582
+launchyear:2024
+epoch:24240.47528224
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31701
+meananomly:109.9835
+meanmotion:15.4076
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.9909455376
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0022
+eccentricity:0.0001401
+argumentofperigree:250.0871
+nickname:STARLINK-31701
+idesg:24076U  
+cosparid:2024-076U
+altkm:443.95496363074
+velkms:7.6473773649637
+velkmh:27531
+onumepoch:2061
+onumnow:31762.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:24:24+00:00
+nowjuliandate:2460550.4568714
+nowepochdate:24240.9568634259
+TLE:
+STARLINK-31701
+1 59582U 24076U   24240.47528224  .00048917  00000+0  11683-2 0  9993
+2 59582  43.0022 310.8949 0001401 250.0871 109.9835 15.40764446 20610

@@ -1,0 +1,38 @@
+date:2024-08-28T02:46:18+00:00
+validtle:1
+satid:58932
+launchyear:2024
+epoch:24239.89785763
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31378
+meananomly:241.7765
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3540809356
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1627
+eccentricity:7.62E-5
+argumentofperigree:118.3315
+nickname:STARLINK-31378
+idesg:24027B  
+cosparid:2024-027B
+altkm:464.36516287566
+velkms:7.6353612535265
+velkmh:27487
+onumepoch:3161
+onumnow:48515.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T21:32:55+00:00
+nowjuliandate:2460550.6154973
+nowepochdate:24241.1154861111
+TLE:
+STARLINK-31378
+1 58932U 24027B   24239.89785763  .00002688  00000+0  91121-4 0  9996
+2 58932  53.1627  30.3728 0000762 118.3315 241.7765 15.34227821 31611

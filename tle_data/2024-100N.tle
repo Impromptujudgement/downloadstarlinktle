@@ -1,0 +1,38 @@
+date:2024-08-27T18:27:19+00:00
+validtle:1
+satid:59897
+launchyear:2024
+epoch:24239.80629132
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31928
+meananomly:82.8009
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.167349468
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0021
+eccentricity:0.0001824
+argumentofperigree:277.264
+nickname:STARLINK-31928
+idesg:24100N  
+cosparid:2024-100N
+altkm:443.64896914652
+velkms:7.6478187976878
+velkmh:27532
+onumepoch:1514
+onumnow:23341.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:21:04+00:00
+nowjuliandate:2460550.2689786
+nowepochdate:24240.7689699074
+TLE:
+STARLINK-31928
+1 59897U 24100N   24239.80629132  .00000498  00000+0  19187-4 0  9996
+2 59897  43.0021  72.1030 0001824 277.2640  82.8009 15.40704686 15145

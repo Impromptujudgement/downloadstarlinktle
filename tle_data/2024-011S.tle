@@ -1,0 +1,38 @@
+date:2024-08-28T03:53:13+00:00
+validtle:1
+satid:58781
+launchyear:2024
+epoch:24240.14606038
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31099
+meananomly:273.1446
+meanmotion:15.0492
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8755381215
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1608
+eccentricity:0.0001287
+argumentofperigree:86.9691
+nickname:STARLINK-31099
+idesg:24011S  
+cosparid:2024-011S
+altkm:552.57956366883
+velkms:7.5866995958182
+velkmh:27312
+onumepoch:3541
+onumnow:53304.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:30:20+00:00
+nowjuliandate:2460550.6619607
+nowepochdate:24241.1619560185
+TLE:
+STARLINK-31099
+1 58781U 24011S   24240.14606038  .00000421  00000+0  48773-4 0  9996
+2 58781  53.1608  35.8866 0001287  86.9691 273.1446 15.04924818 35419

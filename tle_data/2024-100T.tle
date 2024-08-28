@@ -1,0 +1,38 @@
+date:2024-08-27T18:23:58+00:00
+validtle:1
+satid:59902
+launchyear:2024
+epoch:24240.24888997
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31914
+meananomly:83.9913
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1587474456
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9997
+eccentricity:0.0001192
+argumentofperigree:276.0808
+nickname:STARLINK-31914
+idesg:24100T  
+cosparid:2024-100T
+altkm:443.71077063055
+velkms:7.6477447442533
+velkmh:27532
+onumepoch:1520
+onumnow:23426.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:58:24+00:00
+nowjuliandate:2460550.266653
+nowepochdate:24240.7666435185
+TLE:
+STARLINK-31914
+1 59902U 24100T   24240.24888997  .00003581  00000+0  92917-4 0  9997
+2 59902  42.9997  69.3993 0001192 276.0808  83.9913 15.40707600 15201

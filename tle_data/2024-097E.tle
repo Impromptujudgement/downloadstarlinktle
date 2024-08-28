@@ -1,0 +1,38 @@
+date:2024-08-27T19:04:21+00:00
+validtle:1
+satid:59839
+launchyear:2024
+epoch:24240.22831476
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31887
+meananomly:84.9592
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1541660089
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0003
+eccentricity:0.0001238
+argumentofperigree:275.1123
+nickname:STARLINK-31887
+idesg:24097E  
+cosparid:2024-097E
+altkm:443.71718353952
+velkms:7.64773499882
+velkmh:27532
+onumepoch:1606
+onumnow:24741.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:28:46+00:00
+nowjuliandate:2460550.2946946
+nowepochdate:24240.06.7946875
+TLE:
+STARLINK-31887
+1 59839U 24097E   24240.22831476  .00002040  00000+0  56059-4 0  9995
+2 59839  43.0003 216.4701 0001238 275.1123  84.9592 15.40709152 16066

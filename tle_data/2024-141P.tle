@@ -1,0 +1,38 @@
+date:2024-08-27T14:15:46+00:00
+validtle:1
+satid:60411
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32244
+meananomly:171.4355
+meanmotion:15.7925
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6710.7136456551
+altitudeatperigee:332
+altitudeatapogee:333
+inclination:53.1525
+eccentricity:9.05E-5
+argumentofperigree:55.8697
+nickname:STARLINK-32244
+idesg:24141P  
+cosparid:2024-141P
+altkm:344.79779242032
+velkms:7.7013432363209
+velkmh:27725
+onumepoch:383
+onumnow:6059.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0942851
+nowepochdate:24240.5942824074
+TLE:
+STARLINK-32244
+1 60411U 24141P   24239.91667824 -.00684501  00000+0 -40392-2 0  9992
+2 60411  53.1525 326.0432 0000905  55.8697 171.4355 15.79246399  3834

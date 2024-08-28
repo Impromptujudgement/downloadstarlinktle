@@ -1,0 +1,38 @@
+date:2024-08-27T17:52:46+00:00
+validtle:1
+satid:59963
+launchyear:2024
+epoch:24240.02200094
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31991
+meananomly:277.5805
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.352855484
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1584
+eccentricity:0.0001265
+argumentofperigree:82.5344
+nickname:STARLINK-31991
+idesg:24107U  
+cosparid:2024-107U
+altkm:448.0052312914
+velkms:7.6447216053202
+velkmh:27521
+onumepoch:1409
+onumnow:21704.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:31:41+00:00
+nowjuliandate:2460550.2449793
+nowepochdate:24240.7449768519
+TLE:
+STARLINK-31991
+1 59963U 24107U   24240.02200094  .00003964  00000+0  10901-3 0  9990
+2 59963  53.1584 146.9224 0001265  82.5344 277.5805 15.39626203 14093

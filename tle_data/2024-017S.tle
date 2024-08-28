@@ -1,0 +1,38 @@
+date:2024-08-28T03:22:06+00:00
+validtle:1
+satid:58842
+launchyear:2024
+epoch:24240.38604471
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31228
+meananomly:255.2121
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3568248015
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1562
+eccentricity:5.01E-5
+argumentofperigree:104.8937
+nickname:STARLINK-31228
+idesg:24017S  
+cosparid:2024-017S
+altkm:464.20814970058
+velkms:7.6355379589113
+velkmh:27488
+onumepoch:3429
+onumnow:52620.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:15:54+00:00
+nowjuliandate:2460550.6403554
+nowepochdate:24241.1403472222
+TLE:
+STARLINK-31228
+1 58842U 24017S   24240.38604471  .00002866  00000+0  96420-4 0  9992
+2 58842  53.1562 291.4940 0000501 104.8937 255.2121 15.34226898 34292

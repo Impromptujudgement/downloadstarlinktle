@@ -1,0 +1,38 @@
+date:2024-08-28T04:43:49+00:00
+validtle:1
+satid:58686
+launchyear:2023
+epoch:24240.6171381
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31137
+meananomly:90.8222
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.179266776
+altitudeatperigee:488
+altitudeatapogee:488
+inclination:43.0054
+eccentricity:4.99E-5
+argumentofperigree:269.2572
+nickname:STARLINK-31137
+idesg:23211V  
+cosparid:2023-211V
+altkm:487.82332554876
+velkms:7.6230392881632
+velkmh:27443
+onumepoch:3828
+onumnow:58420.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:48:41+00:00
+nowjuliandate:2460550.6971015
+nowepochdate:24241.1970949074
+TLE:
+STARLINK-31137
+1 58686U 23211V   24240.61713810  .00000612  00000+0  33236-4 0  9990
+2 58686  43.0054 358.1559 0000499 269.2572  90.8222 15.25914673 38289

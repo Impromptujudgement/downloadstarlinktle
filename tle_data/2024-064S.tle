@@ -1,0 +1,38 @@
+date:2024-08-28T01:07:23+00:00
+validtle:1
+satid:59414
+launchyear:2024
+epoch:24240.60068079
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31457
+meananomly:96.8951
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1697582753
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.003
+eccentricity:0.0002085
+argumentofperigree:263.1668
+nickname:STARLINK-31457
+idesg:24064S  
+cosparid:2024-064S
+altkm:443.97820824954
+velkms:7.6474512544163
+velkmh:27531
+onumepoch:2352
+onumnow:36244.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:24:59+00:00
+nowjuliandate:2460550.5468037
+nowepochdate:24241.0467939815
+TLE:
+STARLINK-31457
+1 59414U 24064S   24240.60068079  .00000990  00000+0  30976-4 0  9993
+2 59414  43.0030 350.6108 0002085 263.1668  96.8951 15.40703870 23520

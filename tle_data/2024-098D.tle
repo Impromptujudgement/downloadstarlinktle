@@ -1,0 +1,38 @@
+date:2024-08-27T18:48:34+00:00
+validtle:1
+satid:59861
+launchyear:2024
+epoch:24240.58334491
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31703
+meananomly:132.7495
+meanmotion:15.5254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6787.4543162282
+altitudeatperigee:404
+altitudeatapogee:415
+inclination:42.9966
+eccentricity:0.0007795
+argumentofperigree:150.9024
+nickname:STARLINK-31703
+idesg:24098D  
+cosparid:2024-098D
+altkm:425.62036300352
+velkms:7.6543559554979
+velkmh:27556
+onumepoch:1540
+onumnow:23912.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:00:01+00:00
+nowjuliandate:2460550.2837276
+nowepochdate:24240.7837268519
+TLE:
+STARLINK-31703
+1 59861U 24098D   24240.58334491  .00144608  00000+0  22589-2 0  9991
+2 59861  42.9966 220.3108 0007795 150.9024 132.7495 15.52539209 15404

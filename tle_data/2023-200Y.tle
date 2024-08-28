@@ -1,0 +1,38 @@
+date:2024-08-28T07:47:26+00:00
+validtle:1
+satid:58611
+launchyear:2023
+epoch:24240.51546352
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31061
+meananomly:96.4155
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.197096646
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001307
+argumentofperigree:263.6538
+nickname:STARLINK-31061
+idesg:23200Y  
+cosparid:2023-200Y
+altkm:558.93971489821
+velkms:7.5837372074751
+velkmh:27301
+onumepoch:3948
+onumnow:59332.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:22:16+00:00
+nowjuliandate:2460550.8246156
+nowepochdate:24241.3246064815
+TLE:
+STARLINK-31061
+1 58611U 23200Y   24240.51546352 -.00000166  00000+0  28137-5 0  9990
+2 58611  43.0034 328.3326 0001307 263.6538  96.4155 15.02542987 39485

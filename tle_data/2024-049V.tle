@@ -1,0 +1,38 @@
+date:2024-08-28T05:45:50+00:00
+validtle:1
+satid:59250
+launchyear:2024
+epoch:24240.2567436
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31407
+meananomly:78.4602
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1600640197
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0024
+eccentricity:0.00015
+argumentofperigree:281.6086
+nickname:STARLINK-31407
+idesg:24049V  
+cosparid:2024-049V
+altkm:443.59287362127
+velkms:7.6478775793658
+velkmh:27532
+onumepoch:2659
+onumnow:40978.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:09:43+00:00
+nowjuliandate:2460550.7401634
+nowepochdate:24241..240162037
+TLE:
+STARLINK-31407
+1 59250U 24049V   24240.25674360  .00006539  00000+0  16364-3 0  9990
+2 59250  43.0024  84.0673 0001500 281.6086  78.4602 15.40707154 26594

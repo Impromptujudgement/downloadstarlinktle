@@ -1,0 +1,38 @@
+date:2024-08-27T17:45:10+00:00
+validtle:1
+satid:60025
+launchyear:2024
+epoch:24240.04427035
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31864
+meananomly:271.1671
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3800037681
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.159
+eccentricity:0.0001118
+argumentofperigree:88.9458
+nickname:STARLINK-31864
+idesg:24111K  
+cosparid:2024-111K
+altkm:476.1270320612
+velkms:7.6289427551124
+velkmh:27464
+onumepoch:1334
+onumnow:20423.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:03:45+00:00
+nowjuliandate:2460550.2397084
+nowepochdate:24240.7396990741
+TLE:
+STARLINK-31864
+1 60025U 24111K   24240.04427035  .00010758  00000+0  37491-3 0  9996
+2 60025  53.1590 155.4443 0001118  88.9458 271.1671 15.30191329 13347

@@ -1,0 +1,38 @@
+date:2024-08-27T21:54:10+00:00
+validtle:1
+satid:59702
+launchyear:2024
+epoch:24240.06885853
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32087
+meananomly:70.0914
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1729788776
+altitudeatperigee:444
+altitudeatapogee:445
+inclination:43.0049
+eccentricity:7.55E-5
+argumentofperigree:289.9862
+nickname:STARLINK-32087
+idesg:24086W  
+cosparid:2024-086W
+altkm:443.63526467547
+velkms:7.6478372992279
+velkmh:27532
+onumepoch:1824
+onumnow:28115.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:39:09+00:00
+nowjuliandate:2460550.412619
+nowepochdate:24240.9126157407
+TLE:
+STARLINK-32087
+1 59702U 24086W   24240.06885853 -.00001222  00000+0 -21987-4 0  9997
+2 59702  43.0049   4.7248 0000755 289.9862  70.0914 15.40702779 18249

@@ -1,0 +1,38 @@
+date:2024-08-27T13:48:01+00:00
+validtle:1
+satid:60589
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32169
+meananomly:76.8791
+meanmotion:15.8532
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.5707240762
+altitudeatperigee:315
+altitudeatapogee:316
+inclination:53.1571
+eccentricity:6.44E-5
+argumentofperigree:50.7479
+nickname:STARLINK-32169
+idesg:24150G  
+cosparid:2024-150G
+altkm:318.8009699957
+velkms:7.7221156358141
+velkmh:27800
+onumepoch:223
+onumnow:3545.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0750218
+nowepochdate:24240.5750115741
+TLE:
+STARLINK-32169
+1 60589U 24150G   24239.91667824 -.01015663  00000+0 -46798-2 0  9992
+2 60589  53.1571  34.3064 0000644  50.7479  76.8791 15.85317200  2235

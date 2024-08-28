@@ -1,0 +1,38 @@
+date:2024-08-28T00:55:05+00:00
+validtle:1
+satid:59429
+launchyear:2024
+epoch:24240.62867272
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31773
+meananomly:295.9596
+meanmotion:15.3960
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4312903843
+altitudeatperigee:446
+altitudeatapogee:449
+inclination:53.1626
+eccentricity:0.0001786
+argumentofperigree:64.1592
+nickname:STARLINK-31773
+idesg:24065J  
+cosparid:2024-065J
+altkm:447.66448831762
+velkms:7.6451469544171
+velkmh:27523
+onumepoch:2320
+onumnow:35725.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:05:17+00:00
+nowjuliandate:2460550.5382588
+nowepochdate:24241.0382523148
+TLE:
+STARLINK-31773
+1 59429U 24065J   24240.62867272 -.00003106  00000+0 -67728-4 0  9993
+2 59429  53.1626   7.7715 0001786  64.1592 295.9596 15.39599664 23209

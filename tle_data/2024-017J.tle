@@ -1,0 +1,38 @@
+date:2024-08-28T03:27:36+00:00
+validtle:1
+satid:58834
+launchyear:2024
+epoch:24240.86069231
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31171
+meananomly:272.9941
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3713973615
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1589
+eccentricity:0.0001546
+argumentofperigree:87.1238
+nickname:STARLINK-31171
+idesg:24017J  
+cosparid:2024-017J
+altkm:464.08043518487
+velkms:7.6356885666838
+velkmh:27488
+onumepoch:3438
+onumnow:52750.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:39:24+00:00
+nowjuliandate:2460550.6441683
+nowepochdate:24241.1441666667
+TLE:
+STARLINK-31171
+1 58834U 24017J   24240.86069231  .00000697  00000+0  31930-4 0  9990
+2 58834  53.1589 289.4821 0001546  87.1238 272.9941 15.34221996 34384

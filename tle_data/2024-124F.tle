@@ -1,0 +1,38 @@
+date:2024-08-27T16:11:25+00:00
+validtle:1
+satid:60188
+launchyear:2024
+epoch:24239.74728172
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11189
+meananomly:290.2143
+meanmotion:15.6977
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.6822079076
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1568
+eccentricity:0.0001034
+argumentofperigree:69.8986
+nickname:STARLINK-11189
+idesg:24124F  
+cosparid:2024-124F
+altkm:360.21927354737
+velkms:7.6945126845136
+velkmh:27700
+onumepoch:858
+onumnow:13483.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T17:56:05+00:00
+nowjuliandate:2460550.1746005
+nowepochdate:24240.6745949074
+TLE:
+STARLINK-11189 [DTC]
+1 60188U 24124F   24239.74728172  .00104751  00000+0  85632-3 0  9998
+2 60188  53.1568  41.9465 0001034  69.8986 290.2143 15.69774145  8587

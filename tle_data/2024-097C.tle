@@ -1,0 +1,38 @@
+date:2024-08-27T19:07:56+00:00
+validtle:1
+satid:59837
+launchyear:2024
+epoch:24240.15668149
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31927
+meananomly:69.3169
+meanmotion:15.4075
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.0368106432
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0045
+eccentricity:0.000182
+argumentofperigree:290.7493
+nickname:STARLINK-31927
+idesg:24097C  
+cosparid:2024-097C
+altkm:443.23610848593
+velkms:7.6482084597783
+velkmh:27534
+onumepoch:1605
+onumnow:24738.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:45:37+00:00
+nowjuliandate:2460550.2971787
+nowepochdate:24240.7971759259
+TLE:
+STARLINK-31927
+1 59837U 24097C   24240.15668149  .00004060  00000+0  10424-3 0  9999
+2 59837  43.0045 216.7943 0001820 290.7493  69.3169 15.40748908 16059

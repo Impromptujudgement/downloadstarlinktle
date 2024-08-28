@@ -1,0 +1,38 @@
+date:2024-08-28T00:51:42+00:00
+validtle:1
+satid:59434
+launchyear:2024
+epoch:24240.63331335
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31580
+meananomly:312.9269
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3810384723
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1633
+eccentricity:9.88E-5
+argumentofperigree:47.1819
+nickname:STARLINK-31580
+idesg:24065P  
+cosparid:2024-065P
+altkm:447.68850237111
+velkms:7.645091990716
+velkmh:27522
+onumepoch:2320
+onumnow:35725.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:11:58+00:00
+nowjuliandate:2460550.5359059
+nowepochdate:24241.0359027778
+TLE:
+STARLINK-31580
+1 59434U 24065P   24240.63331335  .00001998  00000+0  59908-4 0  9992
+2 59434  53.1633   7.7976 0000988  47.1819 312.9269 15.39616667 23208

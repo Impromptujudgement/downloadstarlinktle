@@ -1,0 +1,38 @@
+date:2024-08-28T07:00:13+00:00
+validtle:1
+satid:59079
+launchyear:2024
+epoch:24240.65453186
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31257
+meananomly:85.7837
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1657256707
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0017
+eccentricity:0.0001009
+argumentofperigree:274.2899
+nickname:STARLINK-31257
+idesg:24041F  
+cosparid:2024-041F
+altkm:487.75357871218
+velkms:7.6231091894239
+velkmh:27443
+onumepoch:2882
+onumnow:43986.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:42:32+00:00
+nowjuliandate:2460550.7918212
+nowepochdate:24241.2918171296
+TLE:
+STARLINK-31257
+1 59079U 24041F   24240.65453186  .00000182  00000+0  16804-4 0  9994
+2 59079  43.0017 223.5851 0001009 274.2899  85.7837 15.25919187 28820

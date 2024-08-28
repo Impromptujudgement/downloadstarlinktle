@@ -1,0 +1,38 @@
+date:2024-08-27T22:03:01+00:00
+validtle:1
+satid:59689
+launchyear:2024
+epoch:24239.63297133
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32105
+meananomly:69.4382
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1587444937
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0025
+eccentricity:6.14E-5
+argumentofperigree:290.6409
+nickname:STARLINK-32105
+idesg:24086H  
+cosparid:2024-086H
+altkm:443.64902402363
+velkms:7.6478139273278
+velkmh:27532
+onumepoch:1809
+onumnow:27891.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T15:11:29+00:00
+nowjuliandate:2460550.4187619
+nowepochdate:24240.9187615741
+TLE:
+STARLINK-32105
+1 59689U 24086H   24239.63297133  .00001492  00000+0  42966-4 0  9997
+2 59689  43.0025   7.4808 0000614 290.6409  69.4382 15.40707601 18092

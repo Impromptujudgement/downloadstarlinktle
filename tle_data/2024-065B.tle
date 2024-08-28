@@ -1,0 +1,38 @@
+date:2024-08-28T00:59:58+00:00
+validtle:1
+satid:59422
+launchyear:2024
+epoch:24240.01571763
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11090
+meananomly:308.3318
+meanmotion:15.7148
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.8086584191
+altitudeatperigee:354
+altitudeatapogee:355
+inclination:53.1569
+eccentricity:6.09E-5
+argumentofperigree:51.7756
+nickname:STARLINK-11090
+idesg:24065B  
+cosparid:2024-065B
+altkm:355.33275925913
+velkms:7.6973166862767
+velkmh:27710
+onumepoch:2352
+onumnow:36977.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:22:38+00:00
+nowjuliandate:2460550.5416508
+nowepochdate:24241.0416435185
+TLE:
+STARLINK-11090 [DTC]
+1 59422U 24065B   24240.01571763  .00000237  00000+0  64396-5 0  9995
+2 59422  53.1569 340.6783 0000609  51.7756 308.3318 15.71478877 23523

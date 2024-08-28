@@ -1,0 +1,38 @@
+date:2024-08-28T07:52:56+00:00
+validtle:1
+satid:58603
+launchyear:2023
+epoch:24240.9376336
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31080
+meananomly:81.2530
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.165144314
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0028
+eccentricity:0.0001284
+argumentofperigree:278.8167
+nickname:STARLINK-31080
+idesg:23200Q  
+cosparid:2023-200Q
+altkm:558.67095065735
+velkms:7.5840134672321
+velkmh:27302
+onumepoch:3935
+onumnow:59131.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:30:12+00:00
+nowjuliandate:2460550.8284338
+nowepochdate:24241.3284259259
+TLE:
+STARLINK-31080
+1 58603U 23200Q   24240.93763360  .00005730  00000+0  43871-3 0  9998
+2 58603  43.0028 326.3375 0001284 278.8167  81.2530 15.02553368 39351

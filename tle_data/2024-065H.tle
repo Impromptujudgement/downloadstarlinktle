@@ -1,0 +1,38 @@
+date:2024-08-28T00:55:47+00:00
+validtle:1
+satid:59428
+launchyear:2024
+epoch:24240.58334491
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31752
+meananomly:13.2874
+meanmotion:15.7970
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6709.4397940463
+altitudeatperigee:329
+altitudeatapogee:334
+inclination:53.1526
+eccentricity:0.0003994
+argumentofperigree:4.9327
+nickname:STARLINK-31752
+idesg:24065H  
+cosparid:2024-065H
+altkm:328.87945784837
+velkms:7.7151082656468
+velkmh:27774
+onumepoch:605
+onumnow:9564.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:00:01+00:00
+nowjuliandate:2460550.5387421
+nowepochdate:24241.0387384259
+TLE:
+STARLINK-31752
+1 59428U 24065H   24240.58334491  .00255524  00000+0  13295-2 0  9998
+2 59428  53.1526 350.8928 0003994   4.9327  13.2874 15.79696173  6057

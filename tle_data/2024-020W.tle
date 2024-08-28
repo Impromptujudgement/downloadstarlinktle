@@ -1,0 +1,38 @@
+date:2024-08-28T02:48:21+00:00
+validtle:1
+satid:58896
+launchyear:2024
+epoch:24239.19398709
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31221
+meananomly:32.6094
+meanmotion:15.3492
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6839.3057428996
+altitudeatperigee:458
+altitudeatapogee:464
+inclination:53.1616
+eccentricity:0.0004359
+argumentofperigree:327.464
+nickname:STARLINK-31221
+idesg:24020W  
+cosparid:2024-020W
+altkm:459.55953870263
+velkms:7.6395845709555
+velkmh:27503
+onumepoch:3328
+onumnow:51111.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T04:39:20+00:00
+nowjuliandate:2460550.6169173
+nowepochdate:24241.1169097222
+TLE:
+STARLINK-31221
+1 58896U 24020W   24239.19398709  .00043630  00000+0  12736-2 0  9996
+2 58896  53.1616  47.5005 0004359 327.4640  32.6094 15.34917113 33283

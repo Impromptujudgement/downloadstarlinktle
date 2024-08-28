@@ -1,0 +1,38 @@
+date:2024-08-28T01:53:54+00:00
+validtle:1
+satid:59348
+launchyear:2024
+epoch:24239.18778967
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31605
+meananomly:89.5675
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1947084484
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0033
+eccentricity:0.0001408
+argumentofperigree:270.5021
+nickname:STARLINK-31605
+idesg:24060A  
+cosparid:2024-060A
+altkm:443.82503530525
+velkms:7.6476368148421
+velkmh:27531
+onumepoch:2401
+onumnow:37021.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T04:30:25+00:00
+nowjuliandate:2460550.5791064
+nowepochdate:24241.0790972222
+TLE:
+STARLINK-31605
+1 59348U 24060A   24239.18778967  .00001463  00000+0  42281-4 0  9998
+2 59348  43.0033 208.4448 0001408 270.5021  89.5675 15.40695418 24014

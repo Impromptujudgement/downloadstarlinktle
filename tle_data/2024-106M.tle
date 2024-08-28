@@ -1,0 +1,38 @@
+date:2024-08-27T18:12:40+00:00
+validtle:1
+satid:59933
+launchyear:2024
+epoch:24239.38528111
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31853
+meananomly:95.6890
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1468304127
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0013
+eccentricity:0.0001132
+argumentofperigree:264.3838
+nickname:STARLINK-31853
+idesg:24106M  
+cosparid:2024-106M
+altkm:443.86067755831
+velkms:7.6475701236883
+velkmh:27531
+onumepoch:1456
+onumnow:22453.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T09:14:48+00:00
+nowjuliandate:2460550.2588064
+nowepochdate:24240.7587962963
+TLE:
+STARLINK-31853
+1 59933U 24106M   24239.38528111  .00010064  00000+0  24777-3 0  9991
+2 59933  43.0013 280.0076 0001132 264.3838  95.6890 15.40711637 14564

@@ -1,0 +1,38 @@
+date:2024-08-27T17:31:48+00:00
+validtle:1
+satid:60044
+launchyear:2024
+epoch:24239.98843436
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11148
+meananomly:248.1461
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8330663602
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1582
+eccentricity:3.59E-5
+argumentofperigree:111.9595
+nickname:STARLINK-11148
+idesg:24112G  
+cosparid:2024-112G
+altkm:360.70096726931
+velkms:7.6940487309469
+velkmh:27699
+onumepoch:1349
+onumnow:21187.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:43:21+00:00
+nowjuliandate:2460550.2304183
+nowepochdate:24240.7304166667
+TLE:
+STARLINK-11148 [DTC]
+1 60044U 24112G   24239.98843436  .00003634  00000+0  34818-4 0  9992
+2 60044  53.1582 145.3919 0000359 111.9595 248.1461 15.69721425 13495

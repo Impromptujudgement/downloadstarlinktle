@@ -1,0 +1,38 @@
+date:2024-08-28T05:03:16+00:00
+validtle:1
+satid:58639
+launchyear:2023
+epoch:24240.02667571
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31070
+meananomly:147.4530
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1916770146
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:42.9959
+eccentricity:0.0001068
+argumentofperigree:212.6255
+nickname:STARLINK-31070
+idesg:23203X  
+cosparid:2023-203X
+altkm:488.4478262608
+velkms:7.6223531937273
+velkmh:27440
+onumepoch:3799
+onumnow:57987.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:38:25+00:00
+nowjuliandate:2460550.7106041
+nowepochdate:24241.2106018519
+TLE:
+STARLINK-31070
+1 58639U 23203X   24240.02667571  .00001951  00000+0  84389-4 0  9998
+2 58639  42.9959 345.5900 0001068 212.6255 147.4530 15.25910536 37994

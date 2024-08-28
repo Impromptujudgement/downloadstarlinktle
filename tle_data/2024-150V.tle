@@ -1,0 +1,38 @@
+date:2024-08-27T13:39:10+00:00
+validtle:1
+satid:60602
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31983
+meananomly:78.7586
+meanmotion:15.8614
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.2617813274
+altitudeatperigee:313
+altitudeatapogee:314
+inclination:53.1569
+eccentricity:6.2E-5
+argumentofperigree:70.1538
+nickname:STARLINK-31983
+idesg:24150V  
+cosparid:2024-150V
+altkm:313.97053505086
+velkms:7.7232786695464
+velkmh:27804
+onumepoch:211
+onumnow:3357.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0688681
+nowepochdate:24240.5688657407
+TLE:
+STARLINK-31983
+1 60602U 24150V   24239.91667824 -.01121270  00000+0 -50267-2 0  9996
+2 60602  53.1569  34.2628 0000620  70.1538  78.7586 15.86137835  2114

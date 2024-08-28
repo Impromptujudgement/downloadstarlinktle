@@ -1,0 +1,38 @@
+date:2024-08-28T05:49:18+00:00
+validtle:1
+satid:59245
+launchyear:2024
+epoch:24240.29745084
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31268
+meananomly:302.6056
+meanmotion:15.4295
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6815.5326450248
+altitudeatperigee:436
+altitudeatapogee:439
+inclination:43.0017
+eccentricity:0.000238
+argumentofperigree:57.5031
+nickname:STARLINK-31268
+idesg:24049Q  
+cosparid:2024-049Q
+altkm:436.29601974397
+velkms:7.6523537838509
+velkmh:27548
+onumepoch:2660
+onumnow:41057.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:08:20+00:00
+nowjuliandate:2460550.7425751
+nowepochdate:24241.2425694444
+TLE:
+STARLINK-31268
+1 59245U 24049Q   24240.29745084  .00018749  00000+0  42209-3 0  9993
+2 59245  43.0017  83.5127 0002380  57.5031 302.6056 15.42954974 26608

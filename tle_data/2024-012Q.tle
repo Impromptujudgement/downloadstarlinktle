@@ -1,0 +1,38 @@
+date:2024-08-28T03:39:18+00:00
+validtle:1
+satid:58801
+launchyear:2024
+epoch:24240.82248607
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31170
+meananomly:58.3560
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1862323417
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:42.998
+eccentricity:0.0001126
+argumentofperigree:301.7181
+nickname:STARLINK-31170
+idesg:24012Q  
+cosparid:2024-012Q
+altkm:487.41904072698
+velkms:7.6234917800971
+velkmh:27445
+onumepoch:3583
+onumnow:54678.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T19:44:23+00:00
+nowjuliandate:2460550.6522978
+nowepochdate:24241.1522916667
+TLE:
+STARLINK-31170
+1 58801U 24012Q   24240.82248607  .00001586  00000+0  70454-4 0  9993
+2 58801  42.9980  76.3594 0001126 301.7181  58.3560 15.25912351 35831

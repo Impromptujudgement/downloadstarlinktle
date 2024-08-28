@@ -1,0 +1,38 @@
+date:2024-08-27T23:10:00+00:00
+validtle:1
+satid:59564
+launchyear:2024
+epoch:24239.4921019
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31747
+meananomly:94.0850
+meanmotion:15.4068
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2255747142
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0008
+eccentricity:0.0001155
+argumentofperigree:265.9874
+nickname:STARLINK-31747
+idesg:24076A  
+cosparid:2024-076A
+altkm:443.91896267305
+velkms:7.6475488253913
+velkmh:27531
+onumepoch:2053
+onumnow:31668.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:48:38+00:00
+nowjuliandate:2460550.465278
+nowepochdate:24241.9652777778
+TLE:
+STARLINK-31747
+1 59564U 24076A   24239.49210190  .00003376  00000+0  88074-4 0  9993
+2 59564  43.0008 317.2945 0001155 265.9874  94.0850 15.40684962 20531

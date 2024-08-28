@@ -1,0 +1,38 @@
+date:2024-08-27T17:09:05+00:00
+validtle:1
+satid:60077
+launchyear:2024
+epoch:24239.85349138
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32032
+meananomly:290.9559
+meanmotion:15.3954
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.5941817407
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1595
+eccentricity:0.0001472
+argumentofperigree:69.1603
+nickname:STARLINK-32032
+idesg:24113U  
+cosparid:2024-113U
+altkm:448.00123885518
+velkms:7.6448609021476
+velkmh:27521
+onumepoch:1145
+onumnow:17641.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:29:02+00:00
+nowjuliandate:2460550.2146526
+nowepochdate:24240.7146412037
+TLE:
+STARLINK-32032
+1 60077U 24113U   24239.85349138  .00019608  00000+0  50016-3 0  9990
+2 60077  53.1595  83.9650 0001472  69.1603 290.9559 15.39544551 11452

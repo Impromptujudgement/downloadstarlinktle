@@ -1,0 +1,38 @@
+date:2024-08-27T14:10:58+00:00
+validtle:1
+satid:60417
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32255
+meananomly:190.4252
+meanmotion:15.7895
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6711.5665844483
+altitudeatperigee:333
+altitudeatapogee:334
+inclination:53.1525
+eccentricity:8.84E-5
+argumentofperigree:55.0467
+nickname:STARLINK-32255
+idesg:24141V  
+cosparid:2024-141V
+altkm:350.00221634189
+velkms:7.6982931884179
+velkmh:27714
+onumepoch:382
+onumnow:6042.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0909515
+nowepochdate:24240.5909490741
+TLE:
+STARLINK-32255
+1 60417U 24141V   24239.91667824 -.00728108  00000+0 -43784-2 0  9998
+2 60417  53.1525 326.0055 0000884  55.0467 190.4252 15.78945361  3824

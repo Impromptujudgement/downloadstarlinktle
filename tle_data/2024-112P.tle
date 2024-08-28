@@ -1,0 +1,38 @@
+date:2024-08-27T17:26:56+00:00
+validtle:1
+satid:60051
+launchyear:2024
+epoch:24240.05783952
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31811
+meananomly:263.7087
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3508251143
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1603
+eccentricity:0.0001101
+argumentofperigree:96.4043
+nickname:STARLINK-31811
+idesg:24112P  
+cosparid:2024-112P
+altkm:448.1996333785
+velkms:7.6445028086014
+velkmh:27520
+onumepoch:1331
+onumnow:20491.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:23:17+00:00
+nowjuliandate:2460550.2270445
+nowepochdate:24240..727037037
+TLE:
+STARLINK-31811
+1 60051U 24112P   24240.05783952  .00003163  00000+0  88996-4 0  9999
+2 60051  53.1603 159.6165 0001101  96.4043 263.7087 15.39626890 13314

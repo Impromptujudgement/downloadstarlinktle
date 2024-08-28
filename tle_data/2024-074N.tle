@@ -1,0 +1,38 @@
+date:2024-08-27T23:17:25+00:00
+validtle:1
+satid:59546
+launchyear:2024
+epoch:24239.41448478
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31519
+meananomly:79.2095
+meanmotion:15.4076
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.9974925881
+altitudeatperigee:442
+altitudeatapogee:445
+inclination:43.0018
+eccentricity:0.0002269
+argumentofperigree:280.8506
+nickname:STARLINK-31519
+idesg:24074N  
+cosparid:2024-074N
+altkm:443.34535072422
+velkms:7.6480640782063
+velkmh:27533
+onumepoch:2006
+onumnow:30947.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T09:56:51+00:00
+nowjuliandate:2460550.4704335
+nowepochdate:24241.9704282407
+TLE:
+STARLINK-31519
+1 59546U 24074N   24239.41448478 -.00013915  00000+0 -32575-3 0  9991
+2 59546  43.0018 290.4977 0002269 280.8506  79.2095 15.40762228 20060

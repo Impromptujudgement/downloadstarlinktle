@@ -1,0 +1,38 @@
+date:2024-08-28T07:54:21+00:00
+validtle:1
+satid:58601
+launchyear:2023
+epoch:24240.940974
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31074
+meananomly:98.4923
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.216331013
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001124
+argumentofperigree:261.5792
+nickname:STARLINK-31074
+idesg:23200N  
+cosparid:2023-200N
+altkm:558.97265034778
+velkms:7.583711703579
+velkmh:27301
+onumepoch:3954
+onumnow:59416.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:35:00+00:00
+nowjuliandate:2460550.8294132
+nowepochdate:24241.3294097222
+TLE:
+STARLINK-31074
+1 58601U 23200N   24240.94097400  .00001675  00000+0  13905-3 0  9991
+2 58601  43.0025 326.3657 0001124 261.5792  98.4923 15.02536738 39544

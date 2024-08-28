@@ -1,0 +1,38 @@
+date:2024-08-27T17:51:27+00:00
+validtle:1
+satid:60016
+launchyear:2024
+epoch:24240.02916248
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31978
+meananomly:280.2235
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3443557221
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1597
+eccentricity:9.95E-5
+argumentofperigree:79.8882
+nickname:STARLINK-31978
+idesg:24111A  
+cosparid:2024-111A
+altkm:447.99020038088
+velkms:7.6447336861501
+velkmh:27521
+onumepoch:1320
+onumnow:20323.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:42:00+00:00
+nowjuliandate:2460550.2440645
+nowepochdate:24240.06.7440625
+TLE:
+STARLINK-31978
+1 60016U 24111A   24240.02916248  .00011648  00000+0  30065-3 0  9992
+2 60016  53.1597 158.2652 0000995  79.8882 280.2235 15.39629079 13208

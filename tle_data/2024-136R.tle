@@ -1,0 +1,38 @@
+date:2024-08-27T14:49:46+00:00
+validtle:1
+satid:60344
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32077
+meananomly:114.2415
+meanmotion:15.6607
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6748.3154691053
+altitudeatperigee:370
+altitudeatapogee:371
+inclination:53.1556
+eccentricity:9.44E-5
+argumentofperigree:106.0702
+nickname:STARLINK-32077
+idesg:24136R  
+cosparid:2024-136R
+altkm:380.12648881989
+velkms:7.6814484405392
+velkmh:27653
+onumepoch:513
+onumnow:8039.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.117896
+nowepochdate:24240.6178935185
+TLE:
+STARLINK-32077
+1 60344U 24136R   24240.25001157 -.01675054  00000+0 -18189-1 0  9993
+2 60344  53.1556 157.1962 0000944 106.0702 114.2415 15.66065388  5133

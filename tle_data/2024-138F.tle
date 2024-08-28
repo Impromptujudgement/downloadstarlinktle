@@ -1,0 +1,38 @@
+date:2024-08-27T14:39:56+00:00
+validtle:1
+satid:60360
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32275
+meananomly:355.3107
+meanmotion:15.7376
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6726.296754467
+altitudeatperigee:348
+altitudeatapogee:349
+inclination:53.1589
+eccentricity:6.04E-5
+argumentofperigree:70.5777
+nickname:STARLINK-32275
+idesg:24138F  
+cosparid:2024-138F
+altkm:352.89195907946
+velkms:7.7034723211503
+velkmh:27733
+onumepoch:482
+onumnow:7591.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.1110712
+nowepochdate:24240.6110648148
+TLE:
+STARLINK-32275
+1 60360U 24138F   24240.25001157 -.00093597  00000+0 -65390-3 0  9996
+2 60360  53.1589  38.0768 0000604  70.5777 355.3107 15.73761514  4821

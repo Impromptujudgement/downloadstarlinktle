@@ -1,0 +1,38 @@
+date:2024-08-28T02:51:47+00:00
+validtle:1
+satid:58891
+launchyear:2024
+epoch:24240.60420149
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31245
+meananomly:260.0662
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3461998963
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1624
+eccentricity:0.0001557
+argumentofperigree:100.0519
+nickname:STARLINK-31245
+idesg:24020R  
+cosparid:2024-020R
+altkm:448.29628476643
+velkms:7.6443920112882
+velkmh:27520
+onumepoch:3413
+onumnow:52555.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:30:03+00:00
+nowjuliandate:2460550.6193046
+nowepochdate:24241.1192939815
+TLE:
+STARLINK-31245
+1 58891U 24020R   24240.60420149 -.00002797  00000+0 -59938-4 0  9991
+2 58891  53.1624   3.2471 0001557 100.0519 260.0662 15.39628455 34136

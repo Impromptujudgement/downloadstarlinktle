@@ -1,0 +1,38 @@
+date:2024-08-28T05:25:29+00:00
+validtle:1
+satid:59301
+launchyear:2024
+epoch:24240.51662632
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31502
+meananomly:84.5687
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1532154799
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001734
+argumentofperigree:275.4972
+nickname:STARLINK-31502
+idesg:24056F  
+cosparid:2024-056F
+altkm:443.67869664663
+velkms:7.6477775906952
+velkmh:27532
+onumepoch:2532
+onumnow:39021.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:23:57+00:00
+nowjuliandate:2460550.7260416
+nowepochdate:24241.2260300926
+TLE:
+STARLINK-31502
+1 59301U 24056F   24240.51662632  .00002563  00000+0  68573-4 0  9996
+2 59301  43.0014 175.6578 0001734 275.4972  84.5687 15.40709474 25323

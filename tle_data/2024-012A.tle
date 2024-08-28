@@ -1,0 +1,38 @@
+date:2024-08-28T03:49:05+00:00
+validtle:1
+satid:58787
+launchyear:2024
+epoch:24240.26276721
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31189
+meananomly:80.4648
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1770769161
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0046
+eccentricity:0.0001476
+argumentofperigree:279.6036
+nickname:STARLINK-31189
+idesg:24012A  
+cosparid:2024-012A
+altkm:487.64840528286
+velkms:7.6232321834768
+velkmh:27444
+onumepoch:3573
+onumnow:54534.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:18:23+00:00
+nowjuliandate:2460550.6590864
+nowepochdate:24241.1590856481
+TLE:
+STARLINK-31189
+1 58787U 24012A   24240.26276721  .00005066  00000+0  20336-3 0  9992
+2 58787  43.0046  79.8736 0001476 279.6036  80.4648 15.25915403 35738

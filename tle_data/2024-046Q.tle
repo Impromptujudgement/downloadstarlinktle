@@ -1,0 +1,38 @@
+date:2024-08-28T06:05:42+00:00
+validtle:1
+satid:59215
+launchyear:2024
+epoch:24240.18834289
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31434
+meananomly:251.7562
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3453989808
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1608
+eccentricity:0.0001732
+argumentofperigree:108.3631
+nickname:STARLINK-31434
+idesg:24046Q  
+cosparid:2024-046Q
+altkm:448.48209693926
+velkms:7.6441835273186
+velkmh:27519
+onumepoch:2732
+onumnow:42079.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:31:13+00:00
+nowjuliandate:2460550.7539653
+nowepochdate:24241.2539583333
+TLE:
+STARLINK-31434
+1 59215U 24046Q   24240.18834289  .00001053  00000+0  36293-4 0  9998
+2 59215  53.1608 237.9801 0001732 108.3631 251.7562 15.39628726 27323

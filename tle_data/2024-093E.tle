@@ -1,0 +1,38 @@
+date:2024-08-27T20:09:17+00:00
+validtle:1
+satid:59786
+launchyear:2024
+epoch:24240.45908801
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31862
+meananomly:94.4857
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2005888348
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0068
+eccentricity:0.0001271
+argumentofperigree:265.5854
+nickname:STARLINK-31862
+idesg:24093E  
+cosparid:2024-093E
+altkm:443.90634930196
+velkms:7.6475489959546
+velkmh:27531
+onumepoch:1677
+onumnow:25843.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:01:05+00:00
+nowjuliandate:2460550.3397897
+nowepochdate:24240.8397800926
+TLE:
+STARLINK-31862
+1 59786U 24093E   24240.45908801  .00003755  00000+0  97144-4 0  9998
+2 59786  43.0068 148.3118 0001271 265.5854  94.4857 15.40693426 16778

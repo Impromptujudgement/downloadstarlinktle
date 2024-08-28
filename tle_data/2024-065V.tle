@@ -1,0 +1,38 @@
+date:2024-08-28T00:47:43+00:00
+validtle:1
+satid:59440
+launchyear:2024
+epoch:24240.54825425
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31682
+meananomly:200.2521
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.840437809
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1576
+eccentricity:4.76E-5
+argumentofperigree:159.8516
+nickname:STARLINK-31682
+idesg:24065V  
+cosparid:2024-065V
+altkm:360.91911229611
+velkms:7.6938039171426
+velkmh:27698
+onumepoch:2360
+onumnow:37052.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:09:29+00:00
+nowjuliandate:2460550.5331444
+nowepochdate:24241.0331365741
+TLE:
+STARLINK-31682
+1 59440U 24065V   24240.54825425  .00001909  00000+0  20595-4 0  9999
+2 59440  53.1576 338.3302 0000476 159.8516 200.2521 15.69718849 23606

@@ -1,0 +1,38 @@
+date:2024-08-28T05:52:49+00:00
+validtle:1
+satid:59240
+launchyear:2024
+epoch:24240.82662489
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31408
+meananomly:103.3422
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.170511028
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.005
+eccentricity:0.0001199
+argumentofperigree:256.73
+nickname:STARLINK-31408
+idesg:24049K  
+cosparid:2024-049K
+altkm:443.99698485436
+velkms:7.6474306379829
+velkmh:27531
+onumepoch:2668
+onumnow:41112.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T19:50:20+00:00
+nowjuliandate:2460550.7450141
+nowepochdate:24241.2450115741
+TLE:
+STARLINK-31408
+1 59240U 24049K   24240.82662489  .00001850  00000+0  51544-4 0  9992
+2 59240  43.0050  79.7410 0001199 256.7300 103.3422 15.40703615 26684

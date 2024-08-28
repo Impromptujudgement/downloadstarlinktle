@@ -1,0 +1,38 @@
+date:2024-08-28T06:15:19+00:00
+validtle:1
+satid:59201
+launchyear:2024
+epoch:24240.28079658
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31603
+meananomly:270.3439
+meanmotion:15.3964
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3238777883
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1573
+eccentricity:0.0001219
+argumentofperigree:89.7705
+nickname:STARLINK-31603
+idesg:24046A  
+cosparid:2024-046A
+altkm:448.08504703961
+velkms:7.6446160480148
+velkmh:27521
+onumepoch:2734
+onumnow:42108.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:44:21+00:00
+nowjuliandate:2460550.7606447
+nowepochdate:24241.2606365741
+TLE:
+STARLINK-31603
+1 59201U 24046A   24240.28079658  .00010782  00000+0  27901-3 0  9999
+2 59201  53.1573 237.8497 0001219  89.7705 270.3439 15.39636008 27347

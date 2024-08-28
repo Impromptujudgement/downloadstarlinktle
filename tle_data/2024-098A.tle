@@ -1,0 +1,38 @@
+date:2024-08-27T18:50:33+00:00
+validtle:1
+satid:59858
+launchyear:2024
+epoch:24238.43054517
+epochday:238
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31654
+meananomly:89.3889
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2003497225
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0031
+eccentricity:0.0001448
+argumentofperigree:270.6801
+nickname:STARLINK-31654
+idesg:24098A  
+cosparid:2024-098A
+altkm:443.8273900758
+velkms:7.6476373289787
+velkmh:27531
+onumepoch:1568
+onumnow:24194.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-25T10:19:59+00:00
+nowjuliandate:2460550.2851129
+nowepochdate:24240.7851041667
+TLE:
+STARLINK-31654
+1 59858U 24098A   24238.43054517 -.00000607  00000+0 -72646-5 0  9990
+2 59858  43.0031 235.8334 0001448 270.6801  89.3889 15.40693507 15682

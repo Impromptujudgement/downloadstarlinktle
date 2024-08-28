@@ -1,0 +1,38 @@
+date:2024-08-27T18:28:39+00:00
+validtle:1
+satid:59895
+launchyear:2024
+epoch:24239.82420929
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31964
+meananomly:93.7786
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1588743799
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9989
+eccentricity:0.0001116
+argumentofperigree:266.2942
+nickname:STARLINK-31964
+idesg:24100L  
+cosparid:2024-100L
+altkm:443.84608779273
+velkms:7.6475932005652
+velkmh:27531
+onumepoch:1519
+onumnow:23417.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:46:52+00:00
+nowjuliandate:2460550.2699051
+nowepochdate:24240.7698958333
+TLE:
+STARLINK-31964
+1 59895U 24100L   24239.82420929  .00003175  00000+0  83213-4 0  9995
+2 59895  42.9989  72.2406 0001116 266.2942  93.7786 15.40707557 15197

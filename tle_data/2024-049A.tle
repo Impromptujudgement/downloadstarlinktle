@@ -1,0 +1,38 @@
+date:2024-08-28T05:59:25+00:00
+validtle:1
+satid:59231
+launchyear:2024
+epoch:24240.84469031
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31304
+meananomly:84.7366
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.195540912
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0031
+eccentricity:0.0001413
+argumentofperigree:275.3329
+nickname:STARLINK-31304
+idesg:24049A  
+cosparid:2024-049A
+altkm:443.74468749917
+velkms:7.6477273043685
+velkmh:27532
+onumepoch:2667
+onumnow:41096.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:16:21+00:00
+nowjuliandate:2460550.7495987
+nowepochdate:24241.2495949074
+TLE:
+STARLINK-31304
+1 59231U 24049A   24240.84469031  .00000973  00000+0  30564-4 0  9996
+2 59231  43.0031  80.7639 0001413 275.3329  84.7366 15.40695136 26671

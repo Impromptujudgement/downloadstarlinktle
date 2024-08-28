@@ -1,0 +1,38 @@
+date:2024-08-27T17:15:31+00:00
+validtle:1
+satid:60068
+launchyear:2024
+epoch:24239.89175215
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11170
+meananomly:80.7611
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8350580229
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1533
+eccentricity:0.0001087
+argumentofperigree:279.3284
+nickname:STARLINK-11170
+idesg:24113K  
+cosparid:2024-113K
+altkm:360.49486572845
+velkms:7.6942851364877
+velkmh:27699
+onumepoch:1163
+onumnow:18268.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T21:24:07+00:00
+nowjuliandate:2460550.2191164
+nowepochdate:24240.7191087963
+TLE:
+STARLINK-11170 [DTC]
+1 60068U 24113K   24239.89175215  .00100390  00000+0  82312-3 0  9990
+2 60068  53.1533  71.1875 0001087 279.3284  80.7611 15.69720729 11634

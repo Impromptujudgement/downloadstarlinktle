@@ -1,0 +1,38 @@
+date:2024-08-27T22:34:56+00:00
+validtle:1
+satid:59637
+launchyear:2024
+epoch:24239.83540832
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31791
+meananomly:95.2081
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1526162335
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0023
+eccentricity:0.0001802
+argumentofperigree:264.857
+nickname:STARLINK-31791
+idesg:24082G  
+cosparid:2024-082G
+altkm:443.90174670782
+velkms:7.6475273427118
+velkmh:27531
+onumepoch:1895
+onumnow:29213.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:02:59+00:00
+nowjuliandate:2460550.4409284
+nowepochdate:24240.9409259259
+TLE:
+STARLINK-31791
+1 59637U 24082G   24239.83540832  .00003821  00000+0  98666-4 0  9991
+2 59637  43.0023  81.9814 0001802 264.8570  95.2081 15.40709677 18952

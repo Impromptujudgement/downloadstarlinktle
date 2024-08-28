@@ -1,0 +1,38 @@
+date:2024-08-28T00:53:01+00:00
+validtle:1
+satid:59432
+launchyear:2024
+epoch:24240.06755202
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31780
+meananomly:273.3201
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3441783977
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.162
+eccentricity:0.0001433
+argumentofperigree:86.7968
+nickname:STARLINK-31780
+idesg:24065M  
+cosparid:2024-065M
+altkm:448.05423384696
+velkms:7.644661891617
+velkmh:27521
+onumepoch:2312
+onumnow:35611.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:37:16+00:00
+nowjuliandate:2460550.5368276
+nowepochdate:24241.0368171296
+TLE:
+STARLINK-31780
+1 59432U 24065M   24240.06755202  .00003397  00000+0  94843-4 0  9992
+2 59432  53.1620   9.9457 0001433  86.7968 273.3201 15.39629139 23125

@@ -1,0 +1,38 @@
+date:2024-08-28T06:13:14+00:00
+validtle:1
+satid:59204
+launchyear:2024
+epoch:24240.72624001
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31522
+meananomly:266.3158
+meanmotion:15.3960
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.426026643
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1568
+eccentricity:0.000121
+argumentofperigree:93.7985
+nickname:STARLINK-31522
+idesg:24046D  
+cosparid:2024-046D
+altkm:448.2451842268
+velkms:7.6444938249388
+velkmh:27520
+onumepoch:2741
+onumnow:42208.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:25:47+00:00
+nowjuliandate:2460550.759201
+nowepochdate:24241.2591898148
+TLE:
+STARLINK-31522
+1 59204U 24046D   24240.72624001 -.00005777  00000+0 -13464-3 0  9998
+2 59204  53.1568 235.6530 0001210  93.7985 266.3158 15.39601445 27412

@@ -1,0 +1,38 @@
+date:2024-08-28T01:26:03+00:00
+validtle:1
+satid:59385
+launchyear:2024
+epoch:24239.99537163
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31717
+meananomly:265.1883
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3564847368
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1597
+eccentricity:0.0001448
+argumentofperigree:94.9287
+nickname:STARLINK-31717
+idesg:24062M  
+cosparid:2024-062M
+altkm:448.20583927652
+velkms:7.6444990224921
+velkmh:27520
+onumepoch:2389
+onumnow:36798.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:53:20+00:00
+nowjuliandate:2460550.5597647
+nowepochdate:24241.0597569444
+TLE:
+STARLINK-31717
+1 59385U 24062M   24239.99537163  .00012913  00000+0  33221-3 0  9996
+2 59385  53.1597 340.7952 0001448  94.9287 265.1883 15.39624975 23894

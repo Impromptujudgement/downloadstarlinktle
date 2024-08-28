@@ -1,0 +1,38 @@
+date:2024-08-28T01:29:28+00:00
+validtle:1
+satid:59380
+launchyear:2024
+epoch:24240.54221147
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31680
+meananomly:249.7485
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3684601228
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1599
+eccentricity:0.0001409
+argumentofperigree:110.3671
+nickname:STARLINK-31680
+idesg:24062G  
+cosparid:2024-062G
+altkm:448.46779020793
+velkms:7.6442124301649
+velkmh:27519
+onumepoch:2394
+onumnow:36866.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:00:47+00:00
+nowjuliandate:2460550.5621377
+nowepochdate:24241.0621296296
+TLE:
+STARLINK-31680
+1 59380U 24062G   24240.54221147  .00005151  00000+0  13866-3 0  9995
+2 59380  53.1599 338.5189 0001409 110.3671 249.7485 15.39620923 23946
