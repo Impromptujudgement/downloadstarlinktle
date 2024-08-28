@@ -1,0 +1,38 @@
+date:2024-08-28T08:56:07+00:00
+validtle:1
+satid:58522
+launchyear:2023
+epoch:24240.76175998
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31023
+meananomly:82.9471
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2142718305
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001181
+argumentofperigree:277.1237
+nickname:STARLINK-31023
+idesg:23191Q  
+cosparid:2023-191Q
+altkm:558.75488494304
+velkms:7.5839485280818
+velkmh:27302
+onumepoch:4136
+onumnow:62154.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:16:56+00:00
+nowjuliandate:2460550.8723077
+nowepochdate:24241.3723032407
+TLE:
+STARLINK-31023
+1 58522U 23191Q   24240.76175998  .00001013  00000+0  90072-4 0  9998
+2 58522  43.0025 263.0711 0001181 277.1237  82.9471 15.02537407 41367
