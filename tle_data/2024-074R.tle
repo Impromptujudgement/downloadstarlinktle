@@ -1,0 +1,38 @@
+date:2024-08-27T23:15:25+00:00
+validtle:1
+satid:59549
+launchyear:2024
+epoch:24239.41674152
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31722
+meananomly:86.7715
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1737257273
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0021
+eccentricity:0.0001426
+argumentofperigree:273.2978
+nickname:STARLINK-31722
+idesg:24074R  
+cosparid:2024-074R
+altkm:443.75639987296
+velkms:7.6477019901758
+velkmh:27532
+onumepoch:2118
+onumnow:32671.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:00:06+00:00
+nowjuliandate:2460550.469041
+nowepochdate:24241.9690393519
+TLE:
+STARLINK-31722
+1 59549U 24074R   24239.41674152  .00009380  00000+0  23152-3 0  9994
+2 59549  43.0021 290.5182 0001426 273.2978  86.7715 15.40702526 21180

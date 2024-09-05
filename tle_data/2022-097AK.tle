@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53421
+launchyear:2022
+epoch:24241.87253674
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4545
+meananomly:275.0440
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8840051406
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001186
+argumentofperigree:85.0688
+nickname:STARLINK-4545
+idesg:22097AK 
+cosparid:2022-097AK
+altkm:540.57224550471
+velkms:7.5932999937283
+velkmh:27336
+onumepoch:11441
+onumnow:172645.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:56:27+00:00
+nowjuliandate:2460552.6378611
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4545
+1 53421U 22097AK  24241.87253674 -.00001029  00000+0 -46580-4 0  9990
+2 53421  53.2163  98.2605 0001186  85.0688 275.0440 15.08839492114410

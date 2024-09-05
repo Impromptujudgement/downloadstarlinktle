@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46786
+launchyear:2020
+epoch:24242.35729014
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1893
+meananomly:293.4051
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3394368836
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.000137
+argumentofperigree:66.7082
+nickname:STARLINK-1893
+idesg:20074AZ 
+cosparid:2020-074AZ
+altkm:547.70460576645
+velkms:7.5895589982524
+velkmh:27322
+onumepoch:21277
+onumnow:320529.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:34:30+00:00
+nowjuliandate:2460552.6397105
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1893
+1 46786U 20074AZ  24242.35729014 -.00000244  00000+0  25388-5 0  9990
+2 46786  53.0529 273.5801 0001370  66.7082 293.4051 15.06403650212776

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53934
+launchyear:2022
+epoch:24242.40569493
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4775
+meananomly:270.3043
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8986524189
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001434
+argumentofperigree:89.8113
+nickname:STARLINK-4775
+idesg:22119BA 
+cosparid:2022-119BA
+altkm:540.65387611063
+velkms:7.5932184440892
+velkmh:27336
+onumepoch:10748
+onumnow:162179.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:44:12+00:00
+nowjuliandate:2460552.637813
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4775
+1 53934U 22119BA  24242.40569493 -.00000015  00000+0  17139-4 0  9994
+2 53934  53.2169 280.9148 0001434  89.8113 270.3043 15.08834700107481

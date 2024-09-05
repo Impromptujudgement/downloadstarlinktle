@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46794
+launchyear:2020
+epoch:24242.47248269
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1942
+meananomly:261.4416
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3906692982
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0549
+eccentricity:0.0001627
+argumentofperigree:98.6758
+nickname:STARLINK-1942
+idesg:20074BH 
+cosparid:2020-074BH
+altkm:548.30065866368
+velkms:7.5889340313702
+velkmh:27320
+onumepoch:21237
+onumnow:319921.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:20:23+00:00
+nowjuliandate:2460552.6397023
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1942
+1 46794U 20074BH  24242.47248269  .00023532  00000+0  15940-2 0  9994
+2 46794  53.0549 303.0647 0001627  98.6758 261.4416 15.06386934212374

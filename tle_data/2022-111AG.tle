@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53803
+launchyear:2022
+epoch:24242.66052769
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4727
+meananomly:275.3673
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8878534059
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001211
+argumentofperigree:84.7458
+nickname:STARLINK-4727
+idesg:22111AG 
+cosparid:2022-111AG
+altkm:540.56969633323
+velkms:7.5933048978153
+velkmh:27336
+onumepoch:10912
+onumnow:164651.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:51:10+00:00
+nowjuliandate:2460552.637826
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4727
+1 53803U 22111AG  24242.66052769  .00000074  00000+0  22763-4 0  9995
+2 53803  53.2147 229.7664 0001211  84.7458 275.3673 15.08838233109127

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55601
+launchyear:2023
+epoch:24242.06720485
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5744
+meananomly:92.0840
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2083743896
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001131
+argumentofperigree:267.9872
+nickname:STARLINK-5744
+idesg:23020AJ 
+cosparid:2023-020AJ
+altkm:558.87819727842
+velkms:7.5838105726875
+velkmh:27302
+onumepoch:8504
+onumnow:127792.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:36:46+00:00
+nowjuliandate:2460552.6377526
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5744
+1 55601U 23020AJ  24242.06720485  .00001039  00000+0  91978-4 0  9990
+2 55601  43.0034 154.1588 0001131 267.9872  92.0840 15.02539323 85045

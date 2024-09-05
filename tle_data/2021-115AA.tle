@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49748
+launchyear:2021
+epoch:24242.40102427
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3248
+meananomly:292.8053
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8424570538
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2148
+eccentricity:0.000112
+argumentofperigree:67.3057
+nickname:STARLINK-3248
+idesg:21115AA 
+cosparid:2021-115AA
+altkm:540.30235686426
+velkms:7.5935733902484
+velkmh:27337
+onumepoch:15252
+onumnow:230141.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:37:28+00:00
+nowjuliandate:2460552.6379933
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3248
+1 49748U 21115AA  24242.40102427  .00002761  00000+0  19144-3 0  9993
+2 49748  53.2148 130.4615 0001120  67.3057 292.8053 15.08853085152526

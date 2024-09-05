@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47621
+launchyear:2021
+epoch:24242.20433652
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1609
+meananomly:274.6879
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3320812666
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0543
+eccentricity:0.0002458
+argumentofperigree:85.4391
+nickname:STARLINK-1609
+idesg:21012B  
+cosparid:2021-012B
+altkm:547.93545731576
+velkms:7.5893020729868
+velkmh:27321
+onumepoch:19544
+onumnow:294426.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:54:15+00:00
+nowjuliandate:2460552.6394292
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-1609
+1 47621U 21012B   24242.20433652  .00009736  00000+0  67152-3 0  9993
+2 47621  53.0543  54.2648 0002458  85.4391 274.6879 15.06406050195443

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:52+00:00
+validtle:1
+satid:47977
+launchyear:2021
+epoch:24242.44068919
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2087
+meananomly:277.6572
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3844965941
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001619
+argumentofperigree:82.4601
+nickname:STARLINK-2087
+idesg:21024A  
+cosparid:2021-024A
+altkm:547.97722561654
+velkms:7.5892849695028
+velkmh:27321
+onumepoch:19019
+onumnow:286510.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:34:36+00:00
+nowjuliandate:2460552.6381096
+nowepochdate:24243.1381018519
+TLE:
+STARLINK-2087
+1 47977U 21024A   24242.44068919  .00021451  00000+0  14550-2 0  9997
+2 47977  53.0531 308.2102 0001619  82.4601 277.6572 15.06388948190195

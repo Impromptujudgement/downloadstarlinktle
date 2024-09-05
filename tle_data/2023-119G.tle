@@ -1,0 +1,38 @@
+date:2024-08-28T22:16:36+00:00
+validtle:1
+satid:57608
+launchyear:2023
+epoch:24241.26342429
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30258
+meananomly:89.5642
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2114216044
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0042
+eccentricity:8.94E-5
+argumentofperigree:270.5097
+nickname:STARLINK-30258
+idesg:23119G  
+cosparid:2023-119G
+altkm:558.8480559971
+velkms:7.5838451682977
+velkmh:27302
+onumepoch:5908
+onumnow:88779.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:19:20+00:00
+nowjuliandate:2460551.4282014
+nowepochdate:24241.9281944444
+TLE:
+STARLINK-30258
+1 57608U 23119G   24241.26342429  .00000318  00000+0  38635-4 0  9997
+2 57608  43.0042 235.9781 0000894 270.5097  89.5642 15.02538333 59086

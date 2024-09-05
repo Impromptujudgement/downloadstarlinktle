@@ -1,0 +1,38 @@
+date:2024-08-28T02:09:53+00:00
+validtle:1
+satid:59327
+launchyear:2024
+epoch:24240.00308712
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31599
+meananomly:86.3684
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1343614204
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9942
+eccentricity:0.0001052
+argumentofperigree:273.7052
+nickname:STARLINK-31599
+idesg:24057H  
+cosparid:2024-057H
+altkm:443.72541155489
+velkms:7.6477147108012
+velkmh:27532
+onumepoch:2385
+onumnow:36762.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:04:27+00:00
+nowjuliandate:2460550.5901994
+nowepochdate:24241.0901967593
+TLE:
+STARLINK-31599
+1 59327U 24057H   24240.00308712  .00007255  00000+0  18068-3 0  9991
+2 59327  42.9942 141.5208 0001052 273.7052  86.3684 15.40715861 23854

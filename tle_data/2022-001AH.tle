@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50834
+launchyear:2022
+epoch:24242.09288176
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3331
+meananomly:275.0763
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8782067716
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001412
+argumentofperigree:85.039
+nickname:STARLINK-3331
+idesg:22001AH 
+cosparid:2022-001AH
+altkm:540.55234090997
+velkms:7.5933186597586
+velkmh:27336
+onumepoch:14736
+onumnow:222356.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:13:45+00:00
+nowjuliandate:2460552.6379813
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3331
+1 50834U 22001AH  24242.09288176 -.00000416  00000+0 -80251-5 0  9993
+2 50834  53.2176 162.2706 0001412  85.0390 275.0763 15.08841389147361

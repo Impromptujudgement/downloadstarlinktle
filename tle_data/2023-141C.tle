@@ -1,0 +1,38 @@
+date:2024-08-28T20:33:27+00:00
+validtle:1
+satid:57842
+launchyear:2023
+epoch:24241.53480593
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30435
+meananomly:283.2816
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.348346473
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1642
+eccentricity:0.0001366
+argumentofperigree:76.8339
+nickname:STARLINK-30435
+idesg:23141C  
+cosparid:2023-141C
+altkm:463.89846343118
+velkms:7.635878767571
+velkmh:27489
+onumepoch:5484
+onumnow:84130.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:50:07+00:00
+nowjuliandate:2460551.356568
+nowepochdate:24241.07.8565625
+TLE:
+STARLINK-30435
+1 57842U 23141C   24241.53480593  .00001039  00000+0  42094-4 0  9992
+2 57842  53.1642 358.5348 0001366  76.8339 283.2816 15.34229750 54846

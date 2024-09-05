@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47552
+launchyear:2021
+epoch:24242.57476993
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1940
+meananomly:276.4319
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3542799654
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0566
+eccentricity:0.0001814
+argumentofperigree:83.6876
+nickname:STARLINK-1940
+idesg:21009E  
+cosparid:2021-009E
+altkm:547.95610883243
+velkms:7.5892915848544
+velkmh:27321
+onumepoch:19757
+onumnow:297627.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:47:40+00:00
+nowjuliandate:2460552.6394663
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1940
+1 47552U 21009E   24242.57476993  .00006817  00000+0  47615-3 0  9996
+2 47552  53.0566 352.6043 0001814  83.6876 276.4319 15.06398807197573

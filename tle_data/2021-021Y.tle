@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72340
+launchyear:2021
+epoch:21083.38353037
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2340
+meananomly:351.0853
+meanmotion:15.8512
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6694.1371761782
+altitudeatperigee:316
+altitudeatapogee:316
+inclination:53.0503
+eccentricity:2.7E-5
+argumentofperigree:53.5433
+nickname:STARLINK-2340
+idesg:21021Y  
+cosparid:2021-021Y
+altkm:318.24813196484
+velkms:7.7219271310335
+velkmh:27799
+onumepoch:1
+onumnow:50101.65
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:12:17+00:00
+nowjuliandate:2460552.6397447
+nowepochdate:24243.1397337963
+TLE:
+STARLINK-2340
+1 72340C 21021Y   21083.38353037 -.01036174  00000-0 -45084-2 0   839
+2 72340  53.0503 168.5917 0000270  53.5433 351.0853 15.85115982    14

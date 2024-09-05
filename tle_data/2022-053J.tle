@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52664
+launchyear:2022
+epoch:24241.01142475
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4070
+meananomly:267.7885
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8773386985
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001593
+argumentofperigree:92.329
+nickname:STARLINK-4070
+idesg:22053J  
+cosparid:2022-053J
+altkm:540.68028568443
+velkms:7.5931777949282
+velkmh:27335
+onumepoch:12670
+onumnow:191202.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:16:27+00:00
+nowjuliandate:2460552.6379003
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4070
+1 52664U 22053J   24241.01142475  .00002571  00000+0  17954-3 0  9995
+2 52664  53.2160 142.1211 0001593  92.3290 267.7885 15.08841673126709

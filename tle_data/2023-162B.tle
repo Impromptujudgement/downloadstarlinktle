@@ -1,0 +1,38 @@
+date:2024-08-28T17:45:54+00:00
+validtle:1
+satid:58119
+launchyear:2023
+epoch:24240.85683895
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30765
+meananomly:97.8931
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2071678166
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001646
+argumentofperigree:262.1725
+nickname:STARLINK-30765
+idesg:23162B  
+cosparid:2023-162B
+altkm:559.00512286054
+velkms:7.5836712278302
+velkmh:27301
+onumepoch:4823
+onumnow:72480.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:33:51+00:00
+nowjuliandate:2460551.2402161
+nowepochdate:24241.7402083333
+TLE:
+STARLINK-30765
+1 58119U 23162B   24240.85683895  .00007637  00000+0  57976-3 0  9991
+2 58119  43.0015 289.9129 0001646 262.1725  97.8931 15.02539715 48233

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48107
+launchyear:2021
+epoch:24242.42548677
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2443
+meananomly:272.7059
+meanmotion:15.0636
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4857625548
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0523
+eccentricity:0.0001737
+argumentofperigree:87.4129
+nickname:STARLINK-2443
+idesg:21027R  
+cosparid:2021-027R
+altkm:548.17102839812
+velkms:7.589128021618
+velkmh:27321
+onumepoch:18830
+onumnow:283657.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:12:42+00:00
+nowjuliandate:2460552.6380469
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2443
+1 48107U 21027R   24242.42548677  .00023776  00000+0  16116-2 0  9990
+2 48107  53.0523 133.2703 0001737  87.4129 272.7059 15.06355908188302

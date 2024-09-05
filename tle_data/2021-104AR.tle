@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49447
+launchyear:2021
+epoch:24242.21064609
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3115
+meananomly:283.7654
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8967939953
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001441
+argumentofperigree:76.3498
+nickname:STARLINK-3115
+idesg:21104AR 
+cosparid:2021-104AR
+altkm:540.4200399496
+velkms:7.5934740091566
+velkmh:27337
+onumepoch:15568
+onumnow:234909.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:20+00:00
+nowjuliandate:2460552.6379982
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3115
+1 49447U 21104AR  24242.21064609  .00001154  00000+0  90581-4 0  9995
+2 49447  53.2165 201.7401 0001441  76.3498 283.7654 15.08835308155685

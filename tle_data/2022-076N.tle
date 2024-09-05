@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52998
+launchyear:2022
+epoch:24242.8017391
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4254
+meananomly:285.8017
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.899052836
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2181
+eccentricity:0.0001034
+argumentofperigree:74.3089
+nickname:STARLINK-4254
+idesg:22076N  
+cosparid:2022-076N
+altkm:540.46481379428
+velkms:7.5934261162126
+velkmh:27336
+onumepoch:11924
+onumnow:179918.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:14:30+00:00
+nowjuliandate:2460552.6378873
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4254
+1 52998U 22076N   24242.80173910 -.00000808  00000+0 -32675-4 0  9997
+2 52998  53.2181  74.0024 0001034  74.3089 285.8017 15.08834569119248

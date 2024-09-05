@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51817
+launchyear:2022
+epoch:23136.24423611
+epochday:136
+tleage:472
+tleclassification:C
+active:0
+name:STARLINK-3596
+meananomly:12.7876
+meanmotion:15.9590
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6663.9354183432
+altitudeatperigee:282
+altitudeatapogee:289
+inclination:53.1749
+eccentricity:0.0005147
+argumentofperigree:111.0303
+nickname:STARLINK-3596
+idesg:22017BB 
+cosparid:2022-017BB
+altkm:286.41923904629
+velkms:7.7430189123656
+velkmh:27875
+onumepoch:1
+onumnow:17680.92
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-05-16T05:51:42+00:00
+nowjuliandate:2460552.6379561
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3596
+1 51817C 22017BB  23136.24423611  .01291225  00000-0  28654-2 0  1364
+2 51817  53.1749  85.9002 0005147 111.0303  12.7876 15.95904087    13

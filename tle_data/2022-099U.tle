@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53483
+launchyear:2022
+epoch:24241.61033284
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4401
+meananomly:270.9412
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.115905822
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6569
+eccentricity:0.0001769
+argumentofperigree:89.2015
+nickname:STARLINK-4401
+idesg:22099U  
+cosparid:2022-099U
+altkm:566.01650526814
+velkms:7.5781488696067
+velkmh:27281
+onumepoch:11225
+onumnow:168540.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:38:53+00:00
+nowjuliandate:2460552.6378515
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4401
+1 53483U 22099U   24241.61033284  .00003097  00000+0  24551-3 0  9993
+2 53483  97.6569   1.4361 0001769  89.2015 270.9412 15.01270710112250

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50821
+launchyear:2022
+epoch:24242.44704811
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3346
+meananomly:286.2865
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8252945413
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001243
+argumentofperigree:73.8264
+nickname:STARLINK-3346
+idesg:22001U  
+cosparid:2022-001U
+altkm:540.34456105083
+velkms:7.5935176817233
+velkmh:27337
+onumepoch:14753
+onumnow:222610.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:43:45+00:00
+nowjuliandate:2460552.6379774
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3346
+1 50821U 22001U   24242.44704811  .00002533  00000+0  17710-3 0  9995
+2 50821  53.2165 150.5601 0001243  73.8264 286.2865 15.08858700147537

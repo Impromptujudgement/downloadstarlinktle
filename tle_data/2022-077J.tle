@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53051
+launchyear:2022
+epoch:24241.75505726
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4336
+meananomly:267.4591
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1396090351
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.655
+eccentricity:0.0001483
+argumentofperigree:92.6803
+nickname:STARLINK-4336
+idesg:22077J  
+cosparid:2022-077J
+altkm:566.10600792665
+velkms:7.578064081024
+velkmh:27281
+onumepoch:11720
+onumnow:175968.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:07:17+00:00
+nowjuliandate:2460552.6378827
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4336
+1 53051U 22077J   24241.75505726  .00000110  00000+0  13121-4 0  9995
+2 53051  97.6550  61.5341 0001483  92.6803 267.4591 15.01263020117207

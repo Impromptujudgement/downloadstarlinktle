@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47669
+launchyear:2021
+epoch:23053.0259781
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-2060
+meananomly:147.6282
+meanmotion:15.2442
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6870.6555522913
+altitudeatperigee:489
+altitudeatapogee:496
+inclination:53.0535
+eccentricity:0.0005293
+argumentofperigree:212.439
+nickname:STARLINK-2060
+idesg:21012BB 
+cosparid:2021-012BB
+altkm:496.47649520253
+velkms:7.6159231812386
+velkmh:27417
+onumepoch:11393
+onumnow:191819.96
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T00:37:25+00:00
+nowjuliandate:2460552.6394263
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2060
+1 47669U 21012BB  23053.02597810  .00069725  00000+0  27922-2 0  9995
+2 47669  53.0535 273.3133 0005293 212.4390 147.6282 15.24423698113938

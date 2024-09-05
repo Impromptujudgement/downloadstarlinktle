@@ -1,0 +1,38 @@
+date:2024-08-27T14:52:48+00:00
+validtle:1
+satid:60340
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32176
+meananomly:111.1776
+meanmotion:15.6607
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6748.3140988153
+altitudeatperigee:370
+altitudeatapogee:371
+inclination:53.1559
+eccentricity:9.04E-5
+argumentofperigree:93.8022
+nickname:STARLINK-32176
+idesg:24136M  
+cosparid:2024-136M
+altkm:375.94356376532
+velkms:7.6841687328054
+velkmh:27663
+onumepoch:513
+onumnow:8044.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.120001
+nowepochdate:24240.9006.62
+TLE:
+STARLINK-32176
+1 60340U 24136M   24240.25001157 -.01676275  00000+0 -18204-1 0  9993
+2 60340  53.1559 157.2281 0000904  93.8022 111.1776 15.66065865  5137

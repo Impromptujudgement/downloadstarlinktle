@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47566
+launchyear:2021
+epoch:24241.5767866
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1965
+meananomly:252.7114
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2910495411
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0604
+eccentricity:0.0002692
+argumentofperigree:107.4169
+nickname:STARLINK-1965
+idesg:21009U  
+cosparid:2021-009U
+altkm:548.58827804968
+velkms:7.5885645009508
+velkmh:27319
+onumepoch:19756
+onumnow:297631.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:50:34+00:00
+nowjuliandate:2460552.6394557
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-1965
+1 47566U 21009U   24241.57678660  .00001909  00000+0  14698-3 0  9997
+2 47566  53.0604 347.0848 0002692 107.4169 252.7114 15.06419438197560

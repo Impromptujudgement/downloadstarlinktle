@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:15+00:00
+validtle:1
+satid:46681
+launchyear:2020
+epoch:24241.7099429
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1775
+meananomly:263.3763
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.350789091
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001511
+argumentofperigree:96.7398
+nickname:STARLINK-1775
+idesg:20073M  
+cosparid:2020-073M
+altkm:548.21353272548
+velkms:7.5890076711148
+velkmh:27320
+onumepoch:21281
+onumnow:320598.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:02:19+00:00
+nowjuliandate:2460552.6397589
+nowepochdate:24243.1397569444
+TLE:
+STARLINK-1775
+1 46681U 20073M   24241.70994290  .00002821  00000+0  20822-3 0  9999
+2 46681  53.0525 241.4858 0001511  96.7398 263.3763 15.06399946212815

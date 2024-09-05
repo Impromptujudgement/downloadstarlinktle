@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53178
+launchyear:2022
+epoch:24241.47785687
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4280
+meananomly:279.4014
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.816476444
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001489
+argumentofperigree:80.7147
+nickname:STARLINK-4280
+idesg:22083AY 
+cosparid:2022-083AY
+altkm:540.408579712
+velkms:7.5934426049791
+velkmh:27336
+onumepoch:11707
+onumnow:176667.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:28:07+00:00
+nowjuliandate:2460552.6378773
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4280
+1 53178U 22083AY  24241.47785687  .00007575  00000+0  49324-3 0  9992
+2 53178  53.2156 150.0344 0001489  80.7147 279.4014 15.08861585117074

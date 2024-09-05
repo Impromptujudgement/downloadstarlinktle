@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48408
+launchyear:2021
+epoch:24242.40428956
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2592
+meananomly:257.1535
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3473380641
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0549
+eccentricity:0.0001346
+argumentofperigree:102.9604
+nickname:STARLINK-2592
+idesg:21038BH 
+cosparid:2021-038BH
+altkm:548.2968555959
+velkms:7.5889145078503
+velkmh:27320
+onumepoch:18389
+onumnow:277023.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:42:11+00:00
+nowjuliandate:2460552.6380325
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2592
+1 48408U 21038BH  24242.40428956  .00000037  00000+0  21390-4 0  9998
+2 48408  53.0549 323.3742 0001346 102.9604 257.1535 15.06401072183895

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55456
+launchyear:2023
+epoch:24242.35396875
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5058
+meananomly:92.2678
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1901742764
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0017
+eccentricity:0.0001121
+argumentofperigree:267.8036
+nickname:STARLINK-5058
+idesg:23015H  
+cosparid:2023-015H
+altkm:558.86204018498
+velkms:7.5838183069694
+velkmh:27302
+onumepoch:8673
+onumnow:130327.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:29:43+00:00
+nowjuliandate:2460552.6377553
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5058
+1 55456U 23015H   24242.35396875  .00002164  00000+0  17517-3 0  9992
+2 55456  43.0017 114.6225 0001121 267.8036  92.2678 15.02545236 86731

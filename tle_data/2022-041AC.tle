@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52287
+launchyear:2022
+epoch:24241.8453978
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3822
+meananomly:268.6575
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8410816036
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2167
+eccentricity:0.0001112
+argumentofperigree:91.4544
+nickname:STARLINK-3822
+idesg:22041AC 
+cosparid:2022-041AC
+altkm:540.61952671728
+velkms:7.5932246093983
+velkmh:27336
+onumepoch:13015
+onumnow:196396.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:17:22+00:00
+nowjuliandate:2460552.6379359
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3822
+1 52287U 22041AC  24241.84539780  .00004860  00000+0  32312-3 0  9991
+2 52287  53.2167  93.3806 0001112  91.4544 268.6575 15.08853535130153

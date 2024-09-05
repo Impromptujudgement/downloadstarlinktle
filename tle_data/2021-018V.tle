@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:27+00:00
+validtle:1
+satid:47806
+launchyear:2021
+epoch:24241.70719942
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2387
+meananomly:267.7729
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3393541328
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001513
+argumentofperigree:92.3434
+nickname:STARLINK-2387
+idesg:21018V  
+cosparid:2021-018V
+altkm:548.12219613468
+velkms:7.5891014766431
+velkmh:27321
+onumepoch:19262
+onumnow:290185.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:58:22+00:00
+nowjuliandate:2460552.639207
+nowepochdate:24243.1392013889
+TLE:
+STARLINK-2387
+1 47806U 21018V   24241.70719942  .00001931  00000+0  14849-3 0  9991
+2 47806  53.0533 231.5057 0001513  92.3434 267.7729 15.06403677192623

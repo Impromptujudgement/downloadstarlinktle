@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49459
+launchyear:2021
+epoch:24242.17751124
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3141
+meananomly:271.4057
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8440311809
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001486
+argumentofperigree:88.7105
+nickname:STARLINK-3141
+idesg:21104BD 
+cosparid:2021-104BD
+altkm:540.57919431215
+velkms:7.593270480067
+velkmh:27336
+onumepoch:15568
+onumnow:234912.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:15:37+00:00
+nowjuliandate:2460552.6379969
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3141
+1 49459U 21104BD  24242.17751124  .00000552  00000+0  52733-4 0  9996
+2 49459  53.2157 201.8901 0001486  88.7105 271.4057 15.08852570155687

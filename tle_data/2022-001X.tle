@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50824
+launchyear:2022
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3340
+meananomly:301.7424
+meanmotion:15.8619
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.1175770055
+altitudeatperigee:311
+altitudeatapogee:315
+inclination:53.2071
+eccentricity:0.0003266
+argumentofperigree:210.7899
+nickname:STARLINK-3340
+idesg:22001X  
+cosparid:2022-001X
+altkm:312.47228498877
+velkms:7.7244706944812
+velkmh:27808
+onumepoch:14816
+onumnow:235011.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6379767
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3340
+1 50824U 22001X   24242.91667824  .00099447  00000+0  39014-3 0  9993
+2 50824  53.2071 109.7008 0003266 210.7899 301.7424 15.86189111148169

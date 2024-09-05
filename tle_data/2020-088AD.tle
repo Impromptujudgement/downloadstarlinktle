@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:47149
+launchyear:2020
+epoch:24242.3821727
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1862
+meananomly:267.5410
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3483433361
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:0.0001705
+argumentofperigree:92.5774
+nickname:STARLINK-1862
+idesg:20088AD 
+cosparid:2020-088AD
+altkm:548.14143479918
+velkms:7.5890853159178
+velkmh:27321
+onumepoch:20809
+onumnow:313478.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:10:20+00:00
+nowjuliandate:2460552.6396663
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1862
+1 47149U 20088AD  24242.38217270  .00000644  00000+0  62159-4 0  9997
+2 47149  53.0557 283.4651 0001705  92.5774 267.5410 15.06400744208093

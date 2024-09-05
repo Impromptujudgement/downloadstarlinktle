@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52265
+launchyear:2022
+epoch:24242.29436229
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3740
+meananomly:288.0774
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8637827319
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.000154
+argumentofperigree:72.0386
+nickname:STARLINK-3740
+idesg:22041E  
+cosparid:2022-041E
+altkm:540.29372674022
+velkms:7.5935945378826
+velkmh:27337
+onumepoch:13143
+onumnow:198320.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:03:53+00:00
+nowjuliandate:2460552.6379323
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3740
+1 52265U 22041E   24242.29436229  .00003285  00000+0  22433-3 0  9994
+2 52265  53.2171  91.3640 0001540  72.0386 288.0774 15.08846108131439

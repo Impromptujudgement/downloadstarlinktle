@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52632
+launchyear:2022
+epoch:24242.30907722
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3995
+meananomly:264.0306
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8690492247
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001436
+argumentofperigree:96.085
+nickname:STARLINK-3995
+idesg:22052AL 
+cosparid:2022-052AL
+altkm:540.73270852828
+velkms:7.5931157345688
+velkmh:27335
+onumepoch:12722
+onumnow:191967.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:25:04+00:00
+nowjuliandate:2460552.6379097
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3995
+1 52632U 22052AL  24242.30907722  .00000719  00000+0  63248-4 0  9996
+2 52632  53.2156 251.2977 0001436  96.0850 264.0306 15.08844385127228

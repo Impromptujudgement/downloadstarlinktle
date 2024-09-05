@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52360
+launchyear:2022
+epoch:24241.5178807
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3824
+meananomly:259.5881
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8716778899
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001444
+argumentofperigree:100.5274
+nickname:STARLINK-3824
+idesg:22045AF 
+cosparid:2022-045AF
+altkm:540.81273643052
+velkms:7.5930293644282
+velkmh:27335
+onumepoch:13164
+onumnow:198648.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:25:45+00:00
+nowjuliandate:2460552.6379295
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3824
+1 52360U 22045AF  24241.51788070  .00000029  00000+0  19905-4 0  9996
+2 52360  53.2173 174.8566 0001444 100.5274 259.5881 15.08843525131642

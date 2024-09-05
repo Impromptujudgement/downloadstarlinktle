@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55776
+launchyear:2023
+epoch:24242.21521997
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5810
+meananomly:89.4610
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1667087216
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0002
+eccentricity:0.0002792
+argumentofperigree:270.6229
+nickname:STARLINK-5810
+idesg:23028AM 
+cosparid:2023-028AM
+altkm:574.43580862691
+velkms:7.5738957854252
+velkmh:27266
+onumepoch:8303
+onumnow:124420.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:09:55+00:00
+nowjuliandate:2460552.6377377
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5810
+1 55776U 23028AM  24242.21521997  .00001295  00000+0  11630-3 0  9995
+2 55776  70.0002 189.8521 0002792 270.6229  89.4610 14.98339137 83033

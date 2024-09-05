@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55949
+launchyear:2023
+epoch:24241.67328782
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5899
+meananomly:90.2067
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.180609036
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9986
+eccentricity:0.0003037
+argumentofperigree:269.8744
+nickname:STARLINK-5899
+idesg:23037AM 
+cosparid:2023-037AM
+altkm:574.47556118375
+velkms:7.5738600334478
+velkmh:27266
+onumepoch:8088
+onumnow:121207.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:09:32+00:00
+nowjuliandate:2460552.6377309
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5899
+1 55949U 23037AM  24241.67328782  .00001062  00000+0  96792-4 0  9998
+2 55949  69.9986 231.5777 0003037 269.8744  90.2067 14.98334642 80888

@@ -1,0 +1,38 @@
+date:2024-08-27T20:44:04+00:00
+validtle:1
+satid:59769
+launchyear:2024
+epoch:24240.34179146
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31830
+meananomly:273.7451
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3780808821
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1591
+eccentricity:9.86E-5
+argumentofperigree:86.3663
+nickname:STARLINK-31830
+idesg:24091S  
+cosparid:2024-091S
+altkm:476.09656618703
+velkms:7.6289755894874
+velkmh:27464
+onumepoch:1712
+onumnow:26204.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:12:11+00:00
+nowjuliandate:2460550.3639416
+nowepochdate:24240.8639351852
+TLE:
+STARLINK-31830
+1 59769U 24091S   24240.34179146  .00000545  00000+0  30536-4 0  9993
+2 59769  53.1591 105.1562 0000986  86.3663 273.7451 15.30191973 17126

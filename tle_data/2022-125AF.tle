@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53993
+launchyear:2022
+epoch:24241.60064311
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5121
+meananomly:273.3735
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8481178026
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001412
+argumentofperigree:86.7418
+nickname:STARLINK-5121
+idesg:22125AF 
+cosparid:2022-125AF
+altkm:540.55106088707
+velkms:7.5933035879988
+velkmh:27336
+onumepoch:10527
+onumnow:158859.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:24:56+00:00
+nowjuliandate:2460552.6378093
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5121
+1 53993U 22125AF  24241.60064311  .00001077  00000+0  85726-4 0  9991
+2 53993  53.2162 194.2331 0001412  86.7418 273.3735 15.08851233105276

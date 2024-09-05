@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52557
+launchyear:2022
+epoch:24242.37347757
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3943
+meananomly:273.9226
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.839152918
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001583
+argumentofperigree:86.1947
+nickname:STARLINK-3943
+idesg:22051AA 
+cosparid:2022-051AA
+altkm:540.52469225242
+velkms:7.5933276128428
+velkmh:27336
+onumepoch:12738
+onumnow:192209.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:57:48+00:00
+nowjuliandate:2460552.6379172
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3943
+1 52557U 22051AA  24242.37347757  .00003778  00000+0  25524-3 0  9996
+2 52557  53.2162 111.0115 0001583  86.1947 273.9226 15.08854166127383

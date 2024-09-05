@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49754
+launchyear:2021
+epoch:24241.93833026
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3193
+meananomly:282.8491
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8330948365
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001338
+argumentofperigree:77.2651
+nickname:STARLINK-3193
+idesg:21115AG 
+cosparid:2021-115AG
+altkm:540.387672601
+velkms:7.5934746462929
+velkmh:27337
+onumepoch:15147
+onumnow:228564.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:31:12+00:00
+nowjuliandate:2460552.637993
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3193
+1 49754U 21115AG  24241.93833026  .00004403  00000+0  29445-3 0  9993
+2 49754  53.2164 123.0714 0001338  77.2651 282.8491 15.08856148151471

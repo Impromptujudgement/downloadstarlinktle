@@ -1,0 +1,38 @@
+date:2024-08-27T18:31:20+00:00
+validtle:1
+satid:59891
+launchyear:2024
+epoch:24239.81077578
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31949
+meananomly:81.0179
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2090374844
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0001
+eccentricity:0.0001531
+argumentofperigree:279.0504
+nickname:STARLINK-31949
+idesg:24100G  
+cosparid:2024-100G
+altkm:443.68323858342
+velkms:7.6478036959725
+velkmh:27532
+onumepoch:1514
+onumnow:23340.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:27:31+00:00
+nowjuliandate:2460550.2717693
+nowepochdate:24240.7717592593
+TLE:
+STARLINK-31949
+1 59891U 24100G   24239.81077578  .00002262  00000+0  61410-4 0  9999
+2 59891  43.0001  72.1360 0001531 279.0504  81.0179 15.40690564 15145

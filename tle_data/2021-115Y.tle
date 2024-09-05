@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49746
+launchyear:2021
+epoch:24242.4341928
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3233
+meananomly:269.7080
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8418671384
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001634
+argumentofperigree:90.41
+nickname:STARLINK-3233
+idesg:21115Y  
+cosparid:2021-115Y
+altkm:540.60817998941
+velkms:7.5932374902216
+velkmh:27336
+onumepoch:15251
+onumnow:230125.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:14+00:00
+nowjuliandate:2460552.6379884
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3233
+1 49746U 21115Y   24242.43419280  .00000686  00000+0  61167-4 0  9999
+2 49746  53.2171 130.7391 0001634  90.4100 269.7080 15.08853278152516

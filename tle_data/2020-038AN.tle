@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45766
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1509
+meananomly:183.7438
+meanmotion:15.5339
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6784.9652396721
+altitudeatperigee:404
+altitudeatapogee:409
+inclination:53.0392
+eccentricity:0.0003706
+argumentofperigree:138.992
+nickname:STARLINK-1509
+idesg:20038AN 
+cosparid:2020-038AN
+altkm:418.13807934344
+velkms:7.6587059960136
+velkmh:27571
+onumepoch:23492
+onumnow:364927.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283096
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1509
+1 45766U 20038AN  24243.25001157  .00141521  00000+0  21665-2 0  9992
+2 45766  53.0392  96.0712 0003706 138.9920 183.7438 15.53393615234920

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52305
+launchyear:2022
+epoch:24242.25481661
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3724
+meananomly:274.0727
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8808721248
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.000125
+argumentofperigree:86.0408
+nickname:STARLINK-3724
+idesg:22041AW 
+cosparid:2022-041AW
+altkm:540.57985974961
+velkms:7.5932899233119
+velkmh:27336
+onumepoch:13157
+onumnow:198531.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:06:56+00:00
+nowjuliandate:2460552.6379335
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3724
+1 52305U 22041AW  24242.25481661  .00000228  00000+0  32408-4 0  9993
+2 52305  53.2164  81.6490 0001250  86.0408 274.0727 15.08840517131575

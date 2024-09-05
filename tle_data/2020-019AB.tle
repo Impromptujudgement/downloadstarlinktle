@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45385
+launchyear:2020
+epoch:20322.42857479
+epochday:322
+tleage:1381
+tleclassification:C
+active:0
+name:STARLINK-1268
+meananomly:128.4632
+meanmotion:16.1052
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6623.5622189677
+altitudeatperigee:239
+altitudeatapogee:252
+inclination:52.9938
+eccentricity:0.0009645
+argumentofperigree:319.1354
+nickname:STARLINK-1268
+idesg:20019AB 
+cosparid:2020-019AB
+altkm:255.86784728785
+velkms:7.7577203667875
+velkmh:27928
+onumepoch:1
+onumnow:63166.14
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2020-11-17T10:17:09+00:00
+nowjuliandate:2460553.029801
+nowepochdate:24243.5297916667
+TLE:
+STARLINK-1268
+1 45385C 20019AB  20322.42857479  .01211202  00000-0  11002-2 0  3227
+2 45385  52.9938 127.6206 0009645 319.1354 128.4632 16.10517788    18

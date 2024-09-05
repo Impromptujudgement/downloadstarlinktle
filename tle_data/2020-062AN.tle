@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46361
+launchyear:2020
+epoch:24242.55171389
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1722
+meananomly:272.1019
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3404360231
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:9.38E-5
+argumentofperigree:88.0077
+nickname:STARLINK-1722
+idesg:20062AN 
+cosparid:2020-062AN
+altkm:548.05877848199
+velkms:7.5891715413092
+velkmh:27321
+onumepoch:22096
+onumnow:332861.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:14:28+00:00
+nowjuliandate:2460553.0282779
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1722
+1 46361U 20062AN  24242.55171389  .00007010  00000+0  48896-3 0  9998
+2 46361  53.0545 312.6947 0000938  88.0077 272.1019 15.06403324220965

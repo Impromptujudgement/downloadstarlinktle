@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73376
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3376
+meananomly:334.8378
+meanmotion:15.9965
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.539279653
+altitudeatperigee:234
+altitudeatapogee:317
+inclination:69.9998
+eccentricity:0.0062055
+argumentofperigree:161.9554
+nickname:STARLINK-3376
+idesg:22010AQ 
+cosparid:2022-010AQ
+altkm:243.34106962038
+velkms:7.7869197369434
+velkmh:28033
+onumepoch:1
+onumnow:19076.93
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379699
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3376
+1 73376C 22010AQ  23051.42826389 -.01056024  00000-0 -17877-2 0   515
+2 73376  69.9998 143.3304 0062055 161.9554 334.8378 15.99645942    16

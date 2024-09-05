@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53924
+launchyear:2022
+epoch:24242.39371311
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5001
+meananomly:238.7021
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9307837818
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001494
+argumentofperigree:121.4118
+nickname:STARLINK-5001
+idesg:22119AQ 
+cosparid:2022-119AQ
+altkm:541.22789857028
+velkms:7.592606215394
+velkmh:27333
+onumepoch:10734
+onumnow:161967.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:26:57+00:00
+nowjuliandate:2460552.6378145
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5001
+1 53924U 22119AQ  24242.39371311  .00000485  00000+0  48602-4 0  9990
+2 53924  53.2147 290.8246 0001494 121.4118 238.7021 15.08824188107347

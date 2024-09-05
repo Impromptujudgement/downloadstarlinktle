@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53905
+launchyear:2022
+epoch:24241.89464655
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5003
+meananomly:265.3535
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8615636556
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001488
+argumentofperigree:94.7627
+nickname:STARLINK-5003
+idesg:22119V  
+cosparid:2022-119V
+altkm:540.70537847779
+velkms:7.5931416235409
+velkmh:27335
+onumepoch:10761
+onumnow:162385.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:28:17+00:00
+nowjuliandate:2460552.637811
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5003
+1 53905U 22119V   24241.89464655  .00002594  00000+0  18095-3 0  9992
+2 53905  53.2162 298.3813 0001488  94.7627 265.3535 15.08846834107614

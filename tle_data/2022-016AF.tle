@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51743
+launchyear:2022
+epoch:24241.83802871
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3512
+meananomly:271.0627
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8610256979
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001242
+argumentofperigree:89.0507
+nickname:STARLINK-3512
+idesg:22016AF 
+cosparid:2022-016AF
+altkm:540.6054668954
+velkms:7.5932509578245
+velkmh:27336
+onumepoch:13948
+onumnow:210471.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:06:46+00:00
+nowjuliandate:2460552.6379642
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3512
+1 51743U 22016AF  24241.83802871  .00000414  00000+0  44120-4 0  9994
+2 51743  53.2161 293.3374 0001242  89.0507 271.0627 15.08847010139483

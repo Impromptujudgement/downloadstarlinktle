@@ -1,0 +1,38 @@
+date:2024-08-29T04:36:24+00:00
+validtle:1
+satid:57409
+launchyear:2023
+epoch:24241.18335683
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30222
+meananomly:84.2338
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.182045362
+altitudeatperigee:558
+altitudeatapogee:561
+inclination:43.0071
+eccentricity:0.0002228
+argumentofperigree:275.825
+nickname:STARLINK-30222
+idesg:23102F  
+cosparid:2023-102F
+altkm:558.66873180656
+velkms:7.5840251045273
+velkmh:27302
+onumepoch:6222
+onumnow:93503.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:24:02+00:00
+nowjuliandate:2460551.691956
+nowepochdate:24242.1919444444
+TLE:
+STARLINK-30222
+1 57409U 23102F   24241.18335683 -.00000360  00000+0 -11550-4 0  9999
+2 57409  43.0071  43.5425 0002228 275.8250  84.2338 15.02547877 62224

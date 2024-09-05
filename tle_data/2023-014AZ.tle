@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55438
+launchyear:2023
+epoch:24242.6681775
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5074
+meananomly:88.5426
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2334988984
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0013
+eccentricity:0.0002964
+argumentofperigree:271.5394
+nickname:STARLINK-5074
+idesg:23014AZ 
+cosparid:2023-014AZ
+altkm:574.46856930384
+velkms:7.5738964312932
+velkmh:27266
+onumepoch:8768
+onumnow:131379.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:02:11+00:00
+nowjuliandate:2460552.6377625
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5074
+1 55438U 23014AZ  24242.66817750 -.00000671  00000+0 -48503-4 0  9998
+2 55438  70.0013  28.7325 0002964 271.5394  88.5426 14.98317539 87689

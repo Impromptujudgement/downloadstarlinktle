@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:33+00:00
+validtle:1
+satid:47840
+launchyear:2021
+epoch:24242.62821215
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2432
+meananomly:265.1681
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3450241008
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001574
+argumentofperigree:94.9487
+nickname:STARLINK-2432
+idesg:21018BF 
+cosparid:2021-018BF
+altkm:548.1791194724
+velkms:7.5890422184025
+velkmh:27321
+onumepoch:19257
+onumnow:290095.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:04:38+00:00
+nowjuliandate:2460552.639273
+nowepochdate:24243.1392708333
+TLE:
+STARLINK-2432
+1 47840U 21018BF  24242.62821215  .00000351  00000+0  42486-4 0  9992
+2 47840  53.0545 212.3656 0001574  94.9487 265.1681 15.06401827192577

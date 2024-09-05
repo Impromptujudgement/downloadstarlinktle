@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52268
+launchyear:2022
+epoch:24241.87115057
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3746
+meananomly:265.6058
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8572019225
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2109
+eccentricity:0.0001989
+argumentofperigree:94.5161
+nickname:STARLINK-3746
+idesg:22041H  
+cosparid:2022-041H
+altkm:540.72261105461
+velkms:7.5931203259465
+velkmh:27335
+onumepoch:13015
+onumnow:196395.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:54:27+00:00
+nowjuliandate:2460552.637932
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3746
+1 52268U 22041H   24241.87115057  .00001747  00000+0  12780-3 0  9998
+2 52268  53.2109  93.1869 0001989  94.5161 265.6058 15.08848261130159

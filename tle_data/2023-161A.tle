@@ -1,0 +1,38 @@
+date:2024-08-28T18:01:57+00:00
+validtle:1
+satid:58097
+launchyear:2023
+epoch:24240.73606483
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30594
+meananomly:272.0395
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3593955169
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1594
+eccentricity:0.0001229
+argumentofperigree:88.0746
+nickname:STARLINK-30594
+idesg:23161A  
+cosparid:2023-161A
+altkm:476.09212548138
+velkms:7.6289701551097
+velkmh:27464
+onumepoch:4884
+onumnow:74750.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:39:56+00:00
+nowjuliandate:2460551.251356
+nowepochdate:24241.7513541667
+TLE:
+STARLINK-30594
+1 58097U 23161A   24240.73606483  .00005140  00000+0  18554-3 0  9996
+2 58097  53.1594 241.7938 0001229  88.0746 272.0395 15.30198231 48844

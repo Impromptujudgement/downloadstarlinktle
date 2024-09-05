@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48019
+launchyear:2021
+epoch:24242.4033712
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2285
+meananomly:265.1758
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3620279447
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001476
+argumentofperigree:94.94
+nickname:STARLINK-2285
+idesg:21024AU 
+cosparid:2021-024AU
+altkm:548.19022422948
+velkms:7.5890393494352
+velkmh:27321
+onumepoch:19039
+onumnow:286813.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:40:51+00:00
+nowjuliandate:2460552.6380975
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2285
+1 48019U 21024AU  24242.40337120  .00003837  00000+0  27634-3 0  9990
+2 48019  53.0544 293.3743 0001476  94.9400 265.1758 15.06396279190394

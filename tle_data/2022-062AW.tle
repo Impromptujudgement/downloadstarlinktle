@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52874
+launchyear:2022
+epoch:24242.62141966
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4210
+meananomly:274.6869
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8519140563
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.222
+eccentricity:0.0002261
+argumentofperigree:85.4381
+nickname:STARLINK-4210
+idesg:22062AW 
+cosparid:2022-062AW
+altkm:540.4853605259
+velkms:7.593377759926
+velkmh:27336
+onumepoch:12245
+onumnow:184766.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:54:51+00:00
+nowjuliandate:2460552.6378958
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4210
+1 52874U 22062AW  24242.62141966 -.00000531  00000+0 -15221-4 0  9992
+2 52874  53.2220 354.8962 0002261  85.4381 274.6869 15.08849991122459

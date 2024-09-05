@@ -1,0 +1,38 @@
+date:2024-08-29T08:32:07+00:00
+validtle:1
+satid:56780
+launchyear:2023
+epoch:24241.93023406
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5963
+meananomly:91.8760
+meanmotion:14.9914
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6947.6884430379
+altitudeatperigee:567
+altitudeatapogee:572
+inclination:69.9992
+eccentricity:0.0002986
+argumentofperigree:268.2058
+nickname:STARLINK-5963
+idesg:23078P  
+cosparid:2023-078P
+altkm:572.04458757745
+velkms:7.5751531181276
+velkmh:27271
+onumepoch:6913
+onumnow:103641.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:19:32+00:00
+nowjuliandate:2460551.8556376
+nowepochdate:24242.3556365741
+TLE:
+STARLINK-5963
+1 56780U 23078P   24241.93023406  .00000648  00000+0  60875-4 0  9993
+2 56780  69.9992 310.7704 0002986 268.2058  91.8760 14.99140903 69130

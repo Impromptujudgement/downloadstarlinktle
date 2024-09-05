@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53069
+launchyear:2022
+epoch:24242.38825551
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4323
+meananomly:268.2862
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1372294576
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6577
+eccentricity:0.0001728
+argumentofperigree:91.856
+nickname:STARLINK-4323
+idesg:22077AC 
+cosparid:2022-077AC
+altkm:566.09384192137
+velkms:7.5780760659009
+velkmh:27281
+onumepoch:11788
+onumnow:176980.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:19:05+00:00
+nowjuliandate:2460552.6378854
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4323
+1 53069U 22077AC  24242.38825551  .00000370  00000+0  33436-4 0  9994
+2 53069  97.6577  62.1780 0001728  91.8560 268.2862 15.01263792117882

@@ -1,0 +1,38 @@
+date:2024-08-28T07:01:36+00:00
+validtle:1
+satid:59077
+launchyear:2024
+epoch:24240.24157291
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31281
+meananomly:80.6423
+meanmotion:15.2590
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.2098590004
+altitudeatperigee:488
+altitudeatapogee:489
+inclination:42.9998
+eccentricity:8.14E-5
+argumentofperigree:279.4336
+nickname:STARLINK-31281
+idesg:24041D  
+cosparid:2024-041D
+altkm:487.75754274091
+velkms:7.6231292171515
+velkmh:27443
+onumepoch:2880
+onumnow:43962.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:47:52+00:00
+nowjuliandate:2460550.7927866
+nowepochdate:24241.2927777778
+TLE:
+STARLINK-31281
+1 59077U 24041D   24240.24157291  .00005486  00000+0  21943-3 0  9996
+2 59077  42.9998 226.5341 0000814 279.4336  80.6423 15.25904475 28804

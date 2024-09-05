@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52540
+launchyear:2022
+epoch:24242.34404388
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3940
+meananomly:280.2189
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8843994424
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.000131
+argumentofperigree:79.8951
+nickname:STARLINK-3940
+idesg:22051H  
+cosparid:2022-051H
+altkm:540.48386312766
+velkms:7.5933971894826
+velkmh:27336
+onumepoch:12737
+onumnow:192192.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:15:25+00:00
+nowjuliandate:2460552.6379133
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3940
+1 52540U 22051H   24242.34404388 -.00001298  00000+0 -63467-4 0  9995
+2 52540  53.2148 111.1813 0001310  79.8951 280.2189 15.08839363127377

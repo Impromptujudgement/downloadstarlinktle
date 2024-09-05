@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51741
+launchyear:2022
+epoch:24241.90063713
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3520
+meananomly:271.4765
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8621138396
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2142
+eccentricity:0.0001301
+argumentofperigree:88.6377
+nickname:STARLINK-3520
+idesg:22016AD 
+cosparid:2022-016AD
+altkm:540.59909422793
+velkms:7.5932585459097
+velkmh:27336
+onumepoch:13935
+onumnow:210274.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:36:55+00:00
+nowjuliandate:2460552.6379645
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3520
+1 51741U 22016AD  24241.90063713  .00002662  00000+0  18525-3 0  9990
+2 51741  53.2142 303.1483 0001301  88.6377 271.4765 15.08846654139353

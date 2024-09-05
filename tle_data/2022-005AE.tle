@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:51132
+launchyear:2022
+epoch:24242.39832399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3393
+meananomly:267.2840
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8847387253
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001352
+argumentofperigree:92.8307
+nickname:STARLINK-3393
+idesg:22005AE 
+cosparid:2022-005AE
+altkm:540.68938027421
+velkms:7.5931718678227
+velkmh:27335
+onumepoch:14571
+onumnow:219862.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:33:35+00:00
+nowjuliandate:2460552.6379747
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3393
+1 51132U 22005AE  24242.39832399  .00000418  00000+0  44335-4 0  9996
+2 51132  53.2155 280.9019 0001352  92.8307 267.2840 15.08839252145714

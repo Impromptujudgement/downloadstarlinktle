@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53610
+launchyear:2022
+epoch:24242.2157473
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4610
+meananomly:267.3368
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8573455814
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001473
+argumentofperigree:92.7793
+nickname:STARLINK-4610
+idesg:22104Y  
+cosparid:2022-104Y
+altkm:540.66504105134
+velkms:7.5931835741049
+velkmh:27335
+onumepoch:11090
+onumnow:167345.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:10:41+00:00
+nowjuliandate:2460552.6378387
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4610
+1 53610U 22104Y   24242.21574730  .00001662  00000+0  12248-3 0  9991
+2 53610  53.2155 216.8412 0001473  92.7793 267.3368 15.08848214110901

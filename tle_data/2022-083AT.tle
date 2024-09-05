@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53173
+launchyear:2022
+epoch:24242.38726689
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4300
+meananomly:292.0554
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8159996257
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001534
+argumentofperigree:68.0601
+nickname:STARLINK-4300
+idesg:22083AT 
+cosparid:2022-083AT
+altkm:540.17806454237
+velkms:7.5936952932858
+velkmh:27337
+onumepoch:11820
+onumnow:178358.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:17:40+00:00
+nowjuliandate:2460552.6378787
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4300
+1 53173U 22083AT  24242.38726689  .00001720  00000+0  12607-3 0  9995
+2 53173  53.2173 120.9383 0001534  68.0601 292.0554 15.08861741118202

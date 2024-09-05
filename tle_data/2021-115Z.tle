@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49747
+launchyear:2021
+epoch:24242.42315931
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3247
+meananomly:286.7563
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8773845474
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001753
+argumentofperigree:73.3622
+nickname:STARLINK-3247
+idesg:21115Z  
+cosparid:2021-115Z
+altkm:540.28814390738
+velkms:7.5936081115657
+velkmh:27337
+onumepoch:15251
+onumnow:230124.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:09:21+00:00
+nowjuliandate:2460552.6379884
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3247
+1 49747U 21115Z   24242.42315931 -.00000637  00000+0 -21953-4 0  9994
+2 49747  53.2154 130.7880 0001753  73.3622 286.7563 15.08841658152516

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47754
+launchyear:2021
+epoch:24242.15088361
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2171
+meananomly:265.4128
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3238307394
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.00017
+argumentofperigree:94.7055
+nickname:STARLINK-2171
+idesg:21017AJ 
+cosparid:2021-017AJ
+altkm:548.16019435203
+velkms:7.5890513638156
+velkmh:27321
+onumepoch:19306
+onumnow:290842.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:37:16+00:00
+nowjuliandate:2460552.6393897
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2171
+1 47754U 21017AJ  24242.15088361  .00004833  00000+0  34307-3 0  9991
+2 47754  53.0536 194.5049 0001700  94.7055 265.4128 15.06408742193065

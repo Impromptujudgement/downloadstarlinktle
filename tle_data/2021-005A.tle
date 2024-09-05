@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47349
+launchyear:2021
+epoch:22255.98104167
+epochday:255
+tleage:718
+tleclassification:C
+active:0
+name:STARLINK-1952
+meananomly:13.4923
+meanmotion:15.9524
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6665.7737384939
+altitudeatperigee:281
+altitudeatapogee:294
+inclination:53.0197
+eccentricity:0.0010183
+argumentofperigree:118.4128
+nickname:STARLINK-1952
+idesg:21005A  
+cosparid:2021-005A
+altkm:283.90208696996
+velkms:7.745819716663
+velkmh:27885
+onumepoch:1
+onumnow:31715.98
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-09-12T23:32:42+00:00
+nowjuliandate:2460552.6395977
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1952
+1 47349C 21005A   22255.98104167  .02597434  00000-0  55547-2 0  2554
+2 47349  53.0197 194.2962 0010183 118.4128  13.4923 15.95243943    13

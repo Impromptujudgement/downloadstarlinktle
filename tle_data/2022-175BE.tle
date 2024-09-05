@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54810
+launchyear:2022
+epoch:24242.61679342
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5408
+meananomly:267.0784
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8864290275
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2199
+eccentricity:0.0001961
+argumentofperigree:93.0433
+nickname:STARLINK-5408
+idesg:22175BE 
+cosparid:2022-175BE
+altkm:540.716500166
+velkms:7.593143037067
+velkmh:27335
+onumepoch:9394
+onumnow:141748.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:48:11+00:00
+nowjuliandate:2460552.6377876
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5408
+1 54810U 22175BE  24242.61679342 -.00000131  00000+0  98662-5 0  9998
+2 54810  53.2199   4.6874 0001961  93.0433 267.0784 15.08838699 93943

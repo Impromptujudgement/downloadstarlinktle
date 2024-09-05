@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54859
+launchyear:2022
+epoch:24242.38939395
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5409
+meananomly:94.6850
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1995898113
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:7.13E-5
+argumentofperigree:265.3911
+nickname:STARLINK-5409
+idesg:22177AR 
+cosparid:2022-177AR
+altkm:558.88083060581
+velkms:7.5838029065218
+velkmh:27302
+onumepoch:9229
+onumnow:138680.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:20:44+00:00
+nowjuliandate:2460552.6377828
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5409
+1 54859U 22177AR  24242.38939395  .00002202  00000+0  17802-3 0  9999
+2 54859  42.9999 268.4707 0000713 265.3911  94.6850 15.02542177 92295

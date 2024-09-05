@@ -1,0 +1,38 @@
+date:2024-08-28T21:45:15+00:00
+validtle:1
+satid:57670
+launchyear:2023
+epoch:24241.38474609
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30322
+meananomly:274.4667
+meanmotion:15.2803
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6859.8556641943
+altitudeatperigee:481
+altitudeatapogee:483
+inclination:53.1345
+eccentricity:0.0001353
+argumentofperigree:85.6487
+nickname:STARLINK-30322
+idesg:23124H  
+cosparid:2023-124H
+altkm:482.54257948153
+velkms:7.6254020454927
+velkmh:27451
+onumepoch:5804
+onumnow:88694.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:14:02+00:00
+nowjuliandate:2460551.4064245
+nowepochdate:24241.9064236111
+TLE:
+STARLINK-30322
+1 57670U 23124H   24241.38474609  .00006583  00000+0  25009-3 0  9991
+2 57670  53.1345 283.1649 0001353  85.6487 274.4667 15.28025104 58042

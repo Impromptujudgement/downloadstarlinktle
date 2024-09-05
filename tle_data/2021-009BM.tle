@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47607
+launchyear:2021
+epoch:24241.56246666
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2025
+meananomly:278.3547
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3472828967
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0552
+eccentricity:0.0001384
+argumentofperigree:81.7599
+nickname:STARLINK-2025
+idesg:21009BM 
+cosparid:2021-009BM
+altkm:547.95032408446
+velkms:7.5892940965177
+velkmh:27321
+onumepoch:19748
+onumnow:297507.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:29:57+00:00
+nowjuliandate:2460552.6394693
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2025
+1 47607U 21009BM  24241.56246666  .00035903  00000+0  24169-2 0  9993
+2 47607  53.0552 351.9449 0001384  81.7599 278.3547 15.06401090197487

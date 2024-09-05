@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52476
+launchyear:2022
+epoch:24242.13526207
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3835
+meananomly:289.3915
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8612090926
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001296
+argumentofperigree:70.7217
+nickname:STARLINK-3835
+idesg:22049AB 
+cosparid:2022-049AB
+altkm:540.32399483815
+velkms:7.5935599149029
+velkmh:27337
+onumepoch:12837
+onumnow:193705.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:14:47+00:00
+nowjuliandate:2460552.6379234
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3835
+1 52476U 22049AB  24242.13526207  .00001926  00000+0  13902-3 0  9996
+2 52476  53.2169  32.3170 0001296  70.7217 289.3915 15.08846950128374

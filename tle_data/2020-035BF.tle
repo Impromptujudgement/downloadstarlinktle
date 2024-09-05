@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45710
+launchyear:2020
+epoch:24242.65170912
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1423
+meananomly:260.1242
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3361728262
+altitudeatperigee:545
+altitudeatapogee:550
+inclination:53.0489
+eccentricity:0.0003492
+argumentofperigree:100.0141
+nickname:STARLINK-1423
+idesg:20035BF 
+cosparid:2020-035BF
+altkm:548.49326696985
+velkms:7.5886932468777
+velkmh:27319
+onumepoch:23519
+onumnow:354304.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:38:28+00:00
+nowjuliandate:2460553.0283191
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1423
+1 45710U 20035BF  24242.65170912  .00016500  00000+0  11238-2 0  9990
+2 45710  53.0489  17.2532 0003492 100.0141 260.1242 15.06404715235193

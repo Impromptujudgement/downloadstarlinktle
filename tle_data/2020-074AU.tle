@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46781
+launchyear:2020
+epoch:24242.46879107
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1834
+meananomly:262.4159
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3893176771
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001342
+argumentofperigree:97.6982
+nickname:STARLINK-1834
+idesg:20074AU 
+cosparid:2020-074AU
+altkm:548.25418929882
+velkms:7.5889841972705
+velkmh:27320
+onumepoch:21242
+onumnow:319996.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:15:04+00:00
+nowjuliandate:2460552.6397139
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1834
+1 46781U 20074AU  24242.46879107  .00024824  00000+0  16801-2 0  9992
+2 46781  53.0544 303.0802 0001342  97.6982 262.4159 15.06387375212421

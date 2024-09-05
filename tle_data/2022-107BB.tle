@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53749
+launchyear:2022
+epoch:24242.2781079
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4680
+meananomly:320.6424
+meanmotion:15.2051
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6882.4345596701
+altitudeatperigee:500
+altitudeatapogee:509
+inclination:53.2141
+eccentricity:0.0006757
+argumentofperigree:39.5064
+nickname:STARLINK-4680
+idesg:22107BB 
+cosparid:2022-107BB
+altkm:501.6047992986
+velkms:7.6167528909983
+velkmh:27420
+onumepoch:10973
+onumnow:166858.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:40:29+00:00
+nowjuliandate:2460552.6378296
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4680
+1 53749U 22107BB  24242.27810790  .00080271  00000+0  35995-2 0  9998
+2 53749  53.2141 240.8232 0006757  39.5064 320.6424 15.20511889109730

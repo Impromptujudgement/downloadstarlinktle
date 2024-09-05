@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48316
+launchyear:2021
+epoch:24241.82652502
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2507
+meananomly:288.1778
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3085464881
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:6.37E-5
+argumentofperigree:71.928
+nickname:STARLINK-2507
+idesg:21036AS 
+cosparid:2021-036AS
+altkm:547.91304115751
+velkms:7.5893137633815
+velkmh:27322
+onumepoch:18408
+onumnow:277320.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:50:12+00:00
+nowjuliandate:2460552.6380436
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2507
+1 48316U 21036AS  24241.82652502  .00009636  00000+0  66462-3 0  9997
+2 48316  53.0543  75.9645 0000637  71.9280 288.1778 15.06413729184083

@@ -1,0 +1,38 @@
+date:2024-08-27T23:18:06+00:00
+validtle:1
+satid:59545
+launchyear:2024
+epoch:24240.40432691
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31582
+meananomly:73.9179
+meanmotion:15.4079
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.9282150813
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0002
+eccentricity:0.0001783
+argumentofperigree:286.1482
+nickname:STARLINK-31582
+idesg:24074M  
+cosparid:2024-074M
+altkm:443.22860222213
+velkms:7.6481561836446
+velkmh:27533
+onumepoch:2022
+onumnow:31178.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:42:14+00:00
+nowjuliandate:2460550.4709029
+nowepochdate:24241.9709027778
+TLE:
+STARLINK-31582
+1 59545U 24074M   24240.40432691 -.00018015  00000+0 -42378-3 0  9999
+2 59545  43.0002 284.1587 0001783 286.1482  73.9179 15.40785698 20229

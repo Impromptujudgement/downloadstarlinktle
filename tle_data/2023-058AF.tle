@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56346
+launchyear:2023
+epoch:24242.75762468
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5837
+meananomly:264.5024
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1571631054
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6581
+eccentricity:0.0001559
+argumentofperigree:95.6378
+nickname:STARLINK-5837
+idesg:23058AF 
+cosparid:2023-058AF
+altkm:566.18152890695
+velkms:7.5779912052522
+velkmh:27281
+onumepoch:7408
+onumnow:111218.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:10:59+00:00
+nowjuliandate:2460552.6377096
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5837
+1 56346U 23058AF  24242.75762468  .00000524  00000+0  45376-4 0  9990
+2 56346  97.6581 242.5651 0001559  95.6378 264.5024 15.01257325 74088

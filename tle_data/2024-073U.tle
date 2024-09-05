@@ -1,0 +1,38 @@
+date:2024-08-27T23:28:52+00:00
+validtle:1
+satid:59529
+launchyear:2024
+epoch:24240.31972166
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31513
+meananomly:87.2306
+meanmotion:15.4074
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.0646583231
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0018
+eccentricity:0.0001978
+argumentofperigree:272.8324
+nickname:STARLINK-31513
+idesg:24073U  
+cosparid:2024-073U
+altkm:443.63701324468
+velkms:7.6477748065154
+velkmh:27532
+onumepoch:2041
+onumnow:31472.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:40:24+00:00
+nowjuliandate:2460550.4783883
+nowepochdate:24241.9783796296
+TLE:
+STARLINK-31513
+1 59529U 24073U   24240.31972166 -.00012995  00000+0 -30392-3 0  9990
+2 59529  43.0018 255.4926 0001978 272.8324  87.2306 15.40739474 20411

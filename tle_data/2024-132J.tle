@@ -1,0 +1,38 @@
+date:2024-08-27T15:30:49+00:00
+validtle:1
+satid:60286
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31656
+meananomly:242.3527
+meanmotion:15.4339
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6814.2402093381
+altitudeatperigee:436
+altitudeatapogee:437
+inclination:53.1592
+eccentricity:8.14E-5
+argumentofperigree:85.4951
+nickname:STARLINK-31656
+idesg:24132J  
+cosparid:2024-132J
+altkm:443.78343966894
+velkms:7.6456358702138
+velkmh:27524
+onumepoch:591
+onumnow:9122.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1464117
+nowepochdate:24240..646400463
+TLE:
+STARLINK-31656
+1 60286U 24132J   24239.91667824 -.02234767  00000+0 -54931-1 0  9992
+2 60286  53.1592 134.2217 0000814  85.4951 242.3527 15.43393966  5913

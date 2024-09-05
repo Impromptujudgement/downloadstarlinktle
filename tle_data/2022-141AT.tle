@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54198
+launchyear:2022
+epoch:24242.43557777
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5246
+meananomly:264.3631
+meanmotion:15.0881
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9681669157
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2182
+eccentricity:0.0001335
+argumentofperigree:95.7513
+nickname:STARLINK-5246
+idesg:22141AT 
+cosparid:2022-141AT
+altkm:540.8194805375
+velkms:7.5930748009194
+velkmh:27335
+onumepoch:10210
+onumnow:154060.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:27:14+00:00
+nowjuliandate:2460552.6377953
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5246
+1 54198U 22141AT  24242.43557777 -.00008085  00000+0 -49084-3 0  9996
+2 54198  53.2182 335.5760 0001335  95.7513 264.3631 15.08811958102106

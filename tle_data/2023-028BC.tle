@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55791
+launchyear:2023
+epoch:24242.50290208
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5807
+meananomly:81.4669
+meanmotion:14.9837
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.0718606455
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0029
+eccentricity:0.0002758
+argumentofperigree:278.6178
+nickname:STARLINK-5807
+idesg:23028BC 
+cosparid:2023-028BC
+altkm:574.0749482999
+velkms:7.5742373903427
+velkmh:27267
+onumepoch:8355
+onumnow:125198.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:04:11+00:00
+nowjuliandate:2460552.6377348
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5807
+1 55791U 23028BC  24242.50290208 -.00008368  00000+0 -69368-3 0  9993
+2 55791  70.0029 169.3771 0002758 278.6178  81.4669 14.98369809 83554

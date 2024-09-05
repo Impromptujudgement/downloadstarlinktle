@@ -1,0 +1,38 @@
+date:2024-08-28T19:06:48+00:00
+validtle:1
+satid:57982
+launchyear:2023
+epoch:24241.44377738
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30507
+meananomly:100.5702
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1394128124
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9977
+eccentricity:0.0001331
+argumentofperigree:259.499
+nickname:STARLINK-30507
+idesg:23151U  
+cosparid:2023-151U
+altkm:558.94945644587
+velkms:7.5836951212569
+velkmh:27301
+onumepoch:5158
+onumnow:77507.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:39:02+00:00
+nowjuliandate:2460551.2963968
+nowepochdate:24241.7963888889
+TLE:
+STARLINK-30507
+1 57982U 23151U   24241.44377738  .00009373  00000+0  70752-3 0  9994
+2 57982  42.9977 145.3133 0001331 259.4990 100.5702 15.02561728 51588

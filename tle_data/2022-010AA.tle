@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73414
+launchyear:2022
+epoch:23051.42895833
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3414
+meananomly:338.3947
+meanmotion:15.9956
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.7773456232
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.0061743
+argumentofperigree:161.9022
+nickname:STARLINK-3414
+idesg:22010AA 
+cosparid:2022-010AA
+altkm:242.08380583068
+velkms:7.7877988871509
+velkmh:28036
+onumepoch:1
+onumnow:19075.89
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:17:42+00:00
+nowjuliandate:2460552.63797
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3414
+1 73414C 22010AA  23051.42895833 -.01056541  00000-0 -18022-2 0   515
+2 73414  69.9999 143.3291 0061743 161.9022 338.3947 15.99560092    11

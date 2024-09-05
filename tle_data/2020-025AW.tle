@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45575
+launchyear:2020
+epoch:23053.80145937
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1326
+meananomly:207.0029
+meanmotion:15.3837
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6829.0676816503
+altitudeatperigee:445
+altitudeatapogee:456
+inclination:53.0034
+eccentricity:0.0008074
+argumentofperigree:153.1393
+nickname:STARLINK-1326
+idesg:20025AW 
+cosparid:2020-025AW
+altkm:456.73014345746
+velkms:7.6370356056096
+velkmh:27493
+onumepoch:15798
+onumnow:261334.11
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T19:14:06+00:00
+nowjuliandate:2460553.028338
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1326
+1 45575U 20025AW  23053.80145937  .00151859  00000+0  38833-2 0  9990
+2 45575  53.0034 343.7647 0008074 153.1393 207.0029 15.38370102157981

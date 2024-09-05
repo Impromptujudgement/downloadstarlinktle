@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51734
+launchyear:2022
+epoch:24241.91071904
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3450
+meananomly:266.3494
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8606527955
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001392
+argumentofperigree:93.7657
+nickname:STARLINK-3450
+idesg:22016W  
+cosparid:2022-016W
+altkm:540.68244203746
+velkms:7.5931662919223
+velkmh:27335
+onumepoch:14046
+onumnow:211951.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:51:26+00:00
+nowjuliandate:2460552.6379596
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3450
+1 51734U 22016W   24241.91071904  .00000700  00000+0  62041-4 0  9998
+2 51734  53.2168 303.0888 0001392  93.7657 266.3494 15.08847132140467

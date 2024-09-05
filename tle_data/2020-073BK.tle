@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:19+00:00
+validtle:1
+satid:46727
+launchyear:2020
+epoch:24242.17807503
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1830
+meananomly:268.6626
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3405003849
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001412
+argumentofperigree:91.4525
+nickname:STARLINK-1830
+idesg:20073BK 
+cosparid:2020-073BK
+altkm:548.10542197179
+velkms:7.5891204790543
+velkmh:27321
+onumepoch:21393
+onumnow:322279.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:16:26+00:00
+nowjuliandate:2460552.6398138
+nowepochdate:24243.1398032407
+TLE:
+STARLINK-1830
+1 46727U 20073BK  24242.17807503  .00002299  00000+0  17314-3 0  9993
+2 46727  53.0532 199.3851 0001412  91.4525 268.6626 15.06403303213935

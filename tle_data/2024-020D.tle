@@ -1,0 +1,38 @@
+date:2024-08-28T03:00:02+00:00
+validtle:1
+satid:58879
+launchyear:2024
+epoch:24239.93898695
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31296
+meananomly:271.7930
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3382361303
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1618
+eccentricity:0.0001045
+argumentofperigree:88.3192
+nickname:STARLINK-31296
+idesg:24020D  
+cosparid:2024-020D
+altkm:464.08037643718
+velkms:7.6356701694958
+velkmh:27488
+onumepoch:3234
+onumnow:49635.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:32:08+00:00
+nowjuliandate:2460550.6250287
+nowepochdate:24241.1250231481
+TLE:
+STARLINK-31296
+1 58879U 24020D   24239.93898695  .00005602  00000+0  17771-3 0  9990
+2 58879  53.1618  44.3281 0001045  88.3192 271.7930 15.34233151 32345

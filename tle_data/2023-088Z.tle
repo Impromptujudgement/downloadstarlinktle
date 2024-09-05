@@ -1,0 +1,38 @@
+date:2024-08-29T06:52:33+00:00
+validtle:1
+satid:57071
+launchyear:2023
+epoch:24241.73297174
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5834
+meananomly:93.5370
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1953175738
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.0001148
+argumentofperigree:266.5341
+nickname:STARLINK-5834
+idesg:23088Z  
+cosparid:2023-088Z
+altkm:558.88557837002
+velkms:7.5837953907646
+velkmh:27302
+onumepoch:6641
+onumnow:99792.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:35:29+00:00
+nowjuliandate:2460551.7864959
+nowepochdate:24242.2864930556
+TLE:
+STARLINK-5834
+1 57071U 23088Z   24241.73297174  .00000416  00000+0  45851-4 0  9991
+2 57071  43.0020 246.6726 0001148 266.5341  93.5370 15.02543565 66415

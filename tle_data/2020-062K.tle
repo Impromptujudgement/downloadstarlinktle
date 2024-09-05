@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46334
+launchyear:2020
+epoch:24242.55590918
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1725
+meananomly:266.4572
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3439636627
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001608
+argumentofperigree:93.6601
+nickname:STARLINK-1725
+idesg:20062K  
+cosparid:2020-062K
+altkm:548.15479914485
+velkms:7.5890682805789
+velkmh:27321
+onumepoch:22079
+onumnow:332613.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:20:31+00:00
+nowjuliandate:2460553.0282428
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1725
+1 46334U 20062K   24242.55590918  .00015106  00000+0  10308-2 0  9992
+2 46334  53.0521 337.9748 0001608  93.6601 266.4572 15.06402173220790

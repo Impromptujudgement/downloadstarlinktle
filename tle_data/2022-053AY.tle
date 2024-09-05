@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52702
+launchyear:2022
+epoch:24241.97420205
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4033
+meananomly:260.4987
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8016737186
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0002551
+argumentofperigree:99.6293
+nickname:STARLINK-4033
+idesg:22053AY 
+cosparid:2022-053AY
+altkm:540.85365621061
+velkms:7.5929461313803
+velkmh:27335
+onumepoch:12648
+onumnow:190858.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:22:51+00:00
+nowjuliandate:2460552.6379019
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4033
+1 52702U 22053AY  24241.97420205  .00021788  00000+0  13818-2 0  9998
+2 52702  53.2158 132.8282 0002551  99.6293 260.4987 15.08866428126484

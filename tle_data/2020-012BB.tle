@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45227
+launchyear:2020
+epoch:24242.00967652
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1221
+meananomly:322.8286
+meanmotion:15.1389
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6902.4756942413
+altitudeatperigee:523
+altitudeatapogee:526
+inclination:53.0555
+eccentricity:0.000177
+argumentofperigree:37.2829
+nickname:STARLINK-1221
+idesg:20012BB 
+cosparid:2020-012BB
+altkm:524.24738458292
+velkms:7.6027932022206
+velkmh:27370
+onumepoch:25129
+onumnow:380449.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:13:56+00:00
+nowjuliandate:2460553.0283796
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1221
+1 45227U 20012BB  24242.00967652  .00080700  00000+0  43737-2 0  9994
+2 45227  53.0555 347.9387 0001770  37.2829 322.8286 15.13894556251299

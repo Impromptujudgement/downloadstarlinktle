@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52600
+launchyear:2022
+epoch:24242.38176267
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4026
+meananomly:263.5630
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8740161815
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.000138
+argumentofperigree:96.552
+nickname:STARLINK-4026
+idesg:22052C  
+cosparid:2022-052C
+altkm:540.74134307236
+velkms:7.5931089801429
+velkmh:27335
+onumepoch:12709
+onumnow:191770.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:09:44+00:00
+nowjuliandate:2460552.6379072
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4026
+1 52600U 22052C   24242.38176267  .00000144  00000+0  27154-4 0  9999
+2 52600  53.2153 260.9700 0001380  96.5520 263.5630 15.08842760127092

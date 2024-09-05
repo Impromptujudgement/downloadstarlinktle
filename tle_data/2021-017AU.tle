@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47764
+launchyear:2021
+epoch:24242.20663478
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2182
+meananomly:275.8054
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3402858457
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001609
+argumentofperigree:84.3118
+nickname:STARLINK-2182
+idesg:21017AU 
+cosparid:2021-017AU
+altkm:547.96976585598
+velkms:7.58926897254
+velkmh:27321
+onumepoch:19286
+onumnow:290537.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:57:33+00:00
+nowjuliandate:2460552.6393781
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2182
+1 47764U 21017AU  24242.20663478  .00002399  00000+0  17985-3 0  9994
+2 47764  53.0536 209.2549 0001609  84.3118 275.8054 15.06403373192863

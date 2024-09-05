@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51461
+launchyear:2022
+epoch:24241.76351886
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3181
+meananomly:266.1857
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8687985846
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001492
+argumentofperigree:93.9306
+nickname:STARLINK-3181
+idesg:22010F  
+cosparid:2022-010F
+altkm:540.69791575788
+velkms:7.5931537738536
+velkmh:27335
+onumepoch:14259
+onumnow:215164.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:19:28+00:00
+nowjuliandate:2460552.6379672
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3181
+1 51461U 22010F   24241.76351886  .00001772  00000+0  12938-3 0  9991
+2 51461  53.2165 263.7525 0001492  93.9306 266.1857 15.08844467142590

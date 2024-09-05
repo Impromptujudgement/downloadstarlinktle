@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48404
+launchyear:2021
+epoch:24242.48540533
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2593
+meananomly:258.2254
+meanmotion:15.0635
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.5014002617
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001474
+argumentofperigree:101.89
+nickname:STARLINK-2593
+idesg:21038BD 
+cosparid:2021-038BD
+altkm:548.45177608271
+velkms:7.5888290282879
+velkmh:27320
+onumepoch:18391
+onumnow:277042.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:38:59+00:00
+nowjuliandate:2460552.6380333
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2593
+1 48404U 21038BD  24242.48540533  .00017890  00000+0  12185-2 0  9993
+2 48404  53.0530 323.0103 0001474 101.8900 258.2254 15.06350806183919

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50178
+launchyear:2021
+epoch:24242.23458139
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3284
+meananomly:265.0108
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8727782622
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001515
+argumentofperigree:95.1057
+nickname:STARLINK-3284
+idesg:21125Y  
+cosparid:2021-125Y
+altkm:540.72435661353
+velkms:7.5931269408004
+velkmh:27335
+onumepoch:15195
+onumnow:229280.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:37:48+00:00
+nowjuliandate:2460552.6379818
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3284
+1 50178U 21125Y   24242.23458139  .00001091  00000+0  86631-4 0  9999
+2 50178  53.2162 231.4920 0001515  95.1057 265.0108 15.08843165151956

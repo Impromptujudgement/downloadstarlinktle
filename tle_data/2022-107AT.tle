@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53741
+launchyear:2022
+epoch:24241.71936706
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4614
+meananomly:265.0699
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8702321237
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001473
+argumentofperigree:95.0462
+nickname:STARLINK-4614
+idesg:22107AT 
+cosparid:2022-107AT
+altkm:540.71827336736
+velkms:7.5931322214678
+velkmh:27335
+onumepoch:11057
+onumnow:166854.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:15:53+00:00
+nowjuliandate:2460552.6378307
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4614
+1 53741U 22107AT  24241.71936706  .00000702  00000+0  62216-4 0  9993
+2 53741  53.2167 233.7190 0001473  95.0462 265.0699 15.08843998110578

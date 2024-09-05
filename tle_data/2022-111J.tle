@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53781
+launchyear:2022
+epoch:24242.72630101
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4462
+meananomly:266.5988
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8882691045
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001679
+argumentofperigree:93.5196
+nickname:STARLINK-4462
+idesg:22111J  
+cosparid:2022-111J
+altkm:540.71760311058
+velkms:7.5931428336643
+velkmh:27335
+onumepoch:10880
+onumnow:164167.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:25:52+00:00
+nowjuliandate:2460552.6378242
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4462
+1 53781U 22111J   24242.72630101 -.00000173  00000+0  72352-5 0  9990
+2 53781  53.2158 254.4244 0001679  93.5196 266.5988 15.08838097108801

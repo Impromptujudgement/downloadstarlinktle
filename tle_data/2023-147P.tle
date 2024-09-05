@@ -1,0 +1,38 @@
+date:2024-08-28T19:40:20+00:00
+validtle:1
+satid:57926
+launchyear:2023
+epoch:24240.97897015
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30468
+meananomly:96.3971
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2213420046
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:9.55E-5
+argumentofperigree:263.6762
+nickname:STARLINK-30468
+idesg:23147P  
+cosparid:2023-147P
+altkm:558.93646962017
+velkms:7.5837539683005
+velkmh:27302
+onumepoch:5252
+onumnow:78925.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T23:29:43+00:00
+nowjuliandate:2460551.3196846
+nowepochdate:24241.8196759259
+TLE:
+STARLINK-30468
+1 57926U 23147P   24240.97897015  .00001405  00000+0  11904-3 0  9991
+2 57926  43.0039 121.9134 0000955 263.6762  96.3971 15.02535110 52524

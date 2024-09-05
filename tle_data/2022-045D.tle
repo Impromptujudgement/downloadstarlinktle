@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52334
+launchyear:2022
+epoch:24241.57123929
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3880
+meananomly:271.2204
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8776015657
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001275
+argumentofperigree:88.8935
+nickname:STARLINK-3880
+idesg:22045D  
+cosparid:2022-045D
+altkm:540.61903370945
+velkms:7.5932451478466
+velkmh:27336
+onumepoch:13137
+onumnow:198240.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:42:35+00:00
+nowjuliandate:2460552.637926
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3880
+1 52334U 22045D   24241.57123929  .00001408  00000+0  10655-3 0  9993
+2 52334  53.2147 194.6137 0001275  88.8935 271.2204 15.08841587131378

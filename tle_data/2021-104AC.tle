@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49434
+launchyear:2021
+epoch:24241.20878093
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3134
+meananomly:262.7377
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8837972917
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001528
+argumentofperigree:97.3788
+nickname:STARLINK-3134
+idesg:21104AC 
+cosparid:2021-104AC
+altkm:540.77786985987
+velkms:7.5930742576796
+velkmh:27335
+onumepoch:15540
+onumnow:234502.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:00:39+00:00
+nowjuliandate:2460552.638
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3134
+1 49434U 21104AC  24241.20878093  .00000272  00000+0  35169-4 0  9990
+2 49434  53.2163 216.3928 0001528  97.3788 262.7377 15.08839560155409

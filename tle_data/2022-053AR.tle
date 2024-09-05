@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52695
+launchyear:2022
+epoch:24242.4121007
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4041
+meananomly:282.9600
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8819083121
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001608
+argumentofperigree:77.1571
+nickname:STARLINK-4041
+idesg:22053AR 
+cosparid:2022-053AR
+altkm:540.39297020655
+velkms:7.5934955620321
+velkmh:27337
+onumepoch:12655
+onumnow:190954.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:53:26+00:00
+nowjuliandate:2460552.6379028
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4041
+1 52695U 22053AR  24242.41210070 -.00000175  00000+0  70740-5 0  9994
+2 52695  53.2170 130.6367 0001608  77.1571 282.9600 15.08840178126554

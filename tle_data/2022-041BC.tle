@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52311
+launchyear:2022
+epoch:24241.82147758
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3750
+meananomly:272.1331
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8436368849
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001373
+argumentofperigree:87.9818
+nickname:STARLINK-3750
+idesg:22041BC 
+cosparid:2022-041BC
+altkm:540.56862145517
+velkms:7.5932818654037
+velkmh:27336
+onumepoch:13164
+onumnow:198645.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:42:56+00:00
+nowjuliandate:2460552.6379328
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3750
+1 52311U 22041BC  24241.82147758  .00002848  00000+0  19691-3 0  9996
+2 52311  53.2155  73.4874 0001373  87.9818 272.1331 15.08852699131640

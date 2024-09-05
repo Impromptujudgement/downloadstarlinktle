@@ -1,0 +1,38 @@
+date:2024-08-28T02:01:26+00:00
+validtle:1
+satid:59335
+launchyear:2024
+epoch:24239.46878247
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31588
+meananomly:77.9881
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1903572068
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9973
+eccentricity:0.0001457
+argumentofperigree:282.0812
+nickname:STARLINK-31588
+idesg:24057R  
+cosparid:2024-057R
+altkm:443.62043785739
+velkms:7.6478636218067
+velkmh:27532
+onumepoch:2377
+onumnow:36647.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:15:03+00:00
+nowjuliandate:2460550.5843324
+nowepochdate:24241.0843287037
+TLE:
+STARLINK-31588
+1 59335U 24057R   24239.46878247 -.00000132  00000+0  40945-5 0  9992
+2 59335  42.9973 144.3898 0001457 282.0812  77.9881 15.40696892 23777

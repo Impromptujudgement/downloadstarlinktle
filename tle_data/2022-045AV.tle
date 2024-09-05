@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52374
+launchyear:2022
+epoch:24242.54092144
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3762
+meananomly:265.9229
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8785552236
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001509
+argumentofperigree:94.1936
+nickname:STARLINK-3762
+idesg:22045AV 
+cosparid:2022-045AV
+altkm:540.71343496643
+velkms:7.5931420883315
+velkmh:27335
+onumepoch:13181
+onumnow:198889.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:58:56+00:00
+nowjuliandate:2460552.6379273
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3762
+1 52374U 22045AV  24242.54092144  .00000198  00000+0  30557-4 0  9998
+2 52374  53.2184 170.2532 0001509  94.1936 265.9229 15.08841275131813

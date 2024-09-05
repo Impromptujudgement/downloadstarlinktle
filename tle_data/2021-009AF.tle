@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47577
+launchyear:2021
+epoch:24242.6093207
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1979
+meananomly:284.0369
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3306530532
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0505
+eccentricity:9.7E-5
+argumentofperigree:76.0728
+nickname:STARLINK-1979
+idesg:21009AF 
+cosparid:2021-009AF
+altkm:547.9094600012
+velkms:7.5893297714161
+velkmh:27322
+onumepoch:19750
+onumnow:297523.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:37:25+00:00
+nowjuliandate:2460552.6394925
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1979
+1 47577U 21009AF  24242.60932070  .00022969  00000+0  15556-2 0  9994
+2 47577  53.0505 357.4498 0000970  76.0728 284.0369 15.06406516197504

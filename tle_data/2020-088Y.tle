@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47144
+launchyear:2020
+epoch:24242.35452344
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1857
+meananomly:284.6755
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3298929743
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001363
+argumentofperigree:75.4385
+nickname:STARLINK-1857
+idesg:20088Y  
+cosparid:2020-088Y
+altkm:547.83295292098
+velkms:7.5894131718853
+velkmh:27322
+onumepoch:20836
+onumnow:313886.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:30:31+00:00
+nowjuliandate:2460552.6395988
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1857
+1 47144U 20088Y   24242.35452344 -.00001227  00000+0 -63448-4 0  9994
+2 47144  53.0542 263.5885 0001363  75.4385 284.6755 15.06406764208368

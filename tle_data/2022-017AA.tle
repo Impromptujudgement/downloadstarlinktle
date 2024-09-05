@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51792
+launchyear:2022
+epoch:24242.42317123
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3626
+meananomly:268.5203
+meanmotion:15.0881
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9591007716
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001157
+argumentofperigree:91.5921
+nickname:STARLINK-3626
+idesg:22017AA 
+cosparid:2022-017AA
+altkm:540.74026997883
+velkms:7.5931567486952
+velkmh:27335
+onumepoch:13984
+onumnow:211003.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:09:22+00:00
+nowjuliandate:2460552.6379592
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3626
+1 51792U 22017AA  24242.42317123 -.00008251  00000+0 -50125-3 0  9996
+2 51792  53.2175 330.7892 0001157  91.5921 268.5203 15.08814924139845

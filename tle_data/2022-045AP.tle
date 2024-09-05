@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52368
+launchyear:2022
+epoch:24242.08828265
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3834
+meananomly:259.7137
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9002938237
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001654
+argumentofperigree:100.4042
+nickname:STARLINK-3834
+idesg:22045AP 
+cosparid:2022-045AP
+altkm:540.86515593058
+velkms:7.5929875182705
+velkmh:27335
+onumepoch:13173
+onumnow:198774.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:07:08+00:00
+nowjuliandate:2460552.6379284
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3834
+1 52368U 22045AP  24242.08828265 -.00002322  00000+0 -12787-3 0  9998
+2 52368  53.2171 172.2901 0001654 100.4042 259.7137 15.08834163131732

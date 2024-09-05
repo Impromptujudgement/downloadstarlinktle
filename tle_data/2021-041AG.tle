@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48583
+launchyear:2021
+epoch:24242.38217881
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2237
+meananomly:277.5144
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3615406304
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.000111
+argumentofperigree:82.5971
+nickname:STARLINK-2237
+idesg:21041AG 
+cosparid:2021-041AG
+altkm:548.00296322466
+velkms:7.5892442240229
+velkmh:27321
+onumepoch:18151
+onumnow:273437.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:10:20+00:00
+nowjuliandate:2460552.63802
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2237
+1 48583U 21041AG  24242.38217881  .00006447  00000+0  45135-3 0  9999
+2 48583  53.0523 123.4689 0001110  82.5971 277.5144 15.06396438181517

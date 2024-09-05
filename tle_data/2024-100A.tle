@@ -1,0 +1,38 @@
+date:2024-08-27T18:35:19+00:00
+validtle:1
+satid:59885
+launchyear:2024
+epoch:24239.80854527
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31974
+meananomly:73.0478
+meanmotion:15.4061
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.4492179687
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0046
+eccentricity:0.0001484
+argumentofperigree:287.0216
+nickname:STARLINK-31974
+idesg:24100A  
+cosparid:2024-100A
+altkm:443.79179456483
+velkms:7.6478162799997
+velkmh:27532
+onumepoch:1514
+onumnow:23327.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:24:18+00:00
+nowjuliandate:2460550.2745272
+nowepochdate:24240..774525463
+TLE:
+STARLINK-31974
+1 59885U 24100A   24239.80854527  .00019413  00000+0  47221-3 0  9997
+2 59885  43.0046  72.1199 0001484 287.0216  73.0478 15.40609206 15149

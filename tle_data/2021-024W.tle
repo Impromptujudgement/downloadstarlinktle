@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:47997
+launchyear:2021
+epoch:24242.39968268
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2266
+meananomly:271.1550
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3301871984
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001453
+argumentofperigree:88.9605
+nickname:STARLINK-2266
+idesg:21024W  
+cosparid:2021-024W
+altkm:548.05209481555
+velkms:7.5891732603273
+velkmh:27321
+onumepoch:19039
+onumnow:286815.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:35:33+00:00
+nowjuliandate:2460552.6380547
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2266
+1 47997U 21024W   24242.39968268  .00007191  00000+0  50105-3 0  9991
+2 47997  53.0539 293.3906 0001453  88.9605 271.1550 15.06406668190399

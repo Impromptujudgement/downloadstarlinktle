@@ -1,0 +1,38 @@
+date:2024-08-28T01:17:03+00:00
+validtle:1
+satid:59400
+launchyear:2024
+epoch:24240.59648285
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31545
+meananomly:98.5362
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2052352936
+altitudeatperigee:443
+altitudeatapogee:446
+inclination:43.0025
+eccentricity:0.0002172
+argumentofperigree:261.5248
+nickname:STARLINK-31545
+idesg:24064C  
+cosparid:2024-064C
+altkm:444.06282909968
+velkms:7.6473762718517
+velkmh:27531
+onumepoch:2350
+onumnow:36213.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:18:56+00:00
+nowjuliandate:2460550.5535124
+nowepochdate:24241.0535069444
+TLE:
+STARLINK-31545
+1 59400U 24064C   24240.59648285  .00001202  00000+0  36049-4 0  9993
+2 59400  43.0025 352.3412 0002172 261.5248  98.5362 15.40691852 23508

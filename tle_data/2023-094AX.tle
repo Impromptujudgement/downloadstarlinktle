@@ -1,0 +1,38 @@
+date:2024-08-29T05:52:30+00:00
+validtle:1
+satid:57263
+launchyear:2023
+epoch:24241.55037183
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5509
+meananomly:81.3194
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2052748523
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001425
+argumentofperigree:278.7487
+nickname:STARLINK-5509
+idesg:23094AX 
+cosparid:2023-094AX
+altkm:558.69722370906
+velkms:7.5840066305825
+velkmh:27302
+onumepoch:6334
+onumnow:95181.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:12:32+00:00
+nowjuliandate:2460551.744803
+nowepochdate:24242.2447916667
+TLE:
+STARLINK-5509
+1 57263U 23094AX  24241.55037183  .00006031  00000+0  46109-3 0  9998
+2 57263  43.0015 182.9013 0001425 278.7487  81.3194 15.02540330 63342

@@ -1,0 +1,38 @@
+date:2024-08-28T18:54:51+00:00
+validtle:1
+satid:58004
+launchyear:2023
+epoch:24240.65097666
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30539
+meananomly:100.8725
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2267254448
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001097
+argumentofperigree:259.1994
+nickname:STARLINK-30539
+idesg:23153P  
+cosparid:2023-153P
+altkm:559.01140915248
+velkms:7.583675019
+velkmh:27301
+onumepoch:5078
+onumnow:76315.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:37:24+00:00
+nowjuliandate:2460551.288093
+nowepochdate:24241.7880902778
+TLE:
+STARLINK-30539
+1 58004U 23153P   24240.65097666  .00000358  00000+0  41548-4 0  9999
+2 58004  43.0023 226.3060 0001097 259.1994 100.8725 15.02533361 50788

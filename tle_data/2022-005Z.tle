@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51127
+launchyear:2022
+epoch:24241.81416177
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3370
+meananomly:263.6686
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8678999486
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001494
+argumentofperigree:96.4476
+nickname:STARLINK-3370
+idesg:22005Z  
+cosparid:2022-005Z
+altkm:540.74233679972
+velkms:7.5931045408166
+velkmh:27335
+onumepoch:14451
+onumnow:218061.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:32:24+00:00
+nowjuliandate:2460552.63797
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3370
+1 51127U 22005Z   24241.81416177  .00000038  00000+0  20496-4 0  9998
+2 51127  53.2165 283.5334 0001494  96.4476 263.6686 15.08844761144518

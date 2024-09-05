@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54774
+launchyear:2022
+epoch:24242.0771939
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5454
+meananomly:265.3623
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7940721846
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2188
+eccentricity:7.62E-5
+argumentofperigree:94.7456
+nickname:STARLINK-5454
+idesg:22175S  
+cosparid:2022-175S
+altkm:540.59729591235
+velkms:7.5932232608777
+velkmh:27336
+onumepoch:9379
+onumnow:141532.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:51:10+00:00
+nowjuliandate:2460552.6377858
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5454
+1 54774U 22175S   24242.07719390 -.00001909  00000+0 -10179-3 0  9995
+2 54774  53.2188  12.0211 0000762  94.7456 265.3623 15.08868915 93799

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55437
+launchyear:2023
+epoch:24242.68845601
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5080
+meananomly:81.4030
+meanmotion:15.4302
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6815.3410691845
+altitudeatperigee:433
+altitudeatapogee:441
+inclination:69.9821
+eccentricity:0.0005631
+argumentofperigree:278.6514
+nickname:STARLINK-5080
+idesg:23014AY 
+cosparid:2023-014AY
+altkm:439.10289401557
+velkms:7.6491011897195
+velkmh:27537
+onumepoch:8747
+onumnow:134974.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:31:23+00:00
+nowjuliandate:2460552.6377627
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5080
+1 55437U 23014AY  24242.68845601  .00243037  00000+0  53243-2 0  9993
+2 55437  69.9821  37.5486 0005631 278.6514  81.4030 15.43020032 87474

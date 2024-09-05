@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52335
+launchyear:2022
+epoch:24242.56115792
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3814
+meananomly:270.5935
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8700212192
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001403
+argumentofperigree:89.5218
+nickname:STARLINK-3814
+idesg:22045E  
+cosparid:2022-045E
+altkm:540.62029203757
+velkms:7.5932396164318
+velkmh:27336
+onumepoch:13153
+onumnow:198466.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:28:04+00:00
+nowjuliandate:2460552.6379259
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3814
+1 52335U 22045E   24242.56115792  .00001254  00000+0  96861-4 0  9996
+2 52335  53.2154 190.1683 0001403  89.5218 270.5935 15.08844067131536

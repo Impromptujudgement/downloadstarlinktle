@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:05+00:00
+validtle:1
+satid:47159
+launchyear:2020
+epoch:22176.26840891
+epochday:176
+tleage:797
+tleclassification:C
+active:0
+name:STARLINK-1874
+meananomly:219.5963
+meanmotion:16.0106
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6649.6176881445
+altitudeatperigee:266
+altitudeatapogee:277
+inclination:53.0247
+eccentricity:0.000772
+argumentofperigree:244.4714
+nickname:STARLINK-1874
+idesg:20088AP 
+cosparid:2020-088AP
+altkm:281.43318087471
+velkms:7.7426123262561
+velkmh:27873
+onumepoch:1
+onumnow:33107.88
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-06-25T06:26:31+00:00
+nowjuliandate:2460552.6396475
+nowepochdate:24243.1396412037
+TLE:
+STARLINK-1874
+1 47159C 20088AP  22176.26840891  .02630813  00000-0  40198-2 0  1764
+2 47159  53.0247 154.7854 0007720 244.4714 219.5963 16.01061230    11

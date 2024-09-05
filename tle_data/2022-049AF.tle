@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52480
+launchyear:2022
+epoch:24241.75431754
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3839
+meananomly:268.1997
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8688872256
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001559
+argumentofperigree:91.9174
+nickname:STARLINK-3839
+idesg:22049AF 
+cosparid:2022-049AF
+altkm:540.66333587088
+velkms:7.5931917655339
+velkmh:27335
+onumepoch:12802
+onumnow:193183.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:06:13+00:00
+nowjuliandate:2460552.6379227
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3839
+1 52480U 22049AF  24241.75431754  .00001208  00000+0  93985-4 0  9993
+2 52480  53.2174  43.7916 0001559  91.9174 268.1997 15.08844438128024

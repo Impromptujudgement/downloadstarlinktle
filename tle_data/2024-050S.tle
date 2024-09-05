@@ -1,0 +1,38 @@
+date:2024-08-28T05:31:45+00:00
+validtle:1
+satid:59270
+launchyear:2024
+epoch:24240.77941849
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31616
+meananomly:279.1070
+meanmotion:15.3018
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.4206086272
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1608
+eccentricity:0.0001506
+argumentofperigree:81.0101
+nickname:STARLINK-31616
+idesg:24050S  
+cosparid:2024-050S
+altkm:476.02014015827
+velkms:7.6290842523883
+velkmh:27465
+onumepoch:2613
+onumnow:39990.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:42:22+00:00
+nowjuliandate:2460550.7303887
+nowepochdate:24241.2303819444
+TLE:
+STARLINK-31616
+1 59270U 24050S   24240.77941849  .00003102  00000+0  11688-3 0  9997
+2 59270  53.1608 257.3066 0001506  81.0101 279.1070 15.30177730 26132

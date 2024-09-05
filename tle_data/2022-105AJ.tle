@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53680
+launchyear:2022
+epoch:24242.38116154
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4630
+meananomly:265.5504
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1582604312
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6556
+eccentricity:8.96E-5
+argumentofperigree:94.5823
+nickname:STARLINK-4630
+idesg:22105AJ 
+cosparid:2022-105AJ
+altkm:566.12714650594
+velkms:7.5780511735838
+velkmh:27281
+onumepoch:10990
+onumnow:164999.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:08:52+00:00
+nowjuliandate:2460552.6378372
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4630
+1 53680U 22105AJ  24242.38116154 -.00000635  00000+0 -44857-4 0  9992
+2 53680  97.6556 122.1587 0000896  94.5823 265.5504 15.01256969109902

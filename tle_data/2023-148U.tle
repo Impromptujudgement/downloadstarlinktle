@@ -1,0 +1,38 @@
+date:2024-08-28T19:21:29+00:00
+validtle:1
+satid:57953
+launchyear:2023
+epoch:24240.91667824
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30700
+meananomly:92.2046
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3470013795
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.164
+eccentricity:5.26E-5
+argumentofperigree:66.0965
+nickname:STARLINK-30700
+idesg:23148U  
+cosparid:2023-148U
+altkm:475.5061016491
+velkms:7.6307600404692
+velkmh:27471
+onumepoch:588
+onumnow:9011.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:00:01+00:00
+nowjuliandate:2460551.3065916
+nowepochdate:24241.8065856481
+TLE:
+STARLINK-30700
+1 57953U 23148U   24240.91667824 -.00013780  00000+0 -45397-3 0  9993
+2 57953  53.1640  89.6467 0000526  66.0965  92.2046 15.30202382  5885

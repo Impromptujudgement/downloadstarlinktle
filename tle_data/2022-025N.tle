@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51968
+launchyear:2022
+epoch:24242.61212449
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3681
+meananomly:277.7911
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3722247843
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0504
+eccentricity:0.0001368
+argumentofperigree:82.3234
+nickname:STARLINK-3681
+idesg:22025N  
+cosparid:2022-025N
+altkm:547.98557818649
+velkms:7.5892691099541
+velkmh:27321
+onumepoch:13811
+onumnow:208055.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:41:28+00:00
+nowjuliandate:2460552.6379439
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3681
+1 51968U 22025N   24242.61212449 -.00001093  00000+0 -54493-4 0  9996
+2 51968  53.0504   7.7415 0001368  82.3234 277.7911 15.06392952138112

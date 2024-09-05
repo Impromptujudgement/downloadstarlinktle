@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46117
+launchyear:2020
+epoch:24242.36973766
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1585
+meananomly:277.5086
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3634561742
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001245
+argumentofperigree:82.6044
+nickname:STARLINK-1585
+idesg:20057A  
+cosparid:2020-057A
+altkm:547.99280660085
+velkms:7.5892563979133
+velkmh:27321
+onumepoch:22234
+onumnow:334941.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:52:25+00:00
+nowjuliandate:2460553.0282899
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1585
+1 46117U 20057A   24242.36973766  .00001554  00000+0  12322-3 0  9991
+2 46117  53.0527 278.5267 0001245  82.6044 277.5086 15.06395813222345

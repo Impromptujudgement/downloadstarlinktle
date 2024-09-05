@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52372
+launchyear:2022
+epoch:24242.08459303
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3796
+meananomly:252.2933
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.847653205
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001493
+argumentofperigree:107.8222
+nickname:STARLINK-3796
+idesg:22045AT 
+cosparid:2022-045AT
+altkm:540.92243163144
+velkms:7.5928958481314
+velkmh:27334
+onumepoch:13173
+onumnow:198776.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:01:49+00:00
+nowjuliandate:2460552.6379278
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3796
+1 52372U 22045AT  24242.08459303 -.00000198  00000+0  56450-5 0  9991
+2 52372  53.2184 172.3018 0001493 107.8222 252.2933 15.08851385131730

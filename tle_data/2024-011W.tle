@@ -1,0 +1,38 @@
+date:2024-08-28T03:50:26+00:00
+validtle:1
+satid:58785
+launchyear:2024
+epoch:24240.62196142
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31034
+meananomly:279.1241
+meanmotion:15.3421
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.4067232102
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1594
+eccentricity:8.75E-5
+argumentofperigree:80.986
+nickname:STARLINK-31034
+idesg:24011W  
+cosparid:2024-011W
+altkm:464.07601978258
+velkms:7.6357131608899
+velkmh:27489
+onumepoch:3585
+onumnow:55009.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:55:37+00:00
+nowjuliandate:2460550.6600345
+nowepochdate:24241.1600231481
+TLE:
+STARLINK-31034
+1 58785U 24011W   24240.62196142  .00002694  00000+0  91370-4 0  9998
+2 58785  53.1594 358.8777 0000875  80.9860 279.1241 15.34210113 35856

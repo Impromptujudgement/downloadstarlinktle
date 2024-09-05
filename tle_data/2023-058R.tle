@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56332
+launchyear:2023
+epoch:24241.71710823
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5093
+meananomly:257.5972
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1469018979
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6542
+eccentricity:0.0001181
+argumentofperigree:102.5384
+nickname:STARLINK-5093
+idesg:23058R  
+cosparid:2023-058R
+altkm:566.24372748088
+velkms:7.5779177047994
+velkmh:27281
+onumepoch:7441
+onumnow:111730.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:12:38+00:00
+nowjuliandate:2460552.6377056
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5093
+1 56332U 23058R   24241.71710823  .00000344  00000+0  31364-4 0  9990
+2 56332  97.6542 241.4691 0001181 102.5384 257.5972 15.01260654 74418

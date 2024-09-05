@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:34+00:00
+validtle:1
+satid:47832
+launchyear:2021
+epoch:24242.24671941
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2422
+meananomly:269.7571
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3547305
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0518
+eccentricity:0.0001463
+argumentofperigree:90.3585
+nickname:STARLINK-2422
+idesg:21018AX 
+cosparid:2021-018AX
+altkm:548.10099295588
+velkms:7.5891331102892
+velkmh:27321
+onumepoch:19224
+onumnow:289603.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:55:17+00:00
+nowjuliandate:2460552.6392886
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2422
+1 47832U 21018AX  24242.24671941  .00001284  00000+0  10508-3 0  9995
+2 47832  53.0518 234.0742 0001463  90.3585 269.7571 15.06398660192243

@@ -1,0 +1,38 @@
+date:2024-08-27T18:32:01+00:00
+validtle:1
+satid:59890
+launchyear:2024
+epoch:24239.81972932
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31951
+meananomly:91.8905
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.181926327
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0042
+eccentricity:0.0001183
+argumentofperigree:268.1816
+nickname:STARLINK-31951
+idesg:24100F  
+cosparid:2024-100F
+altkm:443.84619194007
+velkms:7.6476059674607
+velkmh:27531
+onumepoch:1514
+onumnow:23340.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:40:25+00:00
+nowjuliandate:2460550.2722388
+nowepochdate:24240.7722337963
+TLE:
+STARLINK-31951
+1 59890U 24100F   24239.81972932  .00002339  00000+0  63235-4 0  9998
+2 59890  43.0042  72.2056 0001183 268.1816  91.8905 15.40699748 15149

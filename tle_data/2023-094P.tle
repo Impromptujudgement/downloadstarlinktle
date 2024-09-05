@@ -1,0 +1,38 @@
+date:2024-08-29T05:41:47+00:00
+validtle:1
+satid:57231
+launchyear:2023
+epoch:24241.53816552
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5840
+meananomly:92.1209
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2189657838
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001029
+argumentofperigree:267.9515
+nickname:STARLINK-5840
+idesg:23094P  
+cosparid:2023-094P
+altkm:558.88653610172
+velkms:7.5838072335537
+velkmh:27302
+onumepoch:6316
+onumnow:94907.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:54:58+00:00
+nowjuliandate:2460551.7373514
+nowepochdate:24242..237349537
+TLE:
+STARLINK-5840
+1 57231U 23094P   24241.53816552  .00000326  00000+0  39170-4 0  9998
+2 57231  43.0023 182.8109 0001029 267.9515  92.1209 15.02535882 63166

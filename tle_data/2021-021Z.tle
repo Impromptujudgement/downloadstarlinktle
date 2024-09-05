@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72342
+launchyear:2021
+epoch:21083.3802661
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2342
+meananomly:338.0935
+meanmotion:15.8573
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.3999423473
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.0505
+eccentricity:6.27E-5
+argumentofperigree:67.0116
+nickname:STARLINK-2342
+idesg:21021Z  
+cosparid:2021-021Z
+altkm:316.36096912004
+velkms:7.7231743536721
+velkmh:27803
+onumepoch:1
+onumnow:50120.42
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:07:35+00:00
+nowjuliandate:2460552.6396955
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-2342
+1 72342C 21021Z   21083.38026610 -.01039691  00000-0 -43928-2 0   837
+2 72342  53.0505 168.5664 0000627  67.0116 338.0935 15.85733226    14

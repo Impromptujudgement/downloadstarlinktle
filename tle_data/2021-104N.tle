@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49420
+launchyear:2021
+epoch:24242.62188044
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3110
+meananomly:272.7439
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8706631026
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001485
+argumentofperigree:87.3723
+nickname:STARLINK-3110
+idesg:21104N  
+cosparid:2021-104N
+altkm:540.58198733
+velkms:7.5932819987178
+velkmh:27336
+onumepoch:15563
+onumnow:234829.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:55:30+00:00
+nowjuliandate:2460552.6379948
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3110
+1 49420U 21104N   24242.62188044  .00001622  00000+0  11997-3 0  9994
+2 49420  53.2169 209.8962 0001485  87.3723 272.7439 15.08843857155634

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:37+00:00
+validtle:1
+satid:47745
+launchyear:2021
+epoch:24242.16562359
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2159
+meananomly:269.0483
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3436020105
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001337
+argumentofperigree:91.0659
+nickname:STARLINK-2159
+idesg:21017Z  
+cosparid:2021-017Z
+altkm:548.10108018298
+velkms:7.5891269310524
+velkmh:27321
+onumepoch:19306
+onumnow:290840.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:58:30+00:00
+nowjuliandate:2460552.6393229
+nowepochdate:24243.1393171296
+TLE:
+STARLINK-2159
+1 47745U 21017Z   24242.16562359  .00000700  00000+0  65891-4 0  9998
+2 47745  53.0533 194.4390 0001337  91.0659 269.0483 15.06402291193063

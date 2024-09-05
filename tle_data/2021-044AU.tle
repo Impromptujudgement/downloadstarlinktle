@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48680
+launchyear:2021
+epoch:24241.87996869
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2649
+meananomly:68.1754
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3035447221
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0751
+eccentricity:0.0001369
+argumentofperigree:291.909
+nickname:STARLINK-2649
+idesg:21044AU 
+cosparid:2021-044AU
+altkm:547.69549735804
+velkms:7.5895493589269
+velkmh:27322
+onumepoch:17977
+onumnow:270827.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:07:09+00:00
+nowjuliandate:2460552.6380123
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2649
+1 48680U 21044AU  24241.87996869  .00015468  00000+0  10546-2 0  9993
+2 48680  53.0751  95.7282 0001369 291.9090  68.1754 15.06415361179775

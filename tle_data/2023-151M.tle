@@ -1,0 +1,38 @@
+date:2024-08-28T19:11:42+00:00
+validtle:1
+satid:57975
+launchyear:2023
+epoch:24240.97207247
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30503
+meananomly:94.9919
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2079834845
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0006
+eccentricity:0.0001186
+argumentofperigree:265.0788
+nickname:STARLINK-30503
+idesg:23151M  
+cosparid:2023-151M
+altkm:558.92055208569
+velkms:7.583764079215
+velkmh:27302
+onumepoch:5167
+onumnow:77648.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T23:19:47+00:00
+nowjuliandate:2460551.299797
+nowepochdate:24241.7997916667
+TLE:
+STARLINK-30503
+1 57975U 23151M   24240.97207247  .00001763  00000+0  14553-3 0  9992
+2 57975  43.0006 135.0456 0001186 265.0788  94.9919 15.02539450 51678

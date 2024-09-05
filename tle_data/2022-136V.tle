@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54070
+launchyear:2022
+epoch:24242.38126363
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5181
+meananomly:268.2475
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8824126512
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001408
+argumentofperigree:91.8679
+nickname:STARLINK-5181
+idesg:22136V  
+cosparid:2022-136V
+altkm:540.6726571202
+velkms:7.5931889438756
+velkmh:27335
+onumepoch:10319
+onumnow:155708.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:09:01+00:00
+nowjuliandate:2460552.6377984
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5181
+1 54070U 22136V   24242.38126363 -.00000276  00000+0  76005-6 0  9995
+2 54070  53.2167 325.6724 0001408  91.8679 268.2475 15.08840013103192

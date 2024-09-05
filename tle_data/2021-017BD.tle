@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:40+00:00
+validtle:1
+satid:47773
+launchyear:2021
+epoch:24242.17207846
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2196
+meananomly:263.7070
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.339173307
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001468
+argumentofperigree:96.4087
+nickname:STARLINK-2196
+idesg:21017BD 
+cosparid:2021-017BD
+altkm:548.19264676802
+velkms:7.589024200641
+velkmh:27320
+onumepoch:19292
+onumnow:290629.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:07:48+00:00
+nowjuliandate:2460552.6393631
+nowepochdate:24243.1393518519
+TLE:
+STARLINK-2196
+1 47773U 21017BD  24242.17207846  .00002847  00000+0  20990-3 0  9991
+2 47773  53.0526 204.4132 0001468  96.4087 263.7070 15.06403736192923

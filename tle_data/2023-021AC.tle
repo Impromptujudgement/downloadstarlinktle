@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55654
+launchyear:2023
+epoch:24242.48600073
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5070
+meananomly:71.2332
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1922828798
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0037
+eccentricity:0.0002386
+argumentofperigree:288.8568
+nickname:STARLINK-5070
+idesg:23021AC 
+cosparid:2023-021AC
+altkm:573.94610665146
+velkms:7.5744433122198
+velkmh:27268
+onumepoch:8502
+onumnow:127397.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:39:50+00:00
+nowjuliandate:2460552.6377465
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5070
+1 55654U 23021AC  24242.48600073  .00000429  00000+0  43767-4 0  9990
+2 55654  70.0037 149.5265 0002386 288.8568  71.2332 14.98330867 85022

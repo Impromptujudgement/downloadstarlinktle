@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52628
+launchyear:2022
+epoch:24241.36010237
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4001
+meananomly:256.7366
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8794049576
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2154
+eccentricity:9.96E-5
+argumentofperigree:103.3738
+nickname:STARLINK-4001
+idesg:22052AG 
+cosparid:2022-052AG
+altkm:540.79772766359
+velkms:7.5930500634069
+velkmh:27335
+onumepoch:12649
+onumnow:190880.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:38:33+00:00
+nowjuliandate:2460552.63791
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4001
+1 52628U 22052AG  24241.36010237  .00000664  00000+0  59783-4 0  9990
+2 52628  53.2154 270.5622 0000996 103.3738 256.7366 15.08840997126496

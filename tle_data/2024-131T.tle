@@ -1,0 +1,38 @@
+date:2024-08-27T15:42:47+00:00
+validtle:1
+satid:60272
+launchyear:2024
+epoch:24240.01965167
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32128
+meananomly:264.3384
+meanmotion:15.3958
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.5012686656
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1608
+eccentricity:0.0001082
+argumentofperigree:95.7745
+nickname:STARLINK-32128
+idesg:24131T  
+cosparid:2024-131T
+altkm:448.34060602057
+velkms:7.6444290291735
+velkmh:27520
+onumepoch:596
+onumnow:9185.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:28:18+00:00
+nowjuliandate:2460550.1547121
+nowepochdate:24240.6547106481
+TLE:
+STARLINK-32128
+1 60272U 24131T   24240.01965167  .00010495  00000+0  27238-3 0  9998
+2 60272  53.1608 136.8041 0001082  95.7745 264.3384 15.39575987  5962

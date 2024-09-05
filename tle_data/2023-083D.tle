@@ -1,0 +1,38 @@
+date:2024-08-29T07:43:52+00:00
+validtle:1
+satid:56879
+launchyear:2023
+epoch:24241.25683668
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5707
+meananomly:97.3627
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2092916317
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:0.0001117
+argumentofperigree:262.7088
+nickname:STARLINK-5707
+idesg:23083D  
+cosparid:2023-083D
+altkm:558.94964685555
+velkms:7.5837330015503
+velkmh:27301
+onumepoch:6766
+onumnow:101677.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:09:51+00:00
+nowjuliandate:2460551.8221302
+nowepochdate:24242.3221296296
+TLE:
+STARLINK-5707
+1 56879U 23083D   24241.25683668  .00000603  00000+0  59670-4 0  9997
+2 56879  43.0014 236.4905 0001117 262.7088  97.3627 15.02539025 67662

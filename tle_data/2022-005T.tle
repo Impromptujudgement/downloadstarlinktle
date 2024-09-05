@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51121
+launchyear:2022
+epoch:24242.39284298
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3399
+meananomly:273.3004
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8828375187
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001418
+argumentofperigree:86.815
+nickname:STARLINK-3399
+idesg:22005T  
+cosparid:2022-005T
+altkm:540.58670435988
+velkms:7.593283489041
+velkmh:27336
+onumepoch:14585
+onumnow:220073.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:25:42+00:00
+nowjuliandate:2460552.6379702
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3399
+1 51121U 22005T   24242.39284298  .00000938  00000+0  77046-4 0  9995
+2 51121  53.2155 270.9356 0001418  86.8150 273.3004 15.08839874145852

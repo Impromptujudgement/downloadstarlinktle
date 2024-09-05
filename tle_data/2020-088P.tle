@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47135
+launchyear:2020
+epoch:24242.36466581
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1845
+meananomly:265.3746
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3294393789
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001359
+argumentofperigree:94.7398
+nickname:STARLINK-1845
+idesg:20088P  
+cosparid:2020-088P
+altkm:548.14745941059
+velkms:7.5890683807852
+velkmh:27321
+onumepoch:20828
+onumnow:313766.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:45:07+00:00
+nowjuliandate:2460552.639604
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1845
+1 47135U 20088P   24242.36466581  .00000617  00000+0  60299-4 0  9994
+2 47135  53.0535 273.5463 0001359  94.7398 265.3746 15.06406912208288

@@ -1,0 +1,38 @@
+date:2024-08-28T02:35:09+00:00
+validtle:1
+satid:58948
+launchyear:2024
+epoch:24239.78107732
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31311
+meananomly:283.9300
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3696667789
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1609
+eccentricity:0.0001208
+argumentofperigree:76.1835
+nickname:STARLINK-31311
+idesg:24027T  
+cosparid:2024-027T
+altkm:475.93321962968
+velkms:7.6291526909859
+velkmh:27465
+onumepoch:3160
+onumnow:48374.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T18:44:45+00:00
+nowjuliandate:2460550.6077474
+nowepochdate:24241.1077430556
+TLE:
+STARLINK-31311
+1 58948U 24027T   24239.78107732  .00003850  00000+0  14207-3 0  9996
+2 58948  53.1609  30.3531 0001208  76.1835 283.9300 15.30194791 31601

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49437
+launchyear:2021
+epoch:24242.55011571
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3130
+meananomly:267.0334
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8650206472
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001216
+argumentofperigree:93.0798
+nickname:STARLINK-3130
+idesg:21104AF 
+cosparid:2021-104AF
+altkm:540.66893612267
+velkms:7.5931835030182
+velkmh:27335
+onumepoch:15587
+onumnow:235192.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:12:10+00:00
+nowjuliandate:2460552.6379998
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3130
+1 49437U 21104AF  24242.55011571  .00000085  00000+0  23400-4 0  9999
+2 49437  53.2163 190.2184 0001216  93.0798 267.0334 15.08845703155872

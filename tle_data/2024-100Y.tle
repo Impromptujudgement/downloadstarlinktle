@@ -1,0 +1,38 @@
+date:2024-08-27T18:20:38+00:00
+validtle:1
+satid:59907
+launchyear:2024
+epoch:24240.24215455
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31920
+meananomly:75.7383
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1428452883
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0019
+eccentricity:0.0001163
+argumentofperigree:284.3345
+nickname:STARLINK-31920
+idesg:24100Y  
+cosparid:2024-100Y
+altkm:443.58478512471
+velkms:7.6478770198709
+velkmh:27532
+onumepoch:1520
+onumnow:23426.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:48:42+00:00
+nowjuliandate:2460550.26433
+nowepochdate:24240.7643287037
+TLE:
+STARLINK-31920
+1 59907U 24100Y   24240.24215455  .00001735  00000+0  48758-4 0  9998
+2 59907  43.0019  69.3422 0001163 284.3345  75.7383 15.40712987 15200

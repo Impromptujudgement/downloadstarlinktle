@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54847
+launchyear:2022
+epoch:24242.31429537
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5061
+meananomly:89.3073
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2147766225
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:0.0001222
+argumentofperigree:270.7629
+nickname:STARLINK-5061
+idesg:22177AD 
+cosparid:2022-177AD
+altkm:558.84544907002
+velkms:7.5838498445849
+velkmh:27302
+onumepoch:9243
+onumnow:138891.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:32:35+00:00
+nowjuliandate:2460552.6377842
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5061
+1 54847U 22177AD  24242.31429537  .00000807  00000+0  74815-4 0  9998
+2 54847  42.9999 255.7672 0001222 270.7629  89.3073 15.02537243 92436

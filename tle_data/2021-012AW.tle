@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47664
+launchyear:2021
+epoch:24241.73067989
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2054
+meananomly:268.1919
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3360716864
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0574
+eccentricity:0.0002497
+argumentofperigree:91.9356
+nickname:STARLINK-2054
+idesg:21012AW 
+cosparid:2021-012AW
+altkm:548.13347546918
+velkms:7.589087326894
+velkmh:27321
+onumepoch:19617
+onumnow:295532.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:32:11+00:00
+nowjuliandate:2460552.6394325
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2054
+1 47664U 21012AW  24241.73067989  .00002569  00000+0  19127-3 0  9999
+2 47664  53.0574  36.3919 0002497  91.9356 268.1919 15.06404748196178

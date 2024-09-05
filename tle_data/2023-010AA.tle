@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:55293
+launchyear:2023
+epoch:24242.40485883
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5287
+meananomly:94.1855
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2013189324
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0032
+eccentricity:0.000251
+argumentofperigree:265.9017
+nickname:STARLINK-5287
+idesg:23010AA 
+cosparid:2023-010AA
+altkm:574.61611530306
+velkms:7.573718154617
+velkmh:27265
+onumepoch:8949
+onumnow:134096.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:43:00+00:00
+nowjuliandate:2460552.6377781
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5287
+1 55293U 23010AA  24242.40485883 -.00001128  00000+0 -86786-4 0  9996
+2 55293  70.0032 349.5618 0002510 265.9017  94.1855 14.98327945 89496

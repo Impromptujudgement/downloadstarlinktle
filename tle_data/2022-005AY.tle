@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51150
+launchyear:2022
+epoch:24242.38355516
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3357
+meananomly:256.9886
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8723533962
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001522
+argumentofperigree:103.1276
+nickname:STARLINK-3357
+idesg:22005AY 
+cosparid:2022-005AY
+altkm:540.86986328715
+velkms:7.5929670529507
+velkmh:27335
+onumepoch:14572
+onumnow:219877.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:12:19+00:00
+nowjuliandate:2460552.6379737
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3357
+1 51150U 22005AY  24242.38355516 -.00000418  00000+0 -81662-5 0  9993
+2 51150  53.2165 280.5799 0001522 103.1276 256.9886 15.08843304145725

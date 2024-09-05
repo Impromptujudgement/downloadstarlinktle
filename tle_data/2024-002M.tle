@@ -1,0 +1,38 @@
+date:2024-08-28T04:28:50+00:00
+validtle:1
+satid:58716
+launchyear:2024
+epoch:24240.34393258
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31098
+meananomly:269.8866
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8642256896
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1598
+eccentricity:0.0001356
+argumentofperigree:90.2279
+nickname:STARLINK-31098
+idesg:24002M  
+cosparid:2024-002M
+altkm:552.61894427647
+velkms:7.5866503184114
+velkmh:27312
+onumepoch:3711
+onumnow:55860.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:15:16+00:00
+nowjuliandate:2460550.6866903
+nowepochdate:24241.1866898148
+TLE:
+STARLINK-31098
+1 58716U 24002M   24240.34393258  .00000277  00000+0  38728-4 0  9991
+2 58716  53.1598 256.5134 0001356  90.2279 269.8866 15.04928503 37114

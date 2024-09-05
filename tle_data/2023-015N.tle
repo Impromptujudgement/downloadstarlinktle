@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55461
+launchyear:2023
+epoch:24241.95177408
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5646
+meananomly:96.6749
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2013165605
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.0001222
+argumentofperigree:263.3954
+nickname:STARLINK-5646
+idesg:23015N  
+cosparid:2023-015N
+altkm:558.9409439018
+velkms:7.5837381642335
+velkmh:27301
+onumepoch:8685
+onumnow:130513.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:50:33+00:00
+nowjuliandate:2460552.6377546
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5646
+1 55461U 23015N   24241.95177408  .00001172  00000+0  10180-3 0  9999
+2 55461  43.0016 116.7654 0001222 263.3954  96.6749 15.02541616 86855

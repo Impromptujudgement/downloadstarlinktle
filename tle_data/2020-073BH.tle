@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:20+00:00
+validtle:1
+satid:46725
+launchyear:2020
+epoch:24242.19648999
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1828
+meananomly:269.1277
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3393142899
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0519
+eccentricity:0.0001524
+argumentofperigree:90.9886
+nickname:STARLINK-1828
+idesg:20073BH 
+cosparid:2020-073BH
+altkm:548.09737383865
+velkms:7.5891286470474
+velkmh:27321
+onumepoch:21337
+onumnow:321435.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:42:57+00:00
+nowjuliandate:2460552.6398257
+nowepochdate:24243.1398148148
+TLE:
+STARLINK-1828
+1 46725U 20073BH  24242.19648999 -.00000820  00000+0 -36120-4 0  9992
+2 46725  53.0519 239.3023 0001524  90.9886 269.1277 15.06403690213377

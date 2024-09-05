@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47380
+launchyear:2021
+epoch:24242.62083802
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2100
+meananomly:266.7327
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.379577443
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:0.0001162
+argumentofperigree:93.3795
+nickname:STARLINK-2100
+idesg:21005AH 
+cosparid:2021-005AH
+altkm:548.16775902066
+velkms:7.5890735537695
+velkmh:27321
+onumepoch:20044
+onumnow:301948.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:54:00+00:00
+nowjuliandate:2460552.6395924
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2100
+1 47380U 21005AH  24242.62083802  .00005528  00000+0  38979-3 0  9991
+2 47380  53.0557  12.3963 0001162  93.3795 266.7327 15.06390553200449

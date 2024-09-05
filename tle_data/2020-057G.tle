@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46123
+launchyear:2020
+epoch:24243.17878645
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1605
+meananomly:273.9711
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3276771002
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001328
+argumentofperigree:86.143
+nickname:STARLINK-1605
+idesg:20057G  
+cosparid:2020-057G
+altkm:548.00605051745
+velkms:7.5892223292971
+velkmh:27321
+onumepoch:22340
+onumnow:336528.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:17:27+00:00
+nowjuliandate:2460553.0282818
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1605
+1 46123U 20057G   24243.17878645  .00000964  00000+0  83609-4 0  9999
+2 46123  53.0530 254.8958 0001328  86.1430 273.9711 15.06407487223404

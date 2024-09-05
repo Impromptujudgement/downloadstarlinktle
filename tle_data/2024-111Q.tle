@@ -1,0 +1,38 @@
+date:2024-08-27T17:41:48+00:00
+validtle:1
+satid:60030
+launchyear:2024
+epoch:24240.02483864
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32011
+meananomly:311.9934
+meanmotion:15.3966
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.2504699872
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1597
+eccentricity:0.0001036
+argumentofperigree:48.1159
+nickname:STARLINK-32011
+idesg:24111Q  
+cosparid:2024-111Q
+altkm:447.5437661392
+velkms:7.645181108875
+velkmh:27523
+onumepoch:1330
+onumnow:20488.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:35:46+00:00
+nowjuliandate:2460550.2373679
+nowepochdate:24240.7373611111
+TLE:
+STARLINK-32011
+1 60030U 24111Q   24240.02483864 -.00006802  00000+0 -16000-3 0  9992
+2 60030  53.1597 158.2398 0001036  48.1159 311.9934 15.39660847 13301

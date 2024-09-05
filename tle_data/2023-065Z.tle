@@ -1,0 +1,38 @@
+date:2024-08-29T09:19:12+00:00
+validtle:1
+satid:56526
+launchyear:2023
+epoch:24241.6406537
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6317
+meananomly:92.0342
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2090884841
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.0001348
+argumentofperigree:268.0346
+nickname:STARLINK-6317
+idesg:23065Z  
+cosparid:2023-065Z
+altkm:558.88362456802
+velkms:7.5838050317406
+velkmh:27302
+onumepoch:7268
+onumnow:109215.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:22:32+00:00
+nowjuliandate:2460551.888343
+nowepochdate:24242.3883333333
+TLE:
+STARLINK-6317
+1 56526U 23065Z   24241.64065370  .00001193  00000+0  10334-3 0  9991
+2 56526  43.0036   2.2836 0001348 268.0346  92.0342 15.02539091 72686

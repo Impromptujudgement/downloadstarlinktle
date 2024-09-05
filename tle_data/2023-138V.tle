@@ -1,0 +1,38 @@
+date:2024-08-28T20:36:55+00:00
+validtle:1
+satid:57827
+launchyear:2023
+epoch:24240.70609819
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30402
+meananomly:88.8026
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2397393159
+altitudeatperigee:558
+altitudeatapogee:561
+inclination:43.0048
+eccentricity:0.0002121
+argumentofperigree:271.2573
+nickname:STARLINK-30402
+idesg:23138V  
+cosparid:2023-138V
+altkm:558.8506660328
+velkms:7.5838577509076
+velkmh:27302
+onumepoch:5462
+onumnow:82085.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:56:47+00:00
+nowjuliandate:2460551.3589768
+nowepochdate:24241.8589699074
+TLE:
+STARLINK-30402
+1 57827U 23138V   24240.70609819  .00002561  00000+0  20467-3 0  9993
+2 57827  43.0048  33.1457 0002121 271.2573  88.8026 15.02529133 54626

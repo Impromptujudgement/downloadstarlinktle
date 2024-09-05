@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46162
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1603
+meananomly:251.7524
+meanmotion:15.1109
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6911.0013540506
+altitudeatperigee:532
+altitudeatapogee:534
+inclination:53.0525
+eccentricity:0.0001311
+argumentofperigree:76.1833
+nickname:STARLINK-1603
+idesg:20057AX 
+cosparid:2020-057AX
+altkm:540.51855674331
+velkms:7.5919478909115
+velkmh:27331
+onumepoch:580
+onumnow:8764.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0282852
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1603
+1 46162U 20057AX  24243.00001157  .00421493  00000+0  23466-1 0  9996
+2 46162  53.0525 275.5671 0001311  76.1833 251.7524 15.11094028  5808

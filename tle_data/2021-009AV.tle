@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47591
+launchyear:2021
+epoch:24242.62913422
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1996
+meananomly:280.2019
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3734568666
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0558
+eccentricity:0.0001877
+argumentofperigree:79.9181
+nickname:STARLINK-1996
+idesg:21009AV 
+cosparid:2021-009AV
+altkm:547.88570769742
+velkms:7.5893791936112
+velkmh:27322
+onumepoch:19743
+onumnow:297414.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:05:57+00:00
+nowjuliandate:2460552.6394824
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1996
+1 47591U 21009AV  24242.62913422  .00018408  00000+0  12517-2 0  9999
+2 47591  53.0558   2.3587 0001877  79.9181 280.2019 15.06392550197439

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45409
+launchyear:2020
+epoch:24242.94841266
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1282
+meananomly:274.1951
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2217095131
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.055
+eccentricity:0.0001247
+argumentofperigree:85.9181
+nickname:STARLINK-1282
+idesg:20019BB 
+cosparid:2020-019BB
+altkm:547.90081027309
+velkms:7.5892796894751
+velkmh:27321
+onumepoch:24595
+onumnow:370518.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:45:43+00:00
+nowjuliandate:2460553.0283537
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1282
+1 45409U 20019BB  24242.94841266  .00023194  00000+0  15691-2 0  9990
+2 45409  53.0550 115.9297 0001247  85.9181 274.1951 15.06442063245957

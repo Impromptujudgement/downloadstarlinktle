@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54822
+launchyear:2022
+epoch:24242.39912194
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5101
+meananomly:90.8524
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2015535654
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001126
+argumentofperigree:269.219
+nickname:STARLINK-5101
+idesg:22177C  
+cosparid:2022-177C
+altkm:558.85432108287
+velkms:7.5838329437464
+velkmh:27302
+onumepoch:9214
+onumnow:138455.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:34:44+00:00
+nowjuliandate:2460552.6377808
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5101
+1 54822U 22177C   24242.39912194  .00000478  00000+0  50448-4 0  9995
+2 54822  43.0022 281.5561 0001126 269.2190  90.8524 15.02541539 92140

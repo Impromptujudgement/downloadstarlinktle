@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47580
+launchyear:2021
+epoch:24242.60702075
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1982
+meananomly:247.1594
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3696748046
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0524
+eccentricity:0.0002164
+argumentofperigree:112.9623
+nickname:STARLINK-1982
+idesg:21009AJ 
+cosparid:2021-009AJ
+altkm:548.69354810156
+velkms:7.5884921742607
+velkmh:27319
+onumepoch:19743
+onumnow:297415.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:34:07+00:00
+nowjuliandate:2460552.6394907
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1982
+1 47580U 21009AJ  24242.60702075  .00008044  00000+0  55841-3 0  9998
+2 47580  53.0524   2.4541 0002164 112.9623 247.1594 15.06393784197430

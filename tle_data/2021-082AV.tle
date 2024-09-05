@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49173
+launchyear:2021
+epoch:24241.70885157
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3045
+meananomly:88.0836
+meanmotion:14.9836
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.110619572
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9984
+eccentricity:0.0003162
+argumentofperigree:271.9961
+nickname:STARLINK-3045
+idesg:21082AV 
+cosparid:2021-082AV
+altkm:574.32451529906
+velkms:7.5739865340363
+velkmh:27266
+onumepoch:16289
+onumnow:244088.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:00:45+00:00
+nowjuliandate:2460552.6380045
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3045
+1 49173U 21082AV  24241.70885157 -.00003798  00000+0 -31043-3 0  9993
+2 49173  69.9984 241.3129 0003162 271.9961  88.0836 14.98357275162890

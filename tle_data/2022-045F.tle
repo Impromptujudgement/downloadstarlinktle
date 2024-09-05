@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52336
+launchyear:2022
+epoch:24241.60802427
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3823
+meananomly:274.2858
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8962713139
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001279
+argumentofperigree:85.828
+nickname:STARLINK-3823
+idesg:22045F  
+cosparid:2022-045F
+altkm:540.59051518723
+velkms:7.5932866635945
+velkmh:27336
+onumepoch:13139
+onumnow:198268.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:35:33+00:00
+nowjuliandate:2460552.6379259
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3823
+1 52336U 22045F   24241.60802427 -.00000097  00000+0  12003-4 0  9990
+2 52336  53.2160 194.2448 0001279  85.8280 274.2858 15.08835479131393

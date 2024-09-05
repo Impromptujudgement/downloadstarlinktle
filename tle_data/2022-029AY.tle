@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52134
+launchyear:2022
+epoch:24239.81036552
+epochday:239
+tleage:4
+tleclassification:U
+active:1
+name:STARLINK-3721
+meananomly:274.8612
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8962988235
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001276
+argumentofperigree:85.2526
+nickname:STARLINK-3721
+idesg:22029AY 
+cosparid:2022-029AY
+altkm:540.58211159545
+velkms:7.5932959000591
+velkmh:27336
+onumepoch:13641
+onumnow:205870.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:26:56+00:00
+nowjuliandate:2460552.6379401
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3721
+1 52134U 22029AY  24239.81036552  .00000605  00000+0  56130-4 0  9999
+2 52134  53.2184  62.5161 0001276  85.2526 274.8612 15.08835470136411

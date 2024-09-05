@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52599
+launchyear:2022
+epoch:24242.33761608
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4024
+meananomly:265.4619
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8821834061
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.000147
+argumentofperigree:94.6541
+nickname:STARLINK-4024
+idesg:22052B  
+cosparid:2022-052B
+altkm:540.72311866929
+velkms:7.5931334493508
+velkmh:27335
+onumepoch:12708
+onumnow:191755.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:06:10+00:00
+nowjuliandate:2460552.637908
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4024
+1 52599U 22052B   24242.33761608  .00000202  00000+0  30768-4 0  9990
+2 52599  53.2167 261.2780 0001470  94.6541 265.4619 15.08840088127086

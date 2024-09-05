@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53555
+launchyear:2022
+epoch:24241.86241597
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4504
+meananomly:264.8963
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8503246419
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001365
+argumentofperigree:95.2185
+nickname:STARLINK-4504
+idesg:22101AE 
+cosparid:2022-101AE
+altkm:540.69486828554
+velkms:7.5931470016686
+velkmh:27335
+onumepoch:11275
+onumnow:170142.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:41:53+00:00
+nowjuliandate:2460552.6378501
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4504
+1 53555U 22101AE  24241.86241597  .00002115  00000+0  15090-3 0  9990
+2 53555  53.2175  48.3028 0001365  95.2185 264.8963 15.08850511112756

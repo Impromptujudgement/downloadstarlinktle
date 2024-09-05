@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51744
+launchyear:2022
+epoch:24242.34497477
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3452
+meananomly:261.6199
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9201924951
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001392
+argumentofperigree:98.4951
+nickname:STARLINK-3452
+idesg:22016AG 
+cosparid:2022-016AG
+altkm:540.82101709332
+velkms:7.593046844797
+velkmh:27335
+onumepoch:14048
+onumnow:211969.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:16:46+00:00
+nowjuliandate:2460552.637964
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3452
+1 51744U 22016AG  24242.34497477 -.00001740  00000+0 -91302-4 0  9993
+2 51744  53.2170 301.1727 0001392  98.4951 261.6199 15.08827653140489

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45577
+launchyear:2020
+epoch:23053.28306185
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1330
+meananomly:251.6757
+meanmotion:15.1746
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6891.6621366896
+altitudeatperigee:510
+altitudeatapogee:517
+inclination:53.0506
+eccentricity:0.000453
+argumentofperigree:108.473
+nickname:STARLINK-1330
+idesg:20025AY 
+cosparid:2020-025AY
+altkm:515.39087513751
+velkms:7.6066070965621
+velkmh:27384
+onumepoch:15746
+onumnow:257000.59
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T06:47:37+00:00
+nowjuliandate:2460553.0283371
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1330
+1 45577U 20025AY  23053.28306185  .00048231  00000+0  23792-2 0  9995
+2 45577  53.0506  20.1026 0004530 108.4730 251.6757 15.17459082157463

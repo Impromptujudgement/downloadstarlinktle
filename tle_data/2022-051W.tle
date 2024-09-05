@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52553
+launchyear:2022
+epoch:24242.35872089
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3858
+meananomly:282.8218
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9357294528
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001107
+argumentofperigree:77.2898
+nickname:STARLINK-3858
+idesg:22051W  
+cosparid:2022-051W
+altkm:540.52612750251
+velkms:7.5933789203178
+velkmh:27336
+onumepoch:12738
+onumnow:192205.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:36:33+00:00
+nowjuliandate:2460552.6379115
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3858
+1 52553U 22051W   24242.35872089 -.00006569  00000+0 -39523-3 0  9998
+2 52553  53.2162 110.7373 0001107  77.2898 282.8218 15.08822570127383

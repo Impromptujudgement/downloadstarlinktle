@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45686
+launchyear:2020
+epoch:24243.1511335
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1404
+meananomly:260.0257
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2815487054
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0594
+eccentricity:2.71E-5
+argumentofperigree:100.0763
+nickname:STARLINK-1404
+idesg:20035AF 
+cosparid:2020-035AF
+altkm:548.05668719877
+velkms:7.5891416392524
+velkmh:27321
+onumepoch:23458
+onumnow:353382.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:37:38+00:00
+nowjuliandate:2460553.028326
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1404
+1 45686U 20035AF  24243.15113350  .00007625  00000+0  52990-3 0  9990
+2 45686  53.0594  35.0166 0000271 100.0763 260.0257 15.06422538234585

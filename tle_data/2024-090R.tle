@@ -1,0 +1,38 @@
+date:2024-08-27T21:29:03+00:00
+validtle:1
+satid:59745
+launchyear:2024
+epoch:24239.96358531
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31805
+meananomly:92.9757
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1868000572
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0004
+eccentricity:0.0001833
+argumentofperigree:267.089
+nickname:STARLINK-31805
+idesg:24090R  
+cosparid:2024-090R
+altkm:443.88905736168
+velkms:7.6475606630563
+velkmh:27531
+onumepoch:1760
+onumnow:27130.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:07:34+00:00
+nowjuliandate:2460550.3951778
+nowepochdate:24240.8951736111
+TLE:
+STARLINK-31805
+1 59745U 24090R   24239.96358531  .00005320  00000+0  13454-3 0  9994
+2 59745  43.0004 124.7507 0001833 267.0890  92.9757 15.40698097 17608

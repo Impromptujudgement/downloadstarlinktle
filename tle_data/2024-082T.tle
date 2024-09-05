@@ -1,0 +1,38 @@
+date:2024-08-27T22:27:39+00:00
+validtle:1
+satid:59648
+launchyear:2024
+epoch:24240.58334491
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31790
+meananomly:318.2458
+meanmotion:15.7459
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6723.935070255
+altitudeatperigee:345
+altitudeatapogee:347
+inclination:42.9765
+eccentricity:0.0001641
+argumentofperigree:270.2652
+nickname:STARLINK-31790
+idesg:24082T  
+cosparid:2024-082T
+altkm:353.30990550827
+velkms:7.6980322882558
+velkmh:27713
+onumepoch:1951
+onumnow:30725.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:00:01+00:00
+nowjuliandate:2460550.43587
+nowepochdate:24240.9358680556
+TLE:
+STARLINK-31790
+1 59648U 24082T   24240.58334491 -.01065620  00000+0 -78687-2 0  9996
+2 59648  42.9765  36.4708 0001641 270.2652 318.2458 15.74590728 19516

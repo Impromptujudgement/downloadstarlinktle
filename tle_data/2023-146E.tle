@@ -1,0 +1,38 @@
+date:2024-08-28T20:02:01+00:00
+validtle:1
+satid:57895
+launchyear:2023
+epoch:24240.93940283
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30467
+meananomly:94.7322
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1932122373
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001311
+argumentofperigree:265.3371
+nickname:STARLINK-30467
+idesg:23146E  
+cosparid:2023-146E
+altkm:558.90926964774
+velkms:7.583768356284
+velkmh:27302
+onumepoch:5301
+onumnow:79663.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:32:44+00:00
+nowjuliandate:2460551.3347396
+nowepochdate:24241.8347337963
+TLE:
+STARLINK-30467
+1 57895U 23146E   24240.93940283  .00004790  00000+0  36937-3 0  9990
+2 57895  43.0009 109.6169 0001311 265.3371  94.7322 15.02544249 53019

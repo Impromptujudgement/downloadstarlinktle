@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52262
+launchyear:2022
+epoch:24241.30812083
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3761
+meananomly:279.5993
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8860805746
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001842
+argumentofperigree:80.5207
+nickname:STARLINK-3761
+idesg:22041B  
+cosparid:2022-041B
+altkm:540.43412561082
+velkms:7.593452686942
+velkmh:27336
+onumepoch:13006
+onumnow:196267.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:23:42+00:00
+nowjuliandate:2460552.6379332
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3761
+1 52262U 22041B   24241.30812083  .00000994  00000+0  80563-4 0  9991
+2 52262  53.2165  95.7434 0001842  80.5207 279.5993 15.08838813130069

@@ -1,0 +1,38 @@
+date:2024-08-28T16:50:42+00:00
+validtle:1
+satid:58207
+launchyear:2023
+epoch:24241.02014726
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30845
+meananomly:84.8471
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2004331789
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.000147
+argumentofperigree:275.2204
+nickname:STARLINK-30845
+idesg:23170B  
+cosparid:2023-170B
+altkm:558.75010117235
+velkms:7.583946212859
+velkmh:27302
+onumepoch:4627
+onumnow:69522.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:29:01+00:00
+nowjuliandate:2460551.2018789
+nowepochdate:24241.007.701875
+TLE:
+STARLINK-30845
+1 58207U 23170B   24241.02014726  .00003880  00000+0  30212-3 0  9999
+2 58207  43.0025 351.3780 0001470 275.2204  84.8471 15.02541903 46270

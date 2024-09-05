@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53746
+launchyear:2022
+epoch:24241.29202749
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4589
+meananomly:274.0471
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8742484824
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001398
+argumentofperigree:86.0681
+nickname:STARLINK-4589
+idesg:22107AY 
+cosparid:2022-107AY
+altkm:540.5663801607
+velkms:7.5933010871173
+velkmh:27336
+onumepoch:11029
+onumnow:166438.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:00:31+00:00
+nowjuliandate:2460552.6378303
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4589
+1 53746U 22107AY  24241.29202749  .00000574  00000+0  54147-4 0  9995
+2 53746  53.2160 250.9148 0001398  86.0681 274.0471 15.08842684110297

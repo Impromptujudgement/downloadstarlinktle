@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53706
+launchyear:2022
+epoch:24241.68762873
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4716
+meananomly:275.0466
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8743371236
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2145
+eccentricity:0.0001395
+argumentofperigree:85.0685
+nickname:STARLINK-4716
+idesg:22107G  
+cosparid:2022-107G
+altkm:540.54967772887
+velkms:7.5933194625454
+velkmh:27336
+onumepoch:11061
+onumnow:166914.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:30:11+00:00
+nowjuliandate:2460552.6378288
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4716
+1 53706U 22107G   24241.68762873  .00000494  00000+0  49110-4 0  9998
+2 53706  53.2145 229.1506 0001395  85.0685 275.0466 15.08842655110611

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54057
+launchyear:2022
+epoch:23094.264375
+epochday:94
+tleage:514
+tleclassification:C
+active:0
+name:STARLINK-5216
+meananomly:359.7748
+meanmotion:16.0384
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6641.9268214573
+altitudeatperigee:261
+altitudeatapogee:267
+inclination:53.2009
+eccentricity:0.0004601
+argumentofperigree:128.9928
+nickname:STARLINK-5216
+idesg:22136G  
+cosparid:2022-136G
+altkm:264.05664282986
+velkms:7.7555747093564
+velkmh:27920
+onumepoch:1
+onumnow:18442.16
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-04-04T06:20:42+00:00
+nowjuliandate:2460552.6377994
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5216
+1 54057C 22136G   23094.26437500  .01814873  00000-0  24594-2 0   944
+2 54057  53.2009  46.3992 0004601 128.9928 359.7748 16.03842903    15

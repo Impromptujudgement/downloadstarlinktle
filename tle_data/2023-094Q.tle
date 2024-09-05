@@ -1,0 +1,38 @@
+date:2024-08-29T05:41:04+00:00
+validtle:1
+satid:57232
+launchyear:2023
+epoch:24241.53704493
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5872
+meananomly:88.1315
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1664432072
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001209
+argumentofperigree:271.9389
+nickname:STARLINK-5872
+idesg:23094Q  
+cosparid:2023-094Q
+altkm:558.78035447412
+velkms:7.5838946295781
+velkmh:27302
+onumepoch:6340
+onumnow:95272.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:53:21+00:00
+nowjuliandate:2460551.7368565
+nowepochdate:24242.2368518519
+TLE:
+STARLINK-5872
+1 57232U 23094Q   24241.53704493 -.00000858  00000+0 -48391-4 0  9996
+2 57232  43.0030 182.7988 0001209 271.9389  88.1315 15.02552946 63403

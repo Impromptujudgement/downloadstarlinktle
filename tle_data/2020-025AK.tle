@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45564
+launchyear:2020
+epoch:24242.22691531
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1356
+meananomly:286.8131
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3675293909
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0577
+eccentricity:0.0001586
+argumentofperigree:73.3032
+nickname:STARLINK-1356
+idesg:20025AK 
+cosparid:2020-025AK
+altkm:547.79243228486
+velkms:7.5894781389405
+velkmh:27322
+onumepoch:24134
+onumnow:363572.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:26:45+00:00
+nowjuliandate:2460553.0283407
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1356
+1 45564U 20025AK  24242.22691531  .00003826  00000+0  27564-3 0  9991
+2 45564  53.0577  69.1632 0001586  73.3032 286.8131 15.06394484241345

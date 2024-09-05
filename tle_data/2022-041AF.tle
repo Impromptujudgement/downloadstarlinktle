@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52290
+launchyear:2022
+epoch:24241.28424256
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3772
+meananomly:271.6800
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8799001264
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001286
+argumentofperigree:88.4339
+nickname:STARLINK-3772
+idesg:22041AF 
+cosparid:2022-041AF
+altkm:540.61421067206
+velkms:7.593251698888
+velkmh:27336
+onumepoch:13020
+onumnow:196479.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:49:19+00:00
+nowjuliandate:2460552.6379357
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3772
+1 52290U 22041AF  24241.28424256  .00001537  00000+0  11462-3 0  9995
+2 52290  53.2162  85.8992 0001286  88.4339 271.6800 15.08840835130204

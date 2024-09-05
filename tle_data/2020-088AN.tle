@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:05+00:00
+validtle:1
+satid:47158
+launchyear:2020
+epoch:24242.36097655
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1873
+meananomly:270.1185
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3290746637
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001372
+argumentofperigree:89.9961
+nickname:STARLINK-1873
+idesg:20088AN 
+cosparid:2020-088AN
+altkm:548.06931373075
+velkms:7.5891537889394
+velkmh:27321
+onumepoch:20822
+onumnow:313675.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:39:48+00:00
+nowjuliandate:2460552.6396509
+nowepochdate:24243.1396412037
+TLE:
+STARLINK-1873
+1 47158U 20088AN  24242.36097655 -.00001066  00000+0 -52669-4 0  9994
+2 47158  53.0542 273.5624 0001372  89.9961 270.1185 15.06407031208225

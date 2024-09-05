@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53638
+launchyear:2022
+epoch:24241.63789319
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4594
+meananomly:271.4034
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8596135596
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.00014
+argumentofperigree:88.7119
+nickname:STARLINK-4594
+idesg:22104BC 
+cosparid:2022-104BC
+altkm:540.59622552288
+velkms:7.5932603247955
+velkmh:27336
+onumepoch:11096
+onumnow:167444.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:18:34+00:00
+nowjuliandate:2460552.6378411
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4594
+1 53638U 22104BC  24241.63789319  .00001171  00000+0  91639-4 0  9994
+2 53638  53.2155 208.9450 0001400  88.7119 271.4034 15.08847472110969

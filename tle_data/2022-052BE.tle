@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52650
+launchyear:2022
+epoch:24242.25204985
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3891
+meananomly:264.3255
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8637399398
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001402
+argumentofperigree:95.7897
+nickname:STARLINK-3891
+idesg:22052BE 
+cosparid:2022-052BE
+altkm:540.71994076494
+velkms:7.5931268365758
+velkmh:27335
+onumepoch:12749
+onumnow:192376.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:02:57+00:00
+nowjuliandate:2460552.6379074
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3891
+1 52650U 22052BE  24242.25204985  .00000511  00000+0  50199-4 0  9992
+2 52650  53.2152 231.6583 0001402  95.7897 264.3255 15.08846122127495

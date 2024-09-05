@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45787
+launchyear:2020
+epoch:24243.13825831
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1517
+meananomly:273.7081
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4013474346
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001564
+argumentofperigree:86.4087
+nickname:STARLINK-1517
+idesg:20038BK 
+cosparid:2020-038BK
+altkm:548.07336831977
+velkms:7.5891888577745
+velkmh:27321
+onumepoch:23379
+onumnow:352183.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:19:06+00:00
+nowjuliandate:2460553.0283045
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1517
+1 45787U 20038BK  24243.13825831  .00004060  00000+0  29141-3 0  9999
+2 45787  53.0527 175.0744 0001564  86.4087 273.7081 15.06383450233799

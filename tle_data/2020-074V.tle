@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:08+00:00
+validtle:1
+satid:46758
+launchyear:2020
+epoch:24242.41120434
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1928
+meananomly:250.9101
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3312476312
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.000141
+argumentofperigree:109.204
+nickname:STARLINK-1928
+idesg:20074V  
+cosparid:2020-074V
+altkm:548.39284190391
+velkms:7.5888005630114
+velkmh:27320
+onumepoch:21263
+onumnow:320318.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:52:08+00:00
+nowjuliandate:2460552.6396768
+nowepochdate:24243.1396759259
+TLE:
+STARLINK-1928
+1 46758U 20074V   24242.41120434  .00001966  00000+0  15080-3 0  9994
+2 46758  53.0546 308.3358 0001410 109.2040 250.9101 15.06406322212638

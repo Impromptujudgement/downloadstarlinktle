@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53468
+launchyear:2022
+epoch:24242.31041487
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4400
+meananomly:123.9647
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1083233025
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6549
+eccentricity:0.0004171
+argumentofperigree:236.1181
+nickname:STARLINK-4400
+idesg:22099D  
+cosparid:2022-099D
+altkm:567.64757399165
+velkms:7.5763642005474
+velkmh:27275
+onumepoch:11259
+onumnow:169040.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:27:00+00:00
+nowjuliandate:2460552.6378534
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4400
+1 53468U 22099D   24242.31041487  .00005228  00000+0  41116-3 0  9992
+2 53468  97.6549   2.0868 0004171 236.1181 123.9647 15.01273170112594

@@ -1,0 +1,38 @@
+date:2024-08-29T05:51:48+00:00
+validtle:1
+satid:57264
+launchyear:2023
+epoch:24241.08195452
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5858
+meananomly:88.1132
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2124619673
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0001
+eccentricity:9.65E-5
+argumentofperigree:271.96
+nickname:STARLINK-5858
+idesg:23094AY 
+cosparid:2023-094AY
+altkm:558.83132181071
+velkms:7.5838640195632
+velkmh:27302
+onumepoch:6342
+onumnow:95308.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:58:01+00:00
+nowjuliandate:2460551.7443078
+nowepochdate:24242.2443055556
+TLE:
+STARLINK-5858
+1 57264U 23094AY  24241.08195452  .00001036  00000+0  91740-4 0  9993
+2 57264  43.0001 172.4018 0000965 271.9600  88.1132 15.02537995 63426

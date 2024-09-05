@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47735
+launchyear:2021
+epoch:24241.97904254
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2146
+meananomly:272.3932
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3420695863
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001403
+argumentofperigree:87.7218
+nickname:STARLINK-2146
+idesg:21017P  
+cosparid:2021-017P
+altkm:548.04360423893
+velkms:7.5891890576138
+velkmh:27321
+onumepoch:19408
+onumnow:292380.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:29:49+00:00
+nowjuliandate:2460552.6393352
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2146
+1 47735U 21017P   24241.97904254  .00003900  00000+0  28058-3 0  9997
+2 47735  53.0533 120.4406 0001403  87.7218 272.3932 15.06402791194080

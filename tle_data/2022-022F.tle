@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51857
+launchyear:2022
+epoch:24241.82887369
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3571
+meananomly:271.4614
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8316765994
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.000152
+argumentofperigree:88.6552
+nickname:STARLINK-3571
+idesg:22022F  
+cosparid:2022-022F
+altkm:540.56537632409
+velkms:7.593278877235
+velkmh:27336
+onumepoch:13880
+onumnow:209449.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:53:35+00:00
+nowjuliandate:2460552.6379503
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3571
+1 51857U 22022F   24241.82887369  .00004884  00000+0  32462-3 0  9991
+2 51857  53.2169   3.4665 0001520  88.6552 271.4614 15.08856612138807

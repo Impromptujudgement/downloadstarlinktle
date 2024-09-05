@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:04+00:00
+validtle:1
+satid:47892
+launchyear:2021
+epoch:24242.2171132
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2352
+meananomly:268.3718
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3489501773
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001437
+argumentofperigree:91.7436
+nickname:STARLINK-2352
+idesg:21021AJ 
+cosparid:2021-021AJ
+altkm:548.11931650522
+velkms:7.5891098772955
+velkmh:27321
+onumepoch:19213
+onumnow:289438.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:12:39+00:00
+nowjuliandate:2460552.6382452
+nowepochdate:24243.1382407407
+TLE:
+STARLINK-2352
+1 47892U 21021AJ  24242.21711320 -.00000243  00000+0  25502-5 0  9995
+2 47892  53.0531 223.4410 0001437  91.7436 268.3718 15.06400546192132

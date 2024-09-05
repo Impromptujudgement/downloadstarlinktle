@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52100
+launchyear:2022
+epoch:24242.78197272
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3702
+meananomly:274.5179
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9084825223
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001239
+argumentofperigree:85.5954
+nickname:STARLINK-3702
+idesg:22029N  
+cosparid:2022-029N
+altkm:540.60138105396
+velkms:7.5932814274522
+velkmh:27336
+onumepoch:13658
+onumnow:206081.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:46:02+00:00
+nowjuliandate:2460552.6379376
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3702
+1 52100U 22029N   24242.78197272 -.00000961  00000+0 -42305-4 0  9995
+2 52100  53.2165  69.1741 0001239  85.5954 274.5179 15.08831484136581

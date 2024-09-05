@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45677
+launchyear:2020
+epoch:24242.19925908
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1392
+meananomly:274.1310
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3276556464
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001619
+argumentofperigree:85.9864
+nickname:STARLINK-1392
+idesg:20035W  
+cosparid:2020-035W
+altkm:547.98913050131
+velkms:7.5892408537822
+velkmh:27321
+onumepoch:23470
+onumnow:353573.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:46:56+00:00
+nowjuliandate:2460553.0283133
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1392
+1 45677U 20035W   24242.19925908  .00002932  00000+0  21562-3 0  9990
+2 45677  53.0541  49.2867 0001619  85.9864 274.1310 15.06407494234706

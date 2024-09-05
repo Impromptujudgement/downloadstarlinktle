@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51980
+launchyear:2022
+epoch:24242.65408494
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3649
+meananomly:269.9868
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8789036756
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0002269
+argumentofperigree:90.1384
+nickname:STARLINK-3649
+idesg:22025AA 
+cosparid:2022-025AA
+altkm:540.63977903719
+velkms:7.5932230982334
+velkmh:27336
+onumepoch:13805
+onumnow:208302.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:41:53+00:00
+nowjuliandate:2460552.6379478
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3649
+1 51980U 22025AA  24242.65408494  .00001210  00000+0  94145-4 0  9998
+2 51980  53.2151  19.7506 0002269  90.1384 269.9868 15.08841161138054

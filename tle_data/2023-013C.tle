@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55333
+launchyear:2023
+epoch:24242.26037012
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5493
+meananomly:105.0314
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1949143586
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001097
+argumentofperigree:255.0407
+nickname:STARLINK-5493
+idesg:23013C  
+cosparid:2023-013C
+altkm:559.03336449496
+velkms:7.5836336907393
+velkmh:27301
+onumepoch:8828
+onumnow:132657.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:14:56+00:00
+nowjuliandate:2460552.6377683
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5493
+1 55333U 23013C   24242.26037012  .00000392  00000+0  44077-4 0  9992
+2 55333  43.0019  89.5882 0001097 255.0407 105.0314 15.02543696 88289

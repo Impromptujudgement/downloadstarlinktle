@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55371
+launchyear:2023
+epoch:24241.88776378
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5590
+meananomly:85.9059
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1993866644
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0006
+eccentricity:0.0001106
+argumentofperigree:274.1657
+nickname:STARLINK-5590
+idesg:23013AS 
+cosparid:2023-013AS
+altkm:558.78559007025
+velkms:7.5839068635675
+velkmh:27302
+onumepoch:8857
+onumnow:133098.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:18:23+00:00
+nowjuliandate:2460552.6377702
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5590
+1 55371U 23013AS  24241.88776378  .00000333  00000+0  39715-4 0  9994
+2 55371  43.0006 104.0799 0001106 274.1657  85.9059 15.02542243 88578

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47550
+launchyear:2021
+epoch:24242.44298985
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1909
+meananomly:233.7295
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4033334989
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0528
+eccentricity:0.0002465
+argumentofperigree:126.3922
+nickname:STARLINK-1909
+idesg:21009C  
+cosparid:2021-009C
+altkm:549.15542188876
+velkms:7.588004663268
+velkmh:27317
+onumepoch:19769
+onumnow:297807.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:37:54+00:00
+nowjuliandate:2460552.6394682
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-1909
+1 47550U 21009C   24242.44298985  .00014192  00000+0  97018-3 0  9990
+2 47550  53.0528 343.1961 0002465 126.3922 233.7295 15.06382802197693

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50803
+launchyear:2022
+epoch:24242.44339931
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3321
+meananomly:276.3000
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8837269898
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001338
+argumentofperigree:83.8145
+nickname:STARLINK-3321
+idesg:22001A  
+cosparid:2022-001A
+altkm:540.5425899343
+velkms:7.5933323818023
+velkmh:27336
+onumepoch:14755
+onumnow:222637.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:38:30+00:00
+nowjuliandate:2460552.6379817
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3321
+1 50803U 22001A   24242.44339931  .00000117  00000+0  25439-4 0  9996
+2 50803  53.2166 150.6912 0001338  83.8145 276.3000 15.08839583147559

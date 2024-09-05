@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52620
+launchyear:2022
+epoch:24241.79802164
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3975
+meananomly:271.5436
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8682728519
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.000144
+argumentofperigree:88.5721
+nickname:STARLINK-3975
+idesg:22052Y  
+cosparid:2022-052Y
+altkm:540.60181500032
+velkms:7.593258933368
+velkmh:27336
+onumepoch:12655
+onumnow:190964.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:09:09+00:00
+nowjuliandate:2460552.6379051
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3975
+1 52620U 22052Y   24241.79802164  .00001233  00000+0  95548-4 0  9999
+2 52620  53.2158 268.5918 0001440  88.5721 271.5436 15.08844639126555

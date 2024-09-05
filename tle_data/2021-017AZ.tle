@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:41+00:00
+validtle:1
+satid:47769
+launchyear:2021
+epoch:24242.49919873
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2192
+meananomly:251.0338
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3765125558
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0517
+eccentricity:0.0001277
+argumentofperigree:109.0789
+nickname:STARLINK-2192
+idesg:21017AZ 
+cosparid:2021-017AZ
+altkm:548.40584051693
+velkms:7.5888110704703
+velkmh:27320
+onumepoch:19339
+onumnow:291330.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:58:51+00:00
+nowjuliandate:2460552.6393709
+nowepochdate:24243.1393634259
+TLE:
+STARLINK-2192
+1 47769U 21017AZ  24242.49919873  .00017571  00000+0  11958-2 0  9994
+2 47769  53.0517 172.9441 0001277 109.0789 251.0338 15.06391553193390

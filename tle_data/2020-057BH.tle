@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46172
+launchyear:2020
+epoch:24242.406589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1635
+meananomly:307.4561
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3221052422
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001493
+argumentofperigree:52.6564
+nickname:STARLINK-1635
+idesg:20057BH 
+cosparid:2020-057BH
+altkm:547.4354417383
+velkms:7.5898444119956
+velkmh:27323
+onumepoch:22360
+onumnow:336842.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:45:29+00:00
+nowjuliandate:2460553.0282824
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1635
+1 46172U 20057BH  24242.40658900  .00002996  00000+0  21987-3 0  9995
+2 46172  53.0538 278.3587 0001493  52.6564 307.4561 15.06409305223603

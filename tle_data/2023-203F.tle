@@ -1,0 +1,38 @@
+date:2024-08-28T07:43:11+00:00
+validtle:1
+satid:58623
+launchyear:2023
+epoch:24240.01761663
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31068
+meananomly:97.8714
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1866433167
+altitudeatperigee:486
+altitudeatapogee:490
+inclination:43.0019
+eccentricity:0.0003432
+argumentofperigree:262.1747
+nickname:STARLINK-31068
+idesg:23203F  
+cosparid:2023-203F
+altkm:488.14885368768
+velkms:7.6226821488827
+velkmh:27442
+onumepoch:3799
+onumnow:57989.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:25:22+00:00
+nowjuliandate:2460550.8216639
+nowepochdate:24241.3216550926
+TLE:
+STARLINK-31068
+1 58623U 23203F   24240.01761663  .00002813  00000+0  11736-3 0  9990
+2 58623  43.0019 345.5201 0003432 262.1747  97.8714 15.25912214 37990

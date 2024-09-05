@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54071
+launchyear:2022
+epoch:24242.51005814
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5168
+meananomly:263.8014
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8714486458
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.000127
+argumentofperigree:96.3123
+nickname:STARLINK-5168
+idesg:22136W  
+cosparid:2022-136W
+altkm:540.7267890668
+velkms:7.5931235437704
+velkmh:27335
+onumepoch:10321
+onumnow:155737.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:14:29+00:00
+nowjuliandate:2460552.6377981
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5168
+1 54071U 22136W   24242.51005814  .00001048  00000+0  83892-4 0  9995
+2 54071  53.2171 325.0525 0001270  96.3123 263.8014 15.08843600103210

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45191
+launchyear:2020
+epoch:24242.68027242
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1236
+meananomly:261.1252
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3340396977
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0538
+eccentricity:0.0002484
+argumentofperigree:99.0018
+nickname:STARLINK-1236
+idesg:20012P  
+cosparid:2020-012P
+altkm:548.34187600759
+velkms:7.5888579200646
+velkmh:27320
+onumepoch:24809
+onumnow:373736.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:19:36+00:00
+nowjuliandate:2460553.0283722
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1236
+1 45191U 20012P   24242.68027242  .00002632  00000+0  19553-3 0  9998
+2 45191  53.0538  27.1259 0002484  99.0018 261.1252 15.06405411248096

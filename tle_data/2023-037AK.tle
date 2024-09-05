@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55947
+launchyear:2023
+epoch:24241.76964012
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5851
+meananomly:91.9634
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2389385431
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9985
+eccentricity:0.0002817
+argumentofperigree:268.1202
+nickname:STARLINK-5851
+idesg:23037AK 
+cosparid:2023-037AK
+altkm:574.59325127181
+velkms:7.5737635368633
+velkmh:27266
+onumepoch:8041
+onumnow:120500.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:28:17+00:00
+nowjuliandate:2460552.637731
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5851
+1 55947U 23037AK  24241.76964012  .00005445  00000+0  46391-3 0  9996
+2 55947  69.9985 250.9866 0002817 268.1202  91.9634 14.98315780 80414

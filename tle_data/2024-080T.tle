@@ -1,0 +1,38 @@
+date:2024-08-27T22:42:54+00:00
+validtle:1
+satid:59618
+launchyear:2024
+epoch:24240.58586624
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31784
+meananomly:75.3080
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1331481763
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0042
+eccentricity:0.0001547
+argumentofperigree:284.7605
+nickname:STARLINK-31784
+idesg:24080T  
+cosparid:2024-080T
+altkm:443.50321766416
+velkms:7.647962996074
+velkmh:27533
+onumepoch:1869
+onumnow:28801.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:03:39+00:00
+nowjuliandate:2460550.4464607
+nowepochdate:24240.9464583333
+TLE:
+STARLINK-31784
+1 59618U 24080T   24240.58586624  .00001847  00000+0  51435-4 0  9990
+2 59618  43.0042 344.0986 0001547 284.7605  75.3080 15.40716272 18699

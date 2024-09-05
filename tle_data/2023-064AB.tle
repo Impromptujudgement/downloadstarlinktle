@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56473
+launchyear:2023
+epoch:24241.87610554
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5486
+meananomly:91.7792
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1770836994
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0003092
+argumentofperigree:268.3012
+nickname:STARLINK-5486
+idesg:23064AB 
+cosparid:2023-064AB
+altkm:574.53122900184
+velkms:7.5737974586578
+velkmh:27266
+onumepoch:7218
+onumnow:108168.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:01:36+00:00
+nowjuliandate:2460552.6376974
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5486
+1 56473U 23064AB  24241.87610554  .00000659  00000+0  63048-4 0  9993
+2 56473  69.9992  90.9260 0003092 268.3012  91.7792 14.98335782 72186

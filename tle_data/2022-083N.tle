@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53144
+launchyear:2022
+epoch:24241.51374135
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4100
+meananomly:272.9179
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8674139516
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001355
+argumentofperigree:87.1968
+nickname:STARLINK-4100
+idesg:22083N  
+cosparid:2022-083N
+altkm:540.58008018154
+velkms:7.5932823120074
+velkmh:27336
+onumepoch:11695
+onumnow:176483.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:19:47+00:00
+nowjuliandate:2460552.6378756
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4100
+1 53144U 22083N   24241.51374135  .00001755  00000+0  12832-3 0  9990
+2 53144  53.2160 159.8787 0001355  87.1968 272.9179 15.08844920116954

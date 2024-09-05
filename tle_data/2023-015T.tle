@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55466
+launchyear:2023
+epoch:24241.3822166
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5628
+meananomly:94.8080
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2046469425
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.0001283
+argumentofperigree:265.2616
+nickname:STARLINK-5628
+idesg:23015T  
+cosparid:2023-015T
+altkm:558.92029476282
+velkms:7.5837625419516
+velkmh:27302
+onumepoch:8677
+onumnow:130401.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:10:24+00:00
+nowjuliandate:2460552.6377542
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5628
+1 55466U 23015T   24241.38221660  .00001772  00000+0  14622-3 0  9992
+2 55466  43.0011 119.3692 0001283 265.2616  94.8080 15.02540534 86776

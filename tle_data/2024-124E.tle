@@ -1,0 +1,38 @@
+date:2024-08-27T16:12:23+00:00
+validtle:1
+satid:60187
+launchyear:2024
+epoch:24239.75208317
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11194
+meananomly:288.5439
+meanmotion:15.6973
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8084683019
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1596
+eccentricity:0.0001019
+argumentofperigree:71.569
+nickname:STARLINK-11194
+idesg:24124E  
+cosparid:2024-124E
+altkm:360.36818673641
+velkms:7.6944146052394
+velkmh:27700
+onumepoch:859
+onumnow:13498.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T18:03:00+00:00
+nowjuliandate:2460550.1752665
+nowepochdate:24240.6752662037
+TLE:
+STARLINK-11194 [DTC]
+1 60187U 24124E   24239.75208317  .00009688  00000+0  84662-4 0  9998
+2 60187  53.1596  41.2465 0001019  71.5690 288.5439 15.69730021  8599

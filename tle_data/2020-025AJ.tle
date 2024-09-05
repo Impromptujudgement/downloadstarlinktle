@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45563
+launchyear:2020
+epoch:24242.23059282
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1355
+meananomly:276.3442
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3621811881
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0578
+eccentricity:0.0001778
+argumentofperigree:83.7749
+nickname:STARLINK-1355
+idesg:20025AJ 
+cosparid:2020-025AJ
+altkm:547.96879319286
+velkms:7.5892820087139
+velkmh:27321
+onumepoch:24074
+onumnow:362669.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:32:03+00:00
+nowjuliandate:2460553.0283414
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1355
+1 45563U 20025AJ  24242.23059282  .00001025  00000+0  87711-4 0  9992
+2 45563  53.0578  69.1453 0001778  83.7749 276.3442 15.06396229240740

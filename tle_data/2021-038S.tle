@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48369
+launchyear:2021
+epoch:24242.52133293
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2641
+meananomly:275.7560
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.443340126
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0571
+eccentricity:0.0001779
+argumentofperigree:84.3632
+nickname:STARLINK-2641
+idesg:21038S  
+cosparid:2021-038S
+altkm:548.06236011991
+velkms:7.5892238743901
+velkmh:27321
+onumepoch:18377
+onumnow:276834.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:30:43+00:00
+nowjuliandate:2460552.6380307
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2641
+1 48369U 21038S   24242.52133293  .00023788  00000+0  16118-2 0  9992
+2 48369  53.0571 332.8482 0001779  84.3632 275.7560 15.06369749183771

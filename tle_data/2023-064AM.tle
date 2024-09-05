@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56483
+launchyear:2023
+epoch:24241.99710384
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5868
+meananomly:90.4701
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1754168971
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9976
+eccentricity:0.0003086
+argumentofperigree:269.6104
+nickname:STARLINK-5868
+idesg:23064AM 
+cosparid:2023-064AM
+altkm:574.48030954956
+velkms:7.5738520341704
+velkmh:27266
+onumepoch:7256
+onumnow:108736.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:55:50+00:00
+nowjuliandate:2460552.6376966
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5868
+1 56483U 23064AM  24241.99710384  .00001059  00000+0  96559-4 0  9997
+2 56483  69.9976  90.5414 0003086 269.6104  90.4701 14.98336321 72563

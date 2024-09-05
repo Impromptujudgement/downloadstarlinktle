@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53823
+launchyear:2022
+epoch:24241.29431833
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4748
+meananomly:265.0415
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8821528401
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001465
+argumentofperigree:95.0744
+nickname:STARLINK-4748
+idesg:22114F  
+cosparid:2022-114F
+altkm:540.73015258999
+velkms:7.593125714544
+velkmh:27335
+onumepoch:10916
+onumnow:164732.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:03:49+00:00
+nowjuliandate:2460552.6378185
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4748
+1 53823U 22114F   24241.29431833  .00000921  00000+0  75945-4 0  9992
+2 53823  53.2160 245.8368 0001465  95.0744 265.0415 15.08840098109164

@@ -1,0 +1,38 @@
+date:2024-08-29T04:38:33+00:00
+validtle:1
+satid:57406
+launchyear:2023
+epoch:24241.13687049
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30195
+meananomly:79.8897
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1801031675
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0017
+eccentricity:0.0001049
+argumentofperigree:280.1827
+nickname:STARLINK-30195
+idesg:23102C  
+cosparid:2023-102C
+altkm:558.69346056487
+velkms:7.5839970232521
+velkmh:27302
+onumepoch:6221
+onumnow:93487.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:17:06+00:00
+nowjuliandate:2460551.6934434
+nowepochdate:24242.08.1934375
+TLE:
+STARLINK-30195
+1 57406U 23102C   24241.13687049 -.00001004  00000+0 -59256-4 0  9998
+2 57406  43.0017  44.0512 0001049 280.1827  79.8897 15.02548508 62214

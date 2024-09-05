@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:12+00:00
+validtle:1
+satid:46768
+launchyear:2020
+epoch:24241.49617126
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1918
+meananomly:255.7685
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2650816889
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001847
+argumentofperigree:104.351
+nickname:STARLINK-1918
+idesg:20074AF 
+cosparid:2020-074AF
+altkm:548.32167276715
+velkms:7.5888423503946
+velkmh:27320
+onumepoch:21233
+onumnow:319884.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:54:29+00:00
+nowjuliandate:2460552.6397261
+nowepochdate:24243.1397222222
+TLE:
+STARLINK-1918
+1 46768U 20074AF  24241.49617126  .00022609  00000+0  15307-2 0  9999
+2 46768  53.0528 322.4486 0001847 104.3510 255.7685 15.06427911212334

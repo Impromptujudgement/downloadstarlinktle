@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53778
+launchyear:2022
+epoch:24242.76812805
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4709
+meananomly:273.3927
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8664236185
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001397
+argumentofperigree:86.7224
+nickname:STARLINK-4709
+idesg:22111F  
+cosparid:2022-111F
+altkm:540.56966216346
+velkms:7.593293201184
+velkmh:27336
+onumepoch:10874
+onumnow:164077.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:26:06+00:00
+nowjuliandate:2460552.6378247
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4709
+1 53778U 22111F   24242.76812805  .00000329  00000+0  38725-4 0  9990
+2 53778  53.2163 258.9660 0001397  86.7224 273.3927 15.08845244108741

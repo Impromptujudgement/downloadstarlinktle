@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45367
+launchyear:2020
+epoch:24242.99727237
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1273
+meananomly:257.6947
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4198902203
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001056
+argumentofperigree:102.4161
+nickname:STARLINK-1273
+idesg:20019H  
+cosparid:2020-019H
+altkm:548.31774520315
+velkms:7.5889312885379
+velkmh:27320
+onumepoch:24582
+onumnow:370305.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:56:04+00:00
+nowjuliandate:2460553.0283491
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1273
+1 45367U 20019H   24242.99727237  .00023149  00000+0  15688-2 0  9995
+2 45367  53.0530 145.7070 0001056 102.4161 257.6947 15.06377400245828

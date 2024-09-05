@@ -1,0 +1,38 @@
+date:2024-08-28T22:37:26+00:00
+validtle:1
+satid:57508
+launchyear:2023
+epoch:24241.08417952
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30074
+meananomly:95.0726
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2113323425
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:0.0001091
+argumentofperigree:264.9992
+nickname:STARLINK-30074
+idesg:23113P  
+cosparid:2023-113P
+altkm:558.9193011063
+velkms:7.5837672715405
+velkmh:27302
+onumepoch:5942
+onumnow:89279.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:01:13+00:00
+nowjuliandate:2460551.4426651
+nowepochdate:24241..942662037
+TLE:
+STARLINK-30074
+1 57508U 23113P   24241.08417952  .00000544  00000+0  55347-4 0  9994
+2 57508  43.0014 172.4482 0001091 264.9992  95.0726 15.02538362 59423

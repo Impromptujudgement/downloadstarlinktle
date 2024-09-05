@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55996
+launchyear:2023
+epoch:24242.62124126
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5903
+meananomly:91.4107
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2020368091
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001365
+argumentofperigree:268.6579
+nickname:STARLINK-5903
+idesg:23042L  
+cosparid:2023-042L
+altkm:558.86664086775
+velkms:7.5838197458382
+velkmh:27302
+onumepoch:7945
+onumnow:119384.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:54:35+00:00
+nowjuliandate:2460552.6377216
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5903
+1 55996U 23042L   24242.62124126  .00000836  00000+0  76928-4 0  9995
+2 55996  43.0031 202.9976 0001365 268.6579  91.4107 15.02541382 79458

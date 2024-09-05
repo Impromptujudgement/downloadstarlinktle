@@ -1,0 +1,38 @@
+date:2024-08-27T14:22:48+00:00
+validtle:1
+satid:60402
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-11139
+meananomly:323.8783
+meanmotion:15.7672
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6717.8922244727
+altitudeatperigee:339
+altitudeatapogee:340
+inclination:53.1564
+eccentricity:8.96E-5
+argumentofperigree:102.4235
+nickname:STARLINK-11139
+idesg:24141E  
+cosparid:2024-141E
+altkm:344.4483897157
+velkms:7.7083828458153
+velkmh:27750
+onumepoch:384
+onumnow:6061.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.0991745
+nowepochdate:24240.5991666667
+TLE:
+STARLINK-11139 [DTC]
+1 60402U 24141E   24240.16667824  .00006418  00000+0  43201-4 0  9998
+2 60402  53.1564 325.0879 0000896 102.4235 323.8783 15.76715758  3843

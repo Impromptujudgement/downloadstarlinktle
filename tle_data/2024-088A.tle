@@ -1,0 +1,38 @@
+date:2024-08-27T21:52:10+00:00
+validtle:1
+satid:59708
+launchyear:2024
+epoch:24240.08145339
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-11107
+meananomly:262.8595
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8509370075
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1564
+eccentricity:8.6E-5
+argumentofperigree:97.2521
+nickname:STARLINK-11107
+idesg:24088A  
+cosparid:2024-088A
+altkm:360.70066341877
+velkms:7.6940592571584
+velkmh:27699
+onumepoch:1836
+onumnow:28833.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:57:18+00:00
+nowjuliandate:2460550.4112332
+nowepochdate:24240.9112268519
+TLE:
+STARLINK-11107 [DTC]
+1 59708U 24088A   24240.08145339  .00002221  00000+0  23180-4 0  9990
+2 59708  53.1564 204.6412 0000860  97.2521 262.8595 15.69715180 18362

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50849
+launchyear:2022
+epoch:24241.52984022
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3311
+meananomly:279.1172
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8556919759
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001615
+argumentofperigree:81.0003
+nickname:STARLINK-3311
+idesg:22001AY 
+cosparid:2022-001AY
+altkm:540.43902984429
+velkms:7.5934306654785
+velkmh:27336
+onumepoch:14600
+onumnow:220314.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:42:58+00:00
+nowjuliandate:2460552.6379783
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3311
+1 50849U 22001AY  24241.52984022  .00002876  00000+0  19869-3 0  9994
+2 50849  53.2154 164.7964 0001615  81.0003 279.1172 15.08848755146001

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45663
+launchyear:2020
+epoch:24242.19794426
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1446
+meananomly:99.7150
+meanmotion:15.0793
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6920.656836699
+altitudeatperigee:542
+altitudeatapogee:543
+inclination:53.0548
+eccentricity:1.07E-5
+argumentofperigree:260.3827
+nickname:STARLINK-1446
+idesg:20035G  
+cosparid:2020-035G
+altkm:543.41206669152
+velkms:7.5917027506035
+velkmh:27330
+onumepoch:23470
+onumnow:353931.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:45:02+00:00
+nowjuliandate:2460553.0283168
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1446
+1 45663U 20035G   24242.19794426  .00019256  00000+0  12551-2 0  9998
+2 45663  53.0548  49.1266 0000107 260.3827  99.7150 15.07932785234709

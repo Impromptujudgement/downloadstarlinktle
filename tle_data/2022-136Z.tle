@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54074
+launchyear:2022
+epoch:24242.5063864
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5192
+meananomly:265.6436
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9254621519
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001209
+argumentofperigree:94.4694
+nickname:STARLINK-5192
+idesg:22136Z  
+cosparid:2022-136Z
+altkm:540.74942696899
+velkms:7.5931282814301
+velkmh:27335
+onumepoch:10321
+onumnow:155735.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:09:12+00:00
+nowjuliandate:2460552.6377976
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5192
+1 54074U 22136Z   24242.50638640 -.00002609  00000+0 -14598-3 0  9998
+2 54074  53.2168 325.0308 0001209  94.4694 265.6436 15.08825929103214

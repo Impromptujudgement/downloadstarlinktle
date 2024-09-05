@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52690
+launchyear:2022
+epoch:24242.38866829
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4035
+meananomly:264.4688
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9218033462
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001428
+argumentofperigree:95.6467
+nickname:STARLINK-4035
+idesg:22053AL 
+cosparid:2022-053AL
+altkm:540.77758850392
+velkms:7.593095378262
+velkmh:27335
+onumepoch:12661
+onumnow:191043.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:19:41+00:00
+nowjuliandate:2460552.6379034
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4035
+1 52690U 22053AL  24242.38866829  .00002830  00000+0  19590-3 0  9997
+2 52690  53.2177 125.9473 0001428  95.6467 264.4688 15.08827126126616

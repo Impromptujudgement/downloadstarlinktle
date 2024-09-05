@@ -1,0 +1,38 @@
+date:2024-08-27T18:15:20+00:00
+validtle:1
+satid:59929
+launchyear:2024
+epoch:24240.35902939
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31932
+meananomly:254.9676
+meanmotion:15.4073
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1073484177
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9988
+eccentricity:0.000123
+argumentofperigree:105.1316
+nickname:STARLINK-31932
+idesg:24106H  
+cosparid:2024-106H
+altkm:443.96199732606
+velkms:7.6474345373886
+velkmh:27531
+onumepoch:1475
+onumnow:22731.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:37:00+00:00
+nowjuliandate:2460550.2606515
+nowepochdate:24240.7606481481
+TLE:
+STARLINK-31932
+1 59929U 24106H   24240.35902939 -.00040161  00000+0 -95841-3 0  9992
+2 59929  42.9988 270.8445 0001230 105.1316 254.9676 15.40725012 14752

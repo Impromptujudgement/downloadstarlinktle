@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55991
+launchyear:2023
+epoch:24242.6279059
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5948
+meananomly:111.9506
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2168942874
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001064
+argumentofperigree:248.1223
+nickname:STARLINK-5948
+idesg:23042F  
+cosparid:2023-042F
+altkm:559.13395164811
+velkms:7.5835357655164
+velkmh:27301
+onumepoch:7945
+onumnow:119384.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:04:11+00:00
+nowjuliandate:2460552.6377223
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5948
+1 55991U 23042F   24242.62790590  .00000517  00000+0  53301-4 0  9990
+2 55991  43.0026 203.0472 0001064 248.1223 111.9506 15.02536555 79452

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52332
+launchyear:2022
+epoch:24242.58049501
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3831
+meananomly:297.7837
+meanmotion:15.0889
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7445725575
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001476
+argumentofperigree:62.3304
+nickname:STARLINK-3831
+idesg:22045B  
+cosparid:2022-045B
+altkm:540.02914218092
+velkms:7.5938196032082
+velkmh:27338
+onumepoch:13153
+onumnow:198472.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:55:55+00:00
+nowjuliandate:2460552.6379271
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3831
+1 52332U 22045B   24242.58049501 -.00005401  00000+0 -32112-3 0  9997
+2 52332  53.2171 190.0856 0001476  62.3304 297.7837 15.08885110131534

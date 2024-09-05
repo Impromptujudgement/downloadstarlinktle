@@ -1,0 +1,38 @@
+date:2024-08-29T07:24:10+00:00
+validtle:1
+satid:57075
+launchyear:2023
+epoch:24241.72076048
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5542
+meananomly:84.5890
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1984417238
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.00011
+argumentofperigree:275.4827
+nickname:STARLINK-5542
+idesg:23088AD 
+cosparid:2023-088AD
+altkm:558.76764088798
+velkms:7.583925961781
+velkmh:27302
+onumepoch:6658
+onumnow:100048.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:17:54+00:00
+nowjuliandate:2460551.8084579
+nowepochdate:24242.3084490741
+TLE:
+STARLINK-5542
+1 57075U 23088AD  24241.72076048  .00000971  00000+0  86901-4 0  9996
+2 57075  43.0022 246.5782 0001100 275.4827  84.5890 15.02542550 66586

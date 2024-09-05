@@ -1,0 +1,38 @@
+date:2024-08-27T14:09:15+00:00
+validtle:1
+satid:60425
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32250
+meananomly:329.2170
+meanmotion:15.8746
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6687.5545636434
+altitudeatperigee:309
+altitudeatapogee:310
+inclination:53.1506
+eccentricity:5.61E-5
+argumentofperigree:86.7266
+nickname:STARLINK-32250
+idesg:24144A  
+cosparid:2024-144A
+altkm:313.02682648399
+velkms:7.7258168597161
+velkmh:27813
+onumepoch:355
+onumnow:5646.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0897615
+nowepochdate:24240.5897569444
+TLE:
+STARLINK-32250
+1 60425U 24144A   24239.91667824 -.00574371  00000+0 -22633-2 0  9991
+2 60425  53.1506 303.7175 0000561  86.7266 329.2170 15.87456921  3557

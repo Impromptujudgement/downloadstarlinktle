@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49724
+launchyear:2021
+epoch:24241.97790721
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3219
+meananomly:277.5107
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8757767787
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.000137
+argumentofperigree:82.6041
+nickname:STARLINK-3219
+idesg:21115A  
+cosparid:2021-115A
+altkm:540.51241353697
+velkms:7.5933611405293
+velkmh:27336
+onumepoch:15244
+onumnow:230025.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:28:11+00:00
+nowjuliandate:2460552.6379934
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3219
+1 49724U 21115A   24241.97790721  .00001263  00000+0  97400-4 0  9996
+2 49724  53.2173 133.0104 0001370  82.6041 277.5107 15.08842184152449

@@ -1,0 +1,38 @@
+date:2024-08-28T14:56:13+00:00
+validtle:1
+satid:58442
+launchyear:2023
+epoch:24241.18669808
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30959
+meananomly:98.1926
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1656460191
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.0026
+eccentricity:5.55E-5
+argumentofperigree:261.8853
+nickname:STARLINK-30959
+idesg:23183F  
+cosparid:2023-183F
+altkm:558.86163696295
+velkms:7.5838053786294
+velkmh:27302
+onumepoch:4272
+onumnow:64195.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:28:51+00:00
+nowjuliandate:2460551.1223814
+nowepochdate:24241.6223726852
+TLE:
+STARLINK-30959
+1 58442U 23183F   24241.18669808  .00002498  00000+0  19986-3 0  9997
+2 58442  43.0026 197.8394 0000555 261.8853  98.1926 15.02553205 42727

@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:02+00:00
+validtle:1
+satid:47896
+launchyear:2021
+epoch:24242.38908552
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2356
+meananomly:290.7459
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3672474223
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001716
+argumentofperigree:69.3714
+nickname:STARLINK-2356
+idesg:21021AN 
+cosparid:2021-021AN
+altkm:547.68843521153
+velkms:7.5895919170303
+velkmh:27323
+onumepoch:19150
+onumnow:288485.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:20:17+00:00
+nowjuliandate:2460552.6382278
+nowepochdate:24243.1382175926
+TLE:
+STARLINK-2356
+1 47896U 21021AN  24242.38908552 -.00000214  00000+0  45583-5 0  9991
+2 47896  53.0532 268.4371 0001716  69.3714 290.7459 15.06394576191508

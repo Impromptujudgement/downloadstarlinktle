@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54157
+launchyear:2022
+epoch:24242.58189441
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5290
+meananomly:270.3816
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9073699093
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.000119
+argumentofperigree:89.7312
+nickname:STARLINK-5290
+idesg:22141A  
+cosparid:2022-141A
+altkm:540.66232373688
+velkms:7.5932139482827
+velkmh:27336
+onumepoch:10161
+onumnow:153320.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:57:56+00:00
+nowjuliandate:2460552.6377975
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5290
+1 54157U 22141A   24242.58189441 -.00000363  00000+0 -47090-5 0  9994
+2 54157  53.2168 355.0285 0001190  89.7312 270.3816 15.08831848101610

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53165
+launchyear:2022
+epoch:24241.48153716
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4090
+meananomly:269.4643
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8539497308
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2194
+eccentricity:0.0001561
+argumentofperigree:90.6528
+nickname:STARLINK-4090
+idesg:22083AK 
+cosparid:2022-083AK
+altkm:540.62483209897
+velkms:7.5932258350227
+velkmh:27336
+onumepoch:11709
+onumnow:176696.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:33:25+00:00
+nowjuliandate:2460552.6378796
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4090
+1 53165U 22083AK  24241.48153716  .00001848  00000+0  13415-3 0  9990
+2 53165  53.2194 150.0125 0001561  90.6528 269.4643 15.08849325117090

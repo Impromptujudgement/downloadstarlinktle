@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52676
+launchyear:2022
+epoch:24242.42822979
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4006
+meananomly:290.5564
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8756636848
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001583
+argumentofperigree:69.5598
+nickname:STARLINK-4006
+idesg:22053W  
+cosparid:2022-053W
+altkm:540.25152098269
+velkms:7.5936473563387
+velkmh:27337
+onumepoch:12648
+onumnow:190849.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:16:39+00:00
+nowjuliandate:2460552.6378989
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4006
+1 52676U 22053W   24242.42822979 -.00000705  00000+0 -26207-4 0  9999
+2 52676  53.2157 135.7626 0001583  69.5598 290.5564 15.08842221126485

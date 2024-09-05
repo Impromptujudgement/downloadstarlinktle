@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48648
+launchyear:2021
+epoch:24242.33244177
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2521
+meananomly:272.8834
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.332504214
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0527
+eccentricity:0.000223
+argumentofperigree:87.241
+nickname:STARLINK-2521
+idesg:21044L  
+cosparid:2021-044L
+altkm:547.99707638769
+velkms:7.5892347997008
+velkmh:27321
+onumepoch:18054
+onumnow:271978.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:58:43+00:00
+nowjuliandate:2460552.6380086
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2521
+1 48648U 21044L   24242.33244177  .00008660  00000+0  59944-3 0  9999
+2 48648  53.0527 103.8562 0002230  87.2410 272.8834 15.06405912180543

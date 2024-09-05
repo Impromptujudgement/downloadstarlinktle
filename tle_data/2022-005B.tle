@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51105
+launchyear:2022
+epoch:24241.37620185
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3350
+meananomly:277.1942
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8801599373
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001232
+argumentofperigree:82.919
+nickname:STARLINK-3350
+idesg:22005B  
+cosparid:2022-005B
+altkm:540.53365729445
+velkms:7.5933402298082
+velkmh:27336
+onumepoch:14459
+onumnow:218187.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:01:44+00:00
+nowjuliandate:2460552.6379737
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3350
+1 51105U 22005B   24241.37620185 -.00000493  00000+0 -12884-4 0  9990
+2 51105  53.2148 275.4915 0001232  82.9190 277.1942 15.08840750144590

@@ -1,0 +1,38 @@
+date:2024-08-27T22:46:28+00:00
+validtle:1
+satid:59613
+launchyear:2024
+epoch:24240.55978729
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31746
+meananomly:127.3480
+meanmotion:15.4157
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6819.6068212849
+altitudeatperigee:440
+altitudeatapogee:442
+inclination:42.9991
+eccentricity:0.0001434
+argumentofperigree:232.7247
+nickname:STARLINK-31746
+idesg:24080N  
+cosparid:2024-080N
+altkm:441.83697657304
+velkms:7.6484181542447
+velkmh:27534
+onumepoch:1869
+onumnow:28817.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:26:06+00:00
+nowjuliandate:2460550.4489419
+nowepochdate:24240.9489351852
+TLE:
+STARLINK-31746
+1 59613U 24080N   24240.55978729  .00006706  00000+0  16292-3 0  9993
+2 59613  42.9991 343.8827 0001434 232.7247 127.3480 15.41572490 18691

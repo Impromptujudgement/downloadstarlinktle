@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53714
+launchyear:2022
+epoch:24242.18761367
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4688
+meananomly:257.1806
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8683187007
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001659
+argumentofperigree:102.9372
+nickname:STARLINK-4688
+idesg:22107Q  
+cosparid:2022-107Q
+altkm:540.88363301678
+velkms:7.5929497354139
+velkmh:27335
+onumepoch:11015
+onumnow:166213.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:30:10+00:00
+nowjuliandate:2460552.6378279
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4688
+1 53714U 22107Q   24242.18761367 -.00000152  00000+0  85322-5 0  9998
+2 53714  53.2183 211.6169 0001659 102.9372 257.1806 15.08844624110154

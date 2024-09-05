@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48602
+launchyear:2021
+epoch:24242.34577591
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2713
+meananomly:270.2114
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.286501395
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001044
+argumentofperigree:89.8995
+nickname:STARLINK-2713
+idesg:21041BB 
+cosparid:2021-041BB
+altkm:548.02601442055
+velkms:7.5891779483478
+velkmh:27321
+onumepoch:18267
+onumnow:275189.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:17:55+00:00
+nowjuliandate:2460552.6380178
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2713
+1 48602U 21041BB  24242.34577591  .00020259  00000+0  13743-2 0  9990
+2 48602  53.0545  98.6327 0001044  89.8995 270.2114 15.06420922182678

@@ -1,0 +1,38 @@
+date:2024-08-28T22:01:58+00:00
+validtle:1
+satid:57637
+launchyear:2023
+epoch:24241.30196388
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30311
+meananomly:92.3780
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2041760102
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001242
+argumentofperigree:267.692
+nickname:STARLINK-30311
+idesg:23122F  
+cosparid:2023-122F
+altkm:558.8810182313
+velkms:7.5838052016397
+velkmh:27302
+onumepoch:5818
+onumnow:87427.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:14:50+00:00
+nowjuliandate:2460551.4180379
+nowepochdate:24241.9180324074
+TLE:
+STARLINK-30311
+1 57637U 23122F   24241.30196388  .00001909  00000+0  15631-3 0  9996
+2 57637  43.0015 248.9468 0001242 267.6920  92.3780 15.02540687 58184

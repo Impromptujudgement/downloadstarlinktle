@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:35+00:00
+validtle:1
+satid:44962
+launchyear:2020
+epoch:21272.36760715
+epochday:272
+tleage:1066
+tleclassification:C
+active:0
+name:STARLINK-1081
+meananomly:203.5301
+meanmotion:16.1716
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6605.4001866617
+altitudeatperigee:220
+altitudeatapogee:235
+inclination:53.0411
+eccentricity:0.0011425
+argumentofperigree:15.8389
+nickname:STARLINK-1081
+idesg:20001BA 
+cosparid:2020-001BA
+altkm:243.55894400269
+velkms:7.7564167298789
+velkmh:27923
+onumepoch:1
+onumnow:48064.78
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-09-29T08:49:21+00:00
+nowjuliandate:2460553.0310266
+nowepochdate:24243.5310185185
+TLE:
+STARLINK-1081
+1 44962C 20001BA  21272.36760715  .17620425  00000-0  45142-2 0  2726
+2 44962  53.0411 329.3866 0011425  15.8389 203.5301 16.17164707    10

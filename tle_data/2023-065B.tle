@@ -1,0 +1,38 @@
+date:2024-08-29T09:40:32+00:00
+validtle:1
+satid:56504
+launchyear:2023
+epoch:24242.02519968
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-5716
+meananomly:91.6165
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1843322901
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.000119
+argumentofperigree:268.4541
+nickname:STARLINK-5716
+idesg:23065B  
+cosparid:2023-065B
+altkm:558.84871507981
+velkms:7.5838296828903
+velkmh:27302
+onumepoch:7195
+onumnow:108113.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:36:17+00:00
+nowjuliandate:2460551.9031551
+nowepochdate:24242.4031481481
+TLE:
+STARLINK-5716
+1 56504U 23065B   24242.02519968  .00002056  00000+0  16715-3 0  9995
+2 56504  43.0016   0.8751 0001190 268.4541  91.6165 15.02547134 71950

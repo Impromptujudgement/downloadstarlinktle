@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51986
+launchyear:2022
+epoch:24242.67246822
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3645
+meananomly:258.9688
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9031487088
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001753
+argumentofperigree:101.1502
+nickname:STARLINK-3645
+idesg:22025AG 
+cosparid:2022-025AG
+altkm:540.89575207529
+velkms:7.5929555109024
+velkmh:27335
+onumepoch:13806
+onumnow:208316.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:08:21+00:00
+nowjuliandate:2460552.6379476
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3645
+1 51986U 22025AG  24242.67246822 -.00001383  00000+0 -68825-4 0  9990
+2 51986  53.2171  19.5104 0001753 101.1502 258.9688 15.08833229138061

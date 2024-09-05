@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55955
+launchyear:2023
+epoch:24242.25324804
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5878
+meananomly:90.0032
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1755653321
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9988
+eccentricity:0.0003005
+argumentofperigree:270.0783
+nickname:STARLINK-5878
+idesg:23037AT 
+cosparid:2023-037AT
+altkm:574.46301673294
+velkms:7.5738709577168
+velkmh:27266
+onumepoch:8131
+onumnow:121842.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:04:41+00:00
+nowjuliandate:2460552.6377305
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5878
+1 55955U 23037AT  24242.25324804 -.00003462  00000+0 -28248-3 0  9999
+2 55955  69.9988 229.9865 0003005 270.0783  90.0032 14.98336273 81319

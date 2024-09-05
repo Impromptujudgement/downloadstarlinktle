@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47980
+launchyear:2021
+epoch:24242.22093043
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2312
+meananomly:253.0016
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3860443662
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:9.11E-5
+argumentofperigree:107.1073
+nickname:STARLINK-2312
+idesg:21024D  
+cosparid:2021-024D
+altkm:548.31256507584
+velkms:7.5889184596033
+velkmh:27320
+onumepoch:19120
+onumnow:288035.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:18:08+00:00
+nowjuliandate:2460552.638057
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2312
+1 47980U 21024D   24242.22093043 -.00000218  00000+0  42745-5 0  9992
+2 47980  53.0539 234.3216 0000911 107.1073 253.0016 15.06388443191208

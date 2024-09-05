@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52541
+launchyear:2022
+epoch:24242.37485661
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3845
+meananomly:275.7507
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8414086551
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001156
+argumentofperigree:84.3616
+nickname:STARLINK-3845
+idesg:22051J  
+cosparid:2022-051J
+altkm:540.52165907925
+velkms:7.5933321761208
+velkmh:27336
+onumepoch:12730
+onumnow:192088.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:59:48+00:00
+nowjuliandate:2460552.6379133
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3845
+1 52541U 22051J   24242.37485661  .00001716  00000+0  12581-3 0  9995
+2 52541  53.2162 116.0064 0001156  84.3616 275.7507 15.08853428127307

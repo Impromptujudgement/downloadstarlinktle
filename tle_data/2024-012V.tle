@@ -1,0 +1,38 @@
+date:2024-08-28T03:35:52+00:00
+validtle:1
+satid:58806
+launchyear:2024
+epoch:24240.85627161
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31138
+meananomly:77.9652
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1762219713
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.005
+eccentricity:0.0001446
+argumentofperigree:282.1037
+nickname:STARLINK-31138
+idesg:24012V  
+cosparid:2024-012V
+altkm:487.60845636365
+velkms:7.6232760419967
+velkmh:27444
+onumepoch:3584
+onumnow:54693.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:33:02+00:00
+nowjuliandate:2460550.6499167
+nowepochdate:24241.1499074074
+TLE:
+STARLINK-31138
+1 58806U 24012V   24240.85627161  .00000548  00000+0  30797-4 0  9990
+2 58806  43.0050  75.7189 0001446 282.1037  77.9652 15.25915688 35842

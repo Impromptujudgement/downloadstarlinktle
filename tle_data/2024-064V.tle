@@ -1,0 +1,38 @@
+date:2024-08-28T01:03:47+00:00
+validtle:1
+satid:59417
+launchyear:2024
+epoch:24240.58304395
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31401
+meananomly:89.4367
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1992545291
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.005
+eccentricity:0.0001032
+argumentofperigree:270.6371
+nickname:STARLINK-31401
+idesg:24064V  
+cosparid:2024-064V
+altkm:443.8300481909
+velkms:7.6476337390721
+velkmh:27531
+onumepoch:2325
+onumnow:35828.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:59:35+00:00
+nowjuliandate:2460550.5443033
+nowepochdate:24241.0442939815
+TLE:
+STARLINK-31401
+1 59417U 24064V   24240.58304395  .00004440  00000+0  11351-3 0  9996
+2 59417  43.0050 352.2301 0001032 270.6371  89.4367 15.40693878 23258

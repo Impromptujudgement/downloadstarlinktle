@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52577
+launchyear:2022
+epoch:24242.38589511
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3836
+meananomly:280.4776
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8443551762
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2153
+eccentricity:0.0001016
+argumentofperigree:79.633
+nickname:STARLINK-3836
+idesg:22051AT 
+cosparid:2022-051AT
+altkm:540.47680008649
+velkms:7.5933830125166
+velkmh:27336
+onumepoch:12731
+onumnow:192103.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:15:41+00:00
+nowjuliandate:2460552.6379151
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3836
+1 52577U 22051AT  24242.38589511  .00003512  00000+0  23854-3 0  9995
+2 52577  53.2153 115.9581 0001016  79.6330 280.4776 15.08852464127314

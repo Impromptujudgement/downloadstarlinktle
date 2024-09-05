@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55646
+launchyear:2023
+epoch:24242.14800965
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5104
+meananomly:87.7841
+meanmotion:14.9835
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1404823112
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0016
+eccentricity:0.000258
+argumentofperigree:272.3023
+nickname:STARLINK-5104
+idesg:23021U  
+cosparid:2023-021U
+altkm:574.35852058227
+velkms:7.5739657306508
+velkmh:27266
+onumepoch:8497
+onumnow:127329.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:33:08+00:00
+nowjuliandate:2460552.6377421
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5104
+1 55646U 23021U   24242.14800965  .00001208  00000+0  10897-3 0  9999
+2 55646  70.0016 150.3534 0002580 272.3023  87.7841 14.98347618 84971

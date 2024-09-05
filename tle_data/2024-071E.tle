@@ -1,0 +1,38 @@
+date:2024-08-27T23:58:53+00:00
+validtle:1
+satid:59488
+launchyear:2024
+epoch:24240.42167151
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31754
+meananomly:77.2370
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2052913818
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0009
+eccentricity:0.0001596
+argumentofperigree:282.8308
+nickname:STARLINK-31754
+idesg:24071E  
+cosparid:2024-071E
+altkm:443.6021305318
+velkms:7.6478924807816
+velkmh:27532
+onumepoch:2230
+onumnow:34366.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:07:12+00:00
+nowjuliandate:2460550.4992267
+nowepochdate:24241..999224537
+TLE:
+STARLINK-31754
+1 59488U 24071E   24240.42167151  .00003851  00000+0  99444-4 0  9997
+2 59488  43.0009 290.1435 0001596 282.8308  77.2370 15.40691833 22301

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53641
+launchyear:2022
+epoch:24241.19632691
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4588
+meananomly:265.8602
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8721944535
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001765
+argumentofperigree:94.2592
+nickname:STARLINK-4588
+idesg:22104BF 
+cosparid:2022-104BF
+altkm:540.72066479949
+velkms:7.5931306717988
+velkmh:27335
+onumepoch:11191
+onumnow:168883.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:42:43+00:00
+nowjuliandate:2460552.637841
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4588
+1 53641U 22104BF  24241.19632691  .00000831  00000+0  70286-4 0  9996
+2 53641  53.2147 211.1592 0001765  94.2592 265.8602 15.08843356111919

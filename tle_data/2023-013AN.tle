@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55367
+launchyear:2023
+epoch:24242.25174344
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5635
+meananomly:90.2539
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1931322099
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0028
+eccentricity:0.0001247
+argumentofperigree:269.816
+nickname:STARLINK-5635
+idesg:23013AN 
+cosparid:2023-013AN
+altkm:558.83820958868
+velkms:7.5838459586216
+velkmh:27302
+onumepoch:8843
+onumnow:132883.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:02:31+00:00
+nowjuliandate:2460552.6377707
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5635
+1 55367U 23013AN  24242.25174344  .00001600  00000+0  13343-3 0  9992
+2 55367  43.0028  76.5025 0001247 269.8160  90.2539 15.02544275 88432

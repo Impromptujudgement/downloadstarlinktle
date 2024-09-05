@@ -1,0 +1,38 @@
+date:2024-08-27T23:00:33+00:00
+validtle:1
+satid:59578
+launchyear:2024
+epoch:24240.4957455
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31685
+meananomly:113.9769
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1471197035
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0023
+eccentricity:5.53E-5
+argumentofperigree:246.103
+nickname:STARLINK-31685
+idesg:24076Q  
+cosparid:2024-076Q
+altkm:443.93775481795
+velkms:7.6474839266434
+velkmh:27531
+onumepoch:2070
+onumnow:31915.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:53:52+00:00
+nowjuliandate:2460550.4587245
+nowepochdate:24241.9587152778
+TLE:
+STARLINK-31685
+1 59578U 24076Q   24240.49574550  .00002135  00000+0  58323-4 0  9999
+2 59578  43.0023 311.0537 0000553 246.1030 113.9769 15.40711539 20708

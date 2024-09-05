@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:36+00:00
+validtle:1
+satid:47816
+launchyear:2021
+epoch:24242.21354122
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2399
+meananomly:276.7002
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3302975324
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.00013
+argumentofperigree:83.4135
+nickname:STARLINK-2399
+idesg:21018AF 
+cosparid:2021-018AF
+altkm:547.96743419573
+velkms:7.58926606638
+velkmh:27321
+onumepoch:19223
+onumnow:289590.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:07:30+00:00
+nowjuliandate:2460552.6393124
+nowepochdate:24243.1393055556
+TLE:
+STARLINK-2399
+1 47816U 21018AF  24242.21354122 -.00000094  00000+0  12598-4 0  9994
+2 47816  53.0541 234.2266 0001300  83.4135 276.7002 15.06406632192233

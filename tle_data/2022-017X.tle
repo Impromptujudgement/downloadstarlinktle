@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51789
+launchyear:2022
+epoch:24242.51517064
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3639
+meananomly:259.1585
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9308051784
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001944
+argumentofperigree:100.9625
+nickname:STARLINK-3639
+idesg:22017X  
+cosparid:2022-017X
+altkm:540.94448734708
+velkms:7.5929171827195
+velkmh:27335
+onumepoch:13981
+onumnow:210958.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:21:51+00:00
+nowjuliandate:2460552.6379542
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3639
+1 51789U 22017X   24242.51517064 -.00004845  00000+0 -28664-3 0  9996
+2 51789  53.2181 330.3720 0001944 100.9625 259.1585 15.08824181139816

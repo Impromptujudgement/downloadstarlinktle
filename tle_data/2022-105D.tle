@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53651
+launchyear:2022
+epoch:24242.42560344
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4388
+meananomly:283.8165
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1215588196
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6575
+eccentricity:0.0002113
+argumentofperigree:76.3294
+nickname:STARLINK-4388
+idesg:22105D  
+cosparid:2022-105D
+altkm:565.69206033418
+velkms:7.5785061767594
+velkmh:27283
+onumepoch:10990
+onumnow:165000.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:12:52+00:00
+nowjuliandate:2460552.6378351
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4388
+1 53651U 22105D   24242.42560344  .00000175  00000+0  18198-4 0  9995
+2 53651  97.6575 122.2092 0002113  76.3294 283.8165 15.01268876109903

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46327
+launchyear:2020
+epoch:24242.57979786
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1673
+meananomly:3.6746
+meanmotion:15.1356
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6903.4932425381
+altitudeatperigee:524
+altitudeatapogee:527
+inclination:53.0546
+eccentricity:0.0001939
+argumentofperigree:356.4232
+nickname:STARLINK-1673
+idesg:20062C  
+cosparid:2020-062C
+altkm:524.90232063438
+velkms:7.6026310109862
+velkmh:27369
+onumepoch:22036
+onumnow:333542.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:54:55+00:00
+nowjuliandate:2460553.0282431
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1673
+1 46327U 20062C   24242.57979786  .00080922  00000+0  44269-2 0  9991
+2 46327  53.0546 355.7295 0001939 356.4232   3.6746 15.13559855220366

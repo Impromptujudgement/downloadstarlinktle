@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53077
+launchyear:2022
+epoch:24242.44380138
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4315
+meananomly:272.2804
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1409991778
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6563
+eccentricity:0.0002493
+argumentofperigree:87.8706
+nickname:STARLINK-4315
+idesg:22077AL 
+cosparid:2022-077AL
+altkm:565.99312250665
+velkms:7.5781880839865
+velkmh:27281
+onumepoch:11789
+onumnow:176994.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:39:04+00:00
+nowjuliandate:2460552.6378845
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4315
+1 53077U 22077AL  24242.44380138  .00000197  00000+0  19926-4 0  9992
+2 53077  97.6563  62.2363 0002493  87.8706 272.2804 15.01262569117894

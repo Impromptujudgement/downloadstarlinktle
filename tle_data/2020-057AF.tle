@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46146
+launchyear:2020
+epoch:24242.40845613
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1608
+meananomly:276.7791
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3456554601
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001412
+argumentofperigree:83.3359
+nickname:STARLINK-1608
+idesg:20057AF 
+cosparid:2020-057AF
+altkm:547.97234630938
+velkms:7.5892690810307
+velkmh:27321
+onumepoch:22207
+onumnow:334535.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:48:11+00:00
+nowjuliandate:2460553.0282886
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1608
+1 46146U 20057AF  24242.40845613  .00001346  00000+0  10922-3 0  9990
+2 46146  53.0534 298.3515 0001412  83.3359 276.7791 15.06401621222073

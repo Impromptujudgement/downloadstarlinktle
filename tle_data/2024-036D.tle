@@ -1,0 +1,38 @@
+date:2024-08-28T07:35:20+00:00
+validtle:1
+satid:59001
+launchyear:2024
+epoch:24089.81276716
+epochday:89
+tleage:152
+tleclassification:U
+active:0
+name:STARLINK-31525
+meananomly:285.4249
+meanmotion:15.2978
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6854.6222280847
+altitudeatperigee:475
+altitudeatapogee:478
+inclination:53.1558
+eccentricity:0.0001851
+argumentofperigree:74.6956
+nickname:STARLINK-31525
+idesg:24036D  
+cosparid:2024-036D
+altkm:477.04702975594
+velkms:7.628608812285
+velkmh:27463
+onumepoch:665
+onumnow:12490.67
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-03-29T19:30:23+00:00
+nowjuliandate:2460550.8162086
+nowepochdate:24241.3162037037
+TLE:
+STARLINK-31525
+1 59001U 24036D   24089.81276716  .00154462  00000+0  51873-2 0  9998
+2 59001  53.1558 134.3329 0001851  74.6956 285.4249 15.29775386  6655

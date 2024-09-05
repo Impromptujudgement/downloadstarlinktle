@@ -1,0 +1,38 @@
+date:2024-08-28T03:04:10+00:00
+validtle:1
+satid:58873
+launchyear:2024
+epoch:24240.47136798
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31177
+meananomly:86.2029
+meanmotion:15.2593
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.128591467
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:42.9998
+eccentricity:0.0002033
+argumentofperigree:273.859
+nickname:STARLINK-31177
+idesg:24019W  
+cosparid:2024-019W
+altkm:487.67494512949
+velkms:7.6231758953016
+velkmh:27443
+onumepoch:3361
+onumnow:51296.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:18:46+00:00
+nowjuliandate:2460550.6279021
+nowepochdate:24241.1278935185
+TLE:
+STARLINK-31177
+1 58873U 24019W   24240.47136798  .00005092  00000+0  20423-3 0  9993
+2 58873  42.9998 162.2319 0002033 273.8590  86.2029 15.25931566 33613

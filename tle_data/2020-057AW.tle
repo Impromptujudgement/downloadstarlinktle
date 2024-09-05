@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46161
+launchyear:2020
+epoch:24242.41764817
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1600
+meananomly:288.7616
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3613506086
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:5.6E-5
+argumentofperigree:71.3434
+nickname:STARLINK-1600
+idesg:20057AW 
+cosparid:2020-057AW
+altkm:547.97861687704
+velkms:7.5892707915856
+velkmh:27321
+onumepoch:22360
+onumnow:336839.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:01:25+00:00
+nowjuliandate:2460553.0282852
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1600
+1 46161U 20057AW  24242.41764817  .00000954  00000+0  82930-4 0  9997
+2 46161  53.0534 278.3097 0000560  71.3434 288.7616 15.06396500223605

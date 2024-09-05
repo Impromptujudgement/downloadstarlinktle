@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53918
+launchyear:2022
+epoch:24241.86516466
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5012
+meananomly:272.5423
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8623155738
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001478
+argumentofperigree:87.5738
+nickname:STARLINK-5012
+idesg:22119AJ 
+cosparid:2022-119AJ
+altkm:540.57741418431
+velkms:7.5932824456748
+velkmh:27336
+onumepoch:10761
+onumnow:162385.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:45:50+00:00
+nowjuliandate:2460552.6378154
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5012
+1 53918U 22119AJ  24241.86516466  .00000072  00000+0  22594-4 0  9990
+2 53918  53.2164 298.2026 0001478  87.5738 272.5423 15.08846588107619

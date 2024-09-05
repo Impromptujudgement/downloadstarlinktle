@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52634
+launchyear:2022
+epoch:24241.77180138
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3974
+meananomly:268.1154
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8651276275
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001391
+argumentofperigree:91.9998
+nickname:STARLINK-3974
+idesg:22052AN 
+cosparid:2022-052AN
+altkm:540.65705868227
+velkms:7.593196594084
+velkmh:27336
+onumepoch:12676
+onumnow:191281.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:31:24+00:00
+nowjuliandate:2460552.6379096
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3974
+1 52634U 22052AN  24241.77180138  .00000707  00000+0  62520-4 0  9991
+2 52634  53.2151 253.7372 0001391  91.9998 268.1154 15.08845668126767

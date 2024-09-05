@@ -1,0 +1,38 @@
+date:2024-08-28T03:00:45+00:00
+validtle:1
+satid:58878
+launchyear:2024
+epoch:24239.74790724
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31300
+meananomly:313.6577
+meanmotion:15.3421
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.4206033642
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1607
+eccentricity:0.0001356
+argumentofperigree:46.4538
+nickname:STARLINK-31300
+idesg:24020C  
+cosparid:2024-020C
+altkm:463.54454870197
+velkms:7.6363138872622
+velkmh:27491
+onumepoch:3231
+onumnow:49591.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T17:56:59+00:00
+nowjuliandate:2460550.6255217
+nowepochdate:24241.1255208333
+TLE:
+STARLINK-31300
+1 58878U 24020C   24239.74790724  .00008519  00000+0  26458-3 0  9994
+2 58878  53.1607  45.2649 0001356  46.4538 313.6577 15.34205444 32318

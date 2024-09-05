@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50166
+launchyear:2021
+epoch:24241.7009896
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3305
+meananomly:273.6493
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.873145053
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001417
+argumentofperigree:86.4661
+nickname:STARLINK-3305
+idesg:21125L  
+cosparid:2021-125L
+altkm:540.57105014128
+velkms:7.5932953585157
+velkmh:27336
+onumepoch:15235
+onumnow:229891.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:49:26+00:00
+nowjuliandate:2460552.6379825
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3305
+1 50166U 21125L   24241.70098960  .00000811  00000+0  69059-4 0  9993
+2 50166  53.2151 233.9642 0001417  86.4661 273.6493 15.08843045152358

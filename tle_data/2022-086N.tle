@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53254
+launchyear:2022
+epoch:24242.09797388
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4134
+meananomly:256.7075
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8606833613
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001602
+argumentofperigree:103.4096
+nickname:STARLINK-4134
+idesg:22086N  
+cosparid:2022-086N
+altkm:540.87615379912
+velkms:7.5929537606253
+velkmh:27335
+onumepoch:11670
+onumnow:176098.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:21:05+00:00
+nowjuliandate:2460552.637864
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4134
+1 53254U 22086N   24242.09797388 -.00000466  00000+0 -11201-4 0  9998
+2 53254  53.2183 177.2543 0001602 103.4096 256.7075 15.08847122116709

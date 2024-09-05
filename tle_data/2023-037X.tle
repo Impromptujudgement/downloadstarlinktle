@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55935
+launchyear:2023
+epoch:24242.74584636
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5920
+meananomly:90.8739
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1914881291
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9982
+eccentricity:0.0003383
+argumentofperigree:269.2033
+nickname:STARLINK-5920
+idesg:23037X  
+cosparid:2023-037X
+altkm:574.51480469429
+velkms:7.5738231924642
+velkmh:27266
+onumepoch:8089
+onumnow:121205.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:54:01+00:00
+nowjuliandate:2460552.6377267
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5920
+1 55935U 23037X   24242.74584636  .00000151  00000+0  20445-4 0  9994
+2 55935  69.9982 248.7796 0003383 269.2033  90.8739 14.98331124 80894

@@ -1,0 +1,38 @@
+date:2024-08-29T05:47:29+00:00
+validtle:1
+satid:57223
+launchyear:2023
+epoch:24241.12276523
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5519
+meananomly:88.7971
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2124434994
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.000107
+argumentofperigree:271.2748
+nickname:STARLINK-5519
+idesg:23094F  
+cosparid:2023-094F
+altkm:558.83789457238
+velkms:7.5838568278099
+velkmh:27302
+onumepoch:6309
+onumnow:94811.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:56:47+00:00
+nowjuliandate:2460551.7413123
+nowepochdate:24242.2413078704
+TLE:
+STARLINK-5519
+1 57223U 23094F   24241.12276523  .00000958  00000+0  85950-4 0  9990
+2 57223  43.0011 185.7185 0001070 271.2748  88.7971 15.02538001 63097

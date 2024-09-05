@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:58+00:00
+validtle:1
+satid:47912
+launchyear:2021
+epoch:24241.7721241
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2372
+meananomly:268.9517
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3226783646
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001253
+argumentofperigree:91.1615
+nickname:STARLINK-2372
+idesg:21021BE 
+cosparid:2021-021BE
+altkm:548.08056987525
+velkms:7.5891379607838
+velkmh:27321
+onumepoch:19194
+onumnow:289160.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:31:52+00:00
+nowjuliandate:2460552.6381771
+nowepochdate:24243.1381712963
+TLE:
+STARLINK-2372
+1 47912U 21021BE  24241.77212410  .00002956  00000+0  21718-3 0  9999
+2 47912  53.0526 256.1985 0001253  91.1615 268.9517 15.06409118191943

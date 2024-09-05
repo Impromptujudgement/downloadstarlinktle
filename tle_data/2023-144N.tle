@@ -1,0 +1,38 @@
+date:2024-08-28T20:11:48+00:00
+validtle:1
+satid:57876
+launchyear:2023
+epoch:24240.8335514
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30429
+meananomly:81.7638
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1968627195
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0051
+eccentricity:0.0001113
+argumentofperigree:278.3078
+nickname:STARLINK-30429
+idesg:23144N  
+cosparid:2023-144N
+altkm:558.72774156364
+velkms:7.5839686995858
+velkmh:27302
+onumepoch:5354
+onumnow:80461.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:00:19+00:00
+nowjuliandate:2460551.3415303
+nowepochdate:24241.8415277778
+TLE:
+STARLINK-30429
+1 57876U 23144N   24240.83355140  .00001580  00000+0  13195-3 0  9993
+2 57876  43.0051  84.1874 0001113 278.3078  81.7638 15.02543063 53540

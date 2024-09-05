@@ -1,0 +1,38 @@
+date:2024-08-29T07:56:23+00:00
+validtle:1
+satid:56914
+launchyear:2023
+epoch:24241.63376076
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5961
+meananomly:96.8727
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1957731147
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0013
+eccentricity:0.0001074
+argumentofperigree:263.1993
+nickname:STARLINK-5961
+idesg:23083AQ 
+cosparid:2023-083AQ
+altkm:558.92596426534
+velkms:7.5837515104319
+velkmh:27302
+onumepoch:6707
+onumnow:100786.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:12:37+00:00
+nowjuliandate:2460551.8308272
+nowepochdate:24242.3308217593
+TLE:
+STARLINK-5961
+1 56914U 23083AQ  24241.63376076  .00001089  00000+0  95642-4 0  9999
+2 56914  43.0013 221.1524 0001074 263.1993  96.8727 15.02543417 67071

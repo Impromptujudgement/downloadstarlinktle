@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54762
+launchyear:2022
+epoch:24242.11818767
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5214
+meananomly:267.6589
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8650114774
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001431
+argumentofperigree:92.4567
+nickname:STARLINK-5214
+idesg:22175E  
+cosparid:2022-175E
+altkm:540.66595014065
+velkms:7.5931867745809
+velkmh:27335
+onumepoch:9358
+onumnow:141213.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:50:11+00:00
+nowjuliandate:2460552.6377871
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5214
+1 54762U 22175E   24242.11818767  .00001564  00000+0  11633-3 0  9996
+2 54762  53.2170  27.2299 0001431  92.4567 267.6589 15.08845706 93589

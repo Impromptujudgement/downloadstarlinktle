@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52642
+launchyear:2022
+epoch:24242.72584473
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3971
+meananomly:269.1647
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.896390522
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.214
+eccentricity:0.0001287
+argumentofperigree:90.9492
+nickname:STARLINK-3971
+idesg:22052AW 
+cosparid:2022-052AW
+altkm:540.66952704392
+velkms:7.5932000318963
+velkmh:27336
+onumepoch:12742
+onumnow:192262.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:25:13+00:00
+nowjuliandate:2460552.6379087
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3971
+1 52642U 22052AW  24242.72584473  .00001595  00000+0  11831-3 0  9990
+2 52642  53.2140 239.4301 0001287  90.9492 269.1647 15.08835440127428

@@ -1,0 +1,38 @@
+date:2024-08-28T06:34:42+00:00
+validtle:1
+satid:59170
+launchyear:2024
+epoch:24240.66059757
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31340
+meananomly:116.7598
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1898937439
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0016
+eccentricity:0.0001156
+argumentofperigree:243.314
+nickname:STARLINK-31340
+idesg:24044U  
+cosparid:2024-044U
+altkm:444.18226396841
+velkms:7.647233885484
+velkmh:27530
+onumepoch:2824
+onumnow:43518.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:51:16+00:00
+nowjuliandate:2460550.7740988
+nowepochdate:24241.2740972222
+TLE:
+STARLINK-31340
+1 59170U 24044U   24240.66059757  .00001560  00000+0  44612-4 0  9995
+2 59170  43.0016   9.0848 0001156 243.3140 116.7598 15.40697049 28245

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49131
+launchyear:2021
+epoch:24241.84631997
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3096
+meananomly:89.2979
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1824892173
+altitudeatperigee:569
+altitudeatapogee:575
+inclination:69.9985
+eccentricity:0.0003807
+argumentofperigree:270.7744
+nickname:STARLINK-3096
+idesg:21082B  
+cosparid:2021-082B
+altkm:574.43775336281
+velkms:7.5739022520091
+velkmh:27266
+onumepoch:16340
+onumnow:244847.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:18:42+00:00
+nowjuliandate:2460552.6380039
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3096
+1 49131U 21082B   24241.84631997  .00000615  00000+0  59312-4 0  9996
+2 49131  69.9985 220.9669 0003807 270.7744  89.2979 14.98334034163406

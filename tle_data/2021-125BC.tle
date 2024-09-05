@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50206
+launchyear:2021
+epoch:24242.64398927
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3258
+meananomly:268.6884
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8852797442
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.000216
+argumentofperigree:91.4355
+nickname:STARLINK-3258
+idesg:21125BC 
+cosparid:2021-125BC
+altkm:540.68003036558
+velkms:7.5931824236386
+velkmh:27335
+onumepoch:15056
+onumnow:227176.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:27:21+00:00
+nowjuliandate:2460552.6379851
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3258
+1 50206U 21125BC  24242.64398927  .00000198  00000+0  30577-4 0  9999
+2 50206  53.2157 219.6905 0002160  91.4355 268.6884 15.08839075150561

@@ -1,0 +1,38 @@
+date:2024-08-29T09:22:44+00:00
+validtle:1
+satid:56521
+launchyear:2023
+epoch:24241.63398987
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6333
+meananomly:78.4728
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2090330802
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001721
+argumentofperigree:281.5922
+nickname:STARLINK-6333
+idesg:23065U  
+cosparid:2023-065U
+altkm:558.61199667349
+velkms:7.5841018079437
+velkmh:27303
+onumepoch:7190
+onumnow:108038.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:12:57+00:00
+nowjuliandate:2460551.8907957
+nowepochdate:24242..390787037
+TLE:
+STARLINK-6333
+1 56521U 23065U   24241.63398987  .00000412  00000+0  45569-4 0  9990
+2 56521  43.0045   2.2308 0001721 281.5922  78.4728 15.02539109 71900

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49436
+launchyear:2021
+epoch:24242.55748043
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3049
+meananomly:266.4432
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8773845474
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001355
+argumentofperigree:93.6716
+nickname:STARLINK-3049
+idesg:21104AE 
+cosparid:2021-104AE
+altkm:540.69589489151
+velkms:7.5931606926742
+velkmh:27335
+onumepoch:15587
+onumnow:235191.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:22:46+00:00
+nowjuliandate:2460552.638
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3049
+1 49436U 21104AE  24242.55748043  .00000373  00000+0  41545-4 0  9999
+2 49436  53.2159 190.1881 0001355  93.6716 266.4432 15.08841658155876

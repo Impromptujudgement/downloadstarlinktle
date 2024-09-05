@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48585
+launchyear:2021
+epoch:24242.36744
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2240
+meananomly:274.2890
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3164782286
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001236
+argumentofperigree:85.824
+nickname:STARLINK-2240
+idesg:21041AJ 
+cosparid:2021-041AJ
+altkm:547.99467663863
+velkms:7.5892286672901
+velkmh:27321
+onumepoch:18145
+onumnow:273349.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:49:07+00:00
+nowjuliandate:2460552.6380202
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2240
+1 48585U 21041AJ  24242.36744000  .00014361  00000+0  98074-3 0  9991
+2 48585  53.0545 123.5345 0001236  85.8240 274.2890 15.06411141181451

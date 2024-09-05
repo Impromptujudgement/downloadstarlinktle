@@ -1,0 +1,38 @@
+date:2024-08-28T03:32:21+00:00
+validtle:1
+satid:58827
+launchyear:2024
+epoch:24240.42366096
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31271
+meananomly:273.5587
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3457185532
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1592
+eccentricity:0.0001092
+argumentofperigree:86.554
+nickname:STARLINK-31271
+idesg:24017B  
+cosparid:2024-017B
+altkm:464.06358382237
+velkms:7.6356930710731
+velkmh:27488
+onumepoch:3429
+onumnow:52619.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:10:04+00:00
+nowjuliandate:2460550.6474695
+nowepochdate:24241.1474652778
+TLE:
+STARLINK-31271
+1 58827U 24017B   24240.42366096 -.00001658  00000+0 -38171-4 0  9997
+2 58827  53.1592 291.7344 0001092  86.5540 273.5587 15.34230634 34293

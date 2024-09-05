@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55337
+launchyear:2023
+epoch:24242.23731303
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5667
+meananomly:92.8291
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1973675083
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0007
+eccentricity:0.0001261
+argumentofperigree:267.2407
+nickname:STARLINK-5667
+idesg:23013G  
+cosparid:2023-013G
+altkm:558.88154938305
+velkms:7.5838009101797
+velkmh:27302
+onumepoch:8843
+onumnow:132883.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:41:44+00:00
+nowjuliandate:2460552.6377676
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5667
+1 55337U 23013G   24242.23731303  .00001682  00000+0  13954-3 0  9999
+2 55337  43.0007  76.3615 0001261 267.2407  92.8291 15.02542899 88434

@@ -1,0 +1,38 @@
+date:2024-08-28T23:14:47+00:00
+validtle:1
+satid:57433
+launchyear:2023
+epoch:24241.54672856
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30105
+meananomly:89.0300
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1896841524
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0062
+eccentricity:0.0002406
+argumentofperigree:271.0281
+nickname:STARLINK-30105
+idesg:23105D  
+cosparid:2023-105D
+altkm:443.80006857672
+velkms:7.6476619814673
+velkmh:27532
+onumepoch:6269
+onumnow:96593.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:07:17+00:00
+nowjuliandate:2460551.4686054
+nowepochdate:24242..968599537
+TLE:
+STARLINK-30105
+1 57433U 23105D   24241.54672856  .00002893  00000+0  76506-4 0  9998
+2 57433  43.0062 326.4006 0002406 271.0281  89.0300 15.40697120 62691

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:59+00:00
+validtle:1
+satid:47909
+launchyear:2021
+epoch:24242.20801245
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2369
+meananomly:264.7329
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3837426302
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001573
+argumentofperigree:95.3839
+nickname:STARLINK-2369
+idesg:21021BB 
+cosparid:2021-021BB
+altkm:548.2258332081
+velkms:7.5890122121728
+velkmh:27320
+onumepoch:19169
+onumnow:288773.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:59:32+00:00
+nowjuliandate:2460552.6381851
+nowepochdate:24243.1381828704
+TLE:
+STARLINK-2369
+1 47909U 21021BB  24242.20801245 -.00000730  00000+0 -30093-4 0  9991
+2 47909  53.0528 254.2524 0001573  95.3839 264.7329 15.06389194191696

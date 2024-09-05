@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:57+00:00
+validtle:1
+satid:45098
+launchyear:2020
+epoch:24243.19629961
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1184
+meananomly:266.6893
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3195553086
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001811
+argumentofperigree:93.4303
+nickname:STARLINK-1184
+idesg:20006BG 
+cosparid:2020-006BG
+altkm:548.13427347796
+velkms:7.5890774223311
+velkmh:27321
+onumepoch:25169
+onumnow:379146.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:42:40+00:00
+nowjuliandate:2460553.0284377
+nowepochdate:24243.09.5284375
+TLE:
+STARLINK-1184
+1 45098U 20006BG  24243.19629961  .00001219  00000+0  10067-3 0  9991
+2 45098  53.0541 224.8141 0001811  93.4303 266.6893 15.06410137251692

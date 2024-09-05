@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47403
+launchyear:2021
+epoch:24242.11217245
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2127
+meananomly:270.2522
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2794064247
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0552
+eccentricity:0.0002873
+argumentofperigree:89.8796
+nickname:STARLINK-2127
+idesg:21005BG 
+cosparid:2021-005BG
+altkm:548.01340736632
+velkms:7.5891878813985
+velkmh:27321
+onumepoch:20003
+onumnow:301345.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:41:32+00:00
+nowjuliandate:2460552.6395721
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2127
+1 47403U 21005BG  24242.11217245  .00017309  00000+0  11773-2 0  9993
+2 47403  53.0552  14.6810 0002873  89.8796 270.2522 15.06423237200035

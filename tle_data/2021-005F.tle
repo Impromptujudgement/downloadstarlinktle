@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47354
+launchyear:2021
+epoch:24242.63795906
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2046
+meananomly:38.6623
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3710448054
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0764
+eccentricity:3.33E-5
+argumentofperigree:321.4342
+nickname:STARLINK-2046
+idesg:21005F  
+cosparid:2021-005F
+altkm:547.93541209009
+velkms:7.5893234260121
+velkmh:27322
+onumepoch:20022
+onumnow:301617.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:18:40+00:00
+nowjuliandate:2460552.6395622
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2046
+1 47354U 21005F   24242.63795906  .00008144  00000+0  56507-3 0  9992
+2 47354  53.0764   7.8656 0000333 321.4342  38.6623 15.06393337200224

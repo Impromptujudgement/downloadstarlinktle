@@ -1,0 +1,38 @@
+date:2024-08-29T08:31:20+00:00
+validtle:1
+satid:56781
+launchyear:2023
+epoch:24241.54486697
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5989
+meananomly:91.8257
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1722410075
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.0003209
+argumentofperigree:268.2534
+nickname:STARLINK-5989
+idesg:23078Q  
+cosparid:2023-078Q
+altkm:574.53076161571
+velkms:7.5737953326868
+velkmh:27266
+onumepoch:6907
+onumnow:103502.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:04:37+00:00
+nowjuliandate:2460551.8551032
+nowepochdate:24242.3550925926
+TLE:
+STARLINK-5989
+1 56781U 23078Q   24241.54486697  .00004058  00000+0  34764-3 0  9992
+2 56781  69.9991 311.8143 0003209 268.2534  91.8257 14.98337348 69071

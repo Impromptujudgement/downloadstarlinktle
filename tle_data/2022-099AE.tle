@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53493
+launchyear:2022
+epoch:24242.20650331
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4361
+meananomly:271.5369
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1066249442
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6545
+eccentricity:0.0002282
+argumentofperigree:88.6116
+nickname:STARLINK-4361
+idesg:22099AE 
+cosparid:2022-099AE
+altkm:565.98513505548
+velkms:7.578178058169
+velkmh:27281
+onumepoch:11258
+onumnow:169027.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:57:22+00:00
+nowjuliandate:2460552.6378557
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4361
+1 53493U 22099AE  24242.20650331  .00003745  00000+0  29593-3 0  9999
+2 53493  97.6545   1.9972 0002282  88.6116 271.5369 15.01273721112583

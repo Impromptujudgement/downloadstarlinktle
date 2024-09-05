@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46171
+launchyear:2020
+epoch:24242.98897264
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1633
+meananomly:272.1570
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3779530524
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001374
+argumentofperigree:87.9576
+nickname:STARLINK-1633
+idesg:20057BG 
+cosparid:2020-057BG
+altkm:548.08425356078
+velkms:7.5891641438372
+velkmh:27321
+onumepoch:22310
+onumnow:336076.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:44:07+00:00
+nowjuliandate:2460553.0282848
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1633
+1 46171U 20057BG  24242.98897264  .00008860  00000+0  61312-3 0  9997
+2 46171  53.0534 275.7440 0001374  87.9576 272.1570 15.06391083223105

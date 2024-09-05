@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:44+00:00
+validtle:1
+satid:44764
+launchyear:2019
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1059
+meananomly:156.5470
+meanmotion:15.5334
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6785.1158496746
+altitudeatperigee:404
+altitudeatapogee:410
+inclination:53.0742
+eccentricity:0.0004671
+argumentofperigree:111.7205
+nickname:STARLINK-1059
+idesg:19074BD 
+cosparid:2019-074BD
+altkm:428.36409851684
+velkms:7.6525538222489
+velkmh:27549
+onumepoch:577
+onumnow:8971.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0296805
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1059
+1 44764U 19074BD  24243.00001157  .00203404  00000+0  30919-2 0  9991
+2 44764  53.0742  93.0801 0004671 111.7205 156.5470 15.53341894  5774

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:12+00:00
+validtle:1
+satid:46767
+launchyear:2020
+epoch:24242.48769377
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1917
+meananomly:249.2851
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3559411205
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0558
+eccentricity:0.0001082
+argumentofperigree:110.8254
+nickname:STARLINK-1917
+idesg:20074AE 
+cosparid:2020-074AE
+altkm:548.3632946415
+velkms:7.5888464307641
+velkmh:27320
+onumepoch:21249
+onumnow:320104.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:42:17+00:00
+nowjuliandate:2460552.6397269
+nowepochdate:24243.1397222222
+TLE:
+STARLINK-1917
+1 46767U 20074AE  24242.48769377 -.00000012  00000+0  18114-4 0  9990
+2 46767  53.0558 317.9981 0001082 110.8254 249.2851 15.06398265212492

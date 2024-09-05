@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56033
+launchyear:2023
+epoch:24242.14283314
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5784
+meananomly:88.3409
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2008948766
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0006
+eccentricity:9.03E-5
+argumentofperigree:271.733
+nickname:STARLINK-5784
+idesg:23042AZ 
+cosparid:2023-042AZ
+altkm:558.8237062009
+velkms:7.5838660366081
+velkmh:27302
+onumepoch:7953
+onumnow:119512.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:25:41+00:00
+nowjuliandate:2460552.6377233
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5784
+1 56033U 23042AZ  24242.14283314  .00001365  00000+0  11608-3 0  9991
+2 56033  43.0006 192.4072 0000903 271.7330  88.3409 15.02541753 79531

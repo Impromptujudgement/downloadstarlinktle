@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45753
+launchyear:2020
+epoch:24243.19168713
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1476
+meananomly:267.3363
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.263258156
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001409
+argumentofperigree:92.7787
+nickname:STARLINK-1476
+idesg:20038Z  
+cosparid:2020-038Z
+altkm:548.05059031427
+velkms:7.5891383179635
+velkmh:27321
+onumepoch:23371
+onumnow:352072.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:36:02+00:00
+nowjuliandate:2460553.0282996
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1476
+1 45753U 20038Z   24243.19168713  .00018128  00000+0  12318-2 0  9994
+2 45753  53.0520 194.8330 0001409  92.7787 267.3363 15.06428506233716

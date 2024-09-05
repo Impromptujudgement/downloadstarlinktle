@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51141
+launchyear:2022
+epoch:24242.42408282
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3179
+meananomly:279.9694
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8818013311
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.000145
+argumentofperigree:80.1462
+nickname:STARLINK-3179
+idesg:22005AP 
+cosparid:2022-005AP
+altkm:540.46845179599
+velkms:7.5934126776084
+velkmh:27336
+onumepoch:14572
+onumnow:219876.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:10:41+00:00
+nowjuliandate:2460552.6379742
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3179
+1 51141U 22005AP  24242.42408282  .00000475  00000+0  47911-4 0  9996
+2 51141  53.2152 280.7818 0001450  80.1462 279.9694 15.08840213145724

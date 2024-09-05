@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:26+00:00
+validtle:1
+satid:44917
+launchyear:2020
+epoch:24242.5383724
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1098
+meananomly:274.0610
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3999528995
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0549
+eccentricity:0.0001529
+argumentofperigree:86.0554
+nickname:STARLINK-1098
+idesg:20001D  
+cosparid:2020-001D
+altkm:548.06726086297
+velkms:7.589194786396
+velkmh:27321
+onumepoch:25587
+onumnow:385453.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:55:15+00:00
+nowjuliandate:2460553.0294768
+nowepochdate:24243.5294675926
+TLE:
+STARLINK-1098
+1 44917U 20001D   24242.53837240  .00000597  00000+0  59024-4 0  9998
+2 44917  53.0549 327.7664 0001529  86.0554 274.0610 15.06383905255870

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:56+00:00
+validtle:1
+satid:45100
+launchyear:2020
+epoch:24243.19261157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1193
+meananomly:271.8943
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.336387365
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001342
+argumentofperigree:88.22
+nickname:STARLINK-1193
+idesg:20006BJ 
+cosparid:2020-006BJ
+altkm:548.04785859536
+velkms:7.5891812906918
+velkmh:27321
+onumepoch:25349
+onumnow:381863.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:37:22+00:00
+nowjuliandate:2460553.0284342
+nowepochdate:24243.5284259259
+TLE:
+STARLINK-1193
+1 45100U 20006BJ  24243.19261157  .00001505  00000+0  11987-3 0  9994
+2 45100  53.0542 224.8292 0001342  88.2200 271.8943 15.06404645253492

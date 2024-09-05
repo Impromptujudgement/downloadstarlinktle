@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52118
+launchyear:2022
+epoch:24241.7966398
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3743
+meananomly:267.1153
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8632142081
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2131
+eccentricity:0.0001631
+argumentofperigree:93.0026
+nickname:STARLINK-3743
+idesg:22029AG 
+cosparid:2022-029AG
+altkm:540.68012285351
+velkms:7.5931702387383
+velkmh:27335
+onumepoch:13656
+onumnow:206068.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:07:10+00:00
+nowjuliandate:2460552.6379415
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3743
+1 52118U 22029AG  24241.79663980  .00000045  00000+0  20944-4 0  9994
+2 52118  53.2131  63.5969 0001631  93.0026 267.1153 15.08846294136566

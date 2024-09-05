@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46792
+launchyear:2020
+epoch:24242.43654886
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1934
+meananomly:289.5146
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3696288315
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:0.0001228
+argumentofperigree:70.5976
+nickname:STARLINK-1934
+idesg:20074BF 
+cosparid:2020-074BF
+altkm:547.82783203641
+velkms:7.5894405046516
+velkmh:27322
+onumepoch:21249
+onumnow:320104.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:28:38+00:00
+nowjuliandate:2460552.6397059
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1934
+1 46792U 20074BF  24242.43654886 -.00003477  00000+0 -21467-3 0  9994
+2 46792  53.0554 293.2269 0001228  70.5976 289.5146 15.06393799212497

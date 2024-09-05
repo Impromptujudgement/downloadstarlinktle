@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52110
+launchyear:2022
+epoch:24242.7497749
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3687
+meananomly:272.5995
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9071681719
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001901
+argumentofperigree:87.5215
+nickname:STARLINK-3687
+idesg:22029Y  
+cosparid:2022-029Y
+altkm:540.6081044544
+velkms:7.5932733307143
+velkmh:27336
+onumepoch:13670
+onumnow:206263.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:59:41+00:00
+nowjuliandate:2460552.6379363
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3687
+1 52110U 22029Y   24242.74977490 -.00000588  00000+0 -18819-4 0  9998
+2 52110  53.2168  59.3202 0001901  87.5215 272.5995 15.08831914136702

@@ -1,0 +1,38 @@
+date:2024-08-28T18:12:44+00:00
+validtle:1
+satid:58082
+launchyear:2023
+epoch:24240.72243212
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30610
+meananomly:89.6745
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2071616606
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:9.87E-5
+argumentofperigree:270.3984
+nickname:STARLINK-30610
+idesg:23160H  
+cosparid:2023-160H
+altkm:558.84433159958
+velkms:7.5838469154786
+velkmh:27302
+onumepoch:4883
+onumnow:73384.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:20:18+00:00
+nowjuliandate:2460551.2588457
+nowepochdate:24241.7588425926
+TLE:
+STARLINK-30610
+1 58082U 23160H   24240.72243212  .00000676  00000+0  65082-4 0  9993
+2 58082  43.0015 237.6235 0000987 270.3984  89.6745 15.02539717 48835

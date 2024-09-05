@@ -1,0 +1,38 @@
+date:2024-08-29T09:48:38+00:00
+validtle:1
+satid:56540
+launchyear:2023
+epoch:24242.08365684
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-6136
+meananomly:100.1248
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2126220232
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0033
+eccentricity:8.89E-5
+argumentofperigree:259.9494
+nickname:STARLINK-6136
+idesg:23065AP 
+cosparid:2023-065AP
+altkm:558.96226356022
+velkms:7.5837210313414
+velkmh:27301
+onumepoch:7181
+onumnow:107902.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:00:28+00:00
+nowjuliandate:2460551.9087802
+nowepochdate:24242.4087731481
+TLE:
+STARLINK-6136
+1 56540U 23065AP  24242.08365684  .00003918  00000+0  30496-3 0  9995
+2 56540  43.0033  13.4676 0000889 259.9494 100.1248 15.02537943 71811

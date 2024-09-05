@@ -1,0 +1,38 @@
+date:2024-08-29T08:55:10+00:00
+validtle:1
+satid:56800
+launchyear:2023
+epoch:24241.94124089
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6036
+meananomly:84.7982
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1773249065
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0002799
+argumentofperigree:275.2858
+nickname:STARLINK-6036
+idesg:23078AK 
+cosparid:2023-078AK
+altkm:574.2881996901
+velkms:7.5740624022329
+velkmh:27267
+onumepoch:6913
+onumnow:103586.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:35:23+00:00
+nowjuliandate:2460551.8716528
+nowepochdate:24242.3716435185
+TLE:
+STARLINK-6036
+1 56800U 23078AK  24241.94124089  .00001790  00000+0  15774-3 0  9992
+2 56800  69.9992 310.7906 0002799 275.2858  84.7982 14.98335704 69136

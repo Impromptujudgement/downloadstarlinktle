@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56010
+launchyear:2023
+epoch:24241.59632528
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5968
+meananomly:96.7316
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2048439338
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0024
+eccentricity:0.0001161
+argumentofperigree:263.3394
+nickname:STARLINK-5968
+idesg:23042AA 
+cosparid:2023-042AA
+altkm:558.94042275069
+velkms:7.5837406564145
+velkmh:27301
+onumepoch:7930
+onumnow:119174.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:18:43+00:00
+nowjuliandate:2460552.6377268
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5968
+1 56010U 23042AA  24241.59632528  .00000943  00000+0  84859-4 0  9999
+2 56010  43.0024 208.2036 0001161 263.3394  96.7316 15.02540470 79306

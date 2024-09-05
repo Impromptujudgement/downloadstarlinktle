@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48101
+launchyear:2021
+epoch:24242.01175873
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2436
+meananomly:267.4788
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3253907369
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.0002225
+argumentofperigree:92.6455
+nickname:STARLINK-2436
+idesg:21027K  
+cosparid:2021-027K
+altkm:548.13551859307
+velkms:7.5890792486337
+velkmh:27321
+onumepoch:18810
+onumnow:283372.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:16:56+00:00
+nowjuliandate:2460552.6380476
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2436
+1 48101U 21027K   24242.01175873  .00034207  00000+0  23037-2 0  9994
+2 48101  53.0535 145.3349 0002225  92.6455 267.4788 15.06408233188100

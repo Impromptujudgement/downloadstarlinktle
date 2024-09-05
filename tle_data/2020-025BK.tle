@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45588
+launchyear:2020
+epoch:24242.77067188
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1360
+meananomly:255.7914
+meanmotion:15.0562
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6927.7480292745
+altitudeatperigee:548
+altitudeatapogee:552
+inclination:53.0545
+eccentricity:0.0002774
+argumentofperigree:104.3383
+nickname:STARLINK-1360
+idesg:20025BK 
+cosparid:2020-025BK
+altkm:550.96201743865
+velkms:7.5873079303338
+velkmh:27314
+onumepoch:24156
+onumnow:363708.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:29:46+00:00
+nowjuliandate:2460553.028334
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1360
+1 45588U 20025BK  24242.77067188  .00020263  00000+0  14044-2 0  9994
+2 45588  53.0545  56.6633 0002774 104.3383 255.7914 15.05618114241568

@@ -1,0 +1,38 @@
+date:2024-08-27T18:35:58+00:00
+validtle:1
+satid:59880
+launchyear:2024
+epoch:24238.41037838
+epochday:238
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31919
+meananomly:98.6625
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1907084941
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0013
+eccentricity:0.0001489
+argumentofperigree:261.4063
+nickname:STARLINK-31919
+idesg:24098Y  
+cosparid:2024-098Y
+altkm:443.98105445771
+velkms:7.6474597729801
+velkmh:27531
+onumepoch:1568
+onumnow:24194.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-25T09:50:57+00:00
+nowjuliandate:2460550.2749812
+nowepochdate:24240.7749768519
+TLE:
+STARLINK-31919
+1 59880U 24098Y   24238.41037838  .00001279  00000+0  37879-4 0  9992
+2 59880  43.0013 235.6748 0001489 261.4063  98.6625 15.40696773 15686

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49736
+launchyear:2021
+epoch:24241.98890308
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3148
+meananomly:282.1669
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8315390549
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.00013
+argumentofperigree:77.9468
+nickname:STARLINK-3148
+idesg:21115N  
+cosparid:2021-115N
+altkm:540.40231573971
+velkms:7.5934577262305
+velkmh:27336
+onumepoch:15245
+onumnow:230042.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:44:01+00:00
+nowjuliandate:2460552.6379893
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3148
+1 49736U 21115N   24241.98890308  .00006531  00000+0  42786-3 0  9991
+2 49736  53.2154 132.6229 0001300  77.9468 282.1669 15.08856657152453

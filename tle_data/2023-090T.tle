@@ -1,0 +1,38 @@
+date:2024-08-29T06:13:58+00:00
+validtle:1
+satid:57118
+launchyear:2023
+epoch:24241.80550608
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6151
+meananomly:90.8607
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2087252808
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0035
+eccentricity:0.000138
+argumentofperigree:269.2077
+nickname:STARLINK-6151
+idesg:23090T  
+cosparid:2023-090T
+altkm:558.86444835135
+velkms:7.5838257871176
+velkmh:27302
+onumepoch:6649
+onumnow:99910.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:19:56+00:00
+nowjuliandate:2460551.7597033
+nowepochdate:24242.2596990741
+TLE:
+STARLINK-6151
+1 57118U 23090T   24241.80550608  .00000418  00000+0  45980-4 0  9993
+2 57118  43.0035  65.9939 0001380 269.2077  90.8607 15.02539209 66496

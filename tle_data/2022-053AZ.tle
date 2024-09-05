@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52703
+launchyear:2022
+epoch:24242.79438408
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4020
+meananomly:349.5964
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8585498715
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2177
+eccentricity:4.39E-5
+argumentofperigree:10.5038
+nickname:STARLINK-4020
+idesg:22053AZ 
+cosparid:2022-053AZ
+altkm:540.32028156773
+velkms:7.5935625331878
+velkmh:27337
+onumepoch:12681
+onumnow:191342.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:03:55+00:00
+nowjuliandate:2460552.6379019
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4020
+1 52703U 22053AZ  24242.79438408  .00011309  00000+0  72731-3 0  9992
+2 52703  53.2177 114.1379 0000439  10.5038 349.5964 15.08847820126814

@@ -1,0 +1,38 @@
+date:2024-08-27T16:42:05+00:00
+validtle:1
+satid:60125
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11160
+meananomly:35.7172
+meanmotion:15.6972
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8413621031
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1589
+eccentricity:9.97E-5
+argumentofperigree:64.0921
+nickname:STARLINK-11160
+idesg:24118N  
+cosparid:2024-118N
+altkm:365.46367037678
+velkms:7.6968593803695
+velkmh:27709
+onumepoch:1118
+onumnow:17561.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1958943
+nowepochdate:24240.6958912037
+TLE:
+STARLINK-11160 [DTC]
+1 60125U 24118N   24239.91667824 -.00000974  00000+0 -31829-5 0  9992
+2 60125  53.1589 100.6132 0000997  64.0921  35.7172 15.69718526 11183

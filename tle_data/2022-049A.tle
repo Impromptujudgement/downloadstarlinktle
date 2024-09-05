@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52451
+launchyear:2022
+epoch:24242.16925444
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3870
+meananomly:275.5912
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8992362332
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001325
+argumentofperigree:84.5231
+nickname:STARLINK-3870
+idesg:22049A  
+cosparid:2022-049A
+altkm:540.57040996977
+velkms:7.5933103481214
+velkmh:27336
+onumepoch:12810
+onumnow:193296.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:03:44+00:00
+nowjuliandate:2460552.6379238
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3870
+1 52451U 22049A   24242.16925444 -.00000245  00000+0  26666-5 0  9995
+2 52451  53.2170  51.9274 0001325  84.5231 275.5912 15.08834509128105

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46338
+launchyear:2020
+epoch:24242.04168014
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1752
+meananomly:276.5133
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3527230165
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001281
+argumentofperigree:83.6002
+nickname:STARLINK-1752
+idesg:20062P  
+cosparid:2020-062P
+altkm:547.99414456458
+velkms:7.5892490645879
+velkmh:27321
+onumepoch:22025
+onumnow:331806.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:00:01+00:00
+nowjuliandate:2460553.0282427
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1752
+1 46338U 20062P   24242.04168014  .00011351  00000+0  77971-3 0  9996
+2 46338  53.0530 359.9953 0001281  83.6002 276.5133 15.06399315220256

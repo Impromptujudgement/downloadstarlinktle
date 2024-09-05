@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52606
+launchyear:2022
+epoch:24242.77184019
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3928
+meananomly:269.6805
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8744899532
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001312
+argumentofperigree:90.4337
+nickname:STARLINK-3928
+idesg:22052J  
+cosparid:2022-052J
+altkm:540.63986364161
+velkms:7.593220588196
+velkmh:27336
+onumepoch:12715
+onumnow:191854.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:31:27+00:00
+nowjuliandate:2460552.6379065
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3928
+1 52606U 22052J   24242.77184019  .00001005  00000+0  81214-4 0  9996
+2 52606  53.2154 259.2188 0001312  90.4337 269.6805 15.08842605127150

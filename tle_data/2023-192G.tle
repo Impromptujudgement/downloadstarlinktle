@@ -1,0 +1,38 @@
+date:2024-08-28T08:14:10+00:00
+validtle:1
+satid:58537
+launchyear:2023
+epoch:24240.95406238
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31041
+meananomly:285.8711
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.35570704
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1591
+eccentricity:0.0001022
+argumentofperigree:74.2404
+nickname:STARLINK-31041
+idesg:23192G  
+cosparid:2023-192G
+altkm:463.9287074974
+velkms:7.6358491195279
+velkmh:27489
+onumepoch:4043
+onumnow:62034.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:53:51+00:00
+nowjuliandate:2460550.8431757
+nowepochdate:24241.3431712963
+TLE:
+STARLINK-31041
+1 58537U 23192G   24240.95406238  .00001736  00000+0  62811-4 0  9992
+2 58537  53.1591 138.5019 0001022  74.2404 285.8711 15.34227274 40437

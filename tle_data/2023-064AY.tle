@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56494
+launchyear:2023
+epoch:24242.78147916
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5530
+meananomly:84.8458
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1972431186
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.000278
+argumentofperigree:275.2384
+nickname:STARLINK-5530
+idesg:23064AY 
+cosparid:2023-064AY
+altkm:574.31090840173
+velkms:7.5740484957477
+velkmh:27267
+onumepoch:7317
+onumnow:109638.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:45:20+00:00
+nowjuliandate:2460552.6376962
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5530
+1 56494U 23064AY  24242.78147916 -.00000366  00000+0 -22851-4 0  9998
+2 56494  69.9993  68.5947 0002780 275.2384  84.8458 14.98329263 73174

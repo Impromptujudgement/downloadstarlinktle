@@ -1,0 +1,38 @@
+date:2024-08-29T08:03:52+00:00
+validtle:1
+satid:56905
+launchyear:2023
+epoch:24241.67038735
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6183
+meananomly:90.9489
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2016643729
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001235
+argumentofperigree:269.1212
+nickname:STARLINK-6183
+idesg:23083AF 
+cosparid:2023-083AF
+altkm:558.85697757207
+velkms:7.5838301013918
+velkmh:27302
+onumepoch:6787
+onumnow:101987.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:05:21+00:00
+nowjuliandate:2460551.8360272
+nowepochdate:24242.3360185185
+TLE:
+STARLINK-6183
+1 56905U 23083AF  24241.67038735  .00001383  00000+0  11738-3 0  9990
+2 56905  43.0018 221.4325 0001235 269.1212  90.9489 15.02541503 67879

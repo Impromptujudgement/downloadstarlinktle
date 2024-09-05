@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:57432
+launchyear:2023
+epoch:24242.19028433
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30188
+meananomly:87.4558
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2081343061
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001368
+argumentofperigree:272.6128
+nickname:STARLINK-30188
+idesg:23105C  
+cosparid:2023-105C
+altkm:558.80746140077
+velkms:7.5838877337297
+velkmh:27302
+onumepoch:6166
+onumnow:92660.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:34:01+00:00
+nowjuliandate:2460552.637693
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-30188
+1 57432U 23105C   24242.19028433  .00000305  00000+0  37678-4 0  9998
+2 57432  43.0045  51.3352 0001368 272.6128  87.4558 15.02539401 61660

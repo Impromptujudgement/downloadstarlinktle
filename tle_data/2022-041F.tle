@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52266
+launchyear:2022
+epoch:24241.89324655
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3739
+meananomly:264.6851
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9042521501
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001507
+argumentofperigree:95.4313
+nickname:STARLINK-3739
+idesg:22041F  
+cosparid:2022-041F
+altkm:540.76119261184
+velkms:7.5931037573702
+velkmh:27335
+onumepoch:13015
+onumnow:196393.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:26:17+00:00
+nowjuliandate:2460552.6379323
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3739
+1 52266U 22041F   24241.89324655 -.00001819  00000+0 -96243-4 0  9993
+2 52266  53.2157  93.1687 0001507  95.4313 264.6851 15.08832868130159

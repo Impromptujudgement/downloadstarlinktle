@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47733
+launchyear:2021
+epoch:24242.0762483
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2143
+meananomly:260.1878
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3581049145
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001666
+argumentofperigree:99.9299
+nickname:STARLINK-2143
+idesg:21017M  
+cosparid:2021-017M
+altkm:548.2968419773
+velkms:7.5889204089058
+velkmh:27320
+onumepoch:19291
+onumnow:290615.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:49:48+00:00
+nowjuliandate:2460552.6393387
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2143
+1 47733U 21017M   24242.07624830  .00002486  00000+0  18575-3 0  9997
+2 47733  53.0529 204.8457 0001666  99.9299 260.1878 15.06397559192910

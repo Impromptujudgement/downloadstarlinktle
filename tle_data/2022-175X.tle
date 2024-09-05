@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54779
+launchyear:2022
+epoch:24242.64765691
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5447
+meananomly:273.1512
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8930588123
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2194
+eccentricity:0.0001037
+argumentofperigree:86.9599
+nickname:STARLINK-5447
+idesg:22175X  
+cosparid:2022-175X
+altkm:540.61430831685
+velkms:7.5932587976108
+velkmh:27336
+onumepoch:9387
+onumnow:141641.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:32:38+00:00
+nowjuliandate:2460552.637785
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5447
+1 54779U 22175X   24242.64765691 -.00000121  00000+0  10492-4 0  9991
+2 54779  53.2194   9.8784 0001037  86.9599 273.1512 15.08836530 93878

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52659
+launchyear:2022
+epoch:24242.41349765
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3960
+meananomly:268.5226
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8820794817
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001389
+argumentofperigree:91.5925
+nickname:STARLINK-3960
+idesg:22053D  
+cosparid:2022-053D
+altkm:540.6671556471
+velkms:7.5931947976965
+velkmh:27336
+onumepoch:12710
+onumnow:191784.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:55:26+00:00
+nowjuliandate:2460552.637901
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3960
+1 52659U 22053D   24242.41349765  .00000663  00000+0  59738-4 0  9992
+2 52659  53.2152 135.7847 0001389  91.5925 268.5226 15.08840122127107

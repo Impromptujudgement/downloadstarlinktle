@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:06+00:00
+validtle:1
+satid:47155
+launchyear:2020
+epoch:24242.36650313
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1869
+meananomly:276.1597
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3612801166
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001317
+argumentofperigree:83.9542
+nickname:STARLINK-1869
+idesg:20088AK 
+cosparid:2020-088AK
+altkm:548.00563537472
+velkms:7.5892411547146
+velkmh:27321
+onumepoch:20794
+onumnow:313251.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:47:46+00:00
+nowjuliandate:2460552.6396579
+nowepochdate:24243.1396527778
+TLE:
+STARLINK-1869
+1 47155U 20088AK  24242.36650313 -.00006141  00000+0 -39373-3 0  9992
+2 47155  53.0545 293.5401 0001317  83.9542 276.1597 15.06396523207942

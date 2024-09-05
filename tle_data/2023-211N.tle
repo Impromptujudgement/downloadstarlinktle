@@ -1,0 +1,38 @@
+date:2024-08-28T04:51:25+00:00
+validtle:1
+satid:58679
+launchyear:2023
+epoch:24240.06193835
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31110
+meananomly:100.3097
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.196863713
+altitudeatperigee:486
+altitudeatapogee:490
+inclination:43.0014
+eccentricity:0.0003031
+argumentofperigree:259.7412
+nickname:STARLINK-31110
+idesg:23211N  
+cosparid:2023-211N
+altkm:488.20856753135
+velkms:7.622621546301
+velkmh:27441
+onumepoch:3692
+onumnow:56353.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:29:11+00:00
+nowjuliandate:2460550.7023757
+nowepochdate:24241.2023726852
+TLE:
+STARLINK-31110
+1 58679U 23211N   24240.06193835  .00001111  00000+0  52329-4 0  9999
+2 58679  43.0014   1.7325 0003031 259.7412 100.3097 15.25908807 36929

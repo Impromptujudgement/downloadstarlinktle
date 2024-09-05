@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:55+00:00
+validtle:1
+satid:45058
+launchyear:2020
+epoch:24243.22210237
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1162
+meananomly:263.6222
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3347967129
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001419
+argumentofperigree:96.4928
+nickname:STARLINK-1162
+idesg:20006Q  
+cosparid:2020-006Q
+altkm:548.18615072935
+velkms:7.5890289243669
+velkmh:27321
+onumepoch:25293
+onumnow:381019.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:19:50+00:00
+nowjuliandate:2460553.0284188
+nowepochdate:24243.5284143519
+TLE:
+STARLINK-1162
+1 45058U 20006Q   24243.22210237  .00000742  00000+0  68722-4 0  9995
+2 45058  53.0540 264.6952 0001419  96.4928 263.6222 15.06405164252934

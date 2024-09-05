@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73423
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3423
+meananomly:334.5802
+meanmotion:15.9961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.6375399453
+altitudeatperigee:234
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.0061933
+argumentofperigree:162.4218
+nickname:STARLINK-3423
+idesg:22010AP 
+cosparid:2022-010AP
+altkm:243.55301915997
+velkms:7.7866855584395
+velkmh:28032
+onumepoch:1
+onumnow:19076.50
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379698
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3423
+1 73423C 22010AP  23051.42826389 -.01003815  00000-0 -16994-2 0   517
+2 73423  69.9999 143.3303 0061933 162.4218 334.5802 15.99610507    14

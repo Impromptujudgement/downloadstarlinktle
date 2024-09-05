@@ -1,0 +1,38 @@
+date:2024-08-28T05:24:49+00:00
+validtle:1
+satid:59302
+launchyear:2024
+epoch:24240.11435816
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31447
+meananomly:67.9083
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2110271422
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.001
+eccentricity:0.0001201
+argumentofperigree:292.1646
+nickname:STARLINK-31447
+idesg:24056G  
+cosparid:2024-056G
+altkm:443.54019811247
+velkms:7.6479650791577
+velkmh:27533
+onumepoch:2525
+onumnow:38919.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:44:41+00:00
+nowjuliandate:2460550.7255684
+nowepochdate:24241.2255671296
+TLE:
+STARLINK-31447
+1 59302U 24056G   24240.11435816  .00003289  00000+0  85985-4 0  9997
+2 59302  43.0010 178.6716 0001201 292.1646  67.9083 15.40689890 25256

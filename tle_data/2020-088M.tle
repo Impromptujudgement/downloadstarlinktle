@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47133
+launchyear:2020
+epoch:24242.37203354
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1843
+meananomly:269.7626
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3329455506
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001354
+argumentofperigree:90.3518
+nickname:STARLINK-1843
+idesg:20088M  
+cosparid:2020-088M
+altkm:548.07896631442
+velkms:7.5891453307213
+velkmh:27321
+onumepoch:20828
+onumnow:313765.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:55:44+00:00
+nowjuliandate:2460552.6396051
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1843
+1 47133U 20088M   24242.37203354 -.00000895  00000+0 -41194-4 0  9993
+2 47133  53.0536 273.5109 0001354  90.3518 269.7626 15.06405768208288

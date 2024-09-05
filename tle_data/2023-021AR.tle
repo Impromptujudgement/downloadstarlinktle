@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55667
+launchyear:2023
+epoch:24242.42750882
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5456
+meananomly:85.1076
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1988821022
+altitudeatperigee:571
+altitudeatapogee:573
+inclination:70.0038
+eccentricity:0.0002003
+argumentofperigree:274.9854
+nickname:STARLINK-5456
+idesg:23021AR 
+cosparid:2023-021AR
+altkm:574.36747855748
+velkms:7.5739877476418
+velkmh:27266
+onumepoch:8551
+onumnow:128132.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:15:37+00:00
+nowjuliandate:2460552.6377457
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5456
+1 55667U 23021AR  24242.42750882 -.00000294  00000+0 -16891-4 0  9992
+2 55667  70.0038 129.4431 0002003 274.9854  85.1076 14.98328733 85511

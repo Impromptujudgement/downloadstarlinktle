@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48132
+launchyear:2021
+epoch:24242.07716438
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2474
+meananomly:288.1166
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3700272656
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001444
+argumentofperigree:71.9981
+nickname:STARLINK-2474
+idesg:21027AS 
+cosparid:2021-027AS
+altkm:547.8011885379
+velkms:7.5894699109222
+velkmh:27322
+onumepoch:18797
+onumnow:283172.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:51:07+00:00
+nowjuliandate:2460552.6380517
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2474
+1 48132U 21027AS  24242.07716438  .00020620  00000+0  13994-2 0  9997
+2 48132  53.0535 154.8408 0001444  71.9981 288.1166 15.06393669187971

@@ -1,0 +1,38 @@
+date:2024-08-28T18:38:23+00:00
+validtle:1
+satid:58042
+launchyear:2023
+epoch:24241.08030829
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30563
+meananomly:273.5403
+meanmotion:15.3424
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3242493756
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1605
+eccentricity:0.0001143
+argumentofperigree:86.573
+nickname:STARLINK-30563
+idesg:23156Q  
+cosparid:2023-156Q
+altkm:464.0403488429
+velkms:7.6357070420549
+velkmh:27489
+onumepoch:5069
+onumnow:77781.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:55:39+00:00
+nowjuliandate:2460551.2766558
+nowepochdate:24241.7766550926
+TLE:
+STARLINK-30563
+1 58042U 23156Q   24241.08030829  .00006160  00000+0  19427-3 0  9997
+2 58042  53.1605 159.7521 0001143  86.5730 273.5403 15.34237856 50697

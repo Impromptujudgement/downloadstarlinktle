@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52106
+launchyear:2022
+epoch:24242.24099878
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3670
+meananomly:280.8853
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8521432989
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2229
+eccentricity:0.0001836
+argumentofperigree:79.2346
+nickname:STARLINK-3670
+idesg:22029U  
+cosparid:2022-029U
+altkm:540.37350691473
+velkms:7.5935006220185
+velkmh:27337
+onumepoch:13649
+onumnow:205956.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:47:02+00:00
+nowjuliandate:2460552.6379367
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3670
+1 52106U 22029U   24242.24099878  .00001324  00000+0  10127-3 0  9993
+2 52106  53.2229  71.6019 0001836  79.2346 280.8853 15.08849916136490

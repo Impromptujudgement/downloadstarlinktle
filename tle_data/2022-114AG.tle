@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53848
+launchyear:2022
+epoch:24242.40059809
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4780
+meananomly:249.9339
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9028124802
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001584
+argumentofperigree:110.1824
+nickname:STARLINK-4780
+idesg:22114AG 
+cosparid:2022-114AG
+altkm:541.0393997661
+velkms:7.5927977155923
+velkmh:27334
+onumepoch:10830
+onumnow:163417.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:36:52+00:00
+nowjuliandate:2460552.6378221
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4780
+1 53848U 22114AG  24242.40059809 -.00000155  00000+0  83586-5 0  9993
+2 53848  53.2181 275.6289 0001584 110.1824 249.9339 15.08833339108308

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51722
+launchyear:2022
+epoch:24242.36984045
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3535
+meananomly:347.2533
+meanmotion:15.0878
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6918.080126768
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001847
+argumentofperigree:12.8506
+nickname:STARLINK-3535
+idesg:22016J  
+cosparid:2022-016J
+altkm:539.59396607394
+velkms:7.594480879498
+velkmh:27340
+onumepoch:14035
+onumnow:211768.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:52:34+00:00
+nowjuliandate:2460552.6379614
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3535
+1 51722U 22016J   24242.36984045 -.00014519  00000+0 -89753-3 0  9997
+2 51722  53.2147 311.0268 0001847  12.8506 347.2533 15.08775331140354

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53028
+launchyear:2022
+epoch:22312.926875
+epochday:312
+tleage:661
+tleclassification:C
+active:0
+name:STARLINK-4161
+meananomly:251.8246
+meanmotion:15.9184
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6675.2848639995
+altitudeatperigee:295
+altitudeatapogee:299
+inclination:53.2066
+eccentricity:0.0003508
+argumentofperigree:252.3721
+nickname:STARLINK-4161
+idesg:22076AU 
+cosparid:2022-076AU
+altkm:299.28648897237
+velkms:7.73169178045
+velkmh:27834
+onumepoch:1
+onumnow:30741.71
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-11-08T22:14:42+00:00
+nowjuliandate:2460552.6378898
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4161
+1 53028C 22076AU  22312.92687500  .00953556  00000-0  26840-2 0  3126
+2 53028  53.2066 119.6472 0003508 252.3721 251.8246 15.91835738    19

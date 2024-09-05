@@ -1,0 +1,38 @@
+date:2024-08-28T06:11:51+00:00
+validtle:1
+satid:59206
+launchyear:2024
+epoch:24240.28102946
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31247
+meananomly:292.0967
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.394042466
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1582
+eccentricity:0.0001299
+argumentofperigree:68.0176
+nickname:STARLINK-31247
+idesg:24046F  
+cosparid:2024-046F
+altkm:447.82676883858
+velkms:7.6449444374293
+velkmh:27522
+onumepoch:2723
+onumnow:41938.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:44:41+00:00
+nowjuliandate:2460550.7582329
+nowepochdate:24241.2582291667
+TLE:
+STARLINK-31247
+1 59206U 24046F   24240.28102946  .00002380  00000+0  69486-4 0  9991
+2 59206  53.1582 237.1344 0001299  68.0176 292.0967 15.39612267 27232

@@ -1,0 +1,38 @@
+date:2024-08-27T23:06:39+00:00
+validtle:1
+satid:59569
+launchyear:2024
+epoch:24239.93918019
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31470
+meananomly:160.6827
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1788739771
+altitudeatperigee:444
+altitudeatapogee:445
+inclination:42.9979
+eccentricity:7.01E-5
+argumentofperigree:199.4003
+nickname:STARLINK-31470
+idesg:24076F  
+cosparid:2024-076F
+altkm:444.26696520576
+velkms:7.647132829821
+velkmh:27530
+onumepoch:2044
+onumnow:31523.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:32:25+00:00
+nowjuliandate:2460550.4629597
+nowepochdate:24241.9629513889
+TLE:
+STARLINK-31470
+1 59569U 24076F   24239.93918019  .00004527  00000+0  11556-3 0  9991
+2 59569  42.9979 314.6256 0000701 199.4003 160.6827 15.40700782 20441

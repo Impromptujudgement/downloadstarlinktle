@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54827
+launchyear:2022
+epoch:24241.39529987
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5383
+meananomly:80.5574
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2011195695
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:9.7E-5
+argumentofperigree:279.5159
+nickname:STARLINK-5383
+idesg:22177H  
+cosparid:2022-177H
+altkm:558.7319533672
+velkms:7.5839664169823
+velkmh:27302
+onumepoch:9298
+onumnow:139732.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:29:14+00:00
+nowjuliandate:2460552.6377803
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5383
+1 54827U 22177H   24241.39529987  .00000772  00000+0  72164-4 0  9999
+2 54827  43.0030 286.9258 0000970 279.5159  80.5574 15.02541680 92981

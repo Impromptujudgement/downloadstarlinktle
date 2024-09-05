@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45185
+launchyear:2020
+epoch:24241.72192794
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1216
+meananomly:270.5410
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3456493304
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0529
+eccentricity:0.0002018
+argumentofperigree:89.581
+nickname:STARLINK-1216
+idesg:20012H  
+cosparid:2020-012H
+altkm:548.07466921383
+velkms:7.5891569833741
+velkmh:27321
+onumepoch:25068
+onumnow:377651.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:19:35+00:00
+nowjuliandate:2460553.0283756
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1216
+1 45185U 20012H   24241.72192794  .00001174  00000+0  97726-4 0  9999
+2 45185  53.0529  31.4314 0002018  89.5810 270.5410 15.06401623250685

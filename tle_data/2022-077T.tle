@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53060
+launchyear:2022
+epoch:24241.74024025
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4305
+meananomly:176.9297
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1295729035
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6554
+eccentricity:0.0002189
+argumentofperigree:183.1914
+nickname:STARLINK-4305
+idesg:22077T  
+cosparid:2022-077T
+altkm:567.5677240583
+velkms:7.5764629537142
+velkmh:27275
+onumepoch:11720
+onumnow:175969.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:45:57+00:00
+nowjuliandate:2460552.637881
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4305
+1 53060U 22077T   24241.74024025  .00001169  00000+0  95603-4 0  9992
+2 53060  97.6554  61.5246 0002189 183.1914 176.9297 15.01266276117201

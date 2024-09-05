@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49151
+launchyear:2021
+epoch:24242.19680927
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3102
+meananomly:93.8559
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.185532145
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.0002967
+argumentofperigree:266.2261
+nickname:STARLINK-3102
+idesg:21082X  
+cosparid:2021-082X
+altkm:574.61156053957
+velkms:7.5737145263905
+velkmh:27265
+onumepoch:16466
+onumnow:246729.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:43:24+00:00
+nowjuliandate:2460552.6380008
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3102
+1 49151U 21082X   24242.19680927  .00000057  00000+0  12585-4 0  9995
+2 49151  69.9991 220.0859 0002967 266.2261  93.8559 14.98333050164668

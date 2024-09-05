@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48564
+launchyear:2021
+epoch:24242.37941615
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2190
+meananomly:180.7035
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2759003207
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:8.89E-5
+argumentofperigree:179.3955
+nickname:STARLINK-2190
+idesg:21041M  
+cosparid:2021-041M
+altkm:548.63360142716
+velkms:7.5885065686302
+velkmh:27319
+onumepoch:18160
+onumnow:273578.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:06:22+00:00
+nowjuliandate:2460552.6380161
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2190
+1 48564U 21041M   24242.37941615  .00014885  00000+0  10154-2 0  9993
+2 48564  53.0544 113.4771 0000889 179.3955 180.7035 15.06424381181602

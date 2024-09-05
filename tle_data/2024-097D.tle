@@ -1,0 +1,38 @@
+date:2024-08-27T19:05:22+00:00
+validtle:1
+satid:59838
+launchyear:2024
+epoch:24239.671613
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31855
+meananomly:88.4935
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1757478311
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0011
+eccentricity:0.0001018
+argumentofperigree:271.5805
+nickname:STARLINK-31855
+idesg:24097D  
+cosparid:2024-097D
+altkm:443.79476272708
+velkms:7.647660136717
+velkmh:27532
+onumepoch:1598
+onumnow:24637.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T16:07:07+00:00
+nowjuliandate:2460550.2953938
+nowepochdate:24240.7953935185
+TLE:
+STARLINK-31855
+1 59838U 24097D   24239.67161300 -.00001452  00000+0 -27502-4 0  9992
+2 59838  43.0011 219.1655 0001018 271.5805  88.4935 15.40701841 15982

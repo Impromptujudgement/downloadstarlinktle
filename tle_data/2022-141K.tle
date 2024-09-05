@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54166
+launchyear:2022
+epoch:24241.60300352
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5280
+meananomly:271.7920
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8939971925
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2146
+eccentricity:0.0001058
+argumentofperigree:88.3193
+nickname:STARLINK-5280
+idesg:22141K  
+cosparid:2022-141K
+altkm:540.63129110917
+velkms:7.593240676061
+velkmh:27336
+onumepoch:10160
+onumnow:153320.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:28:20+00:00
+nowjuliandate:2460552.637793
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5280
+1 54166U 22141K   24241.60300352  .00000186  00000+0  29775-4 0  9992
+2 54166  53.2146 349.5999 0001058  88.3193 271.7920 15.08836223101603

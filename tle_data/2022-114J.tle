@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53826
+launchyear:2022
+epoch:24242.42178526
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4756
+meananomly:261.3515
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.914556052
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001382
+argumentofperigree:98.7634
+nickname:STARLINK-4756
+idesg:22114J  
+cosparid:2022-114J
+altkm:540.81877632656
+velkms:7.5930462169447
+velkmh:27335
+onumepoch:10816
+onumnow:163205.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:07:22+00:00
+nowjuliandate:2460552.6378183
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4756
+1 53826U 22114J   24242.42178526 -.00000655  00000+0 -23084-4 0  9991
+2 53826  53.2168 285.7407 0001382  98.7634 261.3515 15.08829497108167

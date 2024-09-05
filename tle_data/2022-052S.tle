@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52614
+launchyear:2022
+epoch:24241.75339858
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3982
+meananomly:271.9707
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8735240703
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2139
+eccentricity:0.0001351
+argumentofperigree:88.144
+nickname:STARLINK-3982
+idesg:22052S  
+cosparid:2022-052S
+altkm:540.60153845815
+velkms:7.5932621119217
+velkmh:27336
+onumepoch:12676
+onumnow:191281.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:04:54+00:00
+nowjuliandate:2460552.6379057
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3982
+1 52614U 22052S   24241.75339858  .00001208  00000+0  93941-4 0  9990
+2 52614  53.2139 253.7962 0001351  88.1440 271.9707 15.08842921126767

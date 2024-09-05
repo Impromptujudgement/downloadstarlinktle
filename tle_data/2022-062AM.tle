@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52865
+launchyear:2022
+epoch:24242.64258419
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4274
+meananomly:268.0317
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.900275484
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2188
+eccentricity:0.0002039
+argumentofperigree:92.0908
+nickname:STARLINK-4274
+idesg:22062AM 
+cosparid:2022-062AM
+altkm:540.7095641604
+velkms:7.5931582295372
+velkmh:27335
+onumepoch:12232
+onumnow:184568.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:25:19+00:00
+nowjuliandate:2460552.637897
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4274
+1 52865U 22062AM  24242.64258419 -.00001390  00000+0 -69265-4 0  9997
+2 52865  53.2188   4.8032 0002039  92.0908 268.0317 15.08834169122326

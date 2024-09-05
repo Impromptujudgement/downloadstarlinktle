@@ -1,0 +1,38 @@
+date:2024-08-29T07:39:09+00:00
+validtle:1
+satid:56885
+launchyear:2023
+epoch:24240.45022672
+epochday:240
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5095
+meananomly:85.4232
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2179377304
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0024
+eccentricity:0.0001074
+argumentofperigree:274.6488
+nickname:STARLINK-5095
+idesg:23083K  
+cosparid:2023-083K
+altkm:558.79965952433
+velkms:7.583901601391
+velkmh:27302
+onumepoch:6754
+onumnow:101509.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:48:20+00:00
+nowjuliandate:2460551.8188545
+nowepochdate:24242.3188541667
+TLE:
+STARLINK-5095
+1 56885U 23083K   24240.45022672  .00001190  00000+0  10311-3 0  9997
+2 56885  43.0024 240.7526 0001074 274.6488  85.4232 15.02536216 67541

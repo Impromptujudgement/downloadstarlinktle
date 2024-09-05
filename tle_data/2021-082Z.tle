@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49153
+launchyear:2021
+epoch:24241.65438456
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3072
+meananomly:90.9761
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1832499489
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9994
+eccentricity:0.0002911
+argumentofperigree:269.1065
+nickname:STARLINK-3072
+idesg:21082Z  
+cosparid:2021-082Z
+altkm:574.50505479478
+velkms:7.5738293339238
+velkmh:27266
+onumepoch:16458
+onumnow:246618.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:42:19+00:00
+nowjuliandate:2460552.6380009
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3072
+1 49153U 21082Z   24241.65438456  .00000537  00000+0  52812-4 0  9995
+2 49153  69.9994 221.4604 0002911 269.1065  90.9761 14.98333788164581

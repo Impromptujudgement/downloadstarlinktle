@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53135
+launchyear:2022
+epoch:24242.4705322
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4023
+meananomly:288.3379
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8534851323
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000116
+argumentofperigree:71.7739
+nickname:STARLINK-4023
+idesg:22083D  
+cosparid:2022-083D
+altkm:540.36129410865
+velkms:7.5935147563893
+velkmh:27337
+onumepoch:11772
+onumnow:177631.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:17:34+00:00
+nowjuliandate:2460552.6378767
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4023
+1 53135U 22083D   24242.47053220  .00000643  00000+0  58482-4 0  9992
+2 53135  53.2154 155.5748 0001160  71.7739 288.3379 15.08849477117727

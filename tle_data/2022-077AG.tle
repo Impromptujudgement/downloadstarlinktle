@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53073
+launchyear:2022
+epoch:24242.05338783
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4346
+meananomly:269.7131
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1303434897
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6575
+eccentricity:0.0001792
+argumentofperigree:90.4299
+nickname:STARLINK-4346
+idesg:22077AG 
+cosparid:2022-077AG
+altkm:566.05732397043
+velkms:7.5781121791852
+velkmh:27281
+onumepoch:11783
+onumnow:176910.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:16:53+00:00
+nowjuliandate:2460552.637885
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4346
+1 53073U 22077AG  24242.05338783  .00000064  00000+0  95832-5 0  9998
+2 53073  97.6575  61.8399 0001792  90.4299 269.7131 15.01266026117835

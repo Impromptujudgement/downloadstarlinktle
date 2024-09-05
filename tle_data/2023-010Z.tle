@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55292
+launchyear:2023
+epoch:24242.40069138
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5325
+meananomly:90.1672
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2213919388
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0019
+eccentricity:0.0003066
+argumentofperigree:269.9136
+nickname:STARLINK-5325
+idesg:23010Z  
+cosparid:2023-010Z
+altkm:574.51517670667
+velkms:7.5738390594318
+velkmh:27266
+onumepoch:8948
+onumnow:134080.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:37:00+00:00
+nowjuliandate:2460552.6377725
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5325
+1 55292U 23010Z   24242.40069138 -.00000427  00000+0 -27965-4 0  9991
+2 55292  70.0019 349.5394 0003066 269.9136  90.1672 14.98321454 89485

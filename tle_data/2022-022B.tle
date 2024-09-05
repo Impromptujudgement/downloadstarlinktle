@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51853
+launchyear:2022
+epoch:24242.07810771
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3539
+meananomly:270.5841
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9306859688
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2198
+eccentricity:0.0001241
+argumentofperigree:89.5294
+nickname:STARLINK-3539
+idesg:22022B  
+cosparid:2022-022B
+altkm:540.68268382587
+velkms:7.5932043759823
+velkmh:27336
+onumepoch:13878
+onumnow:209410.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:52:29+00:00
+nowjuliandate:2460552.6379509
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3539
+1 51853U 22022B   24242.07810771  .00005736  00000+0  37834-3 0  9993
+2 51853  53.2198   1.9501 0001241  89.5294 270.5841 15.08824220138789

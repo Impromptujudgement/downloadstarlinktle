@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53234
+launchyear:2022
+epoch:24241.9025585
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4368
+meananomly:266.2746
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.119163846
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6536
+eccentricity:0.0001977
+argumentofperigree:93.8704
+nickname:STARLINK-4368
+idesg:22084AX 
+cosparid:2022-084AX
+altkm:566.12927237862
+velkms:7.5780275333862
+velkmh:27281
+onumepoch:11664
+onumnow:175126.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:39:41+00:00
+nowjuliandate:2460552.6378718
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4368
+1 53234U 22084AX  24241.90255850  .00001647  00000+0  13277-3 0  9990
+2 53234  97.6536 301.6975 0001977  93.8704 266.2746 15.01269653116640

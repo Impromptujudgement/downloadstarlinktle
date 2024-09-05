@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45679
+launchyear:2020
+epoch:24241.73206868
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1394
+meananomly:277.0300
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3419715112
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0513
+eccentricity:0.0001544
+argumentofperigree:83.0865
+nickname:STARLINK-1394
+idesg:20035Y  
+cosparid:2020-035Y
+altkm:547.95302584538
+velkms:7.5892882324633
+velkmh:27321
+onumepoch:23477
+onumnow:353685.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:34:11+00:00
+nowjuliandate:2460553.0283132
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1394
+1 45679U 20035Y   24241.73206868  .00003309  00000+0  24095-3 0  9991
+2 45679  53.0513  41.3858 0001544  83.0865 277.0300 15.06402823234776

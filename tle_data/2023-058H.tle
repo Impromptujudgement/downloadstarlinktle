@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56324
+launchyear:2023
+epoch:24242.72245913
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6034
+meananomly:275.0870
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.164862889
+altitudeatperigee:561
+altitudeatapogee:566
+inclination:97.6482
+eccentricity:0.0003586
+argumentofperigree:85.0763
+nickname:STARLINK-6034
+idesg:23058H  
+cosparid:2023-058H
+altkm:565.86579789006
+velkms:7.5783401093257
+velkmh:27282
+onumepoch:7407
+onumnow:111204.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:20:20+00:00
+nowjuliandate:2460552.6377075
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6034
+1 56324U 23058H   24242.72245913  .00002404  00000+0  19168-3 0  9992
+2 56324  97.6482 242.4484 0003586  85.0763 275.0870 15.01254827 74079

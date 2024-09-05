@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53744
+launchyear:2022
+epoch:24242.17885751
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4670
+meananomly:265.0249
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8842588387
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001466
+argumentofperigree:95.0911
+nickname:STARLINK-4670
+idesg:22107AW 
+cosparid:2022-107AW
+altkm:540.73261239938
+velkms:7.5931241687721
+velkmh:27335
+onumepoch:10965
+onumnow:165458.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:17:33+00:00
+nowjuliandate:2460552.6378304
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4670
+1 53744U 22107AW  24242.17885751  .00000541  00000+0  52059-4 0  9995
+2 53744  53.2161 246.5105 0001466  95.0911 265.0249 15.08839409109654

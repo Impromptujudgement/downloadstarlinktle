@@ -1,0 +1,38 @@
+date:2024-08-28T01:21:19+00:00
+validtle:1
+satid:59392
+launchyear:2024
+epoch:24240.53790346
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31626
+meananomly:260.5462
+meanmotion:15.3961
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3868370636
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.158
+eccentricity:0.0001427
+argumentofperigree:99.5704
+nickname:STARLINK-31626
+idesg:24062U  
+cosparid:2024-062U
+altkm:448.31307305586
+velkms:7.6443959194535
+velkmh:27520
+onumepoch:2398
+onumnow:36927.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T12:54:35+00:00
+nowjuliandate:2460550.5564716
+nowepochdate:24241.0564699074
+TLE:
+STARLINK-31626
+1 59392U 24062U   24240.53790346  .00004049  00000+0  11118-3 0  9992
+2 59392  53.1580 338.4884 0001427  99.5704 260.5462 15.39614705 23986

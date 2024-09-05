@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53059
+launchyear:2022
+epoch:24241.40166535
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4320
+meananomly:234.1542
+meanmotion:15.0129
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.049765989
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6565
+eccentricity:0.0001093
+argumentofperigree:125.9784
+nickname:STARLINK-4320
+idesg:22077S  
+cosparid:2022-077S
+altkm:566.41478399654
+velkms:7.5776779843294
+velkmh:27280
+onumepoch:11715
+onumnow:175902.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:38:24+00:00
+nowjuliandate:2460552.6378811
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4320
+1 53059U 22077S   24241.40166535 -.00006461  00000+0 -49847-3 0  9996
+2 53059  97.6565  61.1927 0001093 125.9784 234.1542 15.01292168117158

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56385
+launchyear:2023
+epoch:24242.58603974
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6173
+meananomly:86.9578
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2025939247
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0051
+eccentricity:8.58E-5
+argumentofperigree:273.1166
+nickname:STARLINK-6173
+idesg:23061M  
+cosparid:2023-061M
+altkm:558.81244835561
+velkms:7.5838792648724
+velkmh:27302
+onumepoch:7324
+onumnow:110054.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:03:54+00:00
+nowjuliandate:2460552.6377001
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6173
+1 56385U 23061M   24242.58603974 -.00000099  00000+0  77294-5 0  9997
+2 56385  43.0051 344.4512 0000858 273.1166  86.9578 15.02541201 73242

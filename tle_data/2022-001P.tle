@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50816
+launchyear:2022
+epoch:24242.87397135
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3342
+meananomly:280.5806
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.934687132
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001448
+argumentofperigree:79.5349
+nickname:STARLINK-3342
+idesg:22001P  
+cosparid:2022-001P
+altkm:540.51109053793
+velkms:7.5933948492846
+velkmh:27336
+onumepoch:14762
+onumnow:222734.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T20:58:31+00:00
+nowjuliandate:2460552.6379777
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3342
+1 50816U 22001P   24242.87397135 -.00003113  00000+0 -17764-3 0  9999
+2 50816  53.2155 148.7644 0001448  79.5349 280.5806 15.08822911147627

@@ -1,0 +1,38 @@
+date:2024-08-27T17:47:25+00:00
+validtle:1
+satid:60022
+launchyear:2024
+epoch:24239.95528903
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31982
+meananomly:279.1426
+meanmotion:15.3964
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3242944975
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1583
+eccentricity:9.35E-5
+argumentofperigree:80.9685
+nickname:STARLINK-31982
+idesg:24111G  
+cosparid:2024-111G
+altkm:447.98911479065
+velkms:7.644723692842
+velkmh:27521
+onumepoch:1330
+onumnow:20489.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:55:37+00:00
+nowjuliandate:2460550.2412618
+nowepochdate:24240.7412615741
+TLE:
+STARLINK-31982
+1 60022U 24111G   24239.95528903  .00006775  00000+0  17910-3 0  9995
+2 60022  53.1583 158.5129 0000935  80.9685 279.1426 15.39635867 13302

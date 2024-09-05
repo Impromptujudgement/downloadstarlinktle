@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48000
+launchyear:2021
+epoch:24241.69108554
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2270
+meananomly:270.0084
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3402276136
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001386
+argumentofperigree:90.1064
+nickname:STARLINK-2270
+idesg:21024Z  
+cosparid:2021-024Z
+altkm:548.08223485531
+velkms:7.5891457311766
+velkmh:27321
+onumepoch:19173
+onumnow:288844.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:35:10+00:00
+nowjuliandate:2460552.6380544
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2270
+1 48000U 21024Z   24241.69108554  .00001295  00000+0  10580-3 0  9995
+2 48000  53.0537 226.7728 0001386  90.1064 270.0084 15.06403392191734

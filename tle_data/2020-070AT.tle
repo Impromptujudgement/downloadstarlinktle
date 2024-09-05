@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46573
+launchyear:2020
+epoch:23173.37239343
+epochday:173
+tleage:435
+tleclassification:U
+active:0
+name:STARLINK-1650
+meananomly:96.7394
+meanmotion:15.9937
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6654.2916962771
+altitudeatperigee:270
+altitudeatapogee:282
+inclination:53.0284
+eccentricity:0.0009482
+argumentofperigree:23.0313
+nickname:STARLINK-1650
+idesg:20070AT 
+cosparid:2020-070AT
+altkm:281.32519074728
+velkms:7.7438484912702
+velkmh:27878
+onumepoch:15146
+onumnow:259357.08
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-06-22T08:56:15+00:00
+nowjuliandate:2460553.0282315
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1650
+1 46573U 20070AT  23173.37239343  .01124099  64196-3  22301-2 0  9999
+2 46573  53.0284 208.4510 0009482  23.0313  96.7394 15.99374636151462

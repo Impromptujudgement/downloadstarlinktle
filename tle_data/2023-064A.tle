@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56448
+launchyear:2023
+epoch:24242.37303745
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5990
+meananomly:90.4963
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1884019011
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0003067
+argumentofperigree:269.5844
+nickname:STARLINK-5990
+idesg:23064A  
+cosparid:2023-064A
+altkm:574.49426462041
+velkms:7.5738438942573
+velkmh:27266
+onumepoch:7212
+onumnow:108071.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:57:10+00:00
+nowjuliandate:2460552.6376975
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5990
+1 56448U 23064A   24242.37303745  .00000303  00000+0  33170-4 0  9991
+2 56448  69.9992 109.7239 0003067 269.5844  90.4963 14.98332122 72126

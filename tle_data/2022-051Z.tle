@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52556
+launchyear:2022
+epoch:24241.87447582
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3763
+meananomly:195.5947
+meanmotion:15.1400
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6902.1514384684
+altitudeatperigee:523
+altitudeatapogee:525
+inclination:53.22
+eccentricity:9.52E-5
+argumentofperigree:164.5077
+nickname:STARLINK-3763
+idesg:22051Z  
+cosparid:2022-051Z
+altkm:525.54704385757
+velkms:7.6011841519941
+velkmh:27364
+onumepoch:12747
+onumnow:193008.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:59:15+00:00
+nowjuliandate:2460552.6379113
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3763
+1 52556U 22051Z   24241.87447582  .00009341  00000+0  52438-3 0  9992
+2 52556  53.2200  96.5486 0000952 164.5077 195.5947 15.14001239127478

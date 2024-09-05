@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:01+00:00
+validtle:1
+satid:45075
+launchyear:2020
+epoch:24243.18708414
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1174
+meananomly:264.4858
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3345178126
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001533
+argumentofperigree:95.6306
+nickname:STARLINK-1174
+idesg:20006AH 
+cosparid:2020-006AH
+altkm:548.17878466326
+velkms:7.5890368413311
+velkmh:27321
+onumepoch:25321
+onumnow:381442.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:29:24+00:00
+nowjuliandate:2460553.0284923
+nowepochdate:24243.5284837963
+TLE:
+STARLINK-1174
+1 45075U 20006AH  24243.18708414  .00000380  00000+0  44400-4 0  9993
+2 45075  53.0544 244.8569 0001533  95.6306 264.4858 15.06405255253216

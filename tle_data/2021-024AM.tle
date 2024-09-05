@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48012
+launchyear:2021
+epoch:23093.93868056
+epochday:93
+tleage:515
+tleclassification:C
+active:0
+name:STARLINK-2216
+meananomly:235.0695
+meanmotion:15.9143
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6676.4077259721
+altitudeatperigee:292
+altitudeatapogee:304
+inclination:53.0359
+eccentricity:0.0009319
+argumentofperigree:263.0781
+nickname:STARLINK-2216
+idesg:21024AM 
+cosparid:2021-024AM
+altkm:303.92253290274
+velkms:7.7278449478769
+velkmh:27820
+onumepoch:1
+onumnow:18304.67
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-04-03T22:31:42+00:00
+nowjuliandate:2460552.6380977
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2216
+1 48012C 21024AM  23093.93868056  .02259031  00000-0  60529-2 0   937
+2 48012  53.0359 286.8929 0009319 263.0781 235.0695 15.91434174    15

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45221
+launchyear:2020
+epoch:24242.00943047
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1189
+meananomly:259.0067
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3524594386
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:9.13E-5
+argumentofperigree:101.1025
+nickname:STARLINK-1189
+idesg:20012AV 
+cosparid:2020-012AV
+altkm:548.215193805
+velkms:7.5890067647779
+velkmh:27320
+onumepoch:25134
+onumnow:378641.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:13:35+00:00
+nowjuliandate:2460553.0283835
+nowepochdate:24243.5283796296
+TLE:
+STARLINK-1189
+1 45221U 20012AV  24242.00943047  .00017565  00000+0  11952-2 0  9993
+2 45221  53.0546 350.1462 0000913 101.1025 259.0067 15.06399401251345

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56462
+launchyear:2023
+epoch:24241.8217822
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6045
+meananomly:90.2155
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1837354566
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0003134
+argumentofperigree:269.8645
+nickname:STARLINK-6045
+idesg:23064Q  
+cosparid:2023-064Q
+altkm:574.47934720387
+velkms:7.5738576092788
+velkmh:27266
+onumepoch:7267
+onumnow:108903.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:43:22+00:00
+nowjuliandate:2460552.637693
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-6045
+1 56462U 23064Q   24241.82178220  .00000493  00000+0  49088-4 0  9999
+2 56462  69.9992  70.8367 0003134 269.8645  90.2155 14.98333631 72676

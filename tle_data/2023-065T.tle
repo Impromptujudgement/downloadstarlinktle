@@ -1,0 +1,38 @@
+date:2024-08-29T09:23:27+00:00
+validtle:1
+satid:56520
+launchyear:2023
+epoch:24242.06281911
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-6344
+meananomly:92.6384
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1790443489
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001266
+argumentofperigree:267.4313
+nickname:STARLINK-6344
+idesg:23065T  
+cosparid:2023-065T
+altkm:558.86069149879
+velkms:7.5838137145813
+velkmh:27302
+onumepoch:7196
+onumnow:108128.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:30:28+00:00
+nowjuliandate:2460551.8912908
+nowepochdate:24242.3912847222
+TLE:
+STARLINK-6344
+1 56520U 23065T   24242.06281911  .00002205  00000+0  17821-3 0  9996
+2 56520  43.0026   0.2924 0001266 267.4313  92.6384 15.02548852 71968

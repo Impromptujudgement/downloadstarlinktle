@@ -1,0 +1,38 @@
+date:2024-08-27T14:41:29+00:00
+validtle:1
+satid:60358
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32287
+meananomly:351.4190
+meanmotion:15.7383
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6726.1118408366
+altitudeatperigee:347
+altitudeatapogee:349
+inclination:53.159
+eccentricity:8.34E-5
+argumentofperigree:68.6836
+nickname:STARLINK-32287
+idesg:24138D  
+cosparid:2024-138D
+altkm:351.88403568662
+velkms:7.7038280790926
+velkmh:27734
+onumepoch:482
+onumnow:7591.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.1121504
+nowepochdate:24240.6121412037
+TLE:
+STARLINK-32287
+1 60358U 24138D   24240.25001157 -.00187314  00000+0 -13239-2 0  9998
+2 60358  53.1590  38.0895 0000834  68.6836 351.4190 15.73826413  4829

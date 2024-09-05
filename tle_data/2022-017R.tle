@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51783
+launchyear:2022
+epoch:24242.50600234
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3628
+meananomly:281.3590
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8788394871
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2148
+eccentricity:9.33E-5
+argumentofperigree:78.7507
+nickname:STARLINK-3628
+idesg:22017R  
+cosparid:2022-017R
+altkm:540.51190027021
+velkms:7.5933633801926
+velkmh:27336
+onumepoch:13994
+onumnow:211156.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:08:39+00:00
+nowjuliandate:2460552.637955
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3628
+1 51783U 22017R   24242.50600234  .00001031  00000+0  82846-4 0  9996
+2 51783  53.2148 320.4657 0000933  78.7507 281.3590 15.08841182139947

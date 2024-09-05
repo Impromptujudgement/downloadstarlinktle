@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49450
+launchyear:2021
+epoch:24242.6154413
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3127
+meananomly:254.8400
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8557072587
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001205
+argumentofperigree:105.2725
+nickname:STARLINK-3127
+idesg:21104AU 
+cosparid:2021-104AU
+altkm:540.83401333452
+velkms:7.5929972728172
+velkmh:27335
+onumepoch:15574
+onumnow:234995.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:46:14+00:00
+nowjuliandate:2460552.6379974
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3127
+1 49450U 21104AU  24242.61544130  .00002100  00000+0  14995-3 0  9991
+2 49450  53.2156 199.9576 0001205 105.2725 254.8400 15.08848750155743

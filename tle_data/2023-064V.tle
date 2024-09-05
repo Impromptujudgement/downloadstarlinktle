@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56467
+launchyear:2023
+epoch:24242.29336291
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6055
+meananomly:89.3943
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1820377263
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0003014
+argumentofperigree:270.6871
+nickname:STARLINK-6055
+idesg:23064V  
+cosparid:2023-064V
+altkm:574.44726155036
+velkms:7.5738916468152
+velkmh:27266
+onumepoch:7260
+onumnow:108791.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:02:27+00:00
+nowjuliandate:2460552.6376934
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-6055
+1 56467U 23064V   24242.29336291  .00000176  00000+0  22556-4 0  9999
+2 56467  69.9993  89.9749 0003014 270.6871  89.3943 14.98334180 72602

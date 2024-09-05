@@ -1,0 +1,38 @@
+date:2024-08-28T20:57:54+00:00
+validtle:1
+satid:57781
+launchyear:2023
+epoch:24240.63273607
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30369
+meananomly:82.6607
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1791767012
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001428
+argumentofperigree:277.4073
+nickname:STARLINK-30369
+idesg:23134L  
+cosparid:2023-134L
+altkm:558.69384086727
+velkms:7.5839961029146
+velkmh:27302
+onumepoch:5530
+onumnow:83109.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:11:08+00:00
+nowjuliandate:2460551.3735455
+nowepochdate:24241.8735416667
+TLE:
+STARLINK-30369
+1 57781U 23134L   24240.63273607  .00003760  00000+0  29319-3 0  9999
+2 57781  43.0021 355.3346 0001428 277.4073  82.6607 15.02548809 55308

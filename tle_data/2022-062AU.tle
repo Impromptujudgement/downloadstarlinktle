@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52872
+launchyear:2022
+epoch:24242.02621213
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4213
+meananomly:269.1738
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8871962356
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2187
+eccentricity:0.0001964
+argumentofperigree:90.9479
+nickname:STARLINK-4213
+idesg:22062AU 
+cosparid:2022-062AU
+altkm:540.6675943438
+velkms:7.5931971189913
+velkmh:27336
+onumepoch:12236
+onumnow:184638.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:37:45+00:00
+nowjuliandate:2460552.6378962
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4213
+1 52872U 22062AU  24242.02621213 -.00001153  00000+0 -54366-4 0  9996
+2 52872  53.2187 357.5430 0001964  90.9479 269.1738 15.08838448122366

@@ -1,0 +1,38 @@
+date:2024-08-27T18:03:26+00:00
+validtle:1
+satid:59947
+launchyear:2024
+epoch:24240.00421282
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-11113
+meananomly:274.5865
+meanmotion:15.7428
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6724.8160127677
+altitudeatperigee:346
+altitudeatapogee:347
+inclination:53.1576
+eccentricity:7.67E-5
+argumentofperigree:85.5242
+nickname:STARLINK-11113
+idesg:24107C  
+cosparid:2024-107C
+altkm:347.55436751377
+velkms:7.7016522782885
+velkmh:27726
+onumepoch:1424
+onumnow:22429.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:06:04+00:00
+nowjuliandate:2460550.2523891
+nowepochdate:24240.7523842593
+TLE:
+STARLINK-11113 [DTC]
+1 59947U 24107C   24240.00421282  .00011120  00000+0  79802-4 0  9993
+2 59947  53.1576 130.1076 0000767  85.5242 274.5865 15.74281334 14243

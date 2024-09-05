@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55748
+launchyear:2023
+epoch:24242.20712627
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5580
+meananomly:87.3505
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1821181288
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9995
+eccentricity:0.0003076
+argumentofperigree:272.7302
+nickname:STARLINK-5580
+idesg:23028H  
+cosparid:2023-028H
+altkm:574.37069175332
+velkms:7.5739751232391
+velkmh:27266
+onumepoch:8253
+onumnow:123671.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:58:16+00:00
+nowjuliandate:2460552.6377346
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5580
+1 55748U 23028H   24242.20712627  .00001566  00000+0  13900-3 0  9998
+2 55748  69.9995 210.1058 0003076 272.7302  87.3505 14.98334154 82532

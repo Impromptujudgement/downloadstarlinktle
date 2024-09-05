@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53211
+launchyear:2022
+epoch:24242.46564432
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4419
+meananomly:135.2199
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1632692971
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6562
+eccentricity:0.0001313
+argumentofperigree:224.8919
+nickname:STARLINK-4419
+idesg:22084Y  
+cosparid:2022-084Y
+altkm:566.73093193196
+velkms:7.577394755319
+velkmh:27279
+onumepoch:11609
+onumnow:174290.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:10:32+00:00
+nowjuliandate:2460552.6378691
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4419
+1 53211U 22084Y   24242.46564432 -.00000460  00000+0 -31198-4 0  9993
+2 53211  97.6562 302.2480 0001313 224.8919 135.2199 15.01255344116098

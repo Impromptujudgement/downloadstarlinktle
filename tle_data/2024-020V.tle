@@ -1,0 +1,38 @@
+date:2024-08-28T02:49:03+00:00
+validtle:1
+satid:58895
+launchyear:2024
+epoch:24240.58334491
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31218
+meananomly:18.0083
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3411345635
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1602
+eccentricity:0.0001202
+argumentofperigree:97.5019
+nickname:STARLINK-31218
+idesg:24020V  
+cosparid:2024-020V
+altkm:467.41744451017
+velkms:7.6387959671632
+velkmh:27500
+onumepoch:592
+onumnow:9090.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:00:01+00:00
+nowjuliandate:2460550.6173961
+nowepochdate:24241.1173958333
+TLE:
+STARLINK-31218
+1 58895U 24020V   24240.58334491 -.00018824  00000+0 -55032-3 0  9994
+2 58895  53.1602  41.0137 0001202  97.5019  18.0083 15.34232176  5926

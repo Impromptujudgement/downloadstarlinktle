@@ -1,0 +1,38 @@
+date:2024-08-27T15:05:12+00:00
+validtle:1
+satid:60318
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32190
+meananomly:16.7928
+meanmotion:15.5820
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6771.0137187718
+altitudeatperigee:392
+altitudeatapogee:394
+inclination:53.1591
+eccentricity:0.0001036
+argumentofperigree:68.0607
+nickname:STARLINK-32190
+idesg:24133T  
+cosparid:2024-133T
+altkm:398.69615084167
+velkms:7.6780806832655
+velkmh:27641
+onumepoch:587
+onumnow:9157.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1286164
+nowepochdate:24240.6286111111
+TLE:
+STARLINK-32190
+1 60318U 24133T   24239.91667824 -.01714853  00000+0 -24927-1 0  9999
+2 60318  53.1591  27.8554 0001036  68.0607  16.7928 15.58197186  5876

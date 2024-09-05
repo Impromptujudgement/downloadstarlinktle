@@ -1,0 +1,38 @@
+date:2024-08-27T14:45:17+00:00
+validtle:1
+satid:60350
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32076
+meananomly:85.9051
+meanmotion:15.6735
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6744.6257378945
+altitudeatperigee:366
+altitudeatapogee:367
+inclination:53.1553
+eccentricity:0.0001115
+argumentofperigree:72.4422
+nickname:STARLINK-32076
+idesg:24136X  
+cosparid:2024-136X
+altkm:366.72414152575
+velkms:7.6921956681505
+velkmh:27692
+onumepoch:511
+onumnow:8020.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1147802
+nowepochdate:24240.6147800926
+TLE:
+STARLINK-32076
+1 60350U 24136X   24239.91667824 -.01737397  00000+0 -17990-1 0  9998
+2 60350  53.1553 158.7902 0001115  72.4422  85.9051 15.67350667  5110

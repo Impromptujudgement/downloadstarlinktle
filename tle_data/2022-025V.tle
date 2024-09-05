@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51975
+launchyear:2022
+epoch:24242.65264964
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3674
+meananomly:270.8971
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3379412399
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0582
+eccentricity:0.0002225
+argumentofperigree:89.2273
+nickname:STARLINK-3674
+idesg:22025V  
+cosparid:2022-025V
+altkm:548.05665553108
+velkms:7.589172504209
+velkmh:27321
+onumepoch:13813
+onumnow:208086.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:39:49+00:00
+nowjuliandate:2460552.637943
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3674
+1 51975U 22025V   24242.65264964  .00001504  00000+0  11985-3 0  9990
+2 51975  53.0582   7.4739 0002225  89.2273 270.8971 15.06404138138136

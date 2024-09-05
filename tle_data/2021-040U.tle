@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48446
+launchyear:2021
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2247
+meananomly:105.4351
+meanmotion:15.7208
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6731.10184361
+altitudeatperigee:352
+altitudeatapogee:354
+inclination:53.0482
+eccentricity:8.2E-5
+argumentofperigree:106.6561
+nickname:STARLINK-2247
+idesg:21040U  
+cosparid:2021-040U
+altkm:360.49620374734
+velkms:7.6928519493024
+velkmh:27694
+onumepoch:18407
+onumnow:289375.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6380225
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2247
+1 48446U 21040U   24242.91667824  .01133051  00000+0  76731-2 0  9999
+2 48446  53.0482 154.7089 0000820 106.6561 105.4351 15.72076638184073

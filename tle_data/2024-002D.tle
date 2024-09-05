@@ -1,0 +1,38 @@
+date:2024-08-28T04:35:37+00:00
+validtle:1
+satid:58708
+launchyear:2024
+epoch:24240.06877171
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11079
+meananomly:292.9536
+meanmotion:15.7148
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.8196578666
+altitudeatperigee:354
+altitudeatapogee:355
+inclination:53.1588
+eccentricity:8.52E-5
+argumentofperigree:67.1573
+nickname:STARLINK-11079
+idesg:24002D  
+cosparid:2024-002D
+altkm:355.37458806511
+velkms:7.6972751548566
+velkmh:27710
+onumepoch:3844
+onumnow:60422.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:39:02+00:00
+nowjuliandate:2460550.6914097
+nowepochdate:24241..191400463
+TLE:
+STARLINK-11079 [DTC]
+1 58708U 24002D   24240.06877171  .00003618  00000+0  32354-4 0  9993
+2 58708  53.1588 160.0027 0000852  67.1573 292.9536 15.71475026 38443

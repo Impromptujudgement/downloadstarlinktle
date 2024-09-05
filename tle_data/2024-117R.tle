@@ -1,0 +1,38 @@
+date:2024-08-27T16:56:38+00:00
+validtle:1
+satid:60106
+launchyear:2024
+epoch:24239.93193186
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32045
+meananomly:304.6580
+meanmotion:15.3021
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3250736574
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1608
+eccentricity:0.00011
+argumentofperigree:55.4525
+nickname:STARLINK-32045
+idesg:24117R  
+cosparid:2024-117R
+altkm:475.65917723176
+velkms:7.6294328959693
+velkmh:27466
+onumepoch:1098
+onumnow:16813.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:21:59+00:00
+nowjuliandate:2460550.2059962
+nowepochdate:24240.7059953704
+TLE:
+STARLINK-32045
+1 60106U 24117R   24239.93193186  .00002426  00000+0  93976-4 0  9999
+2 60106  53.1608 117.2404 0001100  55.4525 304.6580 15.30209726 10984

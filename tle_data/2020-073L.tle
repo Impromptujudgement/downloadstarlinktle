@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:15+00:00
+validtle:1
+satid:46680
+launchyear:2020
+epoch:24021.73777491
+epochday:21
+tleage:222
+tleclassification:U
+active:0
+name:STARLINK-1774
+meananomly:132.8373
+meanmotion:16.0558
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6637.1360842913
+altitudeatperigee:252
+altitudeatapogee:266
+inclination:53.0375
+eccentricity:0.0010321
+argumentofperigree:7.9897
+nickname:STARLINK-1774
+idesg:20073L  
+cosparid:2020-073L
+altkm:265.40383122224
+velkms:7.7493878559395
+velkmh:27898
+onumepoch:18066
+onumnow:293618.82
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-01-21T17:42:24+00:00
+nowjuliandate:2460552.6397596
+nowepochdate:24243.1397569444
+TLE:
+STARLINK-1774
+1 46680U 20073L   24021.73777491  .01064482  63178-3  14604-2 0  9990
+2 46680  53.0375 107.1567 0010321   7.9897 132.8373 16.05579716180668

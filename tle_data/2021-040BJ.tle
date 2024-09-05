@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48484
+launchyear:2021
+epoch:24242.14322731
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2696
+meananomly:272.7546
+meanmotion:15.0948
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6915.9342252833
+altitudeatperigee:535
+altitudeatapogee:540
+inclination:53.0514
+eccentricity:0.0003346
+argumentofperigree:87.3828
+nickname:STARLINK-2696
+idesg:21040BJ 
+cosparid:2021-040BJ
+altkm:538.56674658564
+velkms:7.5944331443746
+velkmh:27340
+onumepoch:18359
+onumnow:277140.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:26:15+00:00
+nowjuliandate:2460552.6380241
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2696
+1 48484U 21040BJ  24242.14322731  .00043740  00000+0  27014-2 0  9995
+2 48484  53.0514 184.4581 0003346  87.3828 272.7546 15.09477608183597

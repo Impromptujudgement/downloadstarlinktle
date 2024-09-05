@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49417
+launchyear:2021
+epoch:24242.5896341
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3154
+meananomly:277.7055
+meanmotion:15.0888
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7565385795
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.214
+eccentricity:0.0001627
+argumentofperigree:82.4122
+nickname:STARLINK-3154
+idesg:21104K  
+cosparid:2021-104K
+altkm:540.36586362776
+velkms:7.5934566566881
+velkmh:27336
+onumepoch:15577
+onumnow:235046.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:09:04+00:00
+nowjuliandate:2460552.6379954
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3154
+1 49417U 21104K   24242.58963410  .00008609  00000+0  55774-3 0  9996
+2 49417  53.2140 199.6933 0001627  82.4122 277.7055 15.08881195155771

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53147
+launchyear:2022
+epoch:24242.48526692
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4094
+meananomly:286.0890
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.883134009
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001789
+argumentofperigree:74.0299
+nickname:STARLINK-4094
+idesg:22083R  
+cosparid:2022-083R
+altkm:540.30079915994
+velkms:7.5935973733112
+velkmh:27337
+onumepoch:11773
+onumnow:177645.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:38:47+00:00
+nowjuliandate:2460552.6378753
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4094
+1 53147U 22083R   24242.48526692  .00000431  00000+0  45172-4 0  9991
+2 53147  53.2177 155.5133 0001789  74.0299 286.0890 15.08839777117733

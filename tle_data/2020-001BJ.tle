@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:33+00:00
+validtle:1
+satid:44970
+launchyear:2020
+epoch:24242.41673211
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1093
+meananomly:272.2002
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3669317402
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001406
+argumentofperigree:87.9148
+nickname:STARLINK-1093
+idesg:20001BJ 
+cosparid:2020-001BJ
+altkm:548.07175392373
+velkms:7.5891718119423
+velkmh:27321
+onumepoch:25640
+onumnow:386256.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:00:06+00:00
+nowjuliandate:2460553.0295592
+nowepochdate:24243.5295486111
+TLE:
+STARLINK-1093
+1 44970U 20001BJ  24242.41673211  .00001579  00000+0  12491-3 0  9997
+2 44970  53.0542 288.3120 0001406  87.9148 272.2002 15.06394679256409

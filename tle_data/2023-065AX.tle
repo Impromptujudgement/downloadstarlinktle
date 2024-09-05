@@ -1,0 +1,38 @@
+date:2024-08-29T09:42:51+00:00
+validtle:1
+satid:56548
+launchyear:2023
+epoch:24241.65702915
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6244
+meananomly:76.7425
+meanmotion:15.0257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1019517429
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0054
+eccentricity:0.0001004
+argumentofperigree:283.3306
+nickname:STARLINK-6244
+idesg:23065AX 
+cosparid:2023-065AX
+altkm:558.58372745189
+velkms:7.58407433601
+velkmh:27303
+onumepoch:7253
+onumnow:108992.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:46:07+00:00
+nowjuliandate:2460551.9047669
+nowepochdate:24242.4047569444
+TLE:
+STARLINK-6244
+1 56548U 23065AX  24241.65702915 -.00007252  00000+0 -52178-3 0  9995
+2 56548  43.0054  15.4196 0001004 283.3306  76.7425 15.02573899 72539

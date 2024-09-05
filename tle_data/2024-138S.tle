@@ -1,0 +1,38 @@
+date:2024-08-27T14:31:16+00:00
+validtle:1
+satid:60371
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32263
+meananomly:223.1569
+meanmotion:15.7374
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6726.3501803155
+altitudeatperigee:348
+altitudeatapogee:349
+inclination:53.1584
+eccentricity:4.93E-5
+argumentofperigree:107.5834
+nickname:STARLINK-32263
+idesg:24138S  
+cosparid:2024-138S
+altkm:355.10560804049
+velkms:7.6959361233818
+velkmh:27705
+onumepoch:460
+onumnow:7246.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.105051
+nowepochdate:24240.6050462963
+TLE:
+STARLINK-32263
+1 60371U 24138S   24240.16667824 -.00022274  00000+0 -15111-3 0  9997
+2 60371  53.1584  38.4526 0000493 107.5834 223.1569 15.73742764  4601

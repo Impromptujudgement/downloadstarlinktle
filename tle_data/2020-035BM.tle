@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45716
+launchyear:2020
+epoch:22070.1053794
+epochday:70
+tleage:903
+tleclassification:C
+active:0
+name:STARLINK-1439
+meananomly:7.4663
+meanmotion:16.0303
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6644.1639510401
+altitudeatperigee:262
+altitudeatapogee:271
+inclination:52.989
+eccentricity:0.0006772
+argumentofperigree:310.9642
+nickname:STARLINK-1439
+idesg:20035BM 
+cosparid:2020-035BM
+altkm:271.54923319096
+velkms:7.7466933100962
+velkmh:27888
+onumepoch:1
+onumnow:34856.72
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-03-11T02:31:45+00:00
+nowjuliandate:2460553.0283175
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1439
+1 45716C 20035BM  22070.10537940  .00486558  00000-0  74809-3 0   700
+2 45716  52.9890 253.9895 0006772 310.9642   7.4663 16.03032936    16

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53623
+launchyear:2022
+epoch:24242.65635783
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4573
+meananomly:254.5124
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8308268801
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.000128
+argumentofperigree:105.6009
+nickname:STARLINK-4573
+idesg:22104AM 
+cosparid:2022-104AM
+altkm:540.82756690389
+velkms:7.5929907214356
+velkmh:27335
+onumepoch:11097
+onumnow:167445.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:45:09+00:00
+nowjuliandate:2460552.6378432
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4573
+1 53623U 22104AM  24242.65635783 -.00001895  00000+0 -10094-3 0  9996
+2 53623  53.2153 214.6172 0001280 105.6009 254.5124 15.08856890110976

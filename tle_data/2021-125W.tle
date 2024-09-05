@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50176
+launchyear:2021
+epoch:24242.21155943
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3293
+meananomly:266.9146
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8697339
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001395
+argumentofperigree:93.2006
+nickname:STARLINK-3293
+idesg:21125W  
+cosparid:2021-125W
+altkm:540.68195405738
+velkms:7.5931717997703
+velkmh:27335
+onumepoch:14935
+onumnow:225357.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:04:39+00:00
+nowjuliandate:2460552.6379819
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3293
+1 50176U 21125W   24242.21155943  .00001061  00000+0  84706-4 0  9990
+2 50176  53.2150 231.7386 0001395  93.2006 266.9146 15.08844161149359

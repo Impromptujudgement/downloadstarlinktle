@@ -1,0 +1,38 @@
+date:2024-08-29T09:03:20+00:00
+validtle:1
+satid:56709
+launchyear:2023
+epoch:24241.82096994
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30085
+meananomly:82.3569
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1827717616
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:0.0001068
+argumentofperigree:277.7152
+nickname:STARLINK-30085
+idesg:23067X  
+cosparid:2023-067X
+altkm:558.7254667196
+velkms:7.5839635047982
+velkmh:27302
+onumepoch:7148
+onumnow:107410.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:42:12+00:00
+nowjuliandate:2460551.8773214
+nowepochdate:24242.3773148148
+TLE:
+STARLINK-30085
+1 56709U 23067X   24241.82096994  .00001171  00000+0  10172-3 0  9998
+2 56709  43.0029  65.6226 0001068 277.7152  82.3569 15.02547641 71488

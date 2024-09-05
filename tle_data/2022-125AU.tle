@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54006
+launchyear:2022
+epoch:24242.17976434
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5096
+meananomly:260.3097
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8623675356
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001566
+argumentofperigree:99.8072
+nickname:STARLINK-5096
+idesg:22125AU 
+cosparid:2022-125AU
+altkm:540.8052188615
+velkms:7.5930325146034
+velkmh:27335
+onumepoch:10535
+onumnow:158971.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:18:52+00:00
+nowjuliandate:2460552.6378076
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5096
+1 54006U 22125AU  24242.17976434  .00001434  00000+0  10818-3 0  9994
+2 54006  53.2168 196.4554 0001566  99.8072 260.3097 15.08846571105355

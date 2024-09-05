@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46797
+launchyear:2020
+epoch:22117.24537623
+epochday:117
+tleage:856
+tleclassification:C
+active:0
+name:STARLINK-1947
+meananomly:213.8918
+meanmotion:15.9517
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6665.9851470349
+altitudeatperigee:286
+altitudeatapogee:289
+inclination:53.041
+eccentricity:0.0002027
+argumentofperigree:245.9548
+nickname:STARLINK-1947
+idesg:20074BL 
+cosparid:2020-074BL
+altkm:295.22323012738
+velkms:7.7363533866733
+velkmh:27851
+onumepoch:1
+onumnow:33927.54
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-27T05:53:21+00:00
+nowjuliandate:2460552.6396994
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1947
+1 46797C 20074BL  22117.24537623  .02510315  00000-0  54439-2 0  1177
+2 46797  53.0410  66.6804 0002027 245.9548 213.8918 15.95168055    14

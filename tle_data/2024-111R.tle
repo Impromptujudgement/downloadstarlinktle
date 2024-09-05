@@ -1,0 +1,38 @@
+date:2024-08-27T17:41:09+00:00
+validtle:1
+satid:60031
+launchyear:2024
+epoch:24239.98969842
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31878
+meananomly:211.9854
+meanmotion:16.0407
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6641.2889621312
+altitudeatperigee:257
+altitudeatapogee:269
+inclination:53.1068
+eccentricity:0.0008909
+argumentofperigree:148.1718
+nickname:STARLINK-31878
+idesg:24111R  
+cosparid:2024-111R
+altkm:269.09423054304
+velkms:7.7441069170339
+velkmh:27879
+onumepoch:1347
+onumnow:21618.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:45:10+00:00
+nowjuliandate:2460550.2369106
+nowepochdate:24240.7369097222
+TLE:
+STARLINK-31878
+1 60031U 24111R   24239.98969842 -.00067814  13040-4 -95478-4 0  9991
+2 60031  53.1068 129.1568 0008909 148.1718 211.9854 16.04073969 13473

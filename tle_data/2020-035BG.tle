@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45711
+launchyear:2020
+epoch:24242.6332772
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1433
+meananomly:261.8737
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.370018071
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0547
+eccentricity:0.0001956
+argumentofperigree:98.2474
+nickname:STARLINK-1433
+idesg:20035BG 
+cosparid:2020-035BG
+altkm:548.30387326262
+velkms:7.5889192198982
+velkmh:27320
+onumepoch:23518
+onumnow:354287.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:11:55+00:00
+nowjuliandate:2460553.0283192
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1433
+1 45711U 20035BG  24242.63327720  .00002760  00000+0  20416-3 0  9992
+2 45711  53.0547  17.3412 0001956  98.2474 261.8737 15.06393672235182

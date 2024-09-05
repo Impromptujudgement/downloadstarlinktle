@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:42+00:00
+validtle:1
+satid:44733
+launchyear:2019
+epoch:24243.08757649
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1028
+meananomly:264.3252
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3851218326
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001438
+argumentofperigree:95.7901
+nickname:STARLINK-1028
+idesg:19074W  
+cosparid:2019-074W
+altkm:548.22568227659
+velkms:7.5890131315237
+velkmh:27320
+onumepoch:26502
+onumnow:399229.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T02:06:07+00:00
+nowjuliandate:2460553.0296586
+nowepochdate:24243.5296527778
+TLE:
+STARLINK-1028
+1 44733U 19074W   24243.08757649  .00007455  00000+0  51899-3 0  9998
+2 44733  53.0531 165.3071 0001438  95.7901 264.3252 15.06388744265025

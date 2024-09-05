@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51794
+launchyear:2022
+epoch:24242.41579835
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3573
+meananomly:262.4564
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8865268389
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2196
+eccentricity:0.0001478
+argumentofperigree:97.6596
+nickname:STARLINK-3573
+idesg:22017AC 
+cosparid:2022-017AC
+altkm:540.78153762296
+velkms:7.5930717284807
+velkmh:27335
+onumepoch:13979
+onumnow:210931.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:58:45+00:00
+nowjuliandate:2460552.6379592
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3573
+1 51794U 22017AC  24242.41579835 -.00000930  00000+0 -40346-4 0  9998
+2 51794  53.2196 330.8260 0001478  97.6596 262.4564 15.08838667139798

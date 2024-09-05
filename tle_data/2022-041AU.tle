@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52303
+launchyear:2022
+epoch:24242.25115386
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3742
+meananomly:266.5262
+meanmotion:15.0880
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9960532896
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001816
+argumentofperigree:93.5937
+nickname:STARLINK-3742
+idesg:22041AU 
+cosparid:2022-041AU
+altkm:540.83278568677
+velkms:7.5930754721503
+velkmh:27335
+onumepoch:13157
+onumnow:198526.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:01:40+00:00
+nowjuliandate:2460552.6379339
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3742
+1 52303U 22041AU  24242.25115386 -.00005082  00000+0 -30174-3 0  9991
+2 52303  53.2173  81.5589 0001816  93.5937 266.5262 15.08802835131570

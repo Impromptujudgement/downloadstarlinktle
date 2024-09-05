@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55604
+launchyear:2023
+epoch:24241.96361794
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5748
+meananomly:83.7154
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.18954637
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001282
+argumentofperigree:276.3543
+nickname:STARLINK-5748
+idesg:23020AM 
+cosparid:2023-020AM
+altkm:558.73330108674
+velkms:7.5839586363263
+velkmh:27302
+onumepoch:8532
+onumnow:128214.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:07:37+00:00
+nowjuliandate:2460552.6377524
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5748
+1 55604U 23020AM  24241.96361794  .00000657  00000+0  63697-4 0  9997
+2 55604  43.0015 129.1169 0001282 276.3543  83.7154 15.02545440 85323

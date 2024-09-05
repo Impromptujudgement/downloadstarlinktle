@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52877
+launchyear:2022
+epoch:24242.58093987
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4214
+meananomly:270.8486
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8813825769
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0002472
+argumentofperigree:89.2789
+nickname:STARLINK-4214
+idesg:22062AZ 
+cosparid:2022-062AZ
+altkm:540.6168194016
+velkms:7.593249648752
+velkmh:27336
+onumepoch:12245
+onumnow:184765.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:56:33+00:00
+nowjuliandate:2460552.6378956
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4214
+1 52877U 22062AZ  24242.58093987 -.00002055  00000+0 -11103-3 0  9996
+2 52877  53.2168 355.0901 0002472  89.2789 270.8486 15.08840350122450

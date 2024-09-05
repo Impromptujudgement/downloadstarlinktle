@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52993
+launchyear:2022
+epoch:24241.83021419
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4264
+meananomly:272.9066
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8478824472
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001448
+argumentofperigree:87.2092
+nickname:STARLINK-4264
+idesg:22076H  
+cosparid:2022-076H
+altkm:540.55743470586
+velkms:7.5932964651799
+velkmh:27336
+onumepoch:11862
+onumnow:178999.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:55:31+00:00
+nowjuliandate:2460552.637888
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4264
+1 52993U 22076H   24241.83021419  .00001201  00000+0  93485-4 0  9992
+2 52993  53.2155  78.4487 0001448  87.2092 272.9066 15.08851310118626

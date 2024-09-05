@@ -1,0 +1,38 @@
+date:2024-08-27T23:05:59+00:00
+validtle:1
+satid:59570
+launchyear:2024
+epoch:24240.49126807
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31587
+meananomly:141.1459
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.147090184
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001029
+argumentofperigree:218.9323
+nickname:STARLINK-31587
+idesg:24076G  
+cosparid:2024-076G
+altkm:444.33095799983
+velkms:7.6470433730095
+velkmh:27529
+onumepoch:2072
+onumnow:31946.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:47:26+00:00
+nowjuliandate:2460550.4624965
+nowepochdate:24241.9624884259
+TLE:
+STARLINK-31587
+1 59570U 24076G   24240.49126807 -.00000812  00000+0 -12170-4 0  9991
+2 59570  43.0014 311.0192 0001029 218.9323 141.1459 15.40711549 20720

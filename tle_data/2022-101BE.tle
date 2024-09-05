@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53579
+launchyear:2022
+epoch:24242.69497935
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4580
+meananomly:281.1224
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8956294246
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001532
+argumentofperigree:78.994
+nickname:STARLINK-4580
+idesg:22101BE 
+cosparid:2022-101BE
+altkm:540.45146970798
+velkms:7.5934388836078
+velkmh:27336
+onumepoch:11236
+onumnow:169539.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:40:46+00:00
+nowjuliandate:2460552.6378475
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4580
+1 53579U 22101BE  24242.69497935 -.00000559  00000+0 -17030-4 0  9996
+2 53579  53.2148  34.1615 0001532  78.9940 281.1224 15.08835689112368

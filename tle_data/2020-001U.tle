@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:20+00:00
+validtle:1
+satid:44932
+launchyear:2020
+epoch:24242.53100598
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1130
+meananomly:264.0155
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4196082465
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001409
+argumentofperigree:96.0995
+nickname:STARLINK-1130
+idesg:20001U  
+cosparid:2020-001U
+altkm:548.26352261982
+velkms:7.5889905327704
+velkmh:27320
+onumepoch:25710
+onumnow:387304.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:44:39+00:00
+nowjuliandate:2460553.029405
+nowepochdate:24243.5293981481
+TLE:
+STARLINK-1130 (DARKSAT)
+1 44932U 20001U   24242.53100598 -.00001906  00000+0 -10919-3 0  9990
+2 44932  53.0541 327.7996 0001409  96.0995 264.0155 15.06377492257109

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55944
+launchyear:2023
+epoch:24241.77781429
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5926
+meananomly:88.8069
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2234205853
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9978
+eccentricity:0.0003084
+argumentofperigree:271.2737
+nickname:STARLINK-5926
+idesg:23037AG 
+cosparid:2023-037AG
+altkm:574.46606306423
+velkms:7.5738936778661
+velkmh:27266
+onumepoch:8041
+onumnow:120500.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:40:03+00:00
+nowjuliandate:2460552.6377313
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5926
+1 55944U 23037AG  24241.77781429  .00003275  00000+0  28220-3 0  9993
+2 55944  69.9978 251.0172 0003084 271.2737  88.8069 14.98320798 80412

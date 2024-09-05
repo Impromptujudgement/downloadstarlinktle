@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49154
+launchyear:2021
+epoch:24241.7464124
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3068
+meananomly:91.2652
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1817841491
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9982
+eccentricity:0.0003084
+argumentofperigree:268.8153
+nickname:STARLINK-3068
+idesg:21082AA 
+cosparid:2021-082AA
+altkm:574.5164540026
+velkms:7.5738161153212
+velkmh:27266
+onumepoch:16397
+onumnow:245702.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:54:50+00:00
+nowjuliandate:2460552.6380067
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3068
+1 49154U 21082AA  24241.74641240  .00001002  00000+0  91728-4 0  9990
+2 49154  69.9982 241.2156 0003084 268.8153  91.2652 14.98334262163970

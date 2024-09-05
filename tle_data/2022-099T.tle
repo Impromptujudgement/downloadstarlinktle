@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53482
+launchyear:2022
+epoch:24242.61196792
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4360
+meananomly:247.0876
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1410176719
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6598
+eccentricity:0.0001347
+argumentofperigree:113.049
+nickname:STARLINK-4360
+idesg:22099T  
+cosparid:2022-099T
+altkm:566.42567486658
+velkms:7.5777158626329
+velkmh:27280
+onumepoch:11264
+onumnow:169110.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:41:14+00:00
+nowjuliandate:2460552.6378518
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4360
+1 53482U 22099T   24242.61196792  .00001767  00000+0  14212-3 0  9992
+2 53482  97.6598   2.4335 0001347 113.0490 247.0876 15.01262563112647

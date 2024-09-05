@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53624
+launchyear:2022
+epoch:24242.64531009
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4596
+meananomly:268.1788
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8729677708
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001371
+argumentofperigree:91.9361
+nickname:STARLINK-4596
+idesg:22104AN 
+cosparid:2022-104AN
+altkm:540.66339757845
+velkms:7.5931939318118
+velkmh:27335
+onumepoch:11097
+onumnow:167443.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:29:15+00:00
+nowjuliandate:2460552.6378429
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4596
+1 53624U 22104AN  24242.64531009  .00000062  00000+0  22009-4 0  9995
+2 53624  53.2151 214.5508 0001371  91.9361 268.1788 15.08843103110976

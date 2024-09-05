@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51136
+launchyear:2022
+epoch:24241.8352573
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3253
+meananomly:274.9632
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.875767609
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001427
+argumentofperigree:85.1523
+nickname:STARLINK-3253
+idesg:22005AJ 
+cosparid:2022-005AJ
+altkm:540.55077616359
+velkms:7.5933190408613
+velkmh:27336
+onumepoch:14451
+onumnow:218060.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:02:46+00:00
+nowjuliandate:2460552.6379742
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3253
+1 51136U 22005AJ  24241.83525730  .00001184  00000+0  92442-4 0  9999
+2 51136  53.2162 283.2266 0001427  85.1523 274.9632 15.08842187144516

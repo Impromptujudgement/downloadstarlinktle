@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45190
+launchyear:2020
+epoch:24242.55864153
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1234
+meananomly:246.9005
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3740974271
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0562
+eccentricity:0.0001095
+argumentofperigree:113.2099
+nickname:STARLINK-1234
+idesg:20012N  
+cosparid:2020-012N
+altkm:548.41395964947
+velkms:7.5888008567767
+velkmh:27320
+onumepoch:25132
+onumnow:378601.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:24:27+00:00
+nowjuliandate:2460553.0283722
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1234
+1 45190U 20012N   24242.55864153  .00000067  00000+0  23398-4 0  9996
+2 45190  53.0562 347.6728 0001095 113.2099 246.9005 15.06392341251322

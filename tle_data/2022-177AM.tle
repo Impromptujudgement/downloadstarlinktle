@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54855
+launchyear:2022
+epoch:24242.33956135
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5416
+meananomly:87.1632
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.194304919
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0007
+eccentricity:0.0001274
+argumentofperigree:272.9064
+nickname:STARLINK-5416
+idesg:22177AM 
+cosparid:2022-177AM
+altkm:558.7915886274
+velkms:7.5838975393423
+velkmh:27302
+onumepoch:9228
+onumnow:138666.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:08:58+00:00
+nowjuliandate:2460552.6377833
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5416
+1 54855U 22177AM  24242.33956135  .00000696  00000+0  66576-4 0  9999
+2 54855  43.0007 268.9578 0001274 272.9064  87.1632 15.02543894 92281

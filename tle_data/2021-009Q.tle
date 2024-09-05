@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47562
+launchyear:2021
+epoch:24241.63023063
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1961
+meananomly:272.6893
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3150776066
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001432
+argumentofperigree:87.426
+nickname:STARLINK-1961
+idesg:21009Q  
+cosparid:2021-009Q
+altkm:548.01059128502
+velkms:7.5892104667921
+velkmh:27321
+onumepoch:19729
+onumnow:297222.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:07:32+00:00
+nowjuliandate:2460552.6394584
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1961
+1 47562U 21009Q   24241.63023063  .00005537  00000+0  39018-3 0  9995
+2 47562  53.0526   6.8464 0001432  87.4260 272.6893 15.06411598197297

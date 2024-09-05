@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45693
+launchyear:2020
+epoch:24243.16587662
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1417
+meananomly:269.7091
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3284402434
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0595
+eccentricity:0.0001049
+argumentofperigree:90.4018
+nickname:STARLINK-1417
+idesg:20035AN 
+cosparid:2020-035AN
+altkm:548.07484357692
+velkms:7.5891473849828
+velkmh:27321
+onumepoch:23458
+onumnow:353378.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:58:52+00:00
+nowjuliandate:2460553.0283243
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1417
+1 45693U 20035AN  24243.16587662  .00004217  00000+0  30176-3 0  9996
+2 45693  53.0595  34.9500 0001049  90.4018 269.7091 15.06407238234585

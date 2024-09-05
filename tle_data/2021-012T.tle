@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47637
+launchyear:2021
+epoch:24241.71594324
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2014
+meananomly:350.8514
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3531429022
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.061
+eccentricity:2.66E-5
+argumentofperigree:9.248
+nickname:STARLINK-2014
+idesg:21012T  
+cosparid:2021-012T
+altkm:547.91406717044
+velkms:7.5893370204773
+velkmh:27322
+onumepoch:19617
+onumnow:295531.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:10:57+00:00
+nowjuliandate:2460552.6394054
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2014
+1 47637U 21012T   24241.71594324  .00003697  00000+0  26696-3 0  9997
+2 47637  53.0610  36.4586 0000266   9.2480 350.8514 15.06399178196172

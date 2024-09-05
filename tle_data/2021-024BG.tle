@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:50+00:00
+validtle:1
+satid:48031
+launchyear:2021
+epoch:24242.1868174
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2267
+meananomly:264.0702
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.338918925
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001157
+argumentofperigree:96.0419
+nickname:STARLINK-2267
+idesg:21024BG 
+cosparid:2021-024BG
+altkm:548.16370692202
+velkms:7.5890557643109
+velkmh:27321
+onumepoch:19161
+onumnow:288656.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:29:01+00:00
+nowjuliandate:2460552.6380855
+nowepochdate:24243.1380787037
+TLE:
+STARLINK-2267
+1 48031U 21024BG  24242.18681740  .00000603  00000+0  59388-4 0  9999
+2 48031  53.0528 204.3430 0001157  96.0419 264.0702 15.06403819191616

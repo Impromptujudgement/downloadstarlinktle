@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53266
+launchyear:2022
+epoch:24241.12550004
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4058
+meananomly:269.5534
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.868544888
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001463
+argumentofperigree:90.5626
+nickname:STARLINK-4058
+idesg:22086AA 
+cosparid:2022-086AA
+altkm:540.63684315847
+velkms:7.5932206472181
+velkmh:27336
+onumepoch:11674
+onumnow:176172.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:00:43+00:00
+nowjuliandate:2460552.6378686
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4058
+1 53266U 22086AA  24241.12550004  .00001169  00000+0  91512-4 0  9998
+2 53266  53.2161 181.6130 0001463  90.5626 269.5534 15.08844550116747

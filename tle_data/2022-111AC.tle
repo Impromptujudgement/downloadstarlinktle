@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53799
+launchyear:2022
+epoch:24242.20195311
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4710
+meananomly:270.8141
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8861111406
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001546
+argumentofperigree:89.3029
+nickname:STARLINK-4710
+idesg:22111AC 
+cosparid:2022-111AC
+altkm:540.63139892608
+velkms:7.5932362400641
+velkmh:27336
+onumepoch:10884
+onumnow:164236.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:50:49+00:00
+nowjuliandate:2460552.6378264
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4710
+1 53799U 22111AC  24242.20195311  .00001092  00000+0  86695-4 0  9995
+2 53799  53.2167 246.8523 0001546  89.3029 270.8141 15.08838803108844

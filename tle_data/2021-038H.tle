@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48360
+launchyear:2021
+epoch:24241.99699447
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2622
+meananomly:268.0023
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3404023098
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001076
+argumentofperigree:92.109
+nickname:STARLINK-2622
+idesg:21038H  
+cosparid:2021-038H
+altkm:548.10846657423
+velkms:7.5891170900899
+velkmh:27321
+onumepoch:18355
+onumnow:276517.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:55:40+00:00
+nowjuliandate:2460552.6380313
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2622
+1 48360U 21038H   24241.99699447  .00016888  00000+0  11498-2 0  9990
+2 48360  53.0537 345.1978 0001076  92.1090 268.0023 15.06403335183551

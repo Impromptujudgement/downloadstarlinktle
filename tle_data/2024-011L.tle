@@ -1,0 +1,38 @@
+date:2024-08-28T03:57:19+00:00
+validtle:1
+satid:58775
+launchyear:2024
+epoch:24240.70096115
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31123
+meananomly:267.7775
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8606523829
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1611
+eccentricity:0.0001369
+argumentofperigree:92.3371
+nickname:STARLINK-31123
+idesg:24011L  
+cosparid:2024-011L
+altkm:552.65044621325
+velkms:7.5866138908805
+velkmh:27312
+onumepoch:3536
+onumnow:53221.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:49:23+00:00
+nowjuliandate:2460550.6648067
+nowepochdate:24241.1648032407
+TLE:
+STARLINK-31123
+1 58775U 24011L   24240.70096115  .00001782  00000+0  14383-3 0  9990
+2 58775  53.1611  33.6567 0001369  92.3371 267.7775 15.04929667 35362

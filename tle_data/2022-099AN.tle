@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53501
+launchyear:2022
+epoch:24242.32314082
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4434
+meananomly:258.9174
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1272919696
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6555
+eccentricity:0.0001128
+argumentofperigree:101.2177
+nickname:STARLINK-4434
+idesg:22099AN 
+cosparid:2022-099AN
+altkm:566.19850619706
+velkms:7.5779563794086
+velkmh:27281
+onumepoch:11260
+onumnow:169054.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:45:19+00:00
+nowjuliandate:2460552.6378547
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4434
+1 53501U 22099AN  24242.32314082  .00000616  00000+0  52517-4 0  9999
+2 53501  97.6555   2.1186 0001128 101.2177 258.9174 15.01267016112607

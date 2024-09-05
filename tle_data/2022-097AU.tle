@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53430
+launchyear:2022
+epoch:24242.28194665
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4538
+meananomly:281.5654
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8638530333
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2223
+eccentricity:0.0001867
+argumentofperigree:78.5548
+nickname:STARLINK-4538
+idesg:22097AU 
+cosparid:2022-097AU
+altkm:540.36607031093
+velkms:7.593515193991
+velkmh:27337
+onumepoch:11415
+onumnow:172247.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:46:00+00:00
+nowjuliandate:2460552.6378602
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4538
+1 53430U 22097AU  24242.28194665  .00001110  00000+0  87813-4 0  9993
+2 53430  53.2223  86.4561 0001867  78.5548 281.5654 15.08846085114151

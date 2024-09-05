@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53967
+launchyear:2022
+epoch:24242.62417885
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4634
+meananomly:269.3181
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8559578976
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001397
+argumentofperigree:90.7971
+nickname:STARLINK-4634
+idesg:22125D  
+cosparid:2022-125D
+altkm:540.62779801618
+velkms:7.5932236795509
+velkmh:27336
+onumepoch:10529
+onumnow:158874.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:58:49+00:00
+nowjuliandate:2460552.6378068
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4634
+1 53967U 22125D   24242.62417885  .00001069  00000+0  85222-4 0  9995
+2 53967  53.2155 204.9205 0001397  90.7971 269.3181 15.08848668105299

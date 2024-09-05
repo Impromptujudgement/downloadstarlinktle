@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53286
+launchyear:2022
+epoch:24242.4916613
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4165
+meananomly:274.3874
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8733223353
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001252
+argumentofperigree:85.7261
+nickname:STARLINK-4165
+idesg:22086AW 
+cosparid:2022-086AW
+altkm:540.56749195678
+velkms:7.5932993600814
+velkmh:27336
+onumepoch:11691
+onumnow:176408.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:48:00+00:00
+nowjuliandate:2460552.6378663
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4165
+1 53286U 22086AW  24242.49166130  .00001753  00000+0  12816-3 0  9992
+2 53286  53.2166 165.1734 0001252  85.7261 274.3874 15.08842987116910

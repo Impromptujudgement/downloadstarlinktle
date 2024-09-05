@@ -1,0 +1,38 @@
+date:2024-08-28T06:54:33+00:00
+validtle:1
+satid:59087
+launchyear:2024
+epoch:24240.67714712
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31266
+meananomly:113.7513
+meanmotion:15.2593
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1431013146
+altitudeatperigee:488
+altitudeatapogee:488
+inclination:42.9988
+eccentricity:5.88E-5
+argumentofperigree:246.3276
+nickname:STARLINK-31266
+idesg:24041P  
+cosparid:2024-041P
+altkm:487.94410078768
+velkms:7.6228852487792
+velkmh:27442
+onumepoch:2887
+onumnow:44062.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:15:06+00:00
+nowjuliandate:2460550.7878908
+nowepochdate:24241.2878819444
+TLE:
+STARLINK-31266
+1 59087U 24041P   24240.67714712  .00004601  00000+0  18551-3 0  9990
+2 59087  42.9988 223.7626 0000588 246.3276 113.7513 15.25926729 28874

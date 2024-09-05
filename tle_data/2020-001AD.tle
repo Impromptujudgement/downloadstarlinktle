@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:41+00:00
+validtle:1
+satid:44941
+launchyear:2020
+epoch:24242.48860848
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1094
+meananomly:264.9747
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3879139534
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.000133
+argumentofperigree:95.1394
+nickname:STARLINK-1094
+idesg:20001AD 
+cosparid:2020-001AD
+altkm:548.21075701984
+velkms:7.589031008148
+velkmh:27321
+onumepoch:25614
+onumnow:385861.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:43:36+00:00
+nowjuliandate:2460553.0296514
+nowepochdate:24243.5296412037
+TLE:
+STARLINK-1094
+1 44941U 20001AD  24242.48860848  .00021571  00000+0  14631-2 0  9997
+2 44941  53.0540 307.9917 0001330  95.1394 264.9747 15.06387833256146

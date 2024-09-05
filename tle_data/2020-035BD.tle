@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45708
+launchyear:2020
+epoch:24242.08775194
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1418
+meananomly:272.8184
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2868231976
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001512
+argumentofperigree:87.2978
+nickname:STARLINK-1418
+idesg:20035BD 
+cosparid:2020-035BD
+altkm:547.97761563662
+velkms:7.5892311455804
+velkmh:27321
+onumepoch:23511
+onumnow:354196.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:06:22+00:00
+nowjuliandate:2460553.0283202
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1418
+1 45708U 20035BD  24242.08775194  .00020880  00000+0  14157-2 0  9996
+2 45708  53.0546  19.7882 0001512  87.2978 272.8184 15.06420817235112

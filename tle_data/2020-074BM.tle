@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46798
+launchyear:2020
+epoch:24242.47937335
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1948
+meananomly:260.0519
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4224249215
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001694
+argumentofperigree:100.0661
+nickname:STARLINK-1948
+idesg:20074BM 
+cosparid:2020-074BM
+altkm:548.36729379228
+velkms:7.5888783970583
+velkmh:27320
+onumepoch:21222
+onumnow:319692.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:30:18+00:00
+nowjuliandate:2460552.6396986
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1948
+1 46798U 20074BM  24242.47937335  .00019040  00000+0  12945-2 0  9998
+2 46798  53.0537 318.0342 0001694 100.0661 260.0519 15.06376573212229

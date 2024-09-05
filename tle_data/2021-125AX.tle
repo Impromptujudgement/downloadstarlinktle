@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50201
+launchyear:2021
+epoch:24242.19872032
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3255
+meananomly:268.1777
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8726590552
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001828
+argumentofperigree:91.9425
+nickname:STARLINK-3255
+idesg:21125AX 
+cosparid:2021-125AX
+altkm:540.67329715392
+velkms:7.593182900634
+velkmh:27335
+onumepoch:15209
+onumnow:229492.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:46:09+00:00
+nowjuliandate:2460552.6379855
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3255
+1 50201U 21125AX  24242.19872032  .00001224  00000+0  95002-4 0  9993
+2 50201  53.2155 221.8041 0001828  91.9425 268.1777 15.08843204152098

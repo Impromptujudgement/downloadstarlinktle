@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53832
+launchyear:2022
+epoch:24241.87343138
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4747
+meananomly:261.7576
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762199848
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001703
+argumentofperigree:98.3609
+nickname:STARLINK-4747
+idesg:22114Q  
+cosparid:2022-114Q
+altkm:540.8056393205
+velkms:7.5930396388561
+velkmh:27335
+onumepoch:10862
+onumnow:163908.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:57:44+00:00
+nowjuliandate:2460552.6378175
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4747
+1 53832U 22114Q   24241.87343138  .00000282  00000+0  35835-4 0  9990
+2 53832  53.2167 288.0049 0001703  98.3609 261.7576 15.08842039108625

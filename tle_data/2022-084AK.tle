@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53222
+launchyear:2022
+epoch:24242.45613658
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4381
+meananomly:264.0198
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1372787752
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6601
+eccentricity:8.93E-5
+argumentofperigree:96.1128
+nickname:STARLINK-4381
+idesg:22084AK 
+cosparid:2022-084AK
+altkm:566.12237804016
+velkms:7.5780449370235
+velkmh:27281
+onumepoch:11609
+onumnow:174291.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:56:50+00:00
+nowjuliandate:2460552.6378729
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4381
+1 53222U 22084AK  24242.45613658  .00003407  00000+0  26972-3 0  9994
+2 53222  97.6601 302.2457 0000893  96.1128 264.0198 15.01263776116090

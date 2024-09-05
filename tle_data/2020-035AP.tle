@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45694
+launchyear:2020
+epoch:23053.22293545
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1419
+meananomly:234.2303
+meanmotion:15.1747
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6891.6234638915
+altitudeatperigee:510
+altitudeatapogee:517
+inclination:53.0514
+eccentricity:0.0004425
+argumentofperigree:125.9102
+nickname:STARLINK-1419
+idesg:20035AP 
+cosparid:2020-035AP
+altkm:516.15292629592
+velkms:7.6057450153507
+velkmh:27381
+onumepoch:15142
+onumnow:247838.14
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T05:21:02+00:00
+nowjuliandate:2460553.028324
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1419
+1 45694U 20035AP  23053.22293545  .00047908  00000+0  23626-2 0  9991
+2 45694  53.0514   0.3135 0004425 125.9102 234.2303 15.17471855151429

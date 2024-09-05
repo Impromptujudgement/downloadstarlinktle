@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55648
+launchyear:2023
+epoch:24242.46512445
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5501
+meananomly:85.5072
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1688857629
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0021
+eccentricity:0.0002596
+argumentofperigree:274.579
+nickname:STARLINK-5501
+idesg:23021W  
+cosparid:2023-021W
+altkm:574.31495003545
+velkms:7.5740286622513
+velkmh:27267
+onumepoch:8502
+onumnow:127398.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:09:47+00:00
+nowjuliandate:2460552.6377419
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5501
+1 55648U 23021W   24242.46512445 -.00000601  00000+0 -42584-4 0  9996
+2 55648  70.0021 149.4576 0002596 274.5790  85.5072 14.98338433 85020

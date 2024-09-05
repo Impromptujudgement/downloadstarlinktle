@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45550
+launchyear:2020
+epoch:24242.29412338
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1390
+meananomly:273.4925
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.350381465
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0504
+eccentricity:9.8E-5
+argumentofperigree:86.6176
+nickname:STARLINK-1390
+idesg:20025V  
+cosparid:2020-025V
+altkm:548.0507689908
+velkms:7.5891857520647
+velkmh:27321
+onumepoch:24048
+onumnow:362277.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:03:32+00:00
+nowjuliandate:2460553.0283285
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1390
+1 45550U 20025V   24242.29412338  .00002470  00000+0  18461-3 0  9999
+2 45550  53.0504  88.5956 0000980  86.6176 273.4925 15.06400079240482

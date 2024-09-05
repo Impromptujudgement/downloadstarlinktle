@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54866
+launchyear:2022
+epoch:24242.76939754
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5398
+meananomly:101.5066
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2357255705
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001231
+argumentofperigree:258.5638
+nickname:STARLINK-5398
+idesg:22177AY 
+cosparid:2022-177AY
+altkm:559.04707968737
+velkms:7.5836409488974
+velkmh:27301
+onumepoch:9235
+onumnow:138764.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:27:56+00:00
+nowjuliandate:2460552.6377821
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5398
+1 54866U 22177AY  24242.76939754 -.00000568  00000+0 -27007-4 0  9992
+2 54866  43.0009 266.1620 0001231 258.5638 101.5066 15.02530437 92352

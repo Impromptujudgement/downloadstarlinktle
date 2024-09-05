@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54101
+launchyear:2022
+epoch:24242.44892492
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5204
+meananomly:269.4454
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8609737361
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001417
+argumentofperigree:90.6701
+nickname:STARLINK-5204
+idesg:22136BC 
+cosparid:2022-136BC
+altkm:540.63090319287
+velkms:7.593223019131
+velkmh:27336
+onumepoch:10354
+onumnow:156236.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:46:27+00:00
+nowjuliandate:2460552.6378004
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5204
+1 54101U 22136BC  24242.44892492  .00001883  00000+0  13634-3 0  9990
+2 54101  53.2165 300.4344 0001417  90.6701 269.4454 15.08847027103548

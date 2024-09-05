@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51805
+launchyear:2022
+epoch:24241.48660939
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3605
+meananomly:268.5843
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8526995942
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001476
+argumentofperigree:91.5319
+nickname:STARLINK-3605
+idesg:22017AP 
+cosparid:2022-017AP
+altkm:540.63833442167
+velkms:7.5932103342685
+velkmh:27336
+onumepoch:13997
+onumnow:211218.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:40:43+00:00
+nowjuliandate:2460552.6379579
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3605
+1 51805U 22017AP  24241.48660939  .00002580  00000+0  18010-3 0  9996
+2 51805  53.2161 315.0696 0001476  91.5319 268.5843 15.08849734139979

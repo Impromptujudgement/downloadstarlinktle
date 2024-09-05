@@ -1,0 +1,38 @@
+date:2024-08-28T01:08:47+00:00
+validtle:1
+satid:59412
+launchyear:2024
+epoch:24240.60766715
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31568
+meananomly:91.0269
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1320264426
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0035
+eccentricity:0.0001108
+argumentofperigree:269.0461
+nickname:STARLINK-31568
+idesg:24064Q  
+cosparid:2024-064Q
+altkm:443.78312038046
+velkms:7.6476487486265
+velkmh:27532
+onumepoch:2350
+onumnow:36213.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:35:02+00:00
+nowjuliandate:2460550.5477769
+nowepochdate:24241.0477662037
+TLE:
+STARLINK-31568
+1 59412U 24064Q   24240.60766715  .00001965  00000+0  54270-4 0  9999
+2 59412  43.0035 352.4207 0001108 269.0461  91.0269 15.40716652 23503

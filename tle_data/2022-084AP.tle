@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53226
+launchyear:2022
+epoch:24242.70980067
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4359
+meananomly:263.9795
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1716071524
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6566
+eccentricity:0.0001526
+argumentofperigree:96.1603
+nickname:STARLINK-4359
+idesg:22084AP 
+cosparid:2022-084AP
+altkm:566.20342952279
+velkms:7.5779751728209
+velkmh:27281
+onumepoch:11576
+onumnow:173791.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:02:07+00:00
+nowjuliandate:2460552.6378727
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4359
+1 53226U 22084AP  24242.70980067 -.00000114  00000+0 -42802-5 0  9993
+2 53226  97.6566 302.5152 0001526  96.1603 263.9795 15.01252639115761

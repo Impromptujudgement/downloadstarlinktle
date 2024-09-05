@@ -1,0 +1,38 @@
+date:2024-08-27T22:02:21+00:00
+validtle:1
+satid:59690
+launchyear:2024
+epoch:24240.61884648
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32106
+meananomly:88.5147
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1706556747
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0082
+eccentricity:0.000314
+argumentofperigree:271.535
+nickname:STARLINK-32106
+idesg:24086J  
+cosparid:2024-086J
+altkm:443.75380682675
+velkms:7.6477031817252
+velkmh:27532
+onumepoch:1832
+onumnow:28230.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:51:08+00:00
+nowjuliandate:2460550.4183043
+nowepochdate:24240.9182986111
+TLE:
+STARLINK-32106
+1 59690U 24086J   24240.61884648  .00005309  00000+0  13427-3 0  9992
+2 59690  43.0082   1.9780 0003140 271.5350  88.5147 15.40703566 18328

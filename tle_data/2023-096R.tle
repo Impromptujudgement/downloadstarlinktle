@@ -1,0 +1,38 @@
+date:2024-08-29T05:23:20+00:00
+validtle:1
+satid:57305
+launchyear:2023
+epoch:24241.63595719
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30177
+meananomly:92.0351
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2085498352
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0088
+eccentricity:0.0001678
+argumentofperigree:268.03
+nickname:STARLINK-30177
+idesg:23096R  
+cosparid:2023-096R
+altkm:558.89186514835
+velkms:7.5837957351003
+velkmh:27302
+onumepoch:6277
+onumnow:94319.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:15:47+00:00
+nowjuliandate:2460551.7245425
+nowepochdate:24242..224537037
+TLE:
+STARLINK-30177
+1 57305U 23096R   24241.63595719 -.00000048  00000+0  11547-4 0  9992
+2 57305  43.0088  15.2874 0001678 268.0300  92.0351 15.02539266 62774

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48596
+launchyear:2021
+epoch:24242.40798253
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2253
+meananomly:272.9949
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3254213852
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001245
+argumentofperigree:87.1182
+nickname:STARLINK-2253
+idesg:21041AV 
+cosparid:2021-041AV
+altkm:548.02249462097
+velkms:7.589203081664
+velkmh:27321
+onumepoch:18152
+onumnow:273454.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:47:30+00:00
+nowjuliandate:2460552.638019
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2253
+1 48596U 21041AV  24242.40798253  .00017784  00000+0  12095-2 0  9997
+2 48596  53.0536 123.3507 0001245  87.1182 272.9949 15.06408223181526

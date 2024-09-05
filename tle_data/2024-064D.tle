@@ -1,0 +1,38 @@
+date:2024-08-28T01:16:23+00:00
+validtle:1
+satid:59401
+launchyear:2024
+epoch:24240.58751947
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31507
+meananomly:239.6692
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2137754702
+altitudeatperigee:442
+altitudeatapogee:446
+inclination:43.0072
+eccentricity:0.0002383
+argumentofperigree:120.44
+nickname:STARLINK-31507
+idesg:24064D  
+cosparid:2024-064D
+altkm:444.67281563604
+velkms:7.6466976545839
+velkmh:27528
+onumepoch:2344
+onumnow:36120.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:06:02+00:00
+nowjuliandate:2460550.5530476
+nowepochdate:24241.0530439815
+TLE:
+STARLINK-31507
+1 59401U 24064D   24240.58751947  .00003633  00000+0  94248-4 0  9998
+2 59401  43.0072 352.2657 0002383 120.4400 239.6692 15.40688959 23449

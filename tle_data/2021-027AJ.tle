@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48124
+launchyear:2021
+epoch:24242.46880149
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2465
+meananomly:266.0207
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3618164687
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001272
+argumentofperigree:94.0927
+nickname:STARLINK-2465
+idesg:21027AJ 
+cosparid:2021-027AJ
+altkm:548.16502316038
+velkms:7.5890668405933
+velkmh:27321
+onumepoch:18817
+onumnow:283468.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:15:04+00:00
+nowjuliandate:2460552.6380529
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2465
+1 48124U 21027AJ  24242.46880149  .00036406  00000+0  24506-2 0  9992
+2 48124  53.0532 143.0772 0001272  94.0927 266.0207 15.06396348188179

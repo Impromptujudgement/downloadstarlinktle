@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47760
+launchyear:2021
+epoch:24241.63393344
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2178
+meananomly:269.5184
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3399548424
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001459
+argumentofperigree:90.5972
+nickname:STARLINK-2178
+idesg:21017AQ 
+cosparid:2021-017AQ
+altkm:548.09050705326
+velkms:7.5891365198193
+velkmh:27321
+onumepoch:19284
+onumnow:290515.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:12:52+00:00
+nowjuliandate:2460552.6393822
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2178
+1 47760U 21017AQ  24241.63393344  .00003817  00000+0  27498-3 0  9994
+2 47760  53.0527 206.8293 0001459  90.5972 269.5184 15.06403481192840

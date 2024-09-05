@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47626
+launchyear:2021
+epoch:24241.79518728
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1761
+meananomly:282.6582
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3107500876
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0555
+eccentricity:0.0001967
+argumentofperigree:77.4627
+nickname:STARLINK-1761
+idesg:21012G  
+cosparid:2021-012G
+altkm:547.75471578878
+velkms:7.5894884189268
+velkmh:27322
+onumepoch:19589
+onumnow:295111.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:05:04+00:00
+nowjuliandate:2460552.6394148
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1761
+1 47626U 21012G   24241.79518728  .00004632  00000+0  32953-3 0  9990
+2 47626  53.0555  56.1008 0001967  77.4627 282.6582 15.06413010195892

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53971
+launchyear:2022
+epoch:24242.21937547
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4639
+meananomly:267.6170
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8753396859
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001488
+argumentofperigree:92.4992
+nickname:STARLINK-4639
+idesg:22125H  
+cosparid:2022-125H
+altkm:540.67855025247
+velkms:7.5931786044611
+velkmh:27335
+onumepoch:10523
+onumnow:158789.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:15:54+00:00
+nowjuliandate:2460552.6378064
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4639
+1 53971U 22125H   24242.21937547  .00000761  00000+0  65924-4 0  9992
+2 53971  53.2160 206.6615 0001488  92.4992 267.6170 15.08842327105236

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45582
+launchyear:2020
+epoch:24242.76964922
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1337
+meananomly:275.4399
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2734975388
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0492
+eccentricity:0.0001313
+argumentofperigree:84.674
+nickname:STARLINK-1337
+idesg:20025BD 
+cosparid:2020-025BD
+altkm:547.9289586879
+velkms:7.5892771638371
+velkmh:27321
+onumepoch:24156
+onumnow:363903.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:28:18+00:00
+nowjuliandate:2460553.0283358
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1337
+1 45582U 20025BD  24242.76964922  .00012138  00000+0  83178-3 0  9996
+2 45582  53.0492  56.7263 0001313  84.6740 275.4399 15.06425165241567

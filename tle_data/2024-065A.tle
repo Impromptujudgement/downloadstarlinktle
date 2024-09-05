@@ -1,0 +1,38 @@
+date:2024-08-28T01:00:41+00:00
+validtle:1
+satid:59421
+launchyear:2024
+epoch:24239.76496102
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-11087
+meananomly:244.2762
+meanmotion:15.7147
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.8401602026
+altitudeatperigee:354
+altitudeatapogee:356
+inclination:53.1592
+eccentricity:0.0001349
+argumentofperigree:115.8396
+nickname:STARLINK-11087
+idesg:24065A  
+cosparid:2024-065A
+altkm:356.01310659448
+velkms:7.6965571523778
+velkmh:27708
+onumepoch:2346
+onumnow:36886.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T18:21:33+00:00
+nowjuliandate:2460550.5421507
+nowepochdate:24241.0421412037
+TLE:
+STARLINK-11087 [DTC]
+1 59421U 24065A   24239.76496102 -.00000212  00000+0  30097-5 0  9992
+2 59421  53.1592 341.9557 0001349 115.8396 244.2762 15.71467848 23465

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48659
+launchyear:2021
+epoch:24242.34347603
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2717
+meananomly:277.0545
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3049484031
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0533
+eccentricity:0.0003323
+argumentofperigree:83.0822
+nickname:STARLINK-2717
+idesg:21044X  
+cosparid:2021-044X
+altkm:547.76505705152
+velkms:7.5894739181864
+velkmh:27322
+onumepoch:18054
+onumnow:271980.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:14:36+00:00
+nowjuliandate:2460552.6380076
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2717
+1 48659U 21044X   24242.34347603  .00017616  00000+0  11980-2 0  9998
+2 48659  53.0533 103.6397 0003323  83.0822 277.0545 15.06414903180547

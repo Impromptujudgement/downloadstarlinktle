@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56102
+launchyear:2023
+epoch:24242.49606432
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6075
+meananomly:87.0559
+meanmotion:15.0257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1148634586
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:0.0001469
+argumentofperigree:273.0115
+nickname:STARLINK-6075
+idesg:23046K  
+cosparid:2023-046K
+altkm:558.70380058423
+velkms:7.5839501668559
+velkmh:27302
+onumepoch:7878
+onumnow:118382.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:54:20+00:00
+nowjuliandate:2460552.6377152
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6075
+1 56102U 23046K   24242.49606432 -.00004589  00000+0 -32456-3 0  9997
+2 56102  43.0027 306.7588 0001469 273.0115  87.0559 15.02569704 78781

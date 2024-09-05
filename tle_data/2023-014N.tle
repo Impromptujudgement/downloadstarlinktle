@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55403
+launchyear:2023
+epoch:24242.4303574
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5597
+meananomly:90.6794
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2006138595
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0007
+eccentricity:0.0003047
+argumentofperigree:269.4016
+nickname:STARLINK-5597
+idesg:23014N  
+cosparid:2023-014N
+altkm:574.51320998071
+velkms:7.5738298962479
+velkmh:27266
+onumepoch:8764
+onumnow:131324.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:19:43+00:00
+nowjuliandate:2460552.6377615
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5597
+1 55403U 23014N   24242.43035740 -.00000522  00000+0 -35960-4 0  9994
+2 55403  70.0007  29.4933 0003047 269.4016  90.6794 14.98328173 87641

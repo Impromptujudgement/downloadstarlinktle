@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:00+00:00
+validtle:1
+satid:47904
+launchyear:2021
+epoch:24241.7150145
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2364
+meananomly:278.3624
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3163249876
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001378
+argumentofperigree:81.7521
+nickname:STARLINK-2364
+idesg:21021AW 
+cosparid:2021-021AW
+altkm:547.91962587163
+velkms:7.5893108021874
+velkmh:27322
+onumepoch:19221
+onumnow:289568.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:09:37+00:00
+nowjuliandate:2460552.6382044
+nowepochdate:24243.1381944444
+TLE:
+STARLINK-2364
+1 47904U 21021AW  24241.71501450  .00001795  00000+0  13935-3 0  9991
+2 47904  53.0531 246.4647 0001378  81.7521 278.3624 15.06411191192215

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53798
+launchyear:2022
+epoch:24242.75569199
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4712
+meananomly:278.8153
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8964180315
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001368
+argumentofperigree:81.2994
+nickname:STARLINK-4712
+idesg:22111AB 
+cosparid:2022-111AB
+altkm:540.51172373475
+velkms:7.5933731996814
+velkmh:27336
+onumepoch:10879
+onumnow:164151.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:08:12+00:00
+nowjuliandate:2460552.6378268
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4712
+1 53798U 22111AB  24242.75569199  .00001647  00000+0  12157-3 0  9990
+2 53798  53.2156 253.8965 0001368  81.2994 278.8153 15.08835431108792

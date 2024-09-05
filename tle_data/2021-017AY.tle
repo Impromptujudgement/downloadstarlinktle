@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:41+00:00
+validtle:1
+satid:47768
+launchyear:2021
+epoch:24242.62318837
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2189
+meananomly:267.6877
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3050740601
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001424
+argumentofperigree:92.4275
+nickname:STARLINK-2189
+idesg:21017AY 
+cosparid:2021-017AY
+altkm:548.08684200778
+velkms:7.5891214654053
+velkmh:27321
+onumepoch:19292
+onumnow:290625.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:57:23+00:00
+nowjuliandate:2460552.6393715
+nowepochdate:24243.1393634259
+TLE:
+STARLINK-2189
+1 47768U 21017AY  24242.62318837  .00008299  00000+0  57513-3 0  9996
+2 47768  53.0520 207.7838 0001424  92.4275 267.6877 15.06414862192927

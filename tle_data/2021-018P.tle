@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:29+00:00
+validtle:1
+satid:47800
+launchyear:2021
+epoch:24241.64406978
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2381
+meananomly:266.4784
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3453551047
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001494
+argumentofperigree:93.6376
+nickname:STARLINK-2381
+idesg:21018P  
+cosparid:2021-018P
+altkm:548.15112900865
+velkms:7.5890730621376
+velkmh:27321
+onumepoch:19276
+onumnow:290394.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:27:28+00:00
+nowjuliandate:2460552.6392312
+nowepochdate:24243..139224537
+TLE:
+STARLINK-2381
+1 47800U 21018P   24241.64406978 -.00000376  00000+0 -63296-5 0  9996
+2 47800  53.0542 216.7833 0001494  93.6376 266.4784 15.06401719192768

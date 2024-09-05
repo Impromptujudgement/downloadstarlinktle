@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55434
+launchyear:2023
+epoch:24241.81329131
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5621
+meananomly:90.8468
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1522827737
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9994
+eccentricity:0.0003114
+argumentofperigree:269.2334
+nickname:STARLINK-5621
+idesg:23014AV 
+cosparid:2023-014AV
+altkm:574.47171168725
+velkms:7.573848814448
+velkmh:27266
+onumepoch:8750
+onumnow:131124.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:31:08+00:00
+nowjuliandate:2460552.6377631
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5621
+1 55434U 23014AV  24241.81329131  .00002591  00000+0  22476-3 0  9992
+2 55434  69.9994  71.0842 0003114 269.2334  90.8468 14.98343802 87506

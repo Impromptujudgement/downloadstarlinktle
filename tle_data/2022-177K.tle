@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54829
+launchyear:2022
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5380
+meananomly:67.4819
+meanmotion:15.7541
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6721.6076448818
+altitudeatperigee:342
+altitudeatapogee:345
+inclination:43.002
+eccentricity:0.0001627
+argumentofperigree:268.3781
+nickname:STARLINK-5380
+idesg:22177K  
+cosparid:2022-177K
+altkm:346.33566563645
+velkms:7.7022538240799
+velkmh:27728
+onumepoch:9232
+onumnow:145445.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6377802
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5380
+1 54829U 22177K   24242.91667824  .01441770  00000+0  81527-2 0  9992
+2 54829  43.0020 270.0216 0001627 268.3781  67.4819 15.75408626 92323

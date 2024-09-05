@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47755
+launchyear:2021
+epoch:22116.735758
+epochday:116
+tleage:857
+tleclassification:C
+active:0
+name:STARLINK-2172
+meananomly:10.2045
+meanmotion:15.9373
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6669.9900608788
+altitudeatperigee:289
+altitudeatapogee:295
+inclination:53.0457
+eccentricity:0.0004798
+argumentofperigree:209.787
+nickname:STARLINK-2172
+idesg:21017AK 
+cosparid:2021-017AK
+altkm:298.2698562958
+velkms:7.7304134895422
+velkmh:27829
+onumepoch:1
+onumnow:33905.10
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-26T17:39:29+00:00
+nowjuliandate:2460552.6393893
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2172
+1 47755C 21017AK  22116.73575800  .01972772  00000-0  47564-2 0  1160
+2 47755  53.0457  23.7147 0004798 209.7870  10.2045 15.93731572    15

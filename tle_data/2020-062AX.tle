@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46370
+launchyear:2020
+epoch:24241.59016668
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1670
+meananomly:288.3759
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3516656402
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001127
+argumentofperigree:71.7352
+nickname:STARLINK-1670
+idesg:20062AX 
+cosparid:2020-062AX
+altkm:547.84777549081
+velkms:7.5894088358717
+velkmh:27322
+onumepoch:22065
+onumnow:332408.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:09:50+00:00
+nowjuliandate:2460553.0282777
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1670
+1 46370U 20062AX  24241.59016668  .00032336  00000+0  21798-2 0  9999
+2 46370  53.0542 342.0269 0001127  71.7352 288.3759 15.06399660220655

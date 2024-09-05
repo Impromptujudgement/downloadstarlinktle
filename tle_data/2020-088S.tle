@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47138
+launchyear:2020
+epoch:24242.41031959
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1850
+meananomly:272.0869
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3660306671
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001315
+argumentofperigree:88.027
+nickname:STARLINK-1850
+idesg:20088S  
+cosparid:2020-088S
+altkm:548.07491169117
+velkms:7.5891678597665
+velkmh:27321
+onumepoch:20821
+onumnow:313657.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:50:52+00:00
+nowjuliandate:2460552.6396027
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1850
+1 47138U 20088S   24242.41031959  .00000442  00000+0  48569-4 0  9992
+2 47138  53.0528 278.6635 0001315  88.0270 272.0869 15.06394973208214

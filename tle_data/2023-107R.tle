@@ -1,0 +1,38 @@
+date:2024-08-28T22:51:34+00:00
+validtle:1
+satid:57472
+launchyear:2023
+epoch:24241.390825
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30204
+meananomly:84.5570
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2003039036
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.001
+eccentricity:0.0001099
+argumentofperigree:275.5147
+nickname:STARLINK-30204
+idesg:23107R  
+cosparid:2023-107R
+altkm:558.7690131874
+velkms:7.5839254769698
+velkmh:27302
+onumepoch:6113
+onumnow:91858.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:22:47+00:00
+nowjuliandate:2460551.4524803
+nowepochdate:24241.9524768519
+TLE:
+STARLINK-30204
+1 57472U 23107R   24241.39082500  .00000418  00000+0  46014-4 0  9999
+2 57472  43.0010 132.3589 0001099 275.5147  84.5570 15.02541945 61132

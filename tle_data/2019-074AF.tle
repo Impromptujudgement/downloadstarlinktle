@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:46+00:00
+validtle:1
+satid:44742
+launchyear:2019
+epoch:21317.84252201
+epochday:317
+tleage:1021
+tleclassification:C
+active:0
+name:STARLINK-1037
+meananomly:64.7708
+meanmotion:16.0008
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6652.342689176
+altitudeatperigee:211
+altitudeatapogee:337
+inclination:53.2181
+eccentricity:0.0094386
+argumentofperigree:45.7824
+nickname:STARLINK-1037
+idesg:19074AF 
+cosparid:2019-074AF
+altkm:253.34488273518
+velkms:7.7763757177304
+velkmh:27995
+onumepoch:1
+onumnow:46820.79
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-11-13T20:13:14+00:00
+nowjuliandate:2460553.0311023
+nowepochdate:24243..531099537
+TLE:
+STARLINK-1037
+1 44742C 19074AF  21317.84252201  .00293191  00000-0  32493-3 0  3173
+2 44742  53.2181 133.2537 0094386  45.7824  64.7708 16.00077566    18

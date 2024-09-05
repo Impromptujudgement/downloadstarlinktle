@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:51+00:00
+validtle:1
+satid:46694
+launchyear:2020
+epoch:24242.19787559
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1793
+meananomly:263.0752
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3447574588
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001361
+argumentofperigree:97.0392
+nickname:STARLINK-1793
+idesg:20073AA 
+cosparid:2020-073AA
+altkm:548.20044942147
+velkms:7.5890187059518
+velkmh:27320
+onumepoch:21387
+onumnow:322188.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:44:56+00:00
+nowjuliandate:2460552.6408696
+nowepochdate:24243.1408680556
+TLE:
+STARLINK-1793
+1 46694U 20073AA  24242.19787559 -.00000087  00000+0  13037-4 0  9999
+2 46694  53.0529 204.2958 0001361  97.0392 263.0752 15.06401914213873

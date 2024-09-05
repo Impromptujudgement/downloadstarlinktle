@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46340
+launchyear:2020
+epoch:24242.04540589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1759
+meananomly:267.0545
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3551565157
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:4.07E-5
+argumentofperigree:93.0491
+nickname:STARLINK-1759
+idesg:20062R  
+cosparid:2020-062R
+altkm:548.11173644118
+velkms:7.5891215739599
+velkmh:27321
+onumepoch:22024
+onumnow:331791.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:05:23+00:00
+nowjuliandate:2460553.0282349
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1759
+1 46340U 20062R   24242.04540589  .00011710  00000+0  80371-3 0  9997
+2 46340  53.0544   0.2969 0000407  93.0491 267.0545 15.06398521220242

@@ -1,0 +1,38 @@
+date:2024-08-28T18:17:36+00:00
+validtle:1
+satid:58075
+launchyear:2023
+epoch:24241.27088703
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30604
+meananomly:89.7683
+meanmotion:15.0257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1286432033
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001015
+argumentofperigree:270.3043
+nickname:STARLINK-30604
+idesg:23160A  
+cosparid:2023-160A
+altkm:558.76703155962
+velkms:7.5838885847787
+velkmh:27302
+onumepoch:4888
+onumnow:73452.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:30:05+00:00
+nowjuliandate:2460551.2622254
+nowepochdate:24241.7622222222
+TLE:
+STARLINK-30604
+1 58075U 23160A   24241.27088703 -.00006512  00000+0 -46707-3 0  9997
+2 58075  43.0031 234.8582 0001015 270.3043  89.7683 15.02565227 48880

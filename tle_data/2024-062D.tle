@@ -1,0 +1,38 @@
+date:2024-08-28T01:32:23+00:00
+validtle:1
+satid:59377
+launchyear:2024
+epoch:24240.42190701
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31716
+meananomly:285.6307
+meanmotion:15.3964
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.2992418168
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1593
+eccentricity:8.05E-5
+argumentofperigree:74.4786
+nickname:STARLINK-31716
+idesg:24062D  
+cosparid:2024-062D
+altkm:447.91753018288
+velkms:7.6447898473645
+velkmh:27521
+onumepoch:2393
+onumnow:36853.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:07:33+00:00
+nowjuliandate:2460550.5641586
+nowepochdate:24241.0641550926
+TLE:
+STARLINK-31716
+1 59377U 24062D   24240.42190701  .00015032  00000+0  38474-3 0  9990
+2 59377  53.1593 338.4884 0000805  74.4786 285.6307 15.39644344 23937

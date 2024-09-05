@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56480
+launchyear:2023
+epoch:24242.02386356
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6214
+meananomly:98.2622
+meanmotion:15.0232
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.8684423111
+altitudeatperigee:558
+altitudeatapogee:562
+inclination:69.9989
+eccentricity:0.0003182
+argumentofperigree:261.8178
+nickname:STARLINK-6214
+idesg:23064AJ 
+cosparid:2023-064AJ
+altkm:562.47744449725
+velkms:7.5802419489423
+velkmh:27289
+onumepoch:7257
+onumnow:109040.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:34:22+00:00
+nowjuliandate:2460552.637697
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6214
+1 56480U 23064AJ  24242.02386356  .00051378  00000+0  38583-2 0  9997
+2 56480  69.9989  90.2422 0003182 261.8178  98.2622 15.02324901 72578

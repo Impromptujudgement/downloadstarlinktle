@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45178
+launchyear:2020
+epoch:24242.69868655
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1138
+meananomly:267.9825
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2469843269
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001519
+argumentofperigree:92.1338
+nickname:STARLINK-1138
+idesg:20012A  
+cosparid:2020-012A
+altkm:548.02619426877
+velkms:7.5891561471461
+velkmh:27321
+onumepoch:25082
+onumnow:377856.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:46:07+00:00
+nowjuliandate:2460553.0284108
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1138
+1 45178U 20012A   24242.69868655  .00016616  00000+0  11307-2 0  9990
+2 45178  53.0536  27.0453 0001519  92.1338 267.9825 15.06433816250825

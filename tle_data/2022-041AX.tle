@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52306
+launchyear:2022
+epoch:24242.22996269
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3747
+meananomly:278.7157
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8831126128
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001211
+argumentofperigree:81.3972
+nickname:STARLINK-3747
+idesg:22041AX 
+cosparid:2022-041AX
+altkm:540.51656453372
+velkms:7.5933606023999
+velkmh:27336
+onumepoch:13170
+onumnow:198727.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:31:09+00:00
+nowjuliandate:2460552.6379335
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3747
+1 52306U 22041AX  24242.22996269 -.00000221  00000+0  42098-5 0  9997
+2 52306  53.2164  71.6540 0001211  81.3972 278.7157 15.08839784131709

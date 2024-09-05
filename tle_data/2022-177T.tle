@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54837
+launchyear:2022
+epoch:24241.84843432
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5369
+meananomly:89.6365
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2138532226
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001179
+argumentofperigree:270.4342
+nickname:STARLINK-5369
+idesg:22177T  
+cosparid:2022-177T
+altkm:558.84981956193
+velkms:7.583844566225
+velkmh:27302
+onumepoch:9304
+onumnow:139815.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:21:45+00:00
+nowjuliandate:2460552.6377791
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5369
+1 54837U 22177T   24241.84843432  .00000728  00000+0  68922-4 0  9992
+2 54837  43.0021 284.3046 0001179 270.4342  89.6365 15.02537543 93044

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48403
+launchyear:2021
+epoch:24242.42177423
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2561
+meananomly:272.7389
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3712225684
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.056
+eccentricity:0.0001375
+argumentofperigree:87.3758
+nickname:STARLINK-2561
+idesg:21038BC 
+cosparid:2021-038BC
+altkm:548.06810332159
+velkms:7.5891781571773
+velkmh:27321
+onumepoch:18390
+onumnow:277036.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:07:21+00:00
+nowjuliandate:2460552.6380339
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2561
+1 48403U 21038BC  24242.42177423  .00000559  00000+0  56436-4 0  9993
+2 48403  53.0560 323.2805 0001375  87.3758 272.7389 15.06393279183901

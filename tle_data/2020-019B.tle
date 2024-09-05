@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45361
+launchyear:2020
+epoch:24242.41304605
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1301
+meananomly:258.5154
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.333825159
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.000133
+argumentofperigree:101.5984
+nickname:STARLINK-1301
+idesg:20019B  
+cosparid:2020-019B
+altkm:548.25937100824
+velkms:7.5889481827951
+velkmh:27320
+onumepoch:24601
+onumnow:370607.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:54:47+00:00
+nowjuliandate:2460553.0283547
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1301
+1 45361U 20019B   24242.41304605  .00021024  00000+0  14259-2 0  9999
+2 45361  53.0539 128.3289 0001330 101.5984 258.5154 15.06405481246011

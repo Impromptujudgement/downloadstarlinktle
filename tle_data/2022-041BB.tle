@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52310
+launchyear:2022
+epoch:24241.82516493
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3688
+meananomly:276.7547
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8471427592
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.000139
+argumentofperigree:83.3603
+nickname:STARLINK-3688
+idesg:22041BB 
+cosparid:2022-041BB
+altkm:540.49445712531
+velkms:7.5933651643683
+velkmh:27336
+onumepoch:13164
+onumnow:198645.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:48:14+00:00
+nowjuliandate:2460552.6379329
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3688
+1 52310U 22041BB  24241.82516493  .00003749  00000+0  25343-3 0  9993
+2 52310  53.2162  73.5381 0001390  83.3603 276.7547 15.08851552131648

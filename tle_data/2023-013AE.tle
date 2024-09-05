@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55359
+launchyear:2023
+epoch:24241.87581744
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5641
+meananomly:94.0477
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2039113033
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.0001174
+argumentofperigree:266.0231
+nickname:STARLINK-5641
+idesg:23013AE 
+cosparid:2023-013AE
+altkm:558.90253242558
+velkms:7.5837815495082
+velkmh:27302
+onumepoch:8780
+onumnow:131942.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:01:11+00:00
+nowjuliandate:2460552.6377716
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5641
+1 55359U 23013AE  24241.87581744  .00000003  00000+0  15315-4 0  9994
+2 55359  43.0020  91.0003 0001174 266.0231  94.0477 15.02540773 87802

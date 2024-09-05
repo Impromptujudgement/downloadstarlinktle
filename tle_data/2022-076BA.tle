@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53034
+launchyear:2022
+epoch:24242.75302557
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4151
+meananomly:285.9693
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.878090621
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2135
+eccentricity:0.0001234
+argumentofperigree:74.1435
+nickname:STARLINK-4151
+idesg:22076BA 
+cosparid:2022-076BA
+altkm:540.40331592174
+velkms:7.5934821185221
+velkmh:27337
+onumepoch:11950
+onumnow:180312.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:04:21+00:00
+nowjuliandate:2460552.6378891
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4151
+1 53034U 22076BA  24242.75302557 -.00001809  00000+0 -95581-4 0  9991
+2 53034  53.2135  54.3543 0001234  74.1435 285.9693 15.08841427119502

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:25+00:00
+validtle:1
+satid:47809
+launchyear:2021
+epoch:24003.72278767
+epochday:3
+tleage:240
+tleclassification:U
+active:0
+name:STARLINK-2390
+meananomly:168.4471
+meanmotion:16.0621
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6635.4078556662
+altitudeatperigee:251
+altitudeatapogee:264
+inclination:53.0196
+eccentricity:0.0010133
+argumentofperigree:329.136
+nickname:STARLINK-2390
+idesg:21018Y  
+cosparid:2021-018Y
+altkm:265.99669977106
+velkms:7.748171484724
+velkmh:27893
+onumepoch:15735
+onumnow:256582.20
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-01-03T17:20:49+00:00
+nowjuliandate:2460552.6391884
+nowepochdate:24243.1391782407
+TLE:
+STARLINK-2390
+1 47809U 21018Y   24003.72278767  .00966551  51429-3  12736-2 0  9992
+2 47809  53.0196 143.9220 0010133 329.1360 168.4471 16.06207030157354

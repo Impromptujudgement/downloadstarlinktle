@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53923
+launchyear:2022
+epoch:24242.45396706
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5004
+meananomly:257.9842
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9106129939
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001523
+argumentofperigree:102.1321
+nickname:STARLINK-5004
+idesg:22119AP 
+cosparid:2022-119AP
+altkm:540.89042282027
+velkms:7.5929654455174
+velkmh:27335
+onumepoch:10728
+onumnow:161876.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:53:43+00:00
+nowjuliandate:2460552.6378146
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5004
+1 53923U 22119AP  24242.45396706 -.00002432  00000+0 -13480-3 0  9992
+2 53923  53.2167 295.4782 0001523 102.1321 257.9842 15.08830787107288

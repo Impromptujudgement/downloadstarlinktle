@@ -1,0 +1,38 @@
+date:2024-08-28T07:39:38+00:00
+validtle:1
+satid:58627
+launchyear:2023
+epoch:24240.57932463
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31065
+meananomly:85.4313
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1812196524
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0021
+eccentricity:0.0001356
+argumentofperigree:274.6383
+nickname:STARLINK-31065
+idesg:23203K  
+cosparid:2023-203K
+altkm:487.74595400455
+velkms:7.6231262263327
+velkmh:27443
+onumepoch:3921
+onumnow:59842.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:54:14+00:00
+nowjuliandate:2460550.819197
+nowepochdate:24241.3191898148
+TLE:
+STARLINK-31065
+1 58627U 23203K   24240.57932463  .00000596  00000+0  32630-4 0  9996
+2 58627  43.0021 340.2626 0001356 274.6383  85.4313 15.25914022 39211

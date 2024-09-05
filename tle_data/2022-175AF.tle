@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54787
+launchyear:2022
+epoch:24242.68119233
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5441
+meananomly:255.8643
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8943425898
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001223
+argumentofperigree:104.2485
+nickname:STARLINK-5441
+idesg:22175AF 
+cosparid:2022-175AF
+altkm:540.86152350488
+velkms:7.5929882449616
+velkmh:27335
+onumepoch:9367
+onumnow:141339.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:20:55+00:00
+nowjuliandate:2460552.6377903
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5441
+1 54787U 22175AF  24242.68119233  .00000873  00000+0  72918-4 0  9993
+2 54787  53.2180  24.3412 0001223 104.2485 255.8643 15.08836110 93671

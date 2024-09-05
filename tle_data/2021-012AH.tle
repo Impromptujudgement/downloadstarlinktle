@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47651
+launchyear:2021
+epoch:24241.75096481
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2035
+meananomly:276.2417
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2919168771
+altitudeatperigee:545
+altitudeatapogee:550
+inclination:53.0553
+eccentricity:0.0003625
+argumentofperigree:83.8985
+nickname:STARLINK-2035
+idesg:21012AH 
+cosparid:2021-012AH
+altkm:547.76207468161
+velkms:7.5894700619258
+velkmh:27322
+onumepoch:19589
+onumnow:295113.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:01:23+00:00
+nowjuliandate:2460552.6394434
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2035
+1 47651U 21012AH  24241.75096481  .00006522  00000+0  45608-3 0  9992
+2 47651  53.0553  56.3518 0003625  83.8985 276.2417 15.06419155195899

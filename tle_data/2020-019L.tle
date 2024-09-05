@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45370
+launchyear:2020
+epoch:24242.95673173
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1281
+meananomly:275.8280
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3423055796
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001219
+argumentofperigree:84.2848
+nickname:STARLINK-1281
+idesg:20019L  
+cosparid:2020-019L
+altkm:547.99870309996
+velkms:7.5892383757241
+velkmh:27321
+onumepoch:24579
+onumnow:370267.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:57:42+00:00
+nowjuliandate:2460553.0283482
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1281
+1 45370U 20019L   24242.95673173  .00026642  00000+0  18006-2 0  9992
+2 45370  53.0537 145.8889 0001219  84.2848 275.8280 15.06402714245793

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49162
+launchyear:2021
+epoch:24241.76349865
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3082
+meananomly:90.1284
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1766755028
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9975
+eccentricity:0.0003201
+argumentofperigree:269.9508
+nickname:STARLINK-3082
+idesg:21082AJ 
+cosparid:2021-082AJ
+altkm:574.46899460262
+velkms:7.573865047896
+velkmh:27266
+onumepoch:16356
+onumnow:245088.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:19:26+00:00
+nowjuliandate:2460552.6380054
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3082
+1 49162U 21082AJ  24241.76349865  .00000390  00000+0  40503-4 0  9993
+2 49162  69.9975 261.1966 0003201 269.9508  90.1284 14.98335914163567

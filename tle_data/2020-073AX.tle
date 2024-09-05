@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:12+00:00
+validtle:1
+satid:46715
+launchyear:2020
+epoch:24241.21926086
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1817
+meananomly:264.4016
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3164690341
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001458
+argumentofperigree:95.7139
+nickname:STARLINK-1817
+idesg:20073AX 
+cosparid:2020-073AX
+altkm:548.15718080388
+velkms:7.589050640399
+velkmh:27321
+onumepoch:21295
+onumnow:320819.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:15:44+00:00
+nowjuliandate:2460552.6404183
+nowepochdate:24243.1404166667
+TLE:
+STARLINK-1817
+1 46715U 20073AX  24241.21926086  .00001791  00000+0  13908-3 0  9993
+2 46715  53.0541 228.6878 0001458  95.7139 264.4016 15.06411144212955

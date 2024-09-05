@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53607
+launchyear:2022
+epoch:24241.67888727
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4591
+meananomly:270.9895
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8740528606
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001451
+argumentofperigree:89.1264
+nickname:STARLINK-4591
+idesg:22104V  
+cosparid:2022-104V
+altkm:540.61701442641
+velkms:7.5932454204637
+velkmh:27336
+onumepoch:11144
+onumnow:168167.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:17:36+00:00
+nowjuliandate:2460552.6378387
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4591
+1 53607U 22104V   24241.67888727  .00000797  00000+0  68130-4 0  9990
+2 53607  53.2151 224.1826 0001451  89.1264 270.9895 15.08842748111444

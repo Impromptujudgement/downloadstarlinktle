@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45234
+launchyear:2020
+epoch:24242.73673788
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1243
+meananomly:108.4777
+meanmotion:16.0733
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6632.3271691344
+altitudeatperigee:247
+altitudeatapogee:261
+inclination:53.0389
+eccentricity:0.0010469
+argumentofperigree:352.2796
+nickname:STARLINK-1243
+idesg:20012BJ 
+cosparid:2020-012BJ
+altkm:262.58988477754
+velkms:7.7547077732953
+velkmh:27917
+onumepoch:25116
+onumnow:403708.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:40:54+00:00
+nowjuliandate:2460553.0283792
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1243
+1 45234U 20012BJ  24242.73673788  .02222467  44012-2  28983-2 0  9996
+2 45234  53.0389 300.0201 0010469 352.2796 108.4777 16.07326274251165

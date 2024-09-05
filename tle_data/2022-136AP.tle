@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54088
+launchyear:2022
+epoch:24242.48528489
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5153
+meananomly:251.6136
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9362857649
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2144
+eccentricity:0.0001475
+argumentofperigree:108.5016
+nickname:STARLINK-5153
+idesg:22136AP 
+cosparid:2022-136AP
+altkm:541.01835219059
+velkms:7.5928391383968
+velkmh:27334
+onumepoch:10333
+onumnow:155916.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:38:49+00:00
+nowjuliandate:2460552.6378024
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5153
+1 54088U 22136AP  24242.48528489 -.00002683  00000+0 -15064-3 0  9990
+2 54088  53.2144 315.6166 0001475 108.5016 251.6136 15.08822388103331

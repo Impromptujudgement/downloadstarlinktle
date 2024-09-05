@@ -1,0 +1,38 @@
+date:2024-08-29T05:14:14+00:00
+validtle:1
+satid:57357
+launchyear:2023
+epoch:24240.88677351
+epochday:240
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5600
+meananomly:115.2770
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2215636211
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0005
+eccentricity:7.98E-5
+argumentofperigree:244.7989
+nickname:STARLINK-5600
+idesg:23099AF 
+cosparid:2023-099AF
+altkm:559.09883264874
+velkms:7.5835766823062
+velkmh:27301
+onumepoch:6283
+onumnow:94424.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T21:16:57+00:00
+nowjuliandate:2460551.7182277
+nowepochdate:24242.2182175926
+TLE:
+STARLINK-5600
+1 57357U 23099AF  24240.88677351  .00001222  00000+0  10549-3 0  9995
+2 57357  43.0005  32.7097 0000798 244.7989 115.2770 15.02535038 62830

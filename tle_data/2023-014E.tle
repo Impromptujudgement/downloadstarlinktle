@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55395
+launchyear:2023
+epoch:24241.67929215
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5274
+meananomly:91.1609
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1794029993
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9994
+eccentricity:0.0003087
+argumentofperigree:268.9196
+nickname:STARLINK-5274
+idesg:23014E  
+cosparid:2023-014E
+altkm:574.51029681852
+velkms:7.5738215286751
+velkmh:27266
+onumepoch:8847
+onumnow:132579.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:18:11+00:00
+nowjuliandate:2460552.6377621
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5274
+1 55395U 23014E   24241.67929215  .00001374  00000+0  12295-3 0  9997
+2 55395  69.9994  31.2740 0003087 268.9196  91.1609 14.98335032 88472

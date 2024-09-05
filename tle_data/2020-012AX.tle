@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45223
+launchyear:2020
+epoch:24242.89783525
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1212
+meananomly:275.4534
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4416298791
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:8.63E-5
+argumentofperigree:84.6553
+nickname:STARLINK-1212
+idesg:20012AX 
+cosparid:2020-012AX
+altkm:548.12710385938
+velkms:7.5891520135082
+velkmh:27321
+onumepoch:25053
+onumnow:377400.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T21:32:53+00:00
+nowjuliandate:2460553.0283828
+nowepochdate:24243.5283796296
+TLE:
+STARLINK-1212
+1 45223U 20012AX  24242.89783525  .00024115  00000+0  16336-2 0  9995
+2 45223  53.0557 346.8070 0000863  84.6553 275.4534 15.06370307250536

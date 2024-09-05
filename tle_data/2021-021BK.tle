@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:57+00:00
+validtle:1
+satid:47917
+launchyear:2021
+epoch:24242.30753568
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2397
+meananomly:262.0246
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3229235506
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001679
+argumentofperigree:98.0934
+nickname:STARLINK-2397
+idesg:21021BK 
+cosparid:2021-021BK
+altkm:548.22648887329
+velkms:7.5889782441155
+velkmh:27320
+onumepoch:19171
+onumnow:288806.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:22:51+00:00
+nowjuliandate:2460552.6381615
+nowepochdate:24243.1381597222
+TLE:
+STARLINK-2397
+1 47917U 21021BK  24242.30753568  .00000489  00000+0  51693-4 0  9993
+2 47917  53.0540 253.8019 0001679  98.0934 262.0246 15.06409038191718

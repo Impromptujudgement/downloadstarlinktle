@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56124
+launchyear:2023
+epoch:24242.44984161
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6126
+meananomly:109.2602
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2200984898
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:9.49E-5
+argumentofperigree:250.8138
+nickname:STARLINK-6126
+idesg:23046AH 
+cosparid:2023-046AH
+altkm:559.07839250563
+velkms:7.5835982179185
+velkmh:27301
+onumepoch:7892
+onumnow:118590.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:47:46+00:00
+nowjuliandate:2460552.6377191
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6126
+1 56124U 23046AH  24242.44984161  .00000431  00000+0  46963-4 0  9993
+2 56124  43.0026 294.2895 0000949 250.8138 109.2602 15.02535514 78920

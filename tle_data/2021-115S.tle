@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49740
+launchyear:2021
+epoch:24242.40939008
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3226
+meananomly:296.2246
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8419038171
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001618
+argumentofperigree:63.8913
+nickname:STARLINK-3226
+idesg:21115S  
+cosparid:2021-115S
+altkm:540.10780412399
+velkms:7.5937865769905
+velkmh:27338
+onumepoch:15251
+onumnow:230126.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:31+00:00
+nowjuliandate:2460552.6379892
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3226
+1 49740U 21115S   24242.40939008  .00003942  00000+0  26554-3 0  9993
+2 49740  53.2170 130.8179 0001618  63.8913 296.2246 15.08853266152518

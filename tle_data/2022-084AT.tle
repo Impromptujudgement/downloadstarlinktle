@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53230
+launchyear:2022
+epoch:24242.17866835
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4364
+meananomly:273.4886
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1170586134
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6572
+eccentricity:0.0001694
+argumentofperigree:86.6532
+nickname:STARLINK-4364
+idesg:22084AT 
+cosparid:2022-084AT
+altkm:565.96624040586
+velkms:7.5782043754174
+velkmh:27282
+onumepoch:11605
+onumnow:174236.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:17:17+00:00
+nowjuliandate:2460552.637872
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4364
+1 53230U 22084AT  24242.17866835  .00003196  00000+0  25320-3 0  9990
+2 53230  97.6572 301.9734 0001694  86.6532 273.4886 15.01270336116057

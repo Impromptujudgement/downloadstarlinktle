@@ -1,0 +1,38 @@
+date:2024-08-28T04:36:32+00:00
+validtle:1
+satid:58707
+launchyear:2024
+epoch:24240.07478352
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11077
+meananomly:274.0468
+meanmotion:15.7148
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6732.7990785682
+altitudeatperigee:354
+altitudeatapogee:355
+inclination:53.1566
+eccentricity:0.0001147
+argumentofperigree:86.0681
+nickname:STARLINK-11077
+idesg:24002C  
+cosparid:2024-002C
+altkm:355.52303772515
+velkms:7.6970937658084
+velkmh:27710
+onumepoch:3844
+onumnow:60422.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:47:41+00:00
+nowjuliandate:2460550.69204
+nowepochdate:24241..192037037
+TLE:
+STARLINK-11077 [DTC]
+1 58707U 24002C   24240.07478352  .00010722  00000+0  86702-4 0  9991
+2 58707  53.1566 160.0327 0001147  86.0681 274.0468 15.71482231 38440

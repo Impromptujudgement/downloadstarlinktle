@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48295
+launchyear:2021
+epoch:24242.77102402
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2535
+meananomly:270.7130
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2619096618
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001432
+argumentofperigree:89.4023
+nickname:STARLINK-2535
+idesg:21036V  
+cosparid:2021-036V
+altkm:547.99171765935
+velkms:7.5892020762285
+velkmh:27321
+onumepoch:18495
+onumnow:278619.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:30:16+00:00
+nowjuliandate:2460552.6380386
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2535
+1 48295U 21036V   24242.77102402  .00007631  00000+0  53024-3 0  9990
+2 48295  53.0535  61.7234 0001432  89.4023 270.7130 15.06428946184952

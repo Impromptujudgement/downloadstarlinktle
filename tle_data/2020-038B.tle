@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45731
+launchyear:2020
+epoch:24243.19721268
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1465
+meananomly:260.7407
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3034589076
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001349
+argumentofperigree:99.3734
+nickname:STARLINK-1465
+idesg:20038B  
+cosparid:2020-038B
+altkm:548.1958720292
+velkms:7.5890011421552
+velkmh:27320
+onumepoch:23328
+onumnow:351421.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:43:59+00:00
+nowjuliandate:2460553.0283064
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1465
+1 45731U 20038B   24243.19721268  .00003022  00000+0  22157-3 0  9990
+2 45731  53.0532 214.8048 0001349  99.3734 260.7407 15.06415389233285

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55749
+launchyear:2023
+epoch:24242.1987761
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5560
+meananomly:90.2287
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1669777593
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0002994
+argumentofperigree:269.8529
+nickname:STARLINK-5560
+idesg:23028J  
+cosparid:2023-028J
+altkm:574.46264984687
+velkms:7.5738666846901
+velkmh:27266
+onumepoch:8253
+onumnow:123671.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:46:14+00:00
+nowjuliandate:2460552.6377348
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5560
+1 55749U 23028J   24242.19877610  .00000777  00000+0  72874-4 0  9990
+2 55749  69.9992 210.0775 0002994 269.8529  90.2287 14.98339050 82531

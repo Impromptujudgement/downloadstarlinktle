@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53537
+launchyear:2022
+epoch:24242.78246341
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4120
+meananomly:264.8595
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9000034447
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0002047
+argumentofperigree:95.2631
+nickname:STARLINK-4120
+idesg:22101L  
+cosparid:2022-101L
+altkm:540.78758568936
+velkms:7.5930724718771
+velkmh:27335
+onumepoch:11209
+onumnow:169130.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:46:45+00:00
+nowjuliandate:2460552.6378462
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4120
+1 53537U 22101L   24242.78246341 -.00000711  00000+0 -26583-4 0  9996
+2 53537  53.2176  54.1449 0002047  95.2631 264.8595 15.08834258112091

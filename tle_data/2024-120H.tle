@@ -1,0 +1,38 @@
+date:2024-08-27T16:30:11+00:00
+validtle:1
+satid:60142
+launchyear:2024
+epoch:24239.21840017
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32031
+meananomly:279.1303
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3666425324
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1633
+eccentricity:0.000102
+argumentofperigree:80.9818
+nickname:STARLINK-32031
+idesg:24120H  
+cosparid:2024-120H
+altkm:448.02293352567
+velkms:7.6447094885471
+velkmh:27521
+onumepoch:1053
+onumnow:16234.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T05:14:30+00:00
+nowjuliandate:2460550.1876302
+nowepochdate:24240.6876273148
+TLE:
+STARLINK-32031
+1 60142U 24120H   24239.21840017  .00001607  00000+0  50136-4 0  9997
+2 60142  53.1633  51.2019 0001020  80.9818 279.1303 15.39621538 10538

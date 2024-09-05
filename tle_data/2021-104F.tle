@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49413
+launchyear:2021
+epoch:24241.63752478
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3157
+meananomly:267.0682
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8802088428
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001399
+argumentofperigree:93.047
+nickname:STARLINK-3157
+idesg:21104F  
+cosparid:2021-104F
+altkm:540.69005550779
+velkms:7.5931686464558
+velkmh:27335
+onumepoch:15452
+onumnow:233168.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:18:02+00:00
+nowjuliandate:2460552.6379964
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3157
+1 49413U 21104F   24241.63752478  .00000366  00000+0  41077-4 0  9991
+2 49413  53.2156 204.3254 0001399  93.0470 267.0682 15.08840734154528

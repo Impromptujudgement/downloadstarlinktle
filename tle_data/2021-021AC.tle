@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:31+00:00
+validtle:1
+satid:72345
+launchyear:2021
+epoch:21083.38163836
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2345
+meananomly:143.6754
+meanmotion:15.8547
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.1361091255
+altitudeatperigee:314
+altitudeatapogee:316
+inclination:53.0504
+eccentricity:0.0002207
+argumentofperigree:261.315
+nickname:STARLINK-2345
+idesg:21021AC 
+cosparid:2021-021AC
+altkm:318.66417296395
+velkms:7.7209263509662
+velkmh:27795
+onumepoch:1
+onumnow:50110.71
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:09:34+00:00
+nowjuliandate:2460552.6401683
+nowepochdate:24243..140162037
+TLE:
+STARLINK-2345
+1 72345C 21021AC  21083.38163836 -.01032645  00000-0 -44158-2 0   830
+2 72345  53.0504 168.5762 0002207 261.3150 143.6754 15.85471615    18

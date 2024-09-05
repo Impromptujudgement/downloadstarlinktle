@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73417
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3417
+meananomly:334.4185
+meanmotion:15.9957
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.7491343175
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.006169
+argumentofperigree:161.9954
+nickname:STARLINK-3417
+idesg:22010AE 
+cosparid:2022-010AE
+altkm:243.97181485772
+velkms:7.7863820150498
+velkmh:28031
+onumepoch:1
+onumnow:19076.02
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379699
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3417
+1 73417C 22010AE  23051.42826389 -.01046525  00000-0 -17836-2 0   511
+2 73417  69.9999 143.3309 0061690 161.9954 334.4185 15.99570265    13

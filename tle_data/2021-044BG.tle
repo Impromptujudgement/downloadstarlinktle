@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48692
+launchyear:2021
+epoch:24241.21418144
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2752
+meananomly:323.8575
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2166741922
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0523
+eccentricity:5.31E-5
+argumentofperigree:36.245
+nickname:STARLINK-2752
+idesg:21044BG 
+cosparid:2021-044BG
+altkm:547.66160815084
+velkms:7.589538992715
+velkmh:27322
+onumepoch:18016
+onumnow:271429.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:08:25+00:00
+nowjuliandate:2460552.6380108
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2752
+1 48692U 21044BG  24241.21418144  .00006303  00000+0  44109-3 0  9990
+2 48692  53.0523  63.8312 0000531  36.2450 323.8575 15.06443706180166

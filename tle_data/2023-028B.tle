@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55742
+launchyear:2023
+epoch:24242.62438609
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5594
+meananomly:90.5856
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.197011187
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9997
+eccentricity:0.0002895
+argumentofperigree:269.4971
+nickname:STARLINK-5594
+idesg:23028B  
+cosparid:2023-028B
+altkm:574.50493259414
+velkms:7.5738369551252
+velkmh:27266
+onumepoch:8259
+onumnow:123754.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:59:07+00:00
+nowjuliandate:2460552.6377351
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5594
+1 55742U 23028B   24242.62438609  .00000378  00000+0  39461-4 0  9994
+2 55742  69.9997 209.1570 0002895 269.4971  90.5856 14.98329338 82597

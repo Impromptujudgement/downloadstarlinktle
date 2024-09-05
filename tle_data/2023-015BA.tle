@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55497
+launchyear:2023
+epoch:24241.38195557
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5363
+meananomly:85.9682
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2040990605
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0046
+eccentricity:0.000121
+argumentofperigree:274.1022
+nickname:STARLINK-5363
+idesg:23015BA 
+cosparid:2023-015BA
+altkm:558.78652161943
+velkms:7.5839084149806
+velkmh:27302
+onumepoch:8662
+onumnow:130176.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:10:01+00:00
+nowjuliandate:2460552.6377572
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5363
+1 55497U 23015BA  24241.38195557  .00001182  00000+0  10252-3 0  9991
+2 55497  43.0046 132.3553 0001210 274.1022  85.9682 15.02540712 86620

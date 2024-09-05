@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52377
+launchyear:2022
+epoch:24241.09838413
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3805
+meananomly:259.8269
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8703360477
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.00013
+argumentofperigree:100.2869
+nickname:STARLINK-3805
+idesg:22045AY 
+cosparid:2022-045AY
+altkm:540.78972955591
+velkms:7.5930538736178
+velkmh:27335
+onumepoch:13158
+onumnow:198564.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:21:40+00:00
+nowjuliandate:2460552.6379269
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3805
+1 52377U 22045AY  24241.09838413  .00001708  00000+0  12534-3 0  9999
+2 52377  53.2177 176.9514 0001300 100.2869 259.8269 15.08843964131581

@@ -1,0 +1,38 @@
+date:2024-08-27T17:50:07+00:00
+validtle:1
+satid:60018
+launchyear:2024
+epoch:24240.06156783
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31984
+meananomly:249.7128
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3780475625
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1611
+eccentricity:0.0001089
+argumentofperigree:110.3994
+nickname:STARLINK-31984
+idesg:24111C  
+cosparid:2024-111C
+altkm:448.4022882842
+velkms:7.6442911228325
+velkmh:27519
+onumepoch:1316
+onumnow:20271.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:28:39+00:00
+nowjuliandate:2460550.2431464
+nowepochdate:24240.7431365741
+TLE:
+STARLINK-31984
+1 60018U 24111C   24240.06156783  .00001030  00000+0  35738-4 0  9995
+2 60018  53.1611 157.7540 0001089 110.3994 249.7128 15.39617679 13166

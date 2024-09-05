@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45671
+launchyear:2020
+epoch:24242.20662746
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1454
+meananomly:297.5445
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3252405602
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0492
+eccentricity:0.0001067
+argumentofperigree:62.5652
+nickname:STARLINK-1454
+idesg:20035Q  
+cosparid:2020-035Q
+altkm:547.72514226688
+velkms:7.5895287381208
+velkmh:27322
+onumepoch:23469
+onumnow:353558.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:57:33+00:00
+nowjuliandate:2460553.0283149
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1454
+1 45671U 20035Q   24242.20662746  .00003589  00000+0  25963-3 0  9992
+2 45671  53.0492  49.2569 0001067  62.5652 297.5445 15.06408282234699

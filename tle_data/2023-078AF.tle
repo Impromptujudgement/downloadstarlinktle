@@ -1,0 +1,38 @@
+date:2024-08-29T08:58:16+00:00
+validtle:1
+satid:56796
+launchyear:2023
+epoch:24241.54902883
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6049
+meananomly:95.1406
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1502758257
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.0002946
+argumentofperigree:264.9416
+nickname:STARLINK-6049
+idesg:23078AF 
+cosparid:2023-078AF
+altkm:574.62111006713
+velkms:7.5736849364827
+velkmh:27265
+onumepoch:6907
+onumnow:103503.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:10:36+00:00
+nowjuliandate:2460551.8738019
+nowepochdate:24242.3737962963
+TLE:
+STARLINK-6049
+1 56796U 23078AF  24241.54902883  .00001837  00000+0  16164-3 0  9994
+2 56796  69.9991 311.8294 0002946 264.9416  95.1406 14.98344451 69079

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:59+00:00
+validtle:1
+satid:47908
+launchyear:2021
+epoch:24242.32503952
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2368
+meananomly:301.0830
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3554078344
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001704
+argumentofperigree:59.0326
+nickname:STARLINK-2368
+idesg:21021BA 
+cosparid:2021-021BA
+altkm:547.4882584512
+velkms:7.589804751415
+velkmh:27323
+onumepoch:19157
+onumnow:288593.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:48:03+00:00
+nowjuliandate:2460552.6381888
+nowepochdate:24243.1381828704
+TLE:
+STARLINK-2368
+1 47908U 21021BA  24242.32503952  .00000663  00000+0  63421-4 0  9991
+2 47908  53.0530 263.7267 0001704  59.0326 301.0830 15.06398439191572

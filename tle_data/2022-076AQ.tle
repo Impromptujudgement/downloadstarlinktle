@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53024
+launchyear:2022
+epoch:24241.79065634
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4289
+meananomly:271.2577
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8514097228
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001568
+argumentofperigree:88.8595
+nickname:STARLINK-4289
+idesg:22076AQ 
+cosparid:2022-076AQ
+altkm:540.58819501891
+velkms:7.5932646445651
+velkmh:27336
+onumepoch:11876
+onumnow:179211.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:58:33+00:00
+nowjuliandate:2460552.6378905
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4289
+1 53024U 22076AQ  24241.79065634  .00001605  00000+0  11891-3 0  9998
+2 53024  53.2176  68.6271 0001568  88.8595 271.2577 15.08850156118766

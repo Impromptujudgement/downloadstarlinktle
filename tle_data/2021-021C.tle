@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:56+00:00
+validtle:1
+satid:47862
+launchyear:2021
+epoch:24242.20156569
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2291
+meananomly:270.1575
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3535014908
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001346
+argumentofperigree:89.9568
+nickname:STARLINK-2291
+idesg:21021C  
+cosparid:2021-021C
+altkm:548.09297554727
+velkms:7.5891412214587
+velkmh:27321
+onumepoch:19182
+onumnow:288971.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:50:15+00:00
+nowjuliandate:2460552.6381534
+nowepochdate:24243.1381481481
+TLE:
+STARLINK-2291
+1 47862U 21021C   24242.20156569 -.00000108  00000+0  11677-4 0  9996
+2 47862  53.0527 244.2791 0001346  89.9568 270.1575 15.06399061191827

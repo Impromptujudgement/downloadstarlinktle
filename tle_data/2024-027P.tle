@@ -1,0 +1,38 @@
+date:2024-08-28T02:37:58+00:00
+validtle:1
+satid:58944
+launchyear:2024
+epoch:24240.13191791
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31336
+meananomly:156.4399
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3700101502
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.162
+eccentricity:4.44E-5
+argumentofperigree:203.6582
+nickname:STARLINK-31336
+idesg:24027P  
+cosparid:2024-027P
+altkm:476.41180015589
+velkms:7.6286203249365
+velkmh:27463
+onumepoch:3164
+onumnow:48430.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:09:58+00:00
+nowjuliandate:2460550.6097018
+nowepochdate:24241.1096990741
+TLE:
+STARLINK-31336
+1 58944U 24027P   24240.13191791  .00000503  00000+0  29099-4 0  9999
+2 58944  53.1620  28.9877 0000444 203.6582 156.4399 15.30194676 31641

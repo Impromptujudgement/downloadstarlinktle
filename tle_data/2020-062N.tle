@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46337
+launchyear:2020
+epoch:24242.52270466
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1750
+meananomly:276.7266
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3294117954
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0592
+eccentricity:0.0001699
+argumentofperigree:83.3917
+nickname:STARLINK-1750
+idesg:20062N  
+cosparid:2020-062N
+altkm:547.93439059042
+velkms:7.5893017827749
+velkmh:27321
+onumepoch:22061
+onumnow:332343.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:32:42+00:00
+nowjuliandate:2460553.0282427
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1750
+1 46337U 20062N   24242.52270466  .00009514  00000+0  65659-3 0  9991
+2 46337  53.0592 337.8380 0001699  83.3917 276.7266 15.06406921220618

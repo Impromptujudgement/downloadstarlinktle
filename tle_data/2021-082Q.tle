@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49144
+launchyear:2021
+epoch:24242.18892881
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3100
+meananomly:90.4625
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1887389739
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9978
+eccentricity:0.0003142
+argumentofperigree:269.6174
+nickname:STARLINK-3100
+idesg:21082Q  
+cosparid:2021-082Q
+altkm:574.49368998984
+velkms:7.5738447036272
+velkmh:27266
+onumepoch:16247
+onumnow:243448.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:32:03+00:00
+nowjuliandate:2460552.6380011
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3100
+1 49144U 21082Q   24242.18892881  .00000354  00000+0  37452-4 0  9990
+2 49144  69.9978 260.1003 0003142 269.6174  90.4625 14.98332013162479

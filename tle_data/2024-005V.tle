@@ -1,0 +1,38 @@
+date:2024-08-28T04:06:57+00:00
+validtle:1
+satid:58747
+launchyear:2024
+epoch:24240.67724101
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31183
+meananomly:97.1443
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2211973382
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.0001331
+argumentofperigree:262.9248
+nickname:STARLINK-31183
+idesg:24005V  
+cosparid:2024-005V
+altkm:558.9773594371
+velkms:7.5837092108094
+velkmh:27301
+onumepoch:3643
+onumnow:54744.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:15:14+00:00
+nowjuliandate:2460550.6714991
+nowepochdate:24241.1714930556
+TLE:
+STARLINK-31183
+1 58747U 24005V   24240.67724101  .00001250  00000+0  10758-3 0  9993
+2 58747  43.0036  18.9705 0001331 262.9248  97.1443 15.02535157 36438

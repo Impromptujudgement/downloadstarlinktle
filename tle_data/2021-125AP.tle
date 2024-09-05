@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50193
+launchyear:2021
+epoch:24242.631999
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3261
+meananomly:268.0438
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8733681841
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001452
+argumentofperigree:92.072
+nickname:STARLINK-3261
+idesg:21125AP 
+cosparid:2021-125AP
+altkm:540.6680159784
+velkms:7.5931890836112
+velkmh:27335
+onumepoch:15215
+onumnow:229576.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:10:05+00:00
+nowjuliandate:2460552.637986
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3261
+1 50193U 21125AP  24242.63199900  .00000776  00000+0  66856-4 0  9994
+2 50193  53.2156 219.8494 0001452  92.0720 268.0438 15.08842972152152

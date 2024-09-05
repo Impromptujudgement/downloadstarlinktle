@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b98a993-76a2-45fc-b7aa-903a42228db3" name="更改" comment="hello">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-186W.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-186X.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-186Y.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191A.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191B.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191C.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191D.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191E.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191F.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191G.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191H.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191J.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191K.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191L.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191M.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191N.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191P.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191Q.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191R.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191S.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191T.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191U.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191V.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191W.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191X.tle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tle_data/2023-191Y.tle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloaded_links.json" beforeDir="false" afterPath="$PROJECT_DIR$/downloaded_links.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2lBu48hdzHm3qTlVlfypCMHhnso" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5b98a993-76a2-45fc-b7aa-903a42228db3" name="更改" comment="" />
+      <created>1724665598001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724665598001</updated>
+      <workItem from="1724665601377" duration="23674000" />
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <option name="closed" value="true" />
+      <created>1724833315919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724833315919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject1$main.coverage" NAME="main 覆盖结果" MODIFIED="1724837320417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test.coverage" NAME="test 覆盖结果" MODIFIED="1724742061697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$1.coverage" NAME="1 覆盖结果" MODIFIED="1724667620256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

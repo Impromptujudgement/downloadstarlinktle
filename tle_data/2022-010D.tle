@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73170
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3170
+meananomly:333.4036
+meanmotion:15.9942
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6654.1556605862
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:70.0001
+eccentricity:0.0061623
+argumentofperigree:162.1565
+nickname:STARLINK-3170
+idesg:22010D  
+cosparid:2022-010D
+altkm:244.90443984772
+velkms:7.7857048495832
+velkmh:28029
+onumepoch:1
+onumnow:19074.27
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379691
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3170
+1 73170C 22010D   23051.42826389 -.01057962  00000-0 -18216-2 0   517
+2 73170  70.0001 143.3322 0061623 162.1565 333.4036 15.99423682    12

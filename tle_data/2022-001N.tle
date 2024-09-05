@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50815
+launchyear:2022
+epoch:24242.43971549
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3234
+meananomly:275.4796
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8622361028
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001121
+argumentofperigree:84.6324
+nickname:STARLINK-3234
+idesg:22001N  
+cosparid:2022-001N
+altkm:540.5484608816
+velkms:7.5933141715781
+velkmh:27336
+onumepoch:14755
+onumnow:222638.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:33:11+00:00
+nowjuliandate:2460552.6379777
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3234
+1 50815U 22001N   24242.43971549 -.00000488  00000+0 -12584-4 0  9995
+2 50815  53.2154 150.7150 0001121  84.6324 275.4796 15.08846614147557

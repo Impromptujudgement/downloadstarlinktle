@@ -1,0 +1,38 @@
+date:2024-08-27T17:57:26+00:00
+validtle:1
+satid:59956
+launchyear:2024
+epoch:24239.41907705
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11134
+meananomly:253.7546
+meanmotion:15.7673
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6717.8489987312
+altitudeatperigee:339
+altitudeatapogee:340
+inclination:53.1571
+eccentricity:0.0001099
+argumentofperigree:106.3596
+nickname:STARLINK-11134
+idesg:24107M  
+cosparid:2024-107M
+altkm:340.83605446738
+velkms:7.7053664768514
+velkmh:27739
+onumepoch:1407
+onumnow:22205.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:03:28+00:00
+nowjuliandate:2460550.2482185
+nowepochdate:24240.7482175926
+TLE:
+STARLINK-11134 [DTC]
+1 59956U 24107M   24239.41907705  .00051638  00000+0  31755-3 0  9997
+2 59956  53.1571 133.5939 0001099 106.3596 253.7546 15.76730976 14075

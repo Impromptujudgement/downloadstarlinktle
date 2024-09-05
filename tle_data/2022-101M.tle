@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53538
+launchyear:2022
+epoch:24242.495398
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4118
+meananomly:267.3892
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9194436178
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.000155
+argumentofperigree:92.7278
+nickname:STARLINK-4118
+idesg:22101M  
+cosparid:2022-101M
+altkm:540.72880091753
+velkms:7.5931476177269
+velkmh:27335
+onumepoch:11218
+onumnow:169270.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:53:22+00:00
+nowjuliandate:2460552.6378461
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4118
+1 53538U 22101M   24242.49539800 -.00001659  00000+0 -86199-4 0  9991
+2 53538  53.2170  45.4636 0001550  92.7278 267.3892 15.08827898112184

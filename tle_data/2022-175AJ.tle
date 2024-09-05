@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54790
+launchyear:2022
+epoch:24242.61818777
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5445
+meananomly:271.9397
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.896430258
+altitudeatperigee:538
+altitudeatapogee:542
+inclination:53.2139
+eccentricity:0.0002589
+argumentofperigree:88.1892
+nickname:STARLINK-5445
+idesg:22175AJ 
+cosparid:2022-175AJ
+altkm:540.59629402486
+velkms:7.5932804098737
+velkmh:27336
+onumepoch:9387
+onumnow:141642.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:50:11+00:00
+nowjuliandate:2460552.6377903
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5445
+1 54790U 22175AJ  24242.61818777 -.00000639  00000+0 -21995-4 0  9990
+2 54790  53.2139   9.7017 0002589  88.1892 271.9397 15.08835427 93872

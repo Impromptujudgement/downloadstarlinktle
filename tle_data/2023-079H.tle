@@ -1,0 +1,38 @@
+date:2024-08-29T08:18:51+00:00
+validtle:1
+satid:56830
+launchyear:2023
+epoch:23192.85244815
+epochday:192
+tleage:415
+tleclassification:U
+active:0
+name:STARLINK-30134
+meananomly:156.5113
+meanmotion:16.1085
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6622.6592999054
+altitudeatperigee:237
+altitudeatapogee:252
+inclination:43.002
+eccentricity:0.0010877
+argumentofperigree:328.1096
+nickname:STARLINK-30134
+idesg:23079H  
+cosparid:2023-079H
+altkm:252.40149153191
+velkms:7.756944681559
+velkmh:27925
+onumepoch:675
+onumnow:27778.96
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-07-11T20:27:32+00:00
+nowjuliandate:2460551.8464272
+nowepochdate:24242.3464236111
+TLE:
+STARLINK-30134
+1 56830U 23079H   23192.85244815  .00924704  49839-3  88581-3 0  9992
+2 56830  43.0020 342.0744 0010877 328.1096 156.5113 16.10847161  6754

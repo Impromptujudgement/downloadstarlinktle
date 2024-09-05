@@ -1,0 +1,38 @@
+date:2024-08-29T08:04:34+00:00
+validtle:1
+satid:56904
+launchyear:2023
+epoch:24241.64264102
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6193
+meananomly:90.7620
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2025877687
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001172
+argumentofperigree:269.3088
+nickname:STARLINK-6193
+idesg:23083AE 
+cosparid:2023-083AE
+altkm:558.85451717921
+velkms:7.5838332930794
+velkmh:27302
+onumepoch:6707
+onumnow:100785.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:25:24+00:00
+nowjuliandate:2460551.8365147
+nowepochdate:24242.3365046296
+TLE:
+STARLINK-6193
+1 56904U 23083AE  24241.64264102  .00001704  00000+0  14117-3 0  9996
+2 56904  43.0018 221.2199 0001172 269.3088  90.7620 15.02541203 67072

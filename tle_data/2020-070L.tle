@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46542
+launchyear:2020
+epoch:24243.06638737
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1692
+meananomly:272.7115
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3964926166
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001358
+argumentofperigree:87.4029
+nickname:STARLINK-1692
+idesg:20070L  
+cosparid:2020-070L
+altkm:548.09409103121
+velkms:7.5891635023424
+velkmh:27321
+onumepoch:21562
+onumnow:324813.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:35:36+00:00
+nowjuliandate:2460553.0282291
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1692
+1 46542U 20070L   24243.06638737  .00028298  00000+0  19118-2 0  9995
+2 46542  53.0532 155.3954 0001358  87.4029 272.7115 15.06385034215626

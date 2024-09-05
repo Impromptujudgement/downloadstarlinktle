@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:55299
+launchyear:2023
+epoch:24242.58426804
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5270
+meananomly:85.5864
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2134536365
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0013
+eccentricity:0.0002826
+argumentofperigree:274.4972
+nickname:STARLINK-5270
+idesg:23010AG 
+cosparid:2023-010AG
+altkm:574.34970990319
+velkms:7.5740150366618
+velkmh:27266
+onumepoch:8951
+onumnow:134123.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:01:21+00:00
+nowjuliandate:2460552.637778
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5270
+1 55299U 23010AG  24242.58426804 -.00000948  00000+0 -71705-4 0  9993
+2 55299  70.0013 348.9785 0002826 274.4972  85.5864 14.98324021 89513

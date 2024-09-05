@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49733
+launchyear:2021
+epoch:24241.44335406
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3252
+meananomly:292.1531
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8466965012
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001267
+argumentofperigree:67.9596
+nickname:STARLINK-3252
+idesg:21115K  
+cosparid:2021-115K
+altkm:540.27664627139
+velkms:7.5936039247731
+velkmh:27337
+onumepoch:15111
+onumnow:228028.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:38:26+00:00
+nowjuliandate:2460552.6379894
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3252
+1 49733U 21115K   24241.44335406  .00001796  00000+0  13086-3 0  9991
+2 49733  53.2170 145.1847 0001267  67.9596 292.1531 15.08851698151117

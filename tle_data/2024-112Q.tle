@@ -1,0 +1,38 @@
+date:2024-08-27T17:26:14+00:00
+validtle:1
+satid:60052
+launchyear:2024
+epoch:24240.0207852
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31775
+meananomly:241.1496
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3368696881
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1604
+eccentricity:0.000121
+argumentofperigree:118.963
+nickname:STARLINK-31775
+idesg:24112Q  
+cosparid:2024-112Q
+altkm:448.50183173107
+velkms:7.6441566663815
+velkmh:27519
+onumepoch:1313
+onumnow:20226.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:29:56+00:00
+nowjuliandate:2460550.2265578
+nowepochdate:24240.7265509259
+TLE:
+STARLINK-31775
+1 60052U 24112Q   24240.02078520  .00000648  00000+0  26173-4 0  9999
+2 60052  53.1604 160.0935 0001210 118.9630 241.1496 15.39631612 13132

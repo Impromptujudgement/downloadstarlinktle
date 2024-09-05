@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56112
+launchyear:2023
+epoch:24242.46166908
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6080
+meananomly:96.0799
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.209128498
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0038
+eccentricity:0.0001465
+argumentofperigree:263.9877
+nickname:STARLINK-6080
+idesg:23046V  
+cosparid:2023-046V
+altkm:558.95814095021
+velkms:7.583723632062
+velkmh:27301
+onumepoch:7878
+onumnow:118380.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:04:48+00:00
+nowjuliandate:2460552.6377165
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6080
+1 56112U 23046V   24242.46166908  .00001421  00000+0  12026-3 0  9995
+2 56112  43.0038 306.4970 0001465 263.9877  96.0799 15.02539078 78782

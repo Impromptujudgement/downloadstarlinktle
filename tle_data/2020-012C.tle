@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45180
+launchyear:2020
+epoch:23053.22651975
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1192
+meananomly:229.2362
+meanmotion:15.2208
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6877.6940971869
+altitudeatperigee:497
+altitudeatapogee:502
+inclination:53.051
+eccentricity:0.0003199
+argumentofperigree:130.8911
+nickname:STARLINK-1192
+idesg:20012C  
+cosparid:2020-012C
+altkm:501.8788667758
+velkms:7.6138328589599
+velkmh:27410
+onumepoch:16752
+onumnow:273096.94
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T05:26:11+00:00
+nowjuliandate:2460553.028376
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1192
+1 45180U 20012C   23053.22651975  .00047979  00000+0  20701-2 0  9990
+2 45180  53.0510 341.3622 0003199 130.8911 229.2362 15.22084183167521

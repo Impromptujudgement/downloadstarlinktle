@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46064
+launchyear:2020
+epoch:24242.32734918
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1583
+meananomly:272.6909
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2847728563
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0542
+eccentricity:0.00022
+argumentofperigree:87.4332
+nickname:STARLINK-1583
+idesg:20055AP 
+cosparid:2020-055AP
+altkm:547.95565618618
+velkms:7.5892540816796
+velkmh:27321
+onumepoch:22502
+onumnow:338985.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:51:23+00:00
+nowjuliandate:2460553.0282973
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1583
+1 46064U 20055AP  24242.32734918  .00015948  00000+0  10865-2 0  9991
+2 46064  53.0542  98.7129 0002200  87.4332 272.6909 15.06421486225021

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53704
+launchyear:2022
+epoch:24242.23597396
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4714
+meananomly:266.4308
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8949936487
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001509
+argumentofperigree:93.6857
+nickname:STARLINK-4714
+idesg:22107E  
+cosparid:2022-107E
+altkm:540.72026667677
+velkms:7.5931435931258
+velkmh:27335
+onumepoch:10994
+onumnow:165895.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:39:48+00:00
+nowjuliandate:2460552.637829
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4714
+1 53704U 22107E   24242.23597396  .00003795  00000+0  25644-3 0  9996
+2 53704  53.2149 226.8818 0001509  93.6857 266.4308 15.08835897109949

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48641
+launchyear:2021
+epoch:24242.33612062
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2754
+meananomly:278.1610
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2812820695
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0525
+eccentricity:0.0003
+argumentofperigree:81.9719
+nickname:STARLINK-2754
+idesg:21044D  
+cosparid:2021-044D
+altkm:547.72887422595
+velkms:7.5895006199508
+velkmh:27322
+onumepoch:18060
+onumnow:272072.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:04:01+00:00
+nowjuliandate:2460552.6380095
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2754
+1 48641U 21044D   24242.33612062  .00018954  00000+0  12871-2 0  9998
+2 48641  53.0525 103.6763 0003000  81.9719 278.1610 15.06422625180602

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45201
+launchyear:2020
+epoch:24242.61945655
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1199
+meananomly:251.3395
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3690986076
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0544
+eccentricity:0.0002165
+argumentofperigree:108.7829
+nickname:STARLINK-1199
+idesg:20012Z  
+cosparid:2020-012Z
+altkm:548.59119850208
+velkms:7.5886039730527
+velkmh:27319
+onumepoch:25115
+onumnow:378344.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:52:01+00:00
+nowjuliandate:2460553.0283623
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1199
+1 45201U 20012Z   24242.61945655  .00009845  00000+0  67900-3 0  9992
+2 45201  53.0544   7.3986 0002165 108.7829 251.3395 15.06393972251154

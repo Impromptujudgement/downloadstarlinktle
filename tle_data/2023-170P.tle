@@ -1,0 +1,38 @@
+date:2024-08-28T16:38:16+00:00
+validtle:1
+satid:58219
+launchyear:2023
+epoch:24241.01681013
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30835
+meananomly:84.4217
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2023446078
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.001
+eccentricity:0.000158
+argumentofperigree:275.6445
+nickname:STARLINK-30835
+idesg:23170P  
+cosparid:2023-170P
+altkm:558.73692125068
+velkms:7.5839616559785
+velkmh:27302
+onumepoch:4614
+onumnow:69337.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:24:12+00:00
+nowjuliandate:2460551.1932426
+nowepochdate:24241.6932407407
+TLE:
+STARLINK-30835
+1 58219U 23170P   24241.01681013  .00003105  00000+0  24479-3 0  9998
+2 58219  43.0010 351.3270 0001580 275.6445  84.4217 15.02541282 46144

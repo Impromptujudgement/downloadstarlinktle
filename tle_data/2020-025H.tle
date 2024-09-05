@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45538
+launchyear:2020
+epoch:24242.2867503
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1362
+meananomly:270.5544
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3611268732
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:0.0001818
+argumentofperigree:89.5653
+nickname:STARLINK-1362
+idesg:20025H  
+cosparid:2020-025H
+altkm:548.09137236729
+velkms:7.5891471470891
+velkmh:27321
+onumepoch:24108
+onumnow:363180.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:52:55+00:00
+nowjuliandate:2460553.0283319
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1362
+1 45538U 20025H   24242.28675030  .00002242  00000+0  16936-3 0  9996
+2 45538  53.0554  88.6172 0001818  89.5653 270.5544 15.06396573241082

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45551
+launchyear:2020
+epoch:24242.78715867
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1294
+meananomly:268.7967
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.288401563
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0517
+eccentricity:0.0001564
+argumentofperigree:91.3201
+nickname:STARLINK-1294
+idesg:20025W  
+cosparid:2020-025W
+altkm:548.05312791968
+velkms:7.5891492840712
+velkmh:27321
+onumepoch:24143
+onumnow:363706.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:53:31+00:00
+nowjuliandate:2460553.0283282
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1294
+1 45551U 20025W   24242.78715867  .00006353  00000+0  44480-3 0  9991
+2 45551  53.0517  66.6519 0001564  91.3201 268.7967 15.06420302241430

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50850
+launchyear:2022
+epoch:24242.3946322
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3312
+meananomly:281.0375
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8255329512
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001423
+argumentofperigree:79.0777
+nickname:STARLINK-3312
+idesg:22001AZ 
+cosparid:2022-001AZ
+altkm:540.39743393807
+velkms:7.5934597943696
+velkmh:27336
+onumepoch:14797
+onumnow:223274.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:28:16+00:00
+nowjuliandate:2460552.6379781
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3312
+1 50850U 22001AZ  24242.39463220  .00002708  00000+0  18809-3 0  9991
+2 50850  53.2157 120.9184 0001423  79.0777 281.0375 15.08858622147974

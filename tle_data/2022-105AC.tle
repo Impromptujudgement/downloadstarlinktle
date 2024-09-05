@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53674
+launchyear:2022
+epoch:24242.39042365
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4620
+meananomly:283.6464
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1618945551
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6521
+eccentricity:0.0003975
+argumentofperigree:76.5203
+nickname:STARLINK-4620
+idesg:22105AC 
+cosparid:2022-105AC
+altkm:565.43251540253
+velkms:7.5788115546527
+velkmh:27284
+onumepoch:10990
+onumnow:164999.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:22:13+00:00
+nowjuliandate:2460552.6378377
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4620
+1 53674U 22105AC  24242.39042365  .00000415  00000+0  36922-4 0  9996
+2 53674  97.6521 122.1700 0003975  76.5203 283.6464 15.01255790109904

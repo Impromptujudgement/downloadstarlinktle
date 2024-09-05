@@ -1,0 +1,38 @@
+date:2024-08-28T05:46:31+00:00
+validtle:1
+satid:59249
+launchyear:2024
+epoch:24240.86470721
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31426
+meananomly:293.0205
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1393118161
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0021
+eccentricity:1.82E-5
+argumentofperigree:67.067
+nickname:STARLINK-31426
+idesg:24049U  
+cosparid:2024-049U
+altkm:443.72808326764
+velkms:7.647714485299
+velkmh:27532
+onumepoch:2669
+onumnow:41127.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:45:11+00:00
+nowjuliandate:2460550.7406394
+nowepochdate:24241.2406365741
+TLE:
+STARLINK-31426
+1 59249U 24049U   24240.86470721  .00006120  00000+0  15356-3 0  9996
+2 59249  43.0021  80.0221 0000182  67.0670 293.0205 15.40714184 26690

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53053
+launchyear:2022
+epoch:24242.41046824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4337
+meananomly:155.5230
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.142164309
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6555
+eccentricity:0.0002353
+argumentofperigree:204.5882
+nickname:STARLINK-4337
+idesg:22077L  
+cosparid:2022-077L
+altkm:567.54960776107
+velkms:7.5764895946156
+velkmh:27275
+onumepoch:11788
+onumnow:176979.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:51:04+00:00
+nowjuliandate:2460552.6378819
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4337
+1 53053U 22077L   24242.41046824  .00000016  00000+0  58557-5 0  9998
+2 53053  97.6555  62.1853 0002353 204.5882 155.5230 15.01262191117886

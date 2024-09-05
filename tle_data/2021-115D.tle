@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49727
+launchyear:2021
+epoch:24242.41855452
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3242
+meananomly:269.5537
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8590175274
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001137
+argumentofperigree:90.5586
+nickname:STARLINK-3242
+idesg:21115D  
+cosparid:2021-115D
+altkm:540.62548205659
+velkms:7.593227896173
+velkmh:27336
+onumepoch:15238
+onumnow:229929.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:43+00:00
+nowjuliandate:2460552.6379899
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3242
+1 49727U 21115D   24242.41855452 -.00000067  00000+0  13859-4 0  9990
+2 49727  53.2160 140.8103 0001137  90.5586 269.5537 15.08847667152388

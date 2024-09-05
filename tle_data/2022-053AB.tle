@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52681
+launchyear:2022
+epoch:24242.53219949
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4068
+meananomly:285.1744
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9439793896
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.000138
+argumentofperigree:74.94
+nickname:STARLINK-4068
+idesg:22053AB 
+cosparid:2022-053AB
+altkm:540.45455950733
+velkms:7.5934619679646
+velkmh:27336
+onumepoch:12663
+onumnow:191071.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:46:22+00:00
+nowjuliandate:2460552.6379046
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4068
+1 52681U 22053AB  24242.53219949 -.00001040  00000+0 -47319-4 0  9994
+2 52681  53.2169 125.2980 0001380  74.9400 285.1744 15.08819871126630

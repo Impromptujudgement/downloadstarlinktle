@@ -1,0 +1,38 @@
+date:2024-08-27T18:17:19+00:00
+validtle:1
+satid:59926
+launchyear:2024
+epoch:24239.98665887
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31957
+meananomly:93.2683
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1345355844
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9999
+eccentricity:0.0001497
+argumentofperigree:266.8003
+nickname:STARLINK-31957
+idesg:24106E  
+cosparid:2024-106E
+altkm:443.82996290893
+velkms:7.6475976660971
+velkmh:27531
+onumepoch:1469
+onumnow:22633.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:40:47+00:00
+nowjuliandate:2460550.2620361
+nowepochdate:24240..762025463
+TLE:
+STARLINK-31957
+1 59926U 24106E   24239.98665887  .00008153  00000+0  20212-3 0  9997
+2 59926  42.9999 276.7857 0001497 266.8003  93.2683 15.40715802 14697

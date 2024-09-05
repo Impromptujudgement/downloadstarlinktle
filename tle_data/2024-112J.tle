@@ -1,0 +1,38 @@
+date:2024-08-27T17:30:25+00:00
+validtle:1
+satid:60046
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11155
+meananomly:275.0088
+meanmotion:15.6969
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.9327600451
+altitudeatperigee:359
+altitudeatapogee:361
+inclination:53.1559
+eccentricity:0.0001093
+argumentofperigree:94.8479
+nickname:STARLINK-11155
+idesg:24112J  
+cosparid:2024-112J
+altkm:359.96748422073
+velkms:7.6951881845481
+velkmh:27703
+onumepoch:574
+onumnow:9022.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.229462
+nowepochdate:24240.7294560185
+TLE:
+STARLINK-11155 [DTC]
+1 60046U 24112J   24239.91667824 -.00004969  00000+0 -36215-4 0  9999
+2 60046  53.1559 145.6332 0001093  94.8479 275.0088 15.69686587  5741

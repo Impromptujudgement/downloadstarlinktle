@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53722
+launchyear:2022
+epoch:24242.20556703
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4700
+meananomly:260.9502
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8655066437
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001458
+argumentofperigree:99.1656
+nickname:STARLINK-4700
+idesg:22107Y  
+cosparid:2022-107Y
+altkm:540.78444546169
+velkms:7.5930570266114
+velkmh:27335
+onumepoch:10979
+onumnow:165670.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:56:01+00:00
+nowjuliandate:2460552.6378268
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4700
+1 53722U 22107Y   24242.20556703  .00000414  00000+0  44108-4 0  9992
+2 53722  53.2151 236.6725 0001458  99.1656 260.9502 15.08845544109797

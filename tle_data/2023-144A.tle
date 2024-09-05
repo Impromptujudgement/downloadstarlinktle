@@ -1,0 +1,38 @@
+date:2024-08-28T20:20:10+00:00
+validtle:1
+satid:57864
+launchyear:2023
+epoch:24241.26239772
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30432
+meananomly:79.9586
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1975306413
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43
+eccentricity:0.000141
+argumentofperigree:280.1097
+nickname:STARLINK-30432
+idesg:23144A  
+cosparid:2023-144A
+altkm:558.66796484154
+velkms:7.5840343807542
+velkmh:27303
+onumepoch:5355
+onumnow:80457.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:17:51+00:00
+nowjuliandate:2460551.3473435
+nowepochdate:24241..847337963
+TLE:
+STARLINK-30432
+1 57864U 23144A   24241.26239772  .00000742  00000+0  69982-4 0  9995
+2 57864  43.0000  82.2460 0001410 280.1097  79.9586 15.02542846 53553

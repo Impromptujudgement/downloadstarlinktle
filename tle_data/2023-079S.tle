@@ -1,0 +1,38 @@
+date:2024-08-29T08:12:31+00:00
+validtle:1
+satid:56839
+launchyear:2023
+epoch:24241.78024622
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30076
+meananomly:84.5843
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1972228432
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0008
+eccentricity:0.0001222
+argumentofperigree:275.4859
+nickname:STARLINK-30076
+idesg:23079S  
+cosparid:2023-079S
+altkm:558.75824764301
+velkms:7.583935561097
+velkmh:27302
+onumepoch:6896
+onumnow:103618.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:43:33+00:00
+nowjuliandate:2460551.842036
+nowepochdate:24242..342025463
+TLE:
+STARLINK-30076
+1 56839U 23079S   24241.78024622 -.00000174  00000+0  21844-5 0  9992
+2 56839  43.0008 258.5998 0001222 275.4859  84.5843 15.02542946 68960

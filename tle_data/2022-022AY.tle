@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51898
+launchyear:2022
+epoch:24242.58048552
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3597
+meananomly:291.7577
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.941494319
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.000118
+argumentofperigree:68.3541
+nickname:STARLINK-3597
+idesg:22022AY 
+cosparid:2022-022AY
+altkm:540.39934634306
+velkms:7.5935211920515
+velkmh:27337
+onumepoch:13919
+onumnow:210021.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:55:54+00:00
+nowjuliandate:2460552.6379511
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3597
+1 51898U 22022AY  24242.58048552 -.00005165  00000+0 -30681-3 0  9999
+2 51898  53.2171 340.0839 0001180  68.3541 291.7577 15.08820684139199

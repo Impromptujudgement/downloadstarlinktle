@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53594
+launchyear:2022
+epoch:24242.66649806
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4681
+meananomly:274.1225
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8768037943
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001369
+argumentofperigree:85.9923
+nickname:STARLINK-4681
+idesg:22104G  
+cosparid:2022-104G
+altkm:540.56900274792
+velkms:7.5932996084686
+velkmh:27336
+onumepoch:11083
+onumnow:167232.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:59:45+00:00
+nowjuliandate:2460552.6378402
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4681
+1 53594U 22104G   24242.66649806  .00000526  00000+0  51129-4 0  9998
+2 53594  53.2150 224.6691 0001369  85.9923 274.1225 15.08841848110832

@@ -1,0 +1,38 @@
+date:2024-08-27T18:25:18+00:00
+validtle:1
+satid:59900
+launchyear:2024
+epoch:24240.25561224
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31676
+meananomly:95.4842
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1899173599
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0015
+eccentricity:0.0001075
+argumentofperigree:264.5892
+nickname:STARLINK-31676
+idesg:24100R  
+cosparid:2024-100R
+altkm:443.89732156637
+velkms:7.6475531458513
+velkmh:27531
+onumepoch:1520
+onumnow:23426.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:08:05+00:00
+nowjuliandate:2460550.2675809
+nowepochdate:24240.7675694444
+TLE:
+STARLINK-31676
+1 59900U 24100R   24240.25561224  .00001781  00000+0  49889-4 0  9997
+2 59900  43.0015  69.4492 0001075 264.5892  95.4842 15.40697041 15208

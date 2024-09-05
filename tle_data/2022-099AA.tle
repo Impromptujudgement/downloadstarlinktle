@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53489
+launchyear:2022
+epoch:24242.61776811
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4392
+meananomly:256.7804
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1207604948
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6583
+eccentricity:5.94E-5
+argumentofperigree:103.3487
+nickname:STARLINK-4392
+idesg:22099AA 
+cosparid:2022-099AA
+altkm:566.13559634355
+velkms:7.5780214972182
+velkmh:27281
+onumepoch:11264
+onumnow:169110.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:49:35+00:00
+nowjuliandate:2460552.6378563
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4392
+1 53489U 22099AA  24242.61776811  .00001967  00000+0  15766-3 0  9992
+2 53489  97.6583   2.3924 0000594 103.3487 256.7804 15.01269135112642

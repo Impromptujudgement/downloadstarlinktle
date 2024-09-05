@@ -1,0 +1,38 @@
+date:2024-08-28T23:13:51+00:00
+validtle:1
+satid:57435
+launchyear:2023
+epoch:24241.1897668
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30180
+meananomly:92.5345
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1365041828
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0056
+eccentricity:0.0001652
+argumentofperigree:267.5308
+nickname:STARLINK-30180
+idesg:23105F  
+cosparid:2023-105F
+altkm:558.82880599256
+velkms:7.5838253696496
+velkmh:27302
+onumepoch:6160
+onumnow:92584.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:33:16+00:00
+nowjuliandate:2460551.4679536
+nowepochdate:24242.9679513889
+TLE:
+STARLINK-30180
+1 57435U 23105F   24241.18976680  .00004771  00000+0  36773-3 0  9990
+2 57435  43.0056  56.7270 0001652 267.5308  92.5345 15.02562673 61604

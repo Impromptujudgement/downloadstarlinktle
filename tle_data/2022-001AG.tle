@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50833
+launchyear:2022
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3316
+meananomly:256.3710
+meanmotion:15.6751
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6744.1805826093
+altitudeatperigee:359
+altitudeatapogee:373
+inclination:53.1972
+eccentricity:0.0010432
+argumentofperigree:240.7508
+nickname:STARLINK-3316
+idesg:22001AG 
+cosparid:2022-001AG
+altkm:369.95712819594
+velkms:7.6910546248468
+velkmh:27688
+onumepoch:14856
+onumnow:232869.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6379814
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3316
+1 50833U 22001AG  24242.91667824  .00304028  00000+0  26470-2 0  9998
+2 50833  53.1972  84.2878 0010432 240.7508 256.3710 15.67505851148562

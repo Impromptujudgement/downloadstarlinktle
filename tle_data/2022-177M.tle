@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54831
+launchyear:2022
+epoch:24241.39862715
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5395
+meananomly:88.2074
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2115939722
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001184
+argumentofperigree:271.8633
+nickname:STARLINK-5395
+idesg:22177M  
+cosparid:2022-177M
+altkm:558.82710967059
+velkms:7.5838681495894
+velkmh:27302
+onumepoch:9297
+onumnow:139717.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:34:01+00:00
+nowjuliandate:2460552.63778
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5395
+1 54831U 22177M   24241.39862715  .00000903  00000+0  81881-4 0  9995
+2 54831  43.0026 286.9502 0001184 271.8633  88.2074 15.02538277 92970

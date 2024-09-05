@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55941
+launchyear:2023
+epoch:24241.75696905
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5914
+meananomly:96.2388
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1912438284
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9981
+eccentricity:0.0003139
+argumentofperigree:263.8414
+nickname:STARLINK-5914
+idesg:23037AD 
+cosparid:2023-037AD
+altkm:574.71569180153
+velkms:7.5736041738845
+velkmh:27265
+onumepoch:8040
+onumnow:120486.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:10:02+00:00
+nowjuliandate:2460552.6377316
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5914
+1 55941U 23037AD  24241.75696905  .00000975  00000+0  89522-4 0  9999
+2 55941  69.9981 251.3487 0003139 263.8414  96.2388 14.98331203 80404

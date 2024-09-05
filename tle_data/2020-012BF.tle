@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45231
+launchyear:2020
+epoch:22292.22270833
+epochday:292
+tleage:681
+tleclassification:C
+active:0
+name:STARLINK-1229
+meananomly:14.5219
+meanmotion:15.9360
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6670.3470688514
+altitudeatperigee:288
+altitudeatapogee:296
+inclination:53.0128
+eccentricity:0.0005744
+argumentofperigree:85.9685
+nickname:STARLINK-1229
+idesg:20012BF 
+cosparid:2020-012BF
+altkm:294.7114049667
+velkms:7.739436983535
+velkmh:27862
+onumepoch:1
+onumnow:31112.01
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-10-19T05:20:42+00:00
+nowjuliandate:2460553.0283793
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1229
+1 45231C 20012BF  22292.22270833  .00240128  00000-0  63819-3 0  2927
+2 45231  53.0128 281.0100 0005744  85.9685  14.5219 15.93603625    12

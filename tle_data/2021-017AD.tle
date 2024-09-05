@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47749
+launchyear:2021
+epoch:24241.56572825
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2163
+meananomly:279.8070
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.29320409
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001742
+argumentofperigree:80.3116
+nickname:STARLINK-2163
+idesg:21017AD 
+cosparid:2021-017AD
+altkm:547.82999083868
+velkms:7.5893963599456
+velkmh:27322
+onumepoch:19311
+onumnow:290928.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:34:39+00:00
+nowjuliandate:2460552.6393953
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2163
+1 47749U 21017AD  24241.56572825  .00006947  00000+0  48457-3 0  9991
+2 47749  53.0541 187.1301 0001742  80.3116 279.8070 15.06418735193113

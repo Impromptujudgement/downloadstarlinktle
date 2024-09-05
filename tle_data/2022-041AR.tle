@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52300
+launchyear:2022
+epoch:24242.24744063
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3769
+meananomly:274.1324
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8833357448
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.000128
+argumentofperigree:85.9815
+nickname:STARLINK-3769
+idesg:22041AR 
+cosparid:2022-041AR
+altkm:540.57986400095
+velkms:7.5932912675818
+velkmh:27336
+onumepoch:13157
+onumnow:198531.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:56:19+00:00
+nowjuliandate:2460552.6379342
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3769
+1 52300U 22041AR  24242.24744063 -.00001170  00000+0 -55458-4 0  9994
+2 52300  53.2158  81.5770 0001280  85.9815 274.1324 15.08839711131574

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55932
+launchyear:2023
+epoch:24241.68160788
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5848
+meananomly:95.9482
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1728192851
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0003154
+argumentofperigree:264.1318
+nickname:STARLINK-5848
+idesg:23037U  
+cosparid:2023-037U
+altkm:574.68744320801
+velkms:7.5736249273432
+velkmh:27265
+onumepoch:8089
+onumnow:121222.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:21:31+00:00
+nowjuliandate:2460552.6377269
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5848
+1 55932U 23037U   24241.68160788  .00000250  00000+0  28783-4 0  9994
+2 55932  69.9993 231.2024 0003154 264.1318  95.9482 14.98337161 80898

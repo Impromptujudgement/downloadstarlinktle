@@ -1,0 +1,38 @@
+date:2024-08-29T06:31:03+00:00
+validtle:1
+satid:57150
+launchyear:2023
+epoch:24241.20857502
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5780
+meananomly:85.4836
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1932584069
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001113
+argumentofperigree:274.5879
+nickname:STARLINK-5780
+idesg:23090BB 
+cosparid:2023-090BB
+altkm:558.77375335535
+velkms:7.58391645792
+velkmh:27302
+onumepoch:6655
+onumnow:100007.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:00:21+00:00
+nowjuliandate:2460551.7715733
+nowepochdate:24242.08.2715625
+TLE:
+STARLINK-5780
+1 57150U 23090BB  24241.20857502 -.00000263  00000+0 -43630-5 0  9997
+2 57150  43.0034  56.2255 0001113 274.5879  85.4836 15.02544234 66553

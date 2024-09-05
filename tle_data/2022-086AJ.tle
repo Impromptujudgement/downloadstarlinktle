@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53274
+launchyear:2022
+epoch:24242.49537634
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4050
+meananomly:265.5421
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8443643458
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001257
+argumentofperigree:94.5715
+nickname:STARLINK-4050
+idesg:22086AJ 
+cosparid:2022-086AJ
+altkm:540.67253824305
+velkms:7.5931682397068
+velkmh:27335
+onumepoch:11690
+onumnow:176394.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:53:21+00:00
+nowjuliandate:2460552.6378678
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4050
+1 53274U 22086AJ  24242.49537634  .00005951  00000+0  39154-3 0  9998
+2 53274  53.2181 165.4666 0001257  94.5715 265.5421 15.08852461116905

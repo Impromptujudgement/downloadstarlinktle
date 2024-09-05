@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:56+00:00
+validtle:1
+satid:47918
+launchyear:2021
+epoch:24241.78412421
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2398
+meananomly:269.2497
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3334788323
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001423
+argumentofperigree:90.8655
+nickname:STARLINK-2398
+idesg:21021BL 
+cosparid:2021-021BL
+altkm:548.08855223553
+velkms:7.5891351210571
+velkmh:27321
+onumepoch:19210
+onumnow:289400.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:49:08+00:00
+nowjuliandate:2460552.6381578
+nowepochdate:24243.1381481481
+TLE:
+STARLINK-2398
+1 47918U 21021BL  24241.78412421  .00001484  00000+0  11846-3 0  9996
+2 47918  53.0538 256.1527 0001423  90.8655 269.2497 15.06405594192107

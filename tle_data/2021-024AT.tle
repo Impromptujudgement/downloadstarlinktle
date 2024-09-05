@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48018
+launchyear:2021
+epoch:24242.46710478
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2282
+meananomly:320.7370
+meanmotion:15.0677
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6924.2060563567
+altitudeatperigee:544
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0002478
+argumentofperigree:39.3799
+nickname:STARLINK-2282
+idesg:21024AT 
+cosparid:2021-024AT
+altkm:545.62003652215
+velkms:7.5912235685399
+velkmh:27328
+onumepoch:19026
+onumnow:286688.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:12:38+00:00
+nowjuliandate:2460552.6380975
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2282
+1 48018U 21024AT  24242.46710478  .00046011  00000+0  30567-2 0  9995
+2 48018  53.0546 302.7341 0002478  39.3799 320.7370 15.06773526190269

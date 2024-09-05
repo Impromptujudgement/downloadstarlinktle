@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51867
+launchyear:2022
+epoch:24241.62275734
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3590
+meananomly:265.3626
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8725153954
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2172
+eccentricity:0.0001024
+argumentofperigree:94.7483
+nickname:STARLINK-3590
+idesg:22022R  
+cosparid:2022-022R
+altkm:540.69024105717
+velkms:7.5931642301631
+velkmh:27335
+onumepoch:13886
+onumnow:209540.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:56:46+00:00
+nowjuliandate:2460552.6379494
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3590
+1 51867U 22022R   24241.62275734  .00001867  00000+0  13535-3 0  9995
+2 51867  53.2172 354.3853 0001024  94.7483 265.3626 15.08843251138865

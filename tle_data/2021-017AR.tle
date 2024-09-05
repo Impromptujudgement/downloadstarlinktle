@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47761
+launchyear:2021
+epoch:24242.5931945
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2179
+meananomly:264.9856
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3272020514
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001418
+argumentofperigree:95.1295
+nickname:STARLINK-2179
+idesg:21017AR 
+cosparid:2021-017AR
+altkm:548.15514680514
+velkms:7.5890587362481
+velkmh:27321
+onumepoch:19313
+onumnow:290938.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:14:12+00:00
+nowjuliandate:2460552.6393816
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2179
+1 47761U 21017AR  24242.59319450  .00001651  00000+0  12967-3 0  9996
+2 47761  53.0533 192.5198 0001418  95.1295 264.9856 15.06407642193138

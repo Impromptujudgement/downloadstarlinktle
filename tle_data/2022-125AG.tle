@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53994
+launchyear:2022
+epoch:24242.60667587
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5125
+meananomly:259.6662
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8481391985
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001467
+argumentofperigree:100.4495
+nickname:STARLINK-5125
+idesg:22125AG 
+cosparid:2022-125AG
+altkm:540.7907154644
+velkms:7.5930406368767
+velkmh:27335
+onumepoch:10543
+onumnow:159086.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:33:37+00:00
+nowjuliandate:2460552.6378094
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5125
+1 53994U 22125AG  24242.60667587  .00001169  00000+0  91473-4 0  9995
+2 53994  53.2172 194.8385 0001467 100.4495 259.6662 15.08851226105438

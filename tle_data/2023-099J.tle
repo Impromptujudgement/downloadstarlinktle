@@ -1,0 +1,38 @@
+date:2024-08-29T04:51:35+00:00
+validtle:1
+satid:57336
+launchyear:2023
+epoch:24241.16118909
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6320
+meananomly:84.4765
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.158326674
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43
+eccentricity:0.0001551
+argumentofperigree:275.59
+nickname:STARLINK-6320
+idesg:23099J  
+cosparid:2023-099J
+altkm:558.695768075
+velkms:7.5839826326563
+velkmh:27302
+onumepoch:6210
+onumnow:93324.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:52:07+00:00
+nowjuliandate:2460551.702494
+nowepochdate:24242.2024884259
+TLE:
+STARLINK-6320
+1 57336U 23099J   24241.16118909  .00006575  00000+0  50105-3 0  9991
+2 57336  43.0000  43.4833 0001551 275.5900  84.4765 15.02555583 62100

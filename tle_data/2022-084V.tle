@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53208
+launchyear:2022
+epoch:24242.14693815
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4425
+meananomly:141.4907
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1264843961
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.656
+eccentricity:0.0003242
+argumentofperigree:218.6086
+nickname:STARLINK-4425
+idesg:22084V  
+cosparid:2022-084V
+altkm:567.80860672778
+velkms:7.5761983436883
+velkmh:27274
+onumepoch:11604
+onumnow:174221.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:31:35+00:00
+nowjuliandate:2460552.6378691
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4425
+1 53208U 22084V   24242.14693815  .00000797  00000+0  66633-4 0  9995
+2 53208  97.6560 301.9303 0003242 218.6086 141.4907 15.01267278116041

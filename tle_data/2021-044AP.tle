@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48675
+launchyear:2021
+epoch:24242.29648296
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2737
+meananomly:258.4135
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3540623603
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0597
+eccentricity:0.0001949
+argumentofperigree:101.7073
+nickname:STARLINK-2737
+idesg:21044AP 
+cosparid:2021-044AP
+altkm:548.36805591428
+velkms:7.5888401888868
+velkmh:27320
+onumepoch:18067
+onumnow:272173.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:06:56+00:00
+nowjuliandate:2460552.6380125
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2737
+1 48675U 21044AP  24242.29648296  .00002864  00000+0  21110-3 0  9998
+2 48675  53.0597  93.8565 0001949 101.7073 258.4135 15.06398878180674

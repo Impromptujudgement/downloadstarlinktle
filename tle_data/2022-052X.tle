@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52619
+launchyear:2022
+epoch:24241.73500002
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3741
+meananomly:268.4872
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8818013311
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001376
+argumentofperigree:91.6277
+nickname:STARLINK-3741
+idesg:22052X  
+cosparid:2022-052X
+altkm:540.66720443443
+velkms:7.5931945917945
+velkmh:27336
+onumepoch:12675
+onumnow:191266.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:38:24+00:00
+nowjuliandate:2460552.6379052
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3741
+1 52619U 22052X   24241.73500002  .00000799  00000+0  68283-4 0  9999
+2 52619  53.2149 253.8694 0001376  91.6277 268.4872 15.08840213126755

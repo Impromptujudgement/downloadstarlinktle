@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54802
+launchyear:2022
+epoch:24242.52245493
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5426
+meananomly:269.1901
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8814467655
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001446
+argumentofperigree:90.9257
+nickname:STARLINK-5426
+idesg:22175AW 
+cosparid:2022-175AW
+altkm:540.65608693647
+velkms:7.5932065967818
+velkmh:27336
+onumepoch:9442
+onumnow:142473.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:32:20+00:00
+nowjuliandate:2460552.6377888
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5426
+1 54802U 22175AW  24242.52245493 -.00000094  00000+0  12179-4 0  9991
+2 54802  53.2170 329.8023 0001446  90.9257 269.1901 15.08840329 94420

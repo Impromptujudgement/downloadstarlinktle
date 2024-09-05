@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52863
+launchyear:2022
+epoch:24242.05745779
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4270
+meananomly:272.6596
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8552762822
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001401
+argumentofperigree:87.4556
+nickname:STARLINK-4270
+idesg:22062AK 
+cosparid:2022-062AK
+altkm:540.57088146609
+velkms:7.5932857594585
+velkmh:27336
+onumepoch:12223
+onumnow:184442.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:22:44+00:00
+nowjuliandate:2460552.6378972
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4270
+1 52863U 22062AK  24242.05745779  .00002584  00000+0  18033-3 0  9990
+2 52863  53.2177   7.4278 0001401  87.4556 272.6596 15.08848891122239

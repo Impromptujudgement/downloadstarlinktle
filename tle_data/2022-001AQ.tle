@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50841
+launchyear:2022
+epoch:24241.48568186
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3300
+meananomly:259.0085
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.901485906
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001218
+argumentofperigree:101.1044
+nickname:STARLINK-3300
+idesg:22001AQ 
+cosparid:2022-001AQ
+altkm:540.82264538221
+velkms:7.5930348146615
+velkmh:27335
+onumepoch:14599
+onumnow:220297.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:39:23+00:00
+nowjuliandate:2460552.6379796
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3300
+1 50841U 22001AQ  24241.48568186  .00003586  00000+0  24333-3 0  9991
+2 50841  53.2175 164.9994 0001218 101.1044 259.0085 15.08833773145990

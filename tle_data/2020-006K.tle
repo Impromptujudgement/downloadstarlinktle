@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:55+00:00
+validtle:1
+satid:45053
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1155
+meananomly:122.5670
+meanmotion:15.9250
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6673.4326695179
+altitudeatperigee:292
+altitudeatapogee:298
+inclination:52.9754
+eccentricity:0.000461
+argumentofperigree:278.7881
+nickname:STARLINK-1155
+idesg:20006K  
+cosparid:2020-006K
+altkm:298.96031675399
+velkms:7.7317849926185
+velkmh:27834
+onumepoch:25539
+onumnow:406712.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0284225
+nowepochdate:24243.5284143519
+TLE:
+STARLINK-1155
+1 45053U 20006K   24243.25001157  .00348916  57579-4  10089-2 0  9999
+2 45053  52.9754  82.4799 0004610 278.7881 122.5670 15.92498499255399

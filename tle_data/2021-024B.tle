@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:47978
+launchyear:2021
+epoch:24242.39554047
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1647
+meananomly:272.3732
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4049425799
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:9.77E-5
+argumentofperigree:87.7369
+nickname:STARLINK-1647
+idesg:21024B  
+cosparid:2021-024B
+altkm:548.11895606228
+velkms:7.5891408825643
+velkmh:27321
+onumepoch:19003
+onumnow:286269.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:29:35+00:00
+nowjuliandate:2460552.6380973
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-1647
+1 47978U 21024B   24242.39554047 -.00006505  00000+0 -41841-3 0  9993
+2 47978  53.0533 318.4136 0000977  87.7369 272.3732 15.06382277190035

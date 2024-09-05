@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51148
+launchyear:2022
+epoch:24242.3542191
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3359
+meananomly:259.8075
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8651612499
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001478
+argumentofperigree:100.3084
+nickname:STARLINK-3359
+idesg:22005AW 
+cosparid:2022-005AW
+altkm:540.80655078859
+velkms:7.5930325829326
+velkmh:27335
+onumepoch:14556
+onumnow:219637.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:30:05+00:00
+nowjuliandate:2460552.6379738
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3359
+1 51148U 22005AW  24242.35421910  .00000623  00000+0  57235-4 0  9993
+2 51148  53.2166 291.3007 0001478 100.3084 259.8075 15.08845657145568

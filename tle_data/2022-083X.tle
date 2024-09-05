@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53153
+launchyear:2022
+epoch:24242.4530657
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4098
+meananomly:285.4512
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8948652709
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001506
+argumentofperigree:74.6647
+nickname:STARLINK-4098
+idesg:22083X  
+cosparid:2022-083X
+altkm:540.37779295311
+velkms:7.5935193107019
+velkmh:27337
+onumepoch:11786
+onumnow:177841.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:52:25+00:00
+nowjuliandate:2460552.6378746
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4098
+1 53153U 22083X   24242.45306570 -.00000213  00000+0  46947-5 0  9997
+2 53153  53.2169 145.6559 0001506  74.6647 285.4512 15.08835939117867

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55298
+launchyear:2023
+epoch:24242.58334491
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5272
+meananomly:236.6161
+meanmotion:15.5343
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6784.8719967565
+altitudeatperigee:404
+altitudeatapogee:409
+inclination:70.0029
+eccentricity:0.0003446
+argumentofperigree:276.4992
+nickname:STARLINK-5272
+idesg:23010AF 
+cosparid:2023-010AF
+altkm:410.60942709381
+velkms:7.6664308067047
+velkmh:27599
+onumepoch:8958
+onumnow:139164.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:00:01+00:00
+nowjuliandate:2460552.6377777
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5272
+1 55298U 23010AF  24242.58334491  .01330697  00000+0  18872-1 0  9991
+2 55298  70.0029 346.4092 0003446 276.4992 236.6161 15.53425637 89589

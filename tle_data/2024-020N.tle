@@ -1,0 +1,38 @@
+date:2024-08-28T02:53:50+00:00
+validtle:1
+satid:58888
+launchyear:2024
+epoch:24240.58334491
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30970
+meananomly:322.5377
+meanmotion:15.5849
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6770.1588411246
+altitudeatperigee:384
+altitudeatapogee:400
+inclination:53.1532
+eccentricity:0.0011207
+argumentofperigree:304.715
+nickname:STARLINK-30970
+idesg:24020N  
+cosparid:2024-020N
+altkm:404.49413316491
+velkms:7.6710681176094
+velkmh:27616
+onumepoch:591
+onumnow:9219.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:00:01+00:00
+nowjuliandate:2460550.6207243
+nowepochdate:24241.1207175926
+TLE:
+STARLINK-30970
+1 58888U 24020N   24240.58334491  .00690830  00000+0  81443-2 0  9991
+2 58888  53.1532  30.7515 0011207 304.7150 322.5377 15.58492329  5912

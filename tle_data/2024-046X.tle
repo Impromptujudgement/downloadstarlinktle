@@ -1,0 +1,38 @@
+date:2024-08-28T06:00:45+00:00
+validtle:1
+satid:59222
+launchyear:2024
+epoch:24240.26245513
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31490
+meananomly:269.3847
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3850637928
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1588
+eccentricity:0.000134
+argumentofperigree:90.7311
+nickname:STARLINK-31490
+idesg:24046X  
+cosparid:2024-046X
+altkm:448.16122194723
+velkms:7.6445649453226
+velkmh:27520
+onumepoch:2734
+onumnow:42108.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:17:56+00:00
+nowjuliandate:2460550.7505301
+nowepochdate:24241.2505208333
+TLE:
+STARLINK-31490
+1 59222U 24046X   24240.26245513  .00001283  00000+0  42051-4 0  9995
+2 59222  53.1588 237.0147 0001340  90.7311 269.3847 15.39615305 27348

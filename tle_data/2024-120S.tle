@@ -1,0 +1,38 @@
+date:2024-08-27T16:22:46+00:00
+validtle:1
+satid:60151
+launchyear:2024
+epoch:24240.16459246
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32004
+meananomly:271.7639
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.362540398
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1636
+eccentricity:0.0001025
+argumentofperigree:88.3484
+nickname:STARLINK-32004
+idesg:24120S  
+cosparid:2024-120S
+altkm:448.10780192678
+velkms:7.6446121732134
+velkmh:27521
+onumepoch:1068
+onumnow:16451.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:57:01+00:00
+nowjuliandate:2460550.1824821
+nowepochdate:24240.6824768519
+TLE:
+STARLINK-32004
+1 60151U 24120S   24240.16459246 -.00000299  00000+0  24932-5 0  9996
+2 60151  53.1636  46.4381 0001025  88.3484 271.7639 15.39622926 10683

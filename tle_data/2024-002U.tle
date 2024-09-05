@@ -1,0 +1,38 @@
+date:2024-08-28T04:22:45+00:00
+validtle:1
+satid:58723
+launchyear:2024
+epoch:24240.31066997
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31033
+meananomly:275.9040
+meanmotion:15.0493
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.86868312
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1589
+eccentricity:0.0001266
+argumentofperigree:84.2093
+nickname:STARLINK-31033
+idesg:24002U  
+cosparid:2024-002U
+altkm:552.53119616828
+velkms:7.5867487861624
+velkmh:27312
+onumepoch:3711
+onumnow:55860.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:27:22+00:00
+nowjuliandate:2460550.6824706
+nowepochdate:24241.1824652778
+TLE:
+STARLINK-31033
+1 58723U 24002U   24240.31066997  .00000916  00000+0  83342-4 0  9995
+2 58723  53.1589 256.3066 0001266  84.2093 275.9040 15.04927051 37110

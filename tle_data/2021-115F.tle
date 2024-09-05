@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49729
+launchyear:2021
+epoch:24242.01742033
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3251
+meananomly:270.8817
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8547688915
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.000151
+argumentofperigree:89.2348
+nickname:STARLINK-3251
+idesg:21115F  
+cosparid:2021-115F
+altkm:540.59914125395
+velkms:7.5932544727671
+velkmh:27336
+onumepoch:15231
+onumnow:229829.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:25:05+00:00
+nowjuliandate:2460552.6379897
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3251
+1 49729U 21115F   24242.01742033  .00001600  00000+0  11860-3 0  9990
+2 49729  53.2163 142.4880 0001510  89.2348 270.8817 15.08849057152313

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:40+00:00
+validtle:1
+satid:47781
+launchyear:2021
+epoch:24242.16930723
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2223
+meananomly:267.7225
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3439238196
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001309
+argumentofperigree:92.3913
+nickname:STARLINK-2223
+idesg:21017BM 
+cosparid:2021-017BM
+altkm:548.12194266783
+velkms:7.5891042522965
+velkmh:27321
+onumepoch:19306
+onumnow:290840.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:03:48+00:00
+nowjuliandate:2460552.6393533
+nowepochdate:24243.1393518519
+TLE:
+STARLINK-2223
+1 47781U 21017BM  24242.16930723  .00000061  00000+0  22956-4 0  9997
+2 47781  53.0523 194.4221 0001309  92.3913 267.7225 15.06402186193063

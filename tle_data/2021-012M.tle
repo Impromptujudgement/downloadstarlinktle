@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47631
+launchyear:2021
+epoch:22064.88126444
+epochday:64
+tleage:909
+tleclassification:C
+active:0
+name:STARLINK-1985
+meananomly:97.7190
+meanmotion:16.0848
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6629.1497837818
+altitudeatperigee:245
+altitudeatapogee:257
+inclination:53.0273
+eccentricity:0.0009011
+argumentofperigree:186.5055
+nickname:STARLINK-1985
+idesg:21012M  
+cosparid:2021-012M
+altkm:269.37330177433
+velkms:7.7446988656477
+velkmh:27881
+onumepoch:1
+onumnow:35052.98
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-03-05T21:09:01+00:00
+nowjuliandate:2460552.6394114
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1985
+1 47631C 21012M   22064.88126444  .00814006  00000-0  86966-3 0   648
+2 47631  53.0273 357.1936 0009011 186.5055  97.7190 16.08482012    14

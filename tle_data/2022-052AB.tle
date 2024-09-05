@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52623
+launchyear:2022
+epoch:24242.32012329
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3986
+meananomly:272.5425
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8857810273
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001355
+argumentofperigree:87.5722
+nickname:STARLINK-3986
+idesg:22052AB 
+cosparid:2022-052AB
+altkm:540.60449460524
+velkms:7.5932655801076
+velkmh:27336
+onumepoch:12722
+onumnow:191966.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:40:59+00:00
+nowjuliandate:2460552.6379106
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3986
+1 52623U 22052AB  24242.32012329  .00000153  00000+0  27694-4 0  9995
+2 52623  53.2152 251.2503 0001355  87.5722 272.5425 15.08838911127226

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49458
+launchyear:2021
+epoch:24242.1885594
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3156
+meananomly:263.4797
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.880878238
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001562
+argumentofperigree:96.6373
+nickname:STARLINK-3156
+idesg:21104BC 
+cosparid:2021-104BC
+altkm:540.76403075027
+velkms:7.5930878440738
+velkmh:27335
+onumepoch:15569
+onumnow:234925.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:31:32+00:00
+nowjuliandate:2460552.6379969
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3156
+1 49458U 21104BC  24242.18855940  .00000582  00000+0  54653-4 0  9993
+2 49458  53.2163 201.8434 0001562  96.6373 263.4797 15.08840515155693

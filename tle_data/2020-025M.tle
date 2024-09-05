@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45542
+launchyear:2020
+epoch:24241.86384893
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1371
+meananomly:267.0287
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3087058582
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0545
+eccentricity:0.0002349
+argumentofperigree:93.097
+nickname:STARLINK-1371
+idesg:20025M  
+cosparid:2020-025M
+altkm:548.13552405387
+velkms:7.5890701211745
+velkmh:27321
+onumepoch:24101
+onumnow:363085.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:43:57+00:00
+nowjuliandate:2460553.028331
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1371
+1 45542U 20025M   24241.86384893  .00015354  00000+0  10470-2 0  9992
+2 45542  53.0545  90.7936 0002349  93.0970 267.0287 15.06413677241014

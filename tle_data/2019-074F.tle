@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44718
+launchyear:2019
+epoch:24243.09863358
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1012
+meananomly:268.5414
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3943870259
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.000144
+argumentofperigree:91.574
+nickname:STARLINK-1012
+idesg:19074F  
+cosparid:2019-074F
+altkm:548.16182827384
+velkms:7.5890881466393
+velkmh:27321
+onumepoch:26502
+onumnow:399228.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T02:22:02+00:00
+nowjuliandate:2460553.0296715
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1012
+1 44718U 19074F   24243.09863358  .00000490  00000+0  51817-4 0  9990
+2 44718  53.0528 165.2529 0001440  91.5740 268.5414 15.06385721265027

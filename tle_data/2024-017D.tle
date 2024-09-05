@@ -1,0 +1,38 @@
+date:2024-08-28T03:31:00+00:00
+validtle:1
+satid:58829
+launchyear:2024
+epoch:24240.87467076
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31258
+meananomly:281.2884
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3867369823
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1579
+eccentricity:0.0001416
+argumentofperigree:78.8277
+nickname:STARLINK-31258
+idesg:24017D  
+cosparid:2024-017D
+altkm:463.96125550155
+velkms:7.6358300800193
+velkmh:27489
+onumepoch:3437
+onumnow:52735.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:59:32+00:00
+nowjuliandate:2460550.6465296
+nowepochdate:24241.1465277778
+TLE:
+STARLINK-31258
+1 58829U 24017D   24240.87467076  .00000838  00000+0  36114-4 0  9990
+2 58829  53.1579 289.5699 0001416  78.8277 281.2884 15.34216836 34372

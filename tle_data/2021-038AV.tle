@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48396
+launchyear:2021
+epoch:24241.51597966
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2575
+meananomly:275.2016
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.248630094
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0561
+eccentricity:0.0001479
+argumentofperigree:84.9142
+nickname:STARLINK-2575
+idesg:21038AV 
+cosparid:2021-038AV
+altkm:547.89820588162
+velkms:7.589297260446
+velkmh:27321
+onumepoch:18439
+onumnow:277795.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:23:01+00:00
+nowjuliandate:2460552.638035
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2575
+1 48396U 21038AV  24241.51597966  .00017850  00000+0  12131-2 0  9995
+2 48396  53.0561 327.3527 0001479  84.9142 275.2016 15.06433279184398

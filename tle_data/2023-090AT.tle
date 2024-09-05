@@ -1,0 +1,38 @@
+date:2024-08-29T06:38:06+00:00
+validtle:1
+satid:57142
+launchyear:2023
+epoch:24241.74926677
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5361
+meananomly:91.0700
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2063521489
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0057
+eccentricity:0.0001509
+argumentofperigree:268.997
+nickname:STARLINK-5361
+idesg:23090AT 
+cosparid:2023-090AT
+altkm:558.8675039618
+velkms:7.5838211553831
+velkmh:27302
+onumepoch:6644
+onumnow:99836.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:58:57+00:00
+nowjuliandate:2460551.7764589
+nowepochdate:24242.2764583333
+TLE:
+STARLINK-5361
+1 57142U 23090AT  24241.74926677  .00001285  00000+0  11018-3 0  9993
+2 57142  43.0057  53.3997 0001509 268.9970  91.0700 15.02539980 66441

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53935
+launchyear:2022
+epoch:24241.79203198
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5000
+meananomly:263.8948
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8950181016
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001556
+argumentofperigree:96.2221
+nickname:STARLINK-5000
+idesg:22119BB 
+cosparid:2022-119BB
+altkm:540.76991838798
+velkms:7.5930891267177
+velkmh:27335
+onumepoch:10795
+onumnow:162898.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:00:32+00:00
+nowjuliandate:2460552.637813
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5000
+1 53935U 22119BB  24241.79203198  .00004781  00000+0  31834-3 0  9993
+2 53935  53.2160 273.5004 0001556  96.2221 263.8948 15.08835889107951

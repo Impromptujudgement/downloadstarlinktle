@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46336
+launchyear:2020
+epoch:24242.57430481
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1738
+meananomly:261.8062
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3215535736
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001241
+argumentofperigree:98.3068
+nickname:STARLINK-1738
+idesg:20062M  
+cosparid:2020-062M
+altkm:548.18618152581
+velkms:7.5890216504516
+velkmh:27320
+onumepoch:22061
+onumnow:332343.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:47:00+00:00
+nowjuliandate:2460553.0282427
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1738
+1 46336U 20062M   24242.57430481  .00033382  00000+0  22488-2 0  9992
+2 46336  53.0539 337.6046 0001241  98.3068 261.8062 15.06409485220618

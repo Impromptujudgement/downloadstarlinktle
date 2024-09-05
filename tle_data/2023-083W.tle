@@ -1,0 +1,38 @@
+date:2024-08-29T07:30:33+00:00
+validtle:1
+satid:56896
+launchyear:2023
+epoch:24241.67223367
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6202
+meananomly:84.7099
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.207016995
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:0.0001078
+argumentofperigree:275.3621
+nickname:STARLINK-6202
+idesg:23083W  
+cosparid:2023-083W
+altkm:558.77927354603
+velkms:7.5839179247985
+velkmh:27302
+onumepoch:6784
+onumnow:101941.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:08:01+00:00
+nowjuliandate:2460551.8128878
+nowepochdate:24242.3128819444
+TLE:
+STARLINK-6202
+1 56896U 23083W   24241.67223367  .00001787  00000+0  14730-3 0  9999
+2 56896  43.0027 233.5800 0001078 275.3621  84.7099 15.02539764 67849

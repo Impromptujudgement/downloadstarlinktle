@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56426
+launchyear:2023
+epoch:24242.51353911
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5352
+meananomly:121.0735
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2044068594
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:42.9978
+eccentricity:5.36E-5
+argumentofperigree:239.0054
+nickname:STARLINK-5352
+idesg:23061BE 
+cosparid:2023-061BE
+altkm:559.03689987981
+velkms:7.5836350007198
+velkmh:27301
+onumepoch:7352
+onumnow:110476.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:19:30+00:00
+nowjuliandate:2460552.6377014
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5352
+1 56426U 23061BE  24242.51353911  .00000841  00000+0  77264-4 0  9999
+2 56426  42.9978 319.6101 0000536 239.0054 121.0735 15.02540612 73524

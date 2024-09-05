@@ -1,0 +1,38 @@
+date:2024-08-28T06:58:52+00:00
+validtle:1
+satid:59081
+launchyear:2024
+epoch:24240.23252123
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31292
+meananomly:102.0569
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.201099474
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0017
+eccentricity:9.69E-5
+argumentofperigree:258.0173
+nickname:STARLINK-31292
+idesg:24041H  
+cosparid:2024-041H
+altkm:487.97883825385
+velkms:7.6228788050722
+velkmh:27442
+onumepoch:2875
+onumnow:43885.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:34:50+00:00
+nowjuliandate:2460550.7908798
+nowepochdate:24241.2908796296
+TLE:
+STARLINK-31292
+1 59081U 24041H   24240.23252123  .00003094  00000+0  12807-3 0  9992
+2 59081  43.0017 226.4622 0000969 258.0173 102.0569 15.25907395 28755

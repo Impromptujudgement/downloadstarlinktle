@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53664
+launchyear:2022
+epoch:24242.20182209
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4471
+meananomly:284.9321
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1507764317
+altitudeatperigee:559
+altitudeatapogee:567
+inclination:97.6537
+eccentricity:0.000549
+argumentofperigree:75.2511
+nickname:STARLINK-4471
+idesg:22105S  
+cosparid:2022-105S
+altkm:565.09124611738
+velkms:7.579178118668
+velkmh:27285
+onumepoch:10987
+onumnow:164957.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:50:37+00:00
+nowjuliandate:2460552.6378336
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4471
+1 53664U 22105S   24242.20182209  .00000978  00000+0  80696-4 0  9998
+2 53664  97.6537 121.9948 0005490  75.2511 284.9321 15.01259397109872

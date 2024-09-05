@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53662
+launchyear:2022
+epoch:24242.40545893
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4357
+meananomly:281.1879
+meanmotion:15.0133
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6940.9379316715
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.652
+eccentricity:0.0004742
+argumentofperigree:78.9878
+nickname:STARLINK-4357
+idesg:22105Q  
+cosparid:2022-105Q
+altkm:565.22146644945
+velkms:7.5789198663969
+velkmh:27284
+onumepoch:10990
+onumnow:165006.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:43:52+00:00
+nowjuliandate:2460552.6378342
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4357
+1 53662U 22105Q   24242.40545893 -.00015221  00000+0 -11806-2 0  9994
+2 53662  97.6520 122.1959 0004742  78.9878 281.1879 15.01328452109902

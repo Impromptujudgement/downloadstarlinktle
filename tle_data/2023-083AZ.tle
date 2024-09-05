@@ -1,0 +1,38 @@
+date:2024-08-29T07:49:22+00:00
+validtle:1
+satid:56923
+launchyear:2023
+epoch:24241.22378921
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5952
+meananomly:90.0451
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1765665918
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0001
+eccentricity:0.0001001
+argumentofperigree:270.0276
+nickname:STARLINK-5952
+idesg:23083AZ 
+cosparid:2023-083AZ
+altkm:558.81802235071
+velkms:7.5838589873007
+velkmh:27302
+onumepoch:6781
+onumnow:101904.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:22:15+00:00
+nowjuliandate:2460551.825957
+nowepochdate:24242.3259490741
+TLE:
+STARLINK-5952
+1 56923U 23083AZ  24241.22378921 -.00002409  00000+0 -16327-3 0  9996
+2 56923  43.0001 223.2352 0001001 270.0276  90.0451 15.02549657 67815

@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:06+00:00
+validtle:1
+satid:47890
+launchyear:2021
+epoch:23067.84909722
+epochday:67
+tleage:541
+tleclassification:C
+active:0
+name:STARLINK-2350
+meananomly:280.8956
+meanmotion:15.9430
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6668.3933163389
+altitudeatperigee:286
+altitudeatapogee:295
+inclination:53.0287
+eccentricity:0.0006413
+argumentofperigree:182.3187
+nickname:STARLINK-2350
+idesg:21021AG 
+cosparid:2021-021AG
+altkm:295.50893793246
+velkms:7.737224427496
+velkmh:27854
+onumepoch:1
+onumnow:18753.63
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-03-08T20:22:42+00:00
+nowjuliandate:2460552.6382683
+nowepochdate:24243.1382638889
+TLE:
+STARLINK-2350
+1 47890C 21021AG  23067.84909722  .00248458  00000-0  63556-3 0   678
+2 47890  53.0287 358.2241 0006413 182.3187 280.8956 15.94304034    16

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53467
+launchyear:2022
+epoch:24242.31016674
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4394
+meananomly:124.4585
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1605968733
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6555
+eccentricity:0.0003914
+argumentofperigree:235.627
+nickname:STARLINK-4394
+idesg:22099C  
+cosparid:2022-099C
+altkm:567.61938960762
+velkms:7.5764234779646
+velkmh:27275
+onumepoch:11259
+onumnow:169038.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:26:38+00:00
+nowjuliandate:2460552.6378537
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4394
+1 53467U 22099C   24242.31016674  .00003350  00000+0  26526-3 0  9993
+2 53467  97.6555   2.1431 0003914 235.6270 124.4585 15.01256211112598

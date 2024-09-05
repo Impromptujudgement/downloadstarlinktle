@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52487
+launchyear:2022
+epoch:24242.11220827
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3902
+meananomly:266.2426
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8434259824
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001914
+argumentofperigree:93.8785
+nickname:STARLINK-3902
+idesg:22049AN 
+cosparid:2022-049AN
+altkm:540.69069198333
+velkms:7.5931478064293
+velkmh:27335
+onumepoch:12837
+onumnow:193706.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:41:35+00:00
+nowjuliandate:2460552.637922
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3902
+1 52487U 22049AN  24242.11220827  .00002524  00000+0  17657-3 0  9991
+2 52487  53.2159  32.2887 0001914  93.8785 266.2426 15.08852768128377

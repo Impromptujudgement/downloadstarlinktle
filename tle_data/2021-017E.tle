@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:39+00:00
+validtle:1
+satid:47726
+launchyear:2021
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2126
+meananomly:190.2879
+meanmotion:15.3618
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6835.5469510759
+altitudeatperigee:452
+altitudeatapogee:463
+inclination:53.0662
+eccentricity:0.0007989
+argumentofperigree:85.2209
+nickname:STARLINK-2126
+idesg:21017E  
+cosparid:2021-017E
+altkm:481.14511441875
+velkms:7.6216934485905
+velkmh:27438
+onumepoch:19377
+onumnow:297669.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6393493
+nowepochdate:24243.1393402778
+TLE:
+STARLINK-2126
+1 47726U 21017E   24242.91667824  .00115482  00000+0  31873-2 0  9998
+2 47726  53.0662 149.6955 0007989  85.2209 190.2879 15.36183338193772

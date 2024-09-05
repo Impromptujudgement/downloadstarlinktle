@@ -1,0 +1,38 @@
+date:2024-08-28T02:31:34+00:00
+validtle:1
+satid:58965
+launchyear:2024
+epoch:24240.08602647
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31373
+meananomly:274.6006
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3574104373
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1611
+eccentricity:0.0001141
+argumentofperigree:85.5127
+nickname:STARLINK-31373
+idesg:24031A  
+cosparid:2024-031A
+altkm:464.05924107651
+velkms:7.6357044264131
+velkmh:27489
+onumepoch:3083
+onumnow:47315.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:03:53+00:00
+nowjuliandate:2460550.6052585
+nowepochdate:24241.1052546296
+TLE:
+STARLINK-31373
+1 58965U 24031A   24240.08602647  .00000467  00000+0  25073-4 0  9995
+2 58965  53.1611  17.5397 0001141  85.5127 274.6006 15.34226701 30839

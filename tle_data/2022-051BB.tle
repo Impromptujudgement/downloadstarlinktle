@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52585
+launchyear:2022
+epoch:24242.31551605
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3906
+meananomly:267.3761
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8661821484
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001221
+argumentofperigree:92.7371
+nickname:STARLINK-3906
+idesg:22051BB 
+cosparid:2022-051BB
+altkm:540.66528034775
+velkms:7.5931881504322
+velkmh:27335
+onumepoch:12751
+onumnow:192405.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:34:21+00:00
+nowjuliandate:2460552.6379141
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3906
+1 52585U 22051BB  24242.31551605  .00002033  00000+0  14579-3 0  9991
+2 52585  53.2167 101.2369 0001221  92.7371 267.3761 15.08845323127515

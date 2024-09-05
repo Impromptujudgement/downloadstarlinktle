@@ -1,0 +1,38 @@
+date:2024-08-28T05:43:43+00:00
+validtle:1
+satid:59253
+launchyear:2024
+epoch:24239.84984752
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31425
+meananomly:113.8512
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1786880023
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0032
+eccentricity:8.64E-5
+argumentofperigree:246.2254
+nickname:STARLINK-31425
+idesg:24049Y  
+cosparid:2024-049Y
+altkm:444.05447905208
+velkms:7.647370790968
+velkmh:27531
+onumepoch:2653
+onumnow:40896.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:23:47+00:00
+nowjuliandate:2460550.7387012
+nowepochdate:24241.2386921296
+TLE:
+STARLINK-31425
+1 59253U 24049Y   24239.84984752  .00003243  00000+0  84854-4 0  9994
+2 59253  43.0032  86.1735 0000864 246.2254 113.8512 15.40700845 26532

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51463
+launchyear:2022
+epoch:24241.80032001
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3419
+meananomly:279.8313
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8373801178
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2142
+eccentricity:0.0001567
+argumentofperigree:80.2856
+nickname:STARLINK-3419
+idesg:22010H  
+cosparid:2022-010H
+altkm:540.41251952682
+velkms:7.5934497279082
+velkmh:27336
+onumepoch:14229
+onumnow:214713.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:12:28+00:00
+nowjuliandate:2460552.6379673
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3419
+1 51463U 22010H   24241.80032001  .00004582  00000+0  30569-3 0  9995
+2 51463  53.2142 263.5855 0001567  80.2856 279.8313 15.08854746142299

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52298
+launchyear:2022
+epoch:24242.28419027
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3760
+meananomly:276.5374
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8599131041
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001268
+argumentofperigree:83.5762
+nickname:STARLINK-3760
+idesg:22041AP 
+cosparid:2022-041AP
+altkm:540.52048973157
+velkms:7.5933435919849
+velkmh:27336
+onumepoch:13157
+onumnow:198531.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:49:14+00:00
+nowjuliandate:2460552.6379345
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3760
+1 52298U 22041AP  24242.28419027  .00001041  00000+0  83446-4 0  9996
+2 52298  53.2167  81.0262 0001268  83.5762 276.5374 15.08847374131577

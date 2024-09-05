@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55475
+launchyear:2023
+epoch:24242.37604643
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5650
+meananomly:90.1333
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1849355715
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001273
+argumentofperigree:269.9364
+nickname:STARLINK-5650
+idesg:23015AC 
+cosparid:2023-015AC
+altkm:558.82811955694
+velkms:7.583852516113
+velkmh:27302
+onumepoch:8692
+onumnow:130612.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:01:30+00:00
+nowjuliandate:2460552.6377593
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5650
+1 55475U 23015AC  24242.37604643  .00001127  00000+0  98487-4 0  9994
+2 55475  43.0018 113.9233 0001273 269.9364  90.1333 15.02546938 86925

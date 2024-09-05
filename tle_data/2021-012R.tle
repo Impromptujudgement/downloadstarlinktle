@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47635
+launchyear:2021
+epoch:24242.51349473
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2012
+meananomly:269.1991
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.419402896
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0551
+eccentricity:0.0001473
+argumentofperigree:90.9166
+nickname:STARLINK-2012
+idesg:21012R  
+cosparid:2021-012R
+altkm:548.17597591072
+velkms:7.5890863246315
+velkmh:27321
+onumepoch:19681
+onumnow:296479.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:19:26+00:00
+nowjuliandate:2460552.6394079
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2012
+1 47635U 21012R   24242.51349473  .00021829  00000+0  14807-2 0  9994
+2 47635  53.0551 317.8794 0001473  90.9166 269.1991 15.06377559196811

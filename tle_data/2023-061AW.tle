@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56418
+launchyear:2023
+epoch:24241.95063775
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5356
+meananomly:67.6762
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2000915227
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.005
+eccentricity:5.75E-5
+argumentofperigree:292.4019
+nickname:STARLINK-5356
+idesg:23061AW 
+cosparid:2023-061AW
+altkm:558.68999654227
+velkms:7.5840117032404
+velkmh:27302
+onumepoch:7344
+onumnow:110364.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:48:55+00:00
+nowjuliandate:2460552.6377018
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5356
+1 56418U 23061AW  24241.95063775  .00000393  00000+0  44140-4 0  9992
+2 56418  43.0050 322.2826 0000575 292.4019  67.6762 15.02542014 73443

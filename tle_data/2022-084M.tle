@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53200
+launchyear:2022
+epoch:24242.41935183
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4417
+meananomly:253.2539
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1254333181
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6554
+eccentricity:5.37E-5
+argumentofperigree:106.8744
+nickname:STARLINK-4417
+idesg:22084M  
+cosparid:2022-084M
+altkm:566.15346920689
+velkms:7.5780045330295
+velkmh:27281
+onumepoch:11608
+onumnow:174277.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:03:52+00:00
+nowjuliandate:2460552.6378705
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4417
+1 53200U 22084M   24242.41935183  .00001587  00000+0  12809-3 0  9997
+2 53200  97.6554 302.2082 0000537 106.8744 253.2539 15.01267619116083

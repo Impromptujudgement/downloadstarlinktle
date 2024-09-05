@@ -1,0 +1,38 @@
+date:2024-08-28T04:19:39+00:00
+validtle:1
+satid:58729
+launchyear:2024
+epoch:24240.66058661
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31115
+meananomly:90.4979
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2153552866
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0052
+eccentricity:0.0001613
+argumentofperigree:269.5679
+nickname:STARLINK-31115
+idesg:24005B  
+cosparid:2024-005B
+altkm:558.86665211572
+velkms:7.5838269931475
+velkmh:27302
+onumepoch:3634
+onumnow:54608.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:51:15+00:00
+nowjuliandate:2460550.6803178
+nowepochdate:24241.07.1803125
+TLE:
+STARLINK-31115
+1 58729U 24005B   24240.66058661 -.00002060  00000+0 -13743-3 0  9992
+2 58729  43.0052  18.8376 0001613 269.5679  90.4979 15.02537055 36342

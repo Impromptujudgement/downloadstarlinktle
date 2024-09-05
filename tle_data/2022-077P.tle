@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53056
+launchyear:2022
+epoch:24241.74579346
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4314
+meananomly:145.3337
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1343628709
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6551
+eccentricity:9.0E-5
+argumentofperigree:214.7829
+nickname:STARLINK-4314
+idesg:22077P  
+cosparid:2022-077P
+altkm:566.56888876571
+velkms:7.5775558861937
+velkmh:27279
+onumepoch:11720
+onumnow:175969.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:53:57+00:00
+nowjuliandate:2460552.6378816
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4314
+1 53056U 22077P   24241.74579346  .00000324  00000+0  29788-4 0  9991
+2 53056  97.6551  61.5315 0000900 214.7829 145.3337 15.01264722117204

@@ -1,0 +1,38 @@
+date:2024-08-27T22:07:51+00:00
+validtle:1
+satid:59682
+launchyear:2024
+epoch:24240.6363545
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32108
+meananomly:92.0879
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1708947844
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0051
+eccentricity:1.18E-5
+argumentofperigree:267.9964
+nickname:STARLINK-32108
+idesg:24086A  
+cosparid:2024-086A
+altkm:443.81147747357
+velkms:7.6476386976372
+velkmh:27531
+onumepoch:1834
+onumnow:28260.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:16:21+00:00
+nowjuliandate:2460550.4221251
+nowepochdate:24240.9221180556
+TLE:
+STARLINK-32108
+1 59682U 24086A   24240.63635450  .00000410  00000+0  17068-4 0  9994
+2 59682  43.0051 359.4728 0000118 267.9964  92.0879 15.40703485 18344

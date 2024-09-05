@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52273
+launchyear:2022
+epoch:24241.8473227
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3782
+meananomly:268.8072
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8637888451
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2135
+eccentricity:0.0001834
+argumentofperigree:91.3131
+nickname:STARLINK-3782
+idesg:22041N  
+cosparid:2022-041N
+altkm:540.65041163678
+velkms:7.5932031544266
+velkmh:27336
+onumepoch:13028
+onumnow:196591.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:20:09+00:00
+nowjuliandate:2460552.6379311
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3782
+1 52273U 22041N   24241.84732270  .00000127  00000+0  26071-4 0  9993
+2 52273  53.2135  83.7554 0001834  91.3131 268.8072 15.08846106130282

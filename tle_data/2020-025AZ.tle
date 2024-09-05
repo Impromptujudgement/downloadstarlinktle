@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45578
+launchyear:2020
+epoch:24243.20090311
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1331
+meananomly:272.3285
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3158499407
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.058
+eccentricity:0.0001882
+argumentofperigree:87.7919
+nickname:STARLINK-1331
+idesg:20025AZ 
+cosparid:2020-025AZ
+altkm:548.00562599466
+velkms:7.5892163295841
+velkmh:27321
+onumepoch:24103
+onumnow:363095.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:49:18+00:00
+nowjuliandate:2460553.0283369
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1331
+1 45578U 20025AZ  24243.20090311  .00002738  00000+0  20256-3 0  9996
+2 45578  53.0580  54.7887 0001882  87.7919 272.3285 15.06411346241031

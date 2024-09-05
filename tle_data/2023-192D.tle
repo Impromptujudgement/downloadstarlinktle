@@ -1,0 +1,38 @@
+date:2024-08-28T08:16:20+00:00
+validtle:1
+satid:58534
+launchyear:2023
+epoch:24240.41893381
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30936
+meananomly:286.5145
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3415121032
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1609
+eccentricity:0.0001084
+argumentofperigree:73.5976
+nickname:STARLINK-30936
+idesg:23192D  
+cosparid:2023-192D
+altkm:463.89512459796
+velkms:7.6358786871359
+velkmh:27489
+onumepoch:4035
+onumnow:61920.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:03:16+00:00
+nowjuliandate:2460550.844685
+nowepochdate:24241.3446759259
+TLE:
+STARLINK-30936
+1 58534U 23192D   24240.41893381  .00002194  00000+0  76430-4 0  9990
+2 58534  53.1609 140.8547 0001084  73.5976 286.5145 15.34232049 40356

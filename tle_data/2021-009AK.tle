@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47581
+launchyear:2021
+epoch:24241.91667824
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1984
+meananomly:107.7806
+meanmotion:15.5533
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6779.3185282147
+altitudeatperigee:400
+altitudeatapogee:403
+inclination:53.0509
+eccentricity:0.0002046
+argumentofperigree:34.3755
+nickname:STARLINK-1984
+idesg:21009AK 
+cosparid:2021-009AK
+altkm:403.20308514696
+velkms:7.6724551168906
+velkmh:27621
+onumepoch:598
+onumnow:9319.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:00:01+00:00
+nowjuliandate:2460552.6394897
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1984
+1 47581U 21009AK  24241.91667824  .00170366  00000+0  24199-2 0  9992
+2 47581  53.0509 314.8365 0002046  34.3755 107.7806 15.55334826  5981

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47629
+launchyear:2021
+epoch:24242.41073595
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1974
+meananomly:262.9401
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3653655896
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001403
+argumentofperigree:97.1748
+nickname:STARLINK-1974
+idesg:21012K  
+cosparid:2021-012K
+altkm:548.22680906317
+velkms:7.5890010963429
+velkmh:27320
+onumepoch:19715
+onumnow:296996.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:51:28+00:00
+nowjuliandate:2460552.6394126
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1974
+1 47629U 21012K   24242.41073595 -.00002875  00000+0 -17418-3 0  9999
+2 47629  53.0526 293.3433 0001403  97.1748 262.9401 15.06395190197158

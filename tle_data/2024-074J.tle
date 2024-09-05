@@ -1,0 +1,38 @@
+date:2024-08-27T23:20:07+00:00
+validtle:1
+satid:59542
+launchyear:2024
+epoch:24239.85708851
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31540
+meananomly:89.9957
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1333459557
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0034
+eccentricity:0.0001357
+argumentofperigree:270.0744
+nickname:STARLINK-31540
+idesg:24074J  
+cosparid:2024-074J
+altkm:443.77086020609
+velkms:7.6476632228485
+velkmh:27532
+onumepoch:2013
+onumnow:31047.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:34:12+00:00
+nowjuliandate:2460550.4723051
+nowepochdate:24241.9723032407
+TLE:
+STARLINK-31540
+1 59542U 24074J   24239.85708851 -.00001426  00000+0 -26871-4 0  9996
+2 59542  43.0034 287.7958 0001357 270.0744  89.9957 15.40716205 20131

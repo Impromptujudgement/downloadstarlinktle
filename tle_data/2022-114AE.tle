@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53846
+launchyear:2022
+epoch:24241.8118079
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4746
+meananomly:270.9744
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8844452914
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001439
+argumentofperigree:89.1413
+nickname:STARLINK-4746
+idesg:22114AE 
+cosparid:2022-114AE
+altkm:540.62794317079
+velkms:7.593239119634
+velkmh:27336
+onumepoch:10821
+onumnow:163290.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:29:00+00:00
+nowjuliandate:2460552.6378224
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4746
+1 53846U 22114AE  24241.81180790  .00001257  00000+0  97041-4 0  9992
+2 53846  53.2163 278.3477 0001439  89.1413 270.9744 15.08839348108213

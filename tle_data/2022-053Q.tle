@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52670
+launchyear:2022
+epoch:24241.99398138
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4075
+meananomly:267.3016
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8398467556
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001676
+argumentofperigree:92.8168
+nickname:STARLINK-4075
+idesg:22053Q  
+cosparid:2022-053Q
+altkm:540.65499802984
+velkms:7.5931850120817
+velkmh:27335
+onumepoch:12642
+onumnow:190766.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:51:20+00:00
+nowjuliandate:2460552.6379
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4075
+1 52670U 22053Q   24241.99398138  .00001914  00000+0  13828-3 0  9994
+2 52670  53.2171 137.7820 0001676  92.8168 267.3016 15.08853939126424

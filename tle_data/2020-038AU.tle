@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45772
+launchyear:2020
+epoch:24243.07559967
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1470
+meananomly:266.5926
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3946781919
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001471
+argumentofperigree:93.5232
+nickname:STARLINK-1470
+idesg:20038AU 
+cosparid:2020-038AU
+altkm:548.1972487991
+velkms:7.5890495037115
+velkmh:27321
+onumepoch:23397
+onumnow:352455.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:48:52+00:00
+nowjuliandate:2460553.0283081
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1470
+1 45772U 20038AU  24243.07559967  .00002596  00000+0  19321-3 0  9991
+2 45772  53.0525 175.3550 0001471  93.5232 266.5926 15.06385626233972

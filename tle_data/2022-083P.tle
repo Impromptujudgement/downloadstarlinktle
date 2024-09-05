@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53145
+launchyear:2022
+epoch:24242.48893484
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4106
+meananomly:279.0198
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8095931516
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001412
+argumentofperigree:81.0954
+nickname:STARLINK-4106
+idesg:22083P  
+cosparid:2022-083P
+altkm:540.41674633261
+velkms:7.5934298744615
+velkmh:27336
+onumepoch:11773
+onumnow:177648.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:44:04+00:00
+nowjuliandate:2460552.6378754
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4106
+1 53145U 22083P   24242.48893484  .00020391  00000+0  12947-2 0  9994
+2 53145  53.2150 155.4943 0001412  81.0954 279.0198 15.08863837117736

@@ -1,0 +1,38 @@
+date:2024-08-27T14:10:02+00:00
+validtle:1
+satid:60418
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32236
+meananomly:160.1129
+meanmotion:15.7853
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6712.7434460446
+altitudeatperigee:334
+altitudeatapogee:335
+inclination:53.1524
+eccentricity:8.83E-5
+argumentofperigree:69.2257
+nickname:STARLINK-32236
+idesg:24141W  
+cosparid:2024-141W
+altkm:347.33428923677
+velkms:7.6998982560225
+velkmh:27720
+onumepoch:385
+onumnow:6084.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.0903083
+nowepochdate:24240.5903009259
+TLE:
+STARLINK-32236
+1 60418U 24141W   24240.16667824 -.00655223  00000+0 -39809-2 0  9998
+2 60418  53.1524 324.7502 0000883  69.2257 160.1129 15.78530154  3859

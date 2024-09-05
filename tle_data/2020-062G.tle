@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46331
+launchyear:2020
+epoch:24242.59458114
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1719
+meananomly:252.3885
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3558828881
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0518
+eccentricity:0.0001786
+argumentofperigree:107.7299
+nickname:STARLINK-1719
+idesg:20062G  
+cosparid:2020-062G
+altkm:548.47211772497
+velkms:7.5887271900291
+velkmh:27319
+onumepoch:22034
+onumnow:331933.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:16:12+00:00
+nowjuliandate:2460553.028243
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1719
+1 46331U 20062G   24242.59458114  .00009169  00000+0  63369-3 0  9992
+2 46331  53.0518 357.5128 0001786 107.7299 252.3885 15.06398284220349

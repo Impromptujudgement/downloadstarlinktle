@@ -1,0 +1,38 @@
+date:2024-08-28T06:06:22+00:00
+validtle:1
+satid:59214
+launchyear:2024
+epoch:24240.6841103
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31604
+meananomly:262.0539
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3475032317
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1586
+eccentricity:0.0001194
+argumentofperigree:98.0601
+nickname:STARLINK-31604
+idesg:24046P  
+cosparid:2024-046P
+altkm:448.22645307848
+velkms:7.6444709240561
+velkmh:27520
+onumepoch:2740
+onumnow:42194.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:25:07+00:00
+nowjuliandate:2460550.7544316
+nowepochdate:24241.2544212963
+TLE:
+STARLINK-31604
+1 59214U 24046P   24240.68411030  .00003739  00000+0  10339-3 0  9992
+2 59214  53.1586 235.3837 0001194  98.0601 262.0539 15.39628014 27400

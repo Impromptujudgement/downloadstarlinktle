@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:31+00:00
+validtle:1
+satid:47793
+launchyear:2021
+epoch:24242.20433556
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2338
+meananomly:266.5400
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3431729316
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0537
+eccentricity:0.000199
+argumentofperigree:93.5816
+nickname:STARLINK-2338
+idesg:21018G  
+cosparid:2021-018G
+altkm:548.16864079786
+velkms:7.589052685501
+velkmh:27321
+onumepoch:19250
+onumnow:289996.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:54:15+00:00
+nowjuliandate:2460552.6392506
+nowepochdate:24243.1392476852
+TLE:
+STARLINK-2338
+1 47793U 21018G   24242.20433556  .00000796  00000+0  72310-4 0  9992
+2 47793  53.0537 214.2641 0001990  93.5816 266.5400 15.06402431192502

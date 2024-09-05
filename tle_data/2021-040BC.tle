@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48478
+launchyear:2021
+epoch:24241.56296309
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2728
+meananomly:259.3567
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2640672528
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001423
+argumentofperigree:100.7583
+nickname:STARLINK-2728
+idesg:21040BC 
+cosparid:2021-040BC
+altkm:548.18825960984
+velkms:7.5889879455252
+velkmh:27320
+onumepoch:18236
+onumnow:274735.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:30:40+00:00
+nowjuliandate:2460552.6380249
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2728
+1 48478U 21040BC  24241.56296309  .00008073  00000+0  55982-3 0  9990
+2 48478  53.0540 177.1441 0001423 100.7583 259.3567 15.06428242182360

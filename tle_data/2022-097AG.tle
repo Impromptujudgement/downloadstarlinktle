@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53418
+launchyear:2022
+epoch:24241.84027883
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4481
+meananomly:281.3821
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8182094959
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2123
+eccentricity:0.0001716
+argumentofperigree:78.7363
+nickname:STARLINK-4481
+idesg:22097AG 
+cosparid:2022-097AG
+altkm:540.34400937238
+velkms:7.5935144069844
+velkmh:27337
+onumepoch:11458
+onumnow:172904.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:10:00+00:00
+nowjuliandate:2460552.6378614
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4481
+1 53418U 22097AG  24241.84027883 -.00004929  00000+0 -29159-3 0  9998
+2 53418  53.2123  87.9708 0001716  78.7363 281.3821 15.08861018114589

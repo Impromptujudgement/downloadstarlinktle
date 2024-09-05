@@ -1,0 +1,38 @@
+date:2024-08-29T05:56:12+00:00
+validtle:1
+satid:57258
+launchyear:2023
+epoch:24241.49191742
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5476
+meananomly:92.7389
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2060258819
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001248
+argumentofperigree:267.3311
+nickname:STARLINK-5476
+idesg:23094AS 
+cosparid:2023-094AS
+altkm:558.88852736093
+velkms:7.5837980049658
+velkmh:27302
+onumepoch:6330
+onumnow:95122.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:48:22+00:00
+nowjuliandate:2460551.7473613
+nowepochdate:24242.2473611111
+TLE:
+STARLINK-5476
+1 57258U 23094AS  24241.49191742  .00001594  00000+0  13301-3 0  9994
+2 57258  43.0019 170.3156 0001248 267.3311  92.7389 15.02540086 63308

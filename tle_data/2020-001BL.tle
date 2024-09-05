@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:32+00:00
+validtle:1
+satid:44972
+launchyear:2020
+epoch:24243.05571842
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1107
+meananomly:334.3800
+meanmotion:15.0892
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.6285369211
+altitudeatperigee:537
+altitudeatapogee:542
+inclination:53.0507
+eccentricity:0.0003095
+argumentofperigree:25.7343
+nickname:STARLINK-1107
+idesg:20001BL 
+cosparid:2020-001BL
+altkm:538.44087097239
+velkms:7.5954991657604
+velkmh:27344
+onumepoch:25652
+onumnow:387068.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:20:14+00:00
+nowjuliandate:2460553.0295391
+nowepochdate:24243..529537037
+TLE:
+STARLINK-1107
+1 44972U 20001BL  24243.05571842  .00037824  00000+0  23762-2 0  9991
+2 44972  53.0507 284.7928 0003095  25.7343 334.3800 15.08923075256520

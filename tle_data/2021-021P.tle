@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72329
+launchyear:2021
+epoch:21083.38230324
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2329
+meananomly:331.4152
+meanmotion:15.8534
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.4987670181
+altitudeatperigee:315
+altitudeatapogee:316
+inclination:53.0503
+eccentricity:7.45E-5
+argumentofperigree:73.391
+nickname:STARLINK-2329
+idesg:21021P  
+cosparid:2021-021P
+altkm:317.37267508112
+velkms:7.7225953220356
+velkmh:27801
+onumepoch:1
+onumnow:50108.84
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:10:31+00:00
+nowjuliandate:2460552.639719
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-2329
+1 72329C 21021P   21083.38230324 -.01035991  00000-0 -44590-2 0   836
+2 72329  53.0503 168.5815 0000745  73.3910 331.4152 15.85342764    19

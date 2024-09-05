@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53140
+launchyear:2022
+epoch:24242.45212098
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4170
+meananomly:270.7492
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8165528572
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001241
+argumentofperigree:89.3642
+nickname:STARLINK-4170
+idesg:22083J  
+cosparid:2022-083J
+altkm:540.56577223584
+velkms:7.5932701611082
+velkmh:27336
+onumepoch:11772
+onumnow:177633.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:51:03+00:00
+nowjuliandate:2460552.6378761
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4170
+1 53140U 22083J   24242.45212098  .00001165  00000+0  91234-4 0  9998
+2 53140  53.2167 155.6606 0001241  89.3642 270.7492 15.08861560117727

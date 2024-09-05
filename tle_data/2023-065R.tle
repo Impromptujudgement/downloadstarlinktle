@@ -1,0 +1,38 @@
+date:2024-08-29T09:24:50+00:00
+validtle:1
+satid:56518
+launchyear:2023
+epoch:24242.06615087
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-5346
+meananomly:81.5151
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1813004948
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0038
+eccentricity:0.0001043
+argumentofperigree:278.5573
+nickname:STARLINK-5346
+idesg:23065R  
+cosparid:2023-065R
+altkm:558.71587406713
+velkms:7.5839731849925
+velkmh:27302
+onumepoch:7196
+onumnow:108128.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:35:15+00:00
+nowjuliandate:2460551.892252
+nowepochdate:24242.3922453704
+TLE:
+STARLINK-5346
+1 56518U 23065R   24242.06615087  .00001392  00000+0  11808-3 0  9993
+2 56518  43.0038   0.3162 0001043 278.5573  81.5151 15.02548119 71962

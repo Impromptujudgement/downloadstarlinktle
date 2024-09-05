@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49145
+launchyear:2021
+epoch:24242.67247894
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3119
+meananomly:88.4610
+meanmotion:14.9831
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2431257471
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.0002988
+argumentofperigree:271.6207
+nickname:STARLINK-3119
+idesg:21082R  
+cosparid:2021-082R
+altkm:574.47466762125
+velkms:7.5738950245099
+velkmh:27266
+onumepoch:16352
+onumnow:245011.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:08:22+00:00
+nowjuliandate:2460552.6380011
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3119
+1 49145U 21082R   24242.67247894  .00003497  00000+0  30085-3 0  9998
+2 49145  69.9991 218.8764 0002988 271.6207  88.4610 14.98314426163522

@@ -1,0 +1,38 @@
+date:2024-08-28T19:41:03+00:00
+validtle:1
+satid:57925
+launchyear:2023
+epoch:24240.98229849
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30452
+meananomly:101.2966
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2263345371
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001221
+argumentofperigree:258.7739
+nickname:STARLINK-30452
+idesg:23147N  
+cosparid:2023-147N
+altkm:559.03365754429
+velkms:7.5836504967453
+velkmh:27301
+onumepoch:5252
+onumnow:78925.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T23:34:31+00:00
+nowjuliandate:2460551.3201742
+nowepochdate:24241.8201736111
+TLE:
+STARLINK-30452
+1 57925U 23147N   24240.98229849  .00001523  00000+0  12777-3 0  9995
+2 57925  43.0045 121.9385 0001221 258.7739 101.2966 15.02533488 52520

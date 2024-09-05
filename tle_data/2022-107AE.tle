@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53728
+launchyear:2022
+epoch:24242.20925635
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4640
+meananomly:265.6350
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.886719405
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001473
+argumentofperigree:94.481
+nickname:STARLINK-4640
+idesg:22107AE 
+cosparid:2022-107AE
+altkm:540.72471113582
+velkms:7.5931341858094
+velkmh:27335
+onumepoch:10979
+onumnow:165669.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:01:20+00:00
+nowjuliandate:2460552.637832
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4640
+1 53728U 22107AE  24242.20925635  .00000091  00000+0  23787-4 0  9993
+2 53728  53.2163 236.6994 0001473  94.4810 265.6350 15.08838604109793

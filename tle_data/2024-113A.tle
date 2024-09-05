@@ -1,0 +1,38 @@
+date:2024-08-27T17:21:50+00:00
+validtle:1
+satid:60059
+launchyear:2024
+epoch:24239.87212847
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11181
+meananomly:51.7818
+meanmotion:15.6973
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6737.8228076034
+altitudeatperigee:359
+altitudeatapogee:360
+inclination:53.1547
+eccentricity:5.33E-5
+argumentofperigree:308.3152
+nickname:STARLINK-11181
+idesg:24113A  
+cosparid:2024-113A
+altkm:360.3781182112
+velkms:7.6944114339109
+velkmh:27700
+onumepoch:1163
+onumnow:18269.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:55:52+00:00
+nowjuliandate:2460550.2234956
+nowepochdate:24240.7234953704
+TLE:
+STARLINK-11181 [DTC]
+1 60059U 24113A   24239.87212847  .00099062  00000+0  81228-3 0  9999
+2 60059  53.1547  71.0578 0000533 308.3152  51.7818 15.69725010 11635

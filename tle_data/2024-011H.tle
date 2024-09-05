@@ -1,0 +1,38 @@
+date:2024-08-28T03:59:22+00:00
+validtle:1
+satid:58772
+launchyear:2024
+epoch:24240.71063705
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31136
+meananomly:304.3065
+meanmotion:15.0492
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.9033665934
+altitudeatperigee:551
+altitudeatapogee:552
+inclination:53.1613
+eccentricity:9.35E-5
+argumentofperigree:55.8014
+nickname:STARLINK-31136
+idesg:24011H  
+cosparid:2024-011H
+altkm:552.29109596796
+velkms:7.5870305054
+velkmh:27313
+onumepoch:3547
+onumnow:53386.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:03:19+00:00
+nowjuliandate:2460550.6662319
+nowepochdate:24241.1662268519
+TLE:
+STARLINK-31136
+1 58772U 24011H   24240.71063705  .00001252  00000+0  10685-3 0  9990
+2 58772  53.1613  33.7240 0000935  55.8014 304.3065 15.04915753 35479

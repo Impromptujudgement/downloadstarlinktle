@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48306
+launchyear:2021
+epoch:24242.79222588
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2523
+meananomly:257.4677
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3159939872
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:9.94E-5
+argumentofperigree:102.6424
+nickname:STARLINK-2523
+idesg:21036AG 
+cosparid:2021-036AG
+altkm:548.20747047925
+velkms:7.5889952894586
+velkmh:27320
+onumepoch:18482
+onumnow:278420.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:00:48+00:00
+nowjuliandate:2460552.6380445
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2523
+1 48306U 21036AG  24242.79222588  .00003022  00000+0  22164-3 0  9994
+2 48306  53.0540  71.6246 0000994 102.6424 257.4677 15.06411299184826

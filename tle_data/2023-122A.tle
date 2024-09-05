@@ -1,0 +1,38 @@
+date:2024-08-28T22:05:27+00:00
+validtle:1
+satid:57632
+launchyear:2023
+epoch:24241.31861524
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30309
+meananomly:95.9140
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.189995754
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001142
+argumentofperigree:264.1572
+nickname:STARLINK-30309
+idesg:23122A  
+cosparid:2023-122A
+altkm:558.91280251128
+velkms:7.5837627432038
+velkmh:27302
+onumepoch:5818
+onumnow:87427.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:38:48+00:00
+nowjuliandate:2460551.4204578
+nowepochdate:24241.9204513889
+TLE:
+STARLINK-30309
+1 57632U 23122A   24241.31861524  .00000301  00000+0  37357-4 0  9998
+2 57632  43.0025 249.0708 0001142 264.1572  95.9140 15.02545294 58181

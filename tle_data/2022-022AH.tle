@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51883
+launchyear:2022
+epoch:24242.44066885
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3576
+meananomly:224.9346
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8899594088
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2187
+eccentricity:0.0002353
+argumentofperigree:135.1837
+nickname:STARLINK-3576
+idesg:22022AH 
+cosparid:2022-022AH
+altkm:541.8029913722
+velkms:7.5919529133555
+velkmh:27331
+onumepoch:13911
+onumnow:209904.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:34:34+00:00
+nowjuliandate:2460552.6379526
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3576
+1 51883U 22022AH  24242.44066885 -.00000686  00000+0 -24981-4 0  9997
+2 51883  53.2187 340.8962 0002353 135.1837 224.9346 15.08837544139116

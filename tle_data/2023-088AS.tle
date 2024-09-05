@@ -1,0 +1,38 @@
+date:2024-08-29T07:14:07+00:00
+validtle:1
+satid:57088
+launchyear:2023
+epoch:24241.70633065
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6257
+meananomly:87.5230
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2061797814
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001196
+argumentofperigree:272.5475
+nickname:STARLINK-6257
+idesg:23088AS 
+cosparid:2023-088AS
+altkm:558.81154059474
+velkms:7.5838822107224
+velkmh:27302
+onumepoch:6658
+onumnow:100048.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:57:07+00:00
+nowjuliandate:2460551.8014753
+nowepochdate:24242.3014699074
+TLE:
+STARLINK-6257
+1 57088U 23088AS  24241.70633065  .00001545  00000+0  12939-3 0  9993
+2 57088  43.0026 246.4675 0001196 272.5475  87.5230 15.02540036 66584

@@ -1,0 +1,38 @@
+date:2024-08-28T04:25:25+00:00
+validtle:1
+satid:58720
+launchyear:2024
+epoch:24240.33428668
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31027
+meananomly:270.2679
+meanmotion:15.0495
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6929.8036397303
+altitudeatperigee:551
+altitudeatapogee:553
+inclination:53.1585
+eccentricity:0.0001299
+argumentofperigree:89.846
+nickname:STARLINK-31027
+idesg:24002R  
+cosparid:2024-002R
+altkm:552.5521429943
+velkms:7.5866903369526
+velkmh:27312
+onumepoch:3711
+onumnow:55861.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T08:01:22+00:00
+nowjuliandate:2460550.6843268
+nowepochdate:24241.1843171296
+TLE:
+STARLINK-31027
+1 58720U 24002R   24240.33428668  .00006728  00000+0  48864-3 0  9997
+2 58720  53.1585 256.4528 0001299  89.8460 270.2679 15.04948239 37119

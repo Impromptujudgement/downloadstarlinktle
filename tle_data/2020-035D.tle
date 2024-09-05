@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45660
+launchyear:2020
+epoch:24243.17233143
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1443
+meananomly:278.3880
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2866576991
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0528
+eccentricity:0.0002067
+argumentofperigree:81.7343
+nickname:STARLINK-1443
+idesg:20035D  
+cosparid:2020-035D
+altkm:547.82006749133
+velkms:7.5894036523844
+velkmh:27322
+onumepoch:23444
+onumnow:353170.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:08:09+00:00
+nowjuliandate:2460553.028317
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1443
+1 45660U 20035D   24243.17233143 -.00004175  00000+0 -26135-3 0  9998
+2 45660  53.0528  44.9164 0002067  81.7343 278.3880 15.06420871234442

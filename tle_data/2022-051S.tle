@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52549
+launchyear:2022
+epoch:24241.93555587
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3935
+meananomly:271.1361
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8534087181
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001285
+argumentofperigree:88.9778
+nickname:STARLINK-3935
+idesg:22051S  
+cosparid:2022-051S
+altkm:540.59603948761
+velkms:7.5932571311108
+velkmh:27336
+onumepoch:12724
+onumnow:192004.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:27:12+00:00
+nowjuliandate:2460552.6379118
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3935
+1 52549U 22051S   24241.93555587  .00001787  00000+0  13031-3 0  9998
+2 52549  53.2149 112.9782 0001285  88.9778 271.1361 15.08849502127243

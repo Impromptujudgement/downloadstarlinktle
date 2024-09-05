@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47634
+launchyear:2021
+epoch:24242.75351217
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2010
+meananomly:274.5919
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2513944945
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0508
+eccentricity:0.0001965
+argumentofperigree:85.5295
+nickname:STARLINK-2010
+idesg:21012Q  
+cosparid:2021-012Q
+altkm:547.88443160959
+velkms:7.589313861093
+velkmh:27322
+onumepoch:19552
+onumnow:294543.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:05:03+00:00
+nowjuliandate:2460552.6394085
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2010
+1 47634U 21012Q   24242.75351217 -.00003779  00000+0 -23468-3 0  9998
+2 47634  53.0508  51.7996 0001965  85.5295 274.5919 15.06432377195526

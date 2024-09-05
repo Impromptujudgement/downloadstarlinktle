@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:03+00:00
+validtle:1
+satid:47168
+launchyear:2020
+epoch:22220.77756944
+epochday:220
+tleage:753
+tleclassification:C
+active:0
+name:STARLINK-1885
+meananomly:217.5586
+meanmotion:15.9333
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6671.1199056749
+altitudeatperigee:290
+altitudeatapogee:296
+inclination:53.032
+eccentricity:0.0004622
+argumentofperigree:10.6217
+nickname:STARLINK-1885
+idesg:20088AY 
+cosparid:2020-088AY
+altkm:307.23465918513
+velkms:7.721888602508
+velkmh:27799
+onumepoch:1
+onumnow:32238.77
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-08T18:39:42+00:00
+nowjuliandate:2460552.6396285
+nowepochdate:24243.1396180556
+TLE:
+STARLINK-1885
+1 47168C 20088AY  22220.77756944  .00341511  00000-0  91672-3 0  2201
+2 47168  53.0320 311.3828 0004622  10.6217 217.5586 15.93326709    18

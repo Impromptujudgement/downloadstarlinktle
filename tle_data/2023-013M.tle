@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55342
+launchyear:2023
+epoch:24241.8470754
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5657
+meananomly:92.5790
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2015381754
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001286
+argumentofperigree:267.4905
+nickname:STARLINK-5657
+idesg:23013M  
+cosparid:2023-013M
+altkm:558.88285771675
+velkms:7.5838017541149
+velkmh:27302
+onumepoch:8822
+onumnow:132573.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:19:47+00:00
+nowjuliandate:2460552.637767
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5657
+1 55342U 23013M   24241.84707540  .00001476  00000+0  12430-3 0  9996
+2 55342  43.0022  91.6454 0001286 267.4905  92.5790 15.02541544 88224

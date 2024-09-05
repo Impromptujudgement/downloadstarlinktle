@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53827
+launchyear:2022
+epoch:24242.43282823
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4764
+meananomly:273.9190
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8814375957
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001478
+argumentofperigree:86.1971
+nickname:STARLINK-4764
+idesg:22114K  
+cosparid:2022-114K
+altkm:540.57193920248
+velkms:7.5932989239198
+velkmh:27336
+onumepoch:10816
+onumnow:163206.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:23:16+00:00
+nowjuliandate:2460552.6378182
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4764
+1 53827U 22114K   24242.43282823 -.00000164  00000+0  77733-5 0  9994
+2 53827  53.2158 285.8046 0001478  86.1971 273.9190 15.08840332108167

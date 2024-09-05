@@ -1,0 +1,38 @@
+date:2024-08-28T07:03:53+00:00
+validtle:1
+satid:59074
+launchyear:2024
+epoch:24240.65906029
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31265
+meananomly:83.4614
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1906960727
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.003
+eccentricity:0.0001179
+argumentofperigree:276.6102
+nickname:STARLINK-31265
+idesg:24041A  
+cosparid:2024-041A
+altkm:487.73748818918
+velkms:7.6231408659405
+velkmh:27443
+onumepoch:2882
+onumnow:43986.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:49:03+00:00
+nowjuliandate:2460550.7943691
+nowepochdate:24241.2943634259
+TLE:
+STARLINK-31265
+1 59074U 24041A   24240.65906029  .00003175  00000+0  13115-3 0  9994
+2 59074  43.0030 223.6186 0001179 276.6102  83.4614 15.25910863 28823

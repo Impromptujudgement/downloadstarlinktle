@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55382
+launchyear:2023
+epoch:24242.34312049
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5576
+meananomly:94.7297
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2004270229
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001286
+argumentofperigree:265.3398
+nickname:STARLINK-5576
+idesg:23013BD 
+cosparid:2023-013BD
+altkm:558.91525020108
+velkms:7.5837657543435
+velkmh:27302
+onumepoch:8815
+onumnow:132461.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:14:06+00:00
+nowjuliandate:2460552.6377688
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5576
+1 55382U 23013BD  24242.34312049  .00001466  00000+0  12354-3 0  9996
+2 55382  43.0030 101.4787 0001286 265.3398  94.7297 15.02541905 88158

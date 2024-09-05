@@ -1,0 +1,38 @@
+date:2024-08-29T06:23:51+00:00
+validtle:1
+satid:57105
+launchyear:2023
+epoch:24241.23384556
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6097
+meananomly:90.4420
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2184209771
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001066
+argumentofperigree:269.6301
+nickname:STARLINK-6097
+idesg:23090E  
+cosparid:2023-090E
+altkm:558.86530782118
+velkms:7.5838301322571
+velkmh:27302
+onumepoch:6640
+onumnow:99781.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:36:44+00:00
+nowjuliandate:2460551.7665675
+nowepochdate:24242.08.2665625
+TLE:
+STARLINK-6097
+1 57105U 23090E   24241.23384556  .00000910  00000+0  82414-4 0  9993
+2 57105  43.0026  69.4435 0001066 269.6301  90.4420 15.02536059 66407

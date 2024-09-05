@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51139
+launchyear:2022
+epoch:24242.43239467
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3172
+meananomly:268.9228
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8596624648
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001399
+argumentofperigree:91.1924
+nickname:STARLINK-3172
+idesg:22005AM 
+cosparid:2022-005AM
+altkm:540.63821873483
+velkms:7.5932142738745
+velkmh:27336
+onumepoch:14572
+onumnow:219877.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:22:39+00:00
+nowjuliandate:2460552.6379742
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3172
+1 51139U 22005AM  24242.43239467  .00001149  00000+0  90265-4 0  9990
+2 51139  53.2157 280.7579 0001399  91.1924 268.9228 15.08847456145724

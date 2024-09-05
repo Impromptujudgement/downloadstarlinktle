@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:42+00:00
+validtle:1
+satid:46372
+launchyear:2020
+epoch:24242.60296576
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1689
+meananomly:12.9650
+meanmotion:15.1048
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6912.8712767714
+altitudeatperigee:532
+altitudeatapogee:538
+inclination:53.0548
+eccentricity:0.000411
+argumentofperigree:347.1235
+nickname:STARLINK-1689
+idesg:20062AZ 
+cosparid:2020-062AZ
+altkm:532.84634471523
+velkms:7.5990378469827
+velkmh:27357
+onumepoch:22035
+onumnow:332848.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:28:16+00:00
+nowjuliandate:2460553.0282662
+nowepochdate:24243.5282638889
+TLE:
+STARLINK-1689
+1 46372U 20062AZ  24242.60296576  .00071907  00000+0  42919-2 0  9997
+2 46372  53.0548 356.9479 0004110 347.1235  12.9650 15.10480946220356

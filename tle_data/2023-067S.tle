@@ -1,0 +1,38 @@
+date:2024-08-29T09:06:47+00:00
+validtle:1
+satid:56704
+launchyear:2023
+epoch:24241.81097399
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30066
+meananomly:95.5222
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1832211444
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:7.92E-5
+argumentofperigree:264.553
+nickname:STARLINK-30066
+idesg:23067S  
+cosparid:2023-067S
+altkm:558.87705140318
+velkms:7.5837981145598
+velkmh:27302
+onumepoch:7174
+onumnow:107801.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:27:48+00:00
+nowjuliandate:2460551.8797199
+nowepochdate:24242.3797106481
+TLE:
+STARLINK-30066
+1 56704U 23067S   24241.81097399  .00001147  00000+0  99940-4 0  9996
+2 56704  43.0009  65.5352 0000792 264.5530  95.5222 15.02547495 71745

@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:10+00:00
+validtle:1
+satid:46671
+launchyear:2020
+epoch:24242.226934
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1715
+meananomly:268.5016
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3525207358
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.000125
+argumentofperigree:91.6116
+nickname:STARLINK-1715
+idesg:20073B  
+cosparid:2020-073B
+altkm:548.11712205873
+velkms:7.5891142330589
+velkmh:27321
+onumepoch:21351
+onumnow:321645.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:26:47+00:00
+nowjuliandate:2460552.6404049
+nowepochdate:24243.1403935185
+TLE:
+STARLINK-1715
+1 46671U 20073B   24242.22693400 -.00000270  00000+0  79150-6 0  9993
+2 46671  53.0522 229.4063 0001250  91.6116 268.5016 15.06399381213516

@@ -1,0 +1,38 @@
+date:2024-08-28T01:58:11+00:00
+validtle:1
+satid:59339
+launchyear:2024
+epoch:24239.01946436
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31473
+meananomly:68.8267
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1829122899
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0034
+eccentricity:0.0001409
+argumentofperigree:291.2439
+nickname:STARLINK-31473
+idesg:24057V  
+cosparid:2024-057V
+altkm:443.47334630899
+velkms:7.6480242750695
+velkmh:27533
+onumepoch:2370
+onumnow:36546.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T00:28:02+00:00
+nowjuliandate:2460550.5820797
+nowepochdate:24241.0820717593
+TLE:
+STARLINK-31473
+1 59339U 24057V   24239.01946436 -.00000853  00000+0 -13150-4 0  9991
+2 59339  43.0034 147.0357 0001409 291.2439  68.8267 15.40699414 23708

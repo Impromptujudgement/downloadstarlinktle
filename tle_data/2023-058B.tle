@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56318
+launchyear:2023
+epoch:24242.72616038
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5954
+meananomly:289.2669
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1611424545
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.65
+eccentricity:0.0003658
+argumentofperigree:70.8951
+nickname:STARLINK-5954
+idesg:23058B  
+cosparid:2023-058B
+altkm:565.24471470376
+velkms:7.5790161961405
+velkmh:27284
+onumepoch:7407
+onumnow:111204.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:25:40+00:00
+nowjuliandate:2460552.6377079
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5954
+1 56318U 23058B   24242.72616038 -.00000258  00000+0 -15499-4 0  9996
+2 56318  97.6500 242.4476 0003658  70.8951 289.2669 15.01256034 74070

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53650
+launchyear:2022
+epoch:24242.42744816
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4380
+meananomly:271.3556
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1485417158
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6568
+eccentricity:0.0001386
+argumentofperigree:88.7827
+nickname:STARLINK-4380
+idesg:22105C  
+cosparid:2022-105C
+altkm:566.04645571069
+velkms:7.5781339681773
+velkmh:27281
+onumepoch:10990
+onumnow:164999.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:15:32+00:00
+nowjuliandate:2460552.6378356
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4380
+1 53650U 22105C   24242.42744816 -.00000034  00000+0  19793-5 0  9990
+2 53650  97.6568 122.2072 0001386  88.7827 271.3556 15.01260122109904

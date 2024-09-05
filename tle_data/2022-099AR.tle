@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53504
+launchyear:2022
+epoch:24242.32684546
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4448
+meananomly:270.8520
+meanmotion:15.0128
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.0856929952
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6554
+eccentricity:0.0001571
+argumentofperigree:89.2884
+nickname:STARLINK-4448
+idesg:22099AR 
+cosparid:2022-099AR
+altkm:565.99026360413
+velkms:7.5781610423184
+velkmh:27281
+onumepoch:11260
+onumnow:169056.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:50:39+00:00
+nowjuliandate:2460552.6378543
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4448
+1 53504U 22099AR  24242.32684546  .00002147  00000+0  17161-3 0  9993
+2 53504  97.6554   2.1206 0001571  89.2884 270.8520 15.01280512112608

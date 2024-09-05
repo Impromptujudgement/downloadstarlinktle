@@ -1,0 +1,38 @@
+date:2024-08-28T01:02:18+00:00
+validtle:1
+satid:59419
+launchyear:2024
+epoch:24240.04438439
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31415
+meananomly:111.2062
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1613776425
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.008
+eccentricity:0.0001608
+argumentofperigree:248.8623
+nickname:STARLINK-31415
+idesg:24064X  
+cosparid:2024-064X
+altkm:444.19626115494
+velkms:7.647202268338
+velkmh:27530
+onumepoch:2341
+onumnow:36083.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:03:55+00:00
+nowjuliandate:2460550.5432646
+nowepochdate:24241.0432638889
+TLE:
+STARLINK-31415
+1 59419U 24064X   24240.04438439  .00000916  00000+0  29182-4 0  9992
+2 59419  43.0080 355.9305 0001608 248.8623 111.2062 15.40706709 23415

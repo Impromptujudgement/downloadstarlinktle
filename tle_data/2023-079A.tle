@@ -1,0 +1,38 @@
+date:2024-08-29T08:24:00+00:00
+validtle:1
+satid:56823
+launchyear:2023
+epoch:24241.74706499
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30119
+meananomly:94.0167
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2039051473
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001212
+argumentofperigree:266.0537
+nickname:STARLINK-30119
+idesg:23079A  
+cosparid:2023-079A
+altkm:558.90394727355
+velkms:7.5837800002227
+velkmh:27302
+onumepoch:6938
+onumnow:104263.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:55:46+00:00
+nowjuliandate:2460551.8500001
+nowepochdate:24242.9008.35
+TLE:
+STARLINK-30119
+1 56823U 23079A   24241.74706499  .00002030  00000+0  16531-3 0  9997
+2 56823  43.0021 259.2240 0001212 266.0537  94.0167 15.02540775 69384

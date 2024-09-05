@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53703
+launchyear:2022
+epoch:24242.65174957
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4731
+meananomly:270.9802
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8986615888
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001492
+argumentofperigree:89.1361
+nickname:STARLINK-4731
+idesg:22107D  
+cosparid:2022-107D
+altkm:540.64138782344
+velkms:7.5932321518256
+velkmh:27336
+onumepoch:11001
+onumnow:165994.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:38:31+00:00
+nowjuliandate:2460552.6378294
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4731
+1 53703U 22107D   24242.65174957  .00003513  00000+0  23873-3 0  9995
+2 53703  53.2158 224.5036 0001492  89.1361 270.9802 15.08834697110012

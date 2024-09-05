@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46134
+launchyear:2020
+epoch:23321.85933046
+epochday:321
+tleage:287
+tleclassification:U
+active:0
+name:STARLINK-1638
+meananomly:95.0833
+meanmotion:15.9268
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6672.9216817704
+altitudeatperigee:289
+altitudeatapogee:301
+inclination:53.0444
+eccentricity:0.0009367
+argumentofperigree:8.4064
+nickname:STARLINK-1638
+idesg:20057T  
+cosparid:2020-057T
+altkm:301.37806863332
+velkms:7.7330172203339
+velkmh:27839
+onumepoch:18081
+onumnow:302643.56
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-11-17T20:37:26+00:00
+nowjuliandate:2460553.0282814
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1638
+1 46134U 20057T   23321.85933046  .00392503  70457-4  11196-2 0  9990
+2 46134  53.0444  59.8454 0009367   8.4064  95.0833 15.92681424180810

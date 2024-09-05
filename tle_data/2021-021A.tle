@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:24+00:00
+validtle:1
+satid:47860
+launchyear:2021
+epoch:24242.33609415
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2258
+meananomly:247.7031
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3349009175
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0569
+eccentricity:0.0001167
+argumentofperigree:112.4082
+nickname:STARLINK-2258
+idesg:21021A  
+cosparid:2021-021A
+altkm:548.38396254535
+velkms:7.588812287439
+velkmh:27320
+onumepoch:19156
+onumnow:288579.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:03:59+00:00
+nowjuliandate:2460552.6391681
+nowepochdate:24243.1391666667
+TLE:
+STARLINK-2258
+1 47860U 21021A   24242.33609415 -.00000331  00000+0 -33656-5 0  9992
+2 47860  53.0569 263.6731 0001167 112.4082 247.7031 15.06405130191567

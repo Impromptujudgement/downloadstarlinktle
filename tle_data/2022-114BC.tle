@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53868
+launchyear:2022
+epoch:24241.74832646
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4789
+meananomly:270.0904
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8526262366
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001372
+argumentofperigree:90.0245
+nickname:STARLINK-4789
+idesg:22114BC 
+cosparid:2022-114BC
+altkm:540.61144341088
+velkms:7.5932398004928
+velkmh:27336
+onumepoch:10916
+onumnow:164726.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:57:35+00:00
+nowjuliandate:2460552.6378192
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4789
+1 53868U 22114BC  24241.74832646  .00000699  00000+0  62011-4 0  9990
+2 53868  53.2153 248.7253 0001372  90.0245 270.0904 15.08849758109169

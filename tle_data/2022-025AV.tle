@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51999
+launchyear:2022
+epoch:24241.65126588
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3667
+meananomly:251.2639
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.812377643
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.221
+eccentricity:0.0001811
+argumentofperigree:108.855
+nickname:STARLINK-3667
+idesg:22025AV 
+cosparid:2022-025AV
+altkm:540.9757807802
+velkms:7.5928179956712
+velkmh:27334
+onumepoch:13667
+onumnow:206238.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:37:49+00:00
+nowjuliandate:2460552.637946
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3667
+1 51999U 22025AV  24241.65126588 -.00006542  00000+0 -39305-3 0  9999
+2 51999  53.2210   4.2489 0001811 108.8550 251.2639 15.08862926136671

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73420
+launchyear:2022
+epoch:23051.42756944
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3420
+meananomly:328.9452
+meanmotion:15.9933
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6654.4138142434
+altitudeatperigee:236
+altitudeatapogee:317
+inclination:70
+eccentricity:0.0061014
+argumentofperigree:162.0504
+nickname:STARLINK-3420
+idesg:22010Q  
+cosparid:2022-010Q
+altkm:247.95776959177
+velkms:7.7832330096601
+velkmh:28020
+onumepoch:1
+onumnow:19073.18
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:15:42+00:00
+nowjuliandate:2460552.6379665
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3420
+1 73420C 22010Q   23051.42756944 -.01049687  00000-0 -18246-2 0   512
+2 73420  70.0000 143.3347 0061014 162.0504 328.9452 15.99330610    11

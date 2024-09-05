@@ -1,0 +1,38 @@
+date:2024-08-28T20:06:14+00:00
+validtle:1
+satid:57884
+launchyear:2023
+epoch:24240.87338994
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30340
+meananomly:83.3456
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2017105426
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0054
+eccentricity:0.0001224
+argumentofperigree:276.7247
+nickname:STARLINK-30340
+idesg:23144W  
+cosparid:2023-144W
+altkm:558.74485111846
+velkms:7.5839526463398
+velkmh:27302
+onumepoch:5355
+onumnow:80463.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:57:41+00:00
+nowjuliandate:2460551.3376641
+nowepochdate:24241..837662037
+TLE:
+STARLINK-30340
+1 57884U 23144W   24240.87338994  .00001852  00000+0  15214-3 0  9990
+2 57884  43.0054  83.6204 0001224 276.7247  83.3456 15.02541488 53552

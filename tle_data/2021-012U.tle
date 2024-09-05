@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47638
+launchyear:2021
+epoch:24242.50980471
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2015
+meananomly:282.6824
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.350703275
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001351
+argumentofperigree:77.4316
+nickname:STARLINK-2015
+idesg:21012U  
+cosparid:2021-012U
+altkm:547.88748561422
+velkms:7.5893648065721
+velkmh:27322
+onumepoch:19682
+onumnow:296499.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:14:07+00:00
+nowjuliandate:2460552.6394043
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2015
+1 47638U 21012U   24242.50980471 -.00004467  00000+0 -28115-3 0  9994
+2 47638  53.0542 317.8967 0001351  77.4316 282.6824 15.06399974196829

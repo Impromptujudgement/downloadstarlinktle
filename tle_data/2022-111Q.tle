@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53787
+launchyear:2022
+epoch:24241.78419792
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4743
+meananomly:268.4398
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8605458153
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001305
+argumentofperigree:91.6744
+nickname:STARLINK-4743
+idesg:22111Q  
+cosparid:2022-111Q
+altkm:540.64550436208
+velkms:7.5932067633798
+velkmh:27336
+onumepoch:10947
+onumnow:165193.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:49:15+00:00
+nowjuliandate:2460552.6378239
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4743
+1 53787U 22111Q   24241.78419792  .00001117  00000+0  88228-4 0  9998
+2 53787  53.2161 258.4939 0001305  91.6744 268.4398 15.08847167109478

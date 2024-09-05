@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53194
+launchyear:2022
+epoch:24241.89700325
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4382
+meananomly:264.5514
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1289040349
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6552
+eccentricity:0.0001681
+argumentofperigree:95.5902
+nickname:STARLINK-4382
+idesg:22084F  
+cosparid:2022-084F
+altkm:566.16051469722
+velkms:7.5779987362139
+velkmh:27281
+onumepoch:11562
+onumnow:173595.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:31:41+00:00
+nowjuliandate:2460552.6378714
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4382
+1 53194U 22084F   24241.89700325  .00000664  00000+0  56276-4 0  9990
+2 53194  97.6552 301.6915 0001681  95.5902 264.5514 15.01266493115628

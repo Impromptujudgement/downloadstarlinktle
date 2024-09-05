@@ -1,0 +1,38 @@
+date:2024-08-28T21:16:48+00:00
+validtle:1
+satid:57737
+launchyear:2023
+epoch:24240.56019963
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30344
+meananomly:97.1128
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2070477749
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001225
+argumentofperigree:262.9575
+nickname:STARLINK-30344
+idesg:23131F  
+cosparid:2023-131F
+altkm:558.95346202094
+velkms:7.5837276101214
+velkmh:27301
+onumepoch:5581
+onumnow:83876.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:26:41+00:00
+nowjuliandate:2460551.3866713
+nowepochdate:24241.8866666667
+TLE:
+STARLINK-30344
+1 57737U 23131F   24240.56019963  .00004836  00000+0  37277-3 0  9999
+2 57737  43.0025 330.2008 0001225 262.9575  97.1128 15.02539754 55815

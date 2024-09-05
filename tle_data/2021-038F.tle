@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48358
+launchyear:2021
+epoch:24242.00436325
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2624
+meananomly:261.2336
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3457933785
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.056
+eccentricity:0.0001291
+argumentofperigree:98.88
+nickname:STARLINK-2624
+idesg:21038F  
+cosparid:2021-038F
+altkm:548.22441724941
+velkms:7.5889930168145
+velkmh:27320
+onumepoch:18355
+onumnow:276517.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:06:17+00:00
+nowjuliandate:2460552.6380315
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2624
+1 48358U 21038F   24242.00436325  .00005578  00000+0  39302-3 0  9993
+2 48358  53.0560 345.1678 0001291  98.8800 261.2336 15.06401576183559

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45770
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1462
+meananomly:123.6652
+meanmotion:15.6328
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6756.3286443713
+altitudeatperigee:374
+altitudeatapogee:382
+inclination:53.043
+eccentricity:0.0005995
+argumentofperigree:55.8255
+nickname:STARLINK-1462
+idesg:20038AS 
+cosparid:2020-038AS
+altkm:381.30222399924
+velkms:7.6810998822583
+velkmh:27652
+onumepoch:23462
+onumnow:366781.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283082
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1462
+1 45770U 20038AS  24243.25001157  .00221254  00000+0  23077-2 0  9998
+2 45770  53.0430 129.8277 0005995  55.8255 123.6652 15.63280125234629

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49430
+launchyear:2021
+epoch:24242.61550439
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3138
+meananomly:283.7523
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8514677976
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.000147
+argumentofperigree:76.3633
+nickname:STARLINK-3138
+idesg:21104Y  
+cosparid:2021-104Y
+altkm:540.37011778287
+velkms:7.5935039697195
+velkmh:27337
+onumepoch:15561
+onumnow:234800.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:46:20+00:00
+nowjuliandate:2460552.6379934
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3138
+1 49430U 21104Y   24242.61550439  .00001416  00000+0  10699-3 0  9994
+2 49430  53.2160 210.2020 0001470  76.3633 283.7523 15.08850137155612

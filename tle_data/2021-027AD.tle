@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48119
+launchyear:2021
+epoch:24242.81524817
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2459
+meananomly:244.5332
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2934523383
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001803
+argumentofperigree:115.5843
+nickname:STARLINK-2459
+idesg:21027AD 
+cosparid:2021-027AD
+altkm:548.57246471033
+velkms:7.5885831352468
+velkmh:27319
+onumepoch:18836
+onumnow:283753.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:33:57+00:00
+nowjuliandate:2460552.638054
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2459
+1 48119U 21027AD  24242.81524817  .00026944  00000+0  18199-2 0  9999
+2 48119  53.0529 131.5138 0001803 115.5843 244.5332 15.06418654188369

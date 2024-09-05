@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52383
+launchyear:2022
+epoch:24242.47560919
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3811
+meananomly:263.8247
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9012291497
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001572
+argumentofperigree:96.2924
+nickname:STARLINK-3811
+idesg:22045BE 
+cosparid:2022-045BE
+altkm:540.77876859951
+velkms:7.5930828172521
+velkmh:27335
+onumepoch:13194
+onumnow:199085.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:24:53+00:00
+nowjuliandate:2460552.6379262
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3811
+1 52383U 22045BE  24242.47560919  .00000556  00000+0  53029-4 0  9997
+2 52383  53.2173 160.5839 0001572  96.2924 263.8247 15.08833857131941

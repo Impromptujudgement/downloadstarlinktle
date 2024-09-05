@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52373
+launchyear:2022
+epoch:24242.53722479
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3550
+meananomly:254.9193
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8257774743
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001448
+argumentofperigree:105.196
+nickname:STARLINK-3550
+idesg:22045AU 
+cosparid:2022-045AU
+altkm:540.84696331255
+velkms:7.5929666744137
+velkmh:27335
+onumepoch:13181
+onumnow:198891.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:53:36+00:00
+nowjuliandate:2460552.637928
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3550
+1 52373U 22045AU  24242.53722479  .00001926  00000+0  13903-3 0  9992
+2 52373  53.2177 170.2682 0001448 105.1960 254.9193 15.08858542131815

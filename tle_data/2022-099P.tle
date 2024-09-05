@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53478
+launchyear:2022
+epoch:24242.29350178
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4433
+meananomly:85.2837
+meanmotion:15.0131
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.0045465823
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6604
+eccentricity:0.0001462
+argumentofperigree:274.822
+nickname:STARLINK-4433
+idesg:22099P  
+cosparid:2022-099P
+altkm:565.84174059971
+velkms:7.5782789377019
+velkmh:27282
+onumepoch:11259
+onumnow:169044.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:02:39+00:00
+nowjuliandate:2460552.6378523
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4433
+1 53478U 22099P   24242.29350178 -.00006240  00000+0 -48104-3 0  9991
+2 53478  97.6604   2.0972 0001462 274.8220  85.2837 15.01306839112596

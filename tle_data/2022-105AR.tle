@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53687
+launchyear:2022
+epoch:24242.24415918
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4569
+meananomly:207.0108
+meanmotion:15.0123
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.2454314002
+altitudeatperigee:563
+altitudeatapogee:564
+inclination:97.6561
+eccentricity:7.24E-5
+argumentofperigree:153.1154
+nickname:STARLINK-4569
+idesg:22105AR 
+cosparid:2022-105AR
+altkm:566.6137842241
+velkms:7.5775674514346
+velkmh:27279
+onumepoch:10988
+onumnow:164968.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:51:35+00:00
+nowjuliandate:2460552.6378361
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4569
+1 53687U 22105AR  24242.24415918  .00006536  00000+0  51343-3 0  9995
+2 53687  97.6561 122.0209 0000724 153.1154 207.0108 15.01228689109880

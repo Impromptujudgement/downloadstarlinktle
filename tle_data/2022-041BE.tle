@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52313
+launchyear:2022
+epoch:24242.77828877
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3749
+meananomly:279.6236
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9125539559
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2097
+eccentricity:0.0001383
+argumentofperigree:80.4912
+nickname:STARLINK-3749
+idesg:22041BE 
+cosparid:2022-041BE
+altkm:540.51232134377
+velkms:7.5933813784285
+velkmh:27336
+onumepoch:13179
+onumnow:198854.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:40:44+00:00
+nowjuliandate:2460552.6379328
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3749
+1 52313U 22041BE  24242.77828877 -.00002016  00000+0 -10864-3 0  9993
+2 52313  53.2097  69.1892 0001383  80.4912 279.6236 15.08830152131795

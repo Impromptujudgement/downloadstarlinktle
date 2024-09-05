@@ -1,0 +1,38 @@
+date:2024-08-29T09:34:01+00:00
+validtle:1
+satid:56505
+launchyear:2023
+epoch:24242.02298075
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-5763
+meananomly:90.4687
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2020029513
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0046
+eccentricity:0.0001161
+argumentofperigree:269.6022
+nickname:STARLINK-5763
+idesg:23065C  
+cosparid:2023-065C
+altkm:558.85001817789
+velkms:7.5838378908905
+velkmh:27302
+onumepoch:7195
+onumnow:108113.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:33:06+00:00
+nowjuliandate:2460551.8986334
+nowepochdate:24242.3986226852
+TLE:
+STARLINK-5763
+1 56505U 23065C   24242.02298075  .00000661  00000+0  63960-4 0  9994
+2 56505  43.0046   0.8555 0001161 269.6022  90.4687 15.02541393 71958

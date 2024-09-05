@@ -1,0 +1,38 @@
+date:2024-08-29T07:25:51+00:00
+validtle:1
+satid:57073
+launchyear:2023
+epoch:24241.74184761
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5838
+meananomly:89.9336
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1889831012
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.000116
+argumentofperigree:270.1373
+nickname:STARLINK-5838
+idesg:23088AB 
+cosparid:2023-088AB
+altkm:558.82918082983
+velkms:7.5838535625377
+velkmh:27302
+onumepoch:6560
+onumnow:98575.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:48:16+00:00
+nowjuliandate:2460551.809619
+nowepochdate:24242.3096180556
+TLE:
+STARLINK-5838
+1 57073U 23088AB  24241.74184761  .00001254  00000+0  10786-3 0  9990
+2 57073  43.0019 246.7395 0001160 270.1373  89.9336 15.02545623 65606

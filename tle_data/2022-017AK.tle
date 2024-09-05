@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51801
+launchyear:2022
+epoch:24242.54091596
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3592
+meananomly:262.0332
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8951128567
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001328
+argumentofperigree:98.0811
+nickname:STARLINK-3592
+idesg:22017AK 
+cosparid:2022-017AK
+altkm:540.78299028761
+velkms:7.5930748358182
+velkmh:27335
+onumepoch:13981
+onumnow:210959.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:58:55+00:00
+nowjuliandate:2460552.6379589
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3592
+1 51801U 22017AK  24242.54091596  .00000012  00000+0  18820-4 0  9995
+2 51801  53.2177 330.2612 0001328  98.0811 262.0332 15.08835858139811

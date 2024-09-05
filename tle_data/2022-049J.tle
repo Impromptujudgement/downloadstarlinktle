@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52459
+launchyear:2022
+epoch:24242.79576476
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3856
+meananomly:279.9332
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8797656361
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2182
+eccentricity:0.0001245
+argumentofperigree:80.1801
+nickname:STARLINK-3856
+idesg:22049J  
+cosparid:2022-049J
+altkm:540.49178491899
+velkms:7.5933859602488
+velkmh:27336
+onumepoch:12833
+onumnow:193634.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:05:54+00:00
+nowjuliandate:2460552.6379191
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3856
+1 52459U 22049J   24242.79576476  .00000433  00000+0  45309-4 0  9991
+2 52459  53.2182  39.1156 0001245  80.1801 279.9332 15.08840879128335

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51895
+launchyear:2022
+epoch:24241.99166265
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3594
+meananomly:307.5770
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8008056694
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2178
+eccentricity:9.77E-5
+argumentofperigree:52.5311
+nickname:STARLINK-3594
+idesg:22022AV 
+cosparid:2022-022AV
+altkm:540.149143408
+velkms:7.5937187099445
+velkmh:27337
+onumepoch:13905
+onumnow:209825.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:48:00+00:00
+nowjuliandate:2460552.6379513
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3594
+1 51895U 22022AV  24241.99166265  .00001052  00000+0  84114-4 0  9992
+2 51895  53.2178 342.7242 0000977  52.5311 307.5770 15.08866712139051

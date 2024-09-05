@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53285
+launchyear:2022
+epoch:24242.51378373
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4173
+meananomly:288.4090
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8804747669
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001655
+argumentofperigree:71.7082
+nickname:STARLINK-4173
+idesg:22086AV 
+cosparid:2022-086AV
+altkm:540.27950387535
+velkms:7.5936192848039
+velkmh:27337
+onumepoch:11691
+onumnow:176407.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:19:51+00:00
+nowjuliandate:2460552.6378666
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4173
+1 53285U 22086AV  24242.51378373 -.00000542  00000+0 -15935-4 0  9991
+2 53285  53.2175 165.3837 0001655  71.7082 288.4090 15.08840647116915

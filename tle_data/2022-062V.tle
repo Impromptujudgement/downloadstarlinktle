@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52849
+launchyear:2022
+epoch:24242.6278653
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4197
+meananomly:265.8915
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8975061871
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2192
+eccentricity:0.0001072
+argumentofperigree:94.2199
+nickname:STARLINK-4197
+idesg:22062V  
+cosparid:2022-062V
+altkm:540.71131387981
+velkms:7.5931547929353
+velkmh:27335
+onumepoch:12231
+onumnow:184553.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:04:08+00:00
+nowjuliandate:2460552.6378927
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4197
+1 52849U 22062V   24242.62786530 -.00000170  00000+0  74218-5 0  9996
+2 52849  53.2192   4.8647 0001072  94.2199 265.8915 15.08835075122312

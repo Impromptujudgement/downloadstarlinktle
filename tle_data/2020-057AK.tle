@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46150
+launchyear:2020
+epoch:24242.40474468
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1629
+meananomly:267.1676
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3685316054
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001535
+argumentofperigree:92.9488
+nickname:STARLINK-1629
+idesg:20057AK 
+cosparid:2020-057AK
+altkm:548.16321153454
+velkms:7.589072496453
+velkmh:27321
+onumepoch:22207
+onumnow:334533.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:42:50+00:00
+nowjuliandate:2460553.0282883
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1629
+1 46150U 20057AK  24242.40474468 -.00005630  00000+0 -35943-3 0  9993
+2 46150  53.0534 298.3696 0001535  92.9488 267.1676 15.06394157222074

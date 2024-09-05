@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52555
+launchyear:2022
+epoch:24241.88645568
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3949
+meananomly:228.8167
+meanmotion:15.1988
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6884.3356189802
+altitudeatperigee:505
+altitudeatapogee:507
+inclination:53.2131
+eccentricity:0.000107
+argumentofperigree:131.2922
+nickname:STARLINK-3949
+idesg:22051Y  
+cosparid:2022-051Y
+altkm:507.58500549648
+velkms:7.6111887235936
+velkmh:27400
+onumepoch:12732
+onumnow:193530.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:16:30+00:00
+nowjuliandate:2460552.6379113
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3949
+1 52555U 22051Y   24241.88645568  .00015732  00000+0  73709-3 0  9991
+2 52555  53.2131 107.2823 0001070 131.2922 228.8167 15.19882115127320

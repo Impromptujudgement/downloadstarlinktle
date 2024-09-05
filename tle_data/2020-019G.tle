@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45366
+launchyear:2020
+epoch:24243.04150703
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1262
+meananomly:283.7004
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4016171469
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001437
+argumentofperigree:76.4145
+nickname:STARLINK-1262
+idesg:20019G  
+cosparid:2020-019G
+altkm:547.90794468356
+velkms:7.5893702263904
+velkmh:27322
+onumepoch:24583
+onumnow:370321.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:59:46+00:00
+nowjuliandate:2460553.0283496
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1262
+1 45366U 20019G   24243.04150703  .00021671  00000+0  14699-2 0  9998
+2 45366  53.0526 145.5071 0001437  76.4145 283.7004 15.06383362245835

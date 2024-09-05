@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49181
+launchyear:2021
+epoch:24241.75498763
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3059
+meananomly:89.5942
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1790566503
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9976
+eccentricity:0.000311
+argumentofperigree:270.486
+nickname:STARLINK-3059
+idesg:21082BD 
+cosparid:2021-082BD
+altkm:574.45105001051
+velkms:7.5738858964834
+velkmh:27266
+onumepoch:16359
+onumnow:245133.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:07:11+00:00
+nowjuliandate:2460552.6380032
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3059
+1 49181U 21082BD  24241.75498763  .00000682  00000+0  64965-4 0  9997
+2 49181  69.9976 261.2089 0003110 270.4860  89.5942 14.98335144163594

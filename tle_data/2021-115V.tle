@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49743
+launchyear:2021
+epoch:24241.40842711
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3239
+meananomly:284.5112
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8400515448
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2155
+eccentricity:0.0001088
+argumentofperigree:75.6001
+nickname:STARLINK-3239
+idesg:21115V  
+cosparid:2021-115V
+altkm:540.41173976796
+velkms:7.5934520463774
+velkmh:27336
+onumepoch:15125
+onumnow:228240.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:48:08+00:00
+nowjuliandate:2460552.637989
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3239
+1 49743U 21115V   24241.40842711  .00005082  00000+0  33703-3 0  9990
+2 49743  53.2155 135.2751 0001088  75.6001 284.5112 15.08853872151254

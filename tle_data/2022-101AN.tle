@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53563
+launchyear:2022
+epoch:24242.68770257
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4561
+meananomly:268.6198
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9158306696
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001802
+argumentofperigree:91.5001
+nickname:STARLINK-4561
+idesg:22101AN 
+cosparid:2022-101AN
+altkm:540.70660104173
+velkms:7.5931699984282
+velkmh:27335
+onumepoch:11235
+onumnow:169523.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:30:18+00:00
+nowjuliandate:2460552.637849
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4561
+1 53563U 22101AN  24242.68770257 -.00001158  00000+0 -54708-4 0  9998
+2 53563  53.2186  34.8225 0001802  91.5001 268.6198 15.08829080112353

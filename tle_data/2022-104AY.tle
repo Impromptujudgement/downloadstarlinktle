@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53634
+launchyear:2022
+epoch:24242.59105041
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4592
+meananomly:273.3340
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8925758675
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001439
+argumentofperigree:86.7817
+nickname:STARLINK-4592
+idesg:22104AY 
+cosparid:2022-104AY
+altkm:540.59506266127
+velkms:7.5932796503134
+velkmh:27336
+onumepoch:11110
+onumnow:167640.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:11:07+00:00
+nowjuliandate:2460552.6378421
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4592
+1 53634U 22104AY  24242.59105041 -.00000493  00000+0 -12871-4 0  9999
+2 53634  53.2159 204.9400 0001439  86.7817 273.3340 15.08836688111100

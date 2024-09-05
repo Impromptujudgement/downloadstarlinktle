@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53591
+launchyear:2022
+epoch:24241.69132109
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4674
+meananomly:272.1207
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8716198147
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001447
+argumentofperigree:87.9951
+nickname:STARLINK-4674
+idesg:22104D  
+cosparid:2022-104D
+altkm:540.59486732758
+velkms:7.5932683894297
+velkmh:27336
+onumepoch:11172
+onumnow:168589.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:35:30+00:00
+nowjuliandate:2460552.6378405
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4674
+1 53591U 22104D   24241.69132109  .00000929  00000+0  76433-4 0  9992
+2 53591  53.2150 229.2436 0001447  87.9951 272.1207 15.08843544111729

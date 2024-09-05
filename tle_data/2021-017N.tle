@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47734
+launchyear:2021
+epoch:24242.56001748
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2144
+meananomly:285.2817
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3408988149
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:8.46E-5
+argumentofperigree:74.8265
+nickname:STARLINK-2144
+idesg:21017N  
+cosparid:2021-017N
+altkm:547.92848746272
+velkms:7.5893145281397
+velkmh:27322
+onumepoch:19312
+onumnow:290925.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:26:26+00:00
+nowjuliandate:2460552.6393379
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2144
+1 47734U 21017N   24242.56001748  .00009911  00000+0  68327-3 0  9999
+2 47734  53.0531 192.6665 0000846  74.8265 285.2817 15.06403173193128

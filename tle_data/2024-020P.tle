@@ -1,0 +1,38 @@
+date:2024-08-28T02:53:09+00:00
+validtle:1
+satid:58889
+launchyear:2024
+epoch:24240.18524522
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31007
+meananomly:274.8158
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3650147966
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1624
+eccentricity:0.0001341
+argumentofperigree:85.2997
+nickname:STARLINK-31007
+idesg:24020P  
+cosparid:2024-020P
+altkm:464.05261779443
+velkms:7.6357160503516
+velkmh:27489
+onumepoch:3238
+onumnow:49692.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:26:45+00:00
+nowjuliandate:2460550.6202462
+nowepochdate:24241.1202430556
+TLE:
+STARLINK-31007
+1 58889U 24020P   24240.18524522  .00000779  00000+0  34365-4 0  9994
+2 58889  53.1624  43.0217 0001341  85.2997 274.8158 15.34224143 32387

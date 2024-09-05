@@ -1,0 +1,38 @@
+date:2024-08-29T09:36:07+00:00
+validtle:1
+satid:56556
+launchyear:2023
+epoch:24242.09574359
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-5302
+meananomly:90.6251
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1816883182
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0053
+eccentricity:0.0001255
+argumentofperigree:269.4448
+nickname:STARLINK-5302
+idesg:23065BF 
+cosparid:2023-065BF
+altkm:558.83269853686
+velkms:7.5838457436039
+velkmh:27302
+onumepoch:7182
+onumnow:107917.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:17:52+00:00
+nowjuliandate:2460551.9000874
+nowepochdate:24242.4000810185
+TLE:
+STARLINK-5302
+1 56556U 23065BF  24242.09574359  .00001272  00000+0  10918-3 0  9992
+2 56556  43.0053  12.6935 0001255 269.4448  90.6251 15.02547993 71826

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45746
+launchyear:2020
+epoch:24242.20569247
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1504
+meananomly:292.2141
+meanmotion:15.1223
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6907.5466002376
+altitudeatperigee:528
+altitudeatapogee:531
+inclination:53.0508
+eccentricity:0.0002258
+argumentofperigree:67.909
+nickname:STARLINK-1504
+idesg:20038S  
+cosparid:2020-038S
+altkm:529.70119748895
+velkms:7.5995756749551
+velkmh:27358
+onumepoch:23220
+onumnow:351159.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:56:12+00:00
+nowjuliandate:2460553.028301
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1504
+1 45746U 20038S   24242.20569247  .00018031  00000+0  10460-2 0  9993
+2 45746  53.0508 216.1564 0002258  67.9090 292.2141 15.12227812232203

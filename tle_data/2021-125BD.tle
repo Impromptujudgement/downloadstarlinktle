@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50207
+launchyear:2021
+epoch:24242.65776578
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3262
+meananomly:272.0876
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9150695669
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2145
+eccentricity:0.0001422
+argumentofperigree:88.0279
+nickname:STARLINK-3262
+idesg:21125BD 
+cosparid:2021-125BD
+altkm:540.63946228098
+velkms:7.5932432490214
+velkmh:27336
+onumepoch:15063
+onumnow:227280.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:47:11+00:00
+nowjuliandate:2460552.637985
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3262
+1 50207U 21125BD  24242.65776578  .00004380  00000+0  29319-3 0  9991
+2 50207  53.2145 219.7347 0001422  88.0279 272.0876 15.08829329150636

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47671
+launchyear:2021
+epoch:24242.13244892
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2064
+meananomly:271.2708
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.360225802
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0584
+eccentricity:0.0002494
+argumentofperigree:88.8567
+nickname:STARLINK-2064
+idesg:21012BD 
+cosparid:2021-012BD
+altkm:548.06486444485
+velkms:7.5891756943528
+velkmh:27321
+onumepoch:19571
+onumnow:294832.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:10:44+00:00
+nowjuliandate:2460552.639425
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2064
+1 47671U 21012BD  24242.13244892 -.00001380  00000+0 -73768-4 0  9996
+2 47671  53.0584  34.5899 0002494  88.8567 271.2708 15.06396867195712

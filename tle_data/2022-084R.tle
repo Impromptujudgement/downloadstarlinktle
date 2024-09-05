@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53204
+launchyear:2022
+epoch:24242.41564722
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4410
+meananomly:150.1313
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1034624868
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6544
+eccentricity:0.0001384
+argumentofperigree:209.9833
+nickname:STARLINK-4410
+idesg:22084R  
+cosparid:2022-084R
+altkm:566.85734272708
+velkms:7.5772241423066
+velkmh:27278
+onumepoch:11608
+onumnow:174278.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:58:32+00:00
+nowjuliandate:2460552.6378694
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4410
+1 53204U 22084R   24242.41564722  .00002800  00000+0  22239-3 0  9995
+2 53204  97.6544 302.1989 0001384 209.9833 150.1313 15.01274747116081

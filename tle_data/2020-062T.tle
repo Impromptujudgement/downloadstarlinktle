@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46342
+launchyear:2020
+epoch:24242.59824876
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1762
+meananomly:235.2431
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3125215499
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:0.0001293
+argumentofperigree:124.868
+nickname:STARLINK-1762
+idesg:20062T  
+cosparid:2020-062T
+altkm:548.56527687574
+velkms:7.5886014350242
+velkmh:27319
+onumepoch:22034
+onumnow:331936.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:21:29+00:00
+nowjuliandate:2460553.0282349
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1762
+1 46342U 20062T   24242.59824876  .00027577  00000+0  18624-2 0  9992
+2 46342  53.0554 357.4968 0001293 124.8680 235.2431 15.06412432220348

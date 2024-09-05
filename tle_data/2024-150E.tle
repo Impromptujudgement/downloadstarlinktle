@@ -1,0 +1,38 @@
+date:2024-08-27T13:49:25+00:00
+validtle:1
+satid:60587
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31911
+meananomly:42.3517
+meanmotion:15.8519
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.9285452181
+altitudeatperigee:315
+altitudeatapogee:317
+inclination:53.1571
+eccentricity:0.0001086
+argumentofperigree:81.9036
+nickname:STARLINK-31911
+idesg:24150E  
+cosparid:2024-150E
+altkm:319.16159683547
+velkms:7.7223824581441
+velkmh:27801
+onumepoch:211
+onumnow:3355.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0759883
+nowepochdate:24240.5759837963
+TLE:
+STARLINK-31911
+1 60587U 24150E   24239.91667824 -.00999612  00000+0 -46246-2 0  9992
+2 60587  53.1571  34.3133 0001086  81.9036  42.3517 15.85190088  2110

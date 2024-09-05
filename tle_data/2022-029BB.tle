@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52137
+launchyear:2022
+epoch:24242.77277421
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3733
+meananomly:276.3723
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9128259964
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2264
+eccentricity:0.0002083
+argumentofperigree:83.7507
+nickname:STARLINK-3733
+idesg:22029BB 
+cosparid:2022-029BB
+altkm:540.51453977788
+velkms:7.5933790962809
+velkmh:27336
+onumepoch:13686
+onumnow:206503.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:32:48+00:00
+nowjuliandate:2460552.6379393
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3733
+1 52137U 22029BB  24242.77277421 -.00000508  00000+0 -13808-4 0  9992
+2 52137  53.2264  49.2160 0002083  83.7507 276.3723 15.08830063136865

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47656
+launchyear:2021
+epoch:24241.71961753
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2040
+meananomly:275.2268
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2958214248
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:9.72E-5
+argumentofperigree:84.8832
+nickname:STARLINK-2040
+idesg:21012AN 
+cosparid:2021-012AN
+altkm:547.97676846907
+velkms:7.5892369929031
+velkmh:27321
+onumepoch:19616
+onumnow:295520.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:16:15+00:00
+nowjuliandate:2460552.6394392
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2040
+1 47656U 21012AN  24241.71961753  .00001910  00000+0  14702-3 0  9993
+2 47656  53.0554  36.4397 0000972  84.8832 275.2268 15.06417881196161

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51109
+launchyear:2022
+epoch:24242.3845152
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3358
+meananomly:278.8305
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8589900183
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001204
+argumentofperigree:81.2823
+nickname:STARLINK-3358
+idesg:22005F  
+cosparid:2022-005F
+altkm:540.49146659973
+velkms:7.5933749329589
+velkmh:27336
+onumepoch:14585
+onumnow:220074.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:13:42+00:00
+nowjuliandate:2460552.6379727
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3358
+1 51109U 22005F   24242.38451520 -.00003179  00000+0 -18169-3 0  9996
+2 51109  53.2158 270.9133 0001204  81.2823 278.8305 15.08847676145856

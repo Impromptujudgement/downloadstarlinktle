@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56037
+launchyear:2023
+epoch:24241.56475973
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5758
+meananomly:93.7908
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1978199715
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43
+eccentricity:0.000117
+argumentofperigree:266.2801
+nickname:STARLINK-5758
+idesg:23042BD 
+cosparid:2023-042BD
+altkm:558.89238831701
+velkms:7.5837893132143
+velkmh:27302
+onumepoch:7925
+onumnow:119100.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:33:15+00:00
+nowjuliandate:2460552.6377233
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5758
+1 56037U 23042BD  24241.56475973  .00001632  00000+0  13580-3 0  9992
+2 56037  43.0000 182.7527 0001170 266.2801  93.7908 15.02542752 79258

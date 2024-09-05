@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:34+00:00
+validtle:1
+satid:44969
+launchyear:2020
+epoch:24242.30614793
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1092
+meananomly:246.1703
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3361452426
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001247
+argumentofperigree:113.9417
+nickname:STARLINK-1092
+idesg:20001BH 
+cosparid:2020-001BH
+altkm:548.42710730079
+velkms:7.5887657047932
+velkmh:27320
+onumepoch:25639
+onumnow:386245.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:20:51+00:00
+nowjuliandate:2460553.0295628
+nowepochdate:24243.5295601852
+TLE:
+STARLINK-1092
+1 44969U 20001BH  24242.30614793  .00002847  00000+0  20994-3 0  9999
+2 44969  53.0533 288.8183 0001247 113.9417 246.1703 15.06404724256392

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55386
+launchyear:2023
+epoch:24241.93093641
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5555
+meananomly:90.5523
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1965549215
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.0001321
+argumentofperigree:269.5167
+nickname:STARLINK-5555
+idesg:23013BH 
+cosparid:2023-013BH
+altkm:558.84651725156
+velkms:7.5838387462746
+velkmh:27302
+onumepoch:8766
+onumnow:131731.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:20:33+00:00
+nowjuliandate:2460552.6377685
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5555
+1 55386U 23013BH  24241.93093641  .00001232  00000+0  10624-3 0  9997
+2 55386  43.0016 103.5439 0001321 269.5167  90.5523 15.02543163 87662

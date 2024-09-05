@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53184
+launchyear:2022
+epoch:24242.32788577
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4257
+meananomly:285.4413
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8601362341
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2093
+eccentricity:9.03E-5
+argumentofperigree:74.6679
+nickname:STARLINK-4257
+idesg:22083BE 
+cosparid:2022-083BE
+altkm:540.45340806061
+velkms:7.593417320594
+velkmh:27336
+onumepoch:11841
+onumnow:178674.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:52:09+00:00
+nowjuliandate:2460552.6378768
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4257
+1 53184U 22083BE  24242.32788577  .00001783  00000+0  13002-3 0  9994
+2 53184  53.2093 105.8011 0000903  74.6679 285.4413 15.08847301118411

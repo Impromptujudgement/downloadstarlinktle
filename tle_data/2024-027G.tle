@@ -1,0 +1,38 @@
+date:2024-08-28T02:42:47+00:00
+validtle:1
+satid:58937
+launchyear:2024
+epoch:24240.1298172
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31390
+meananomly:259.1688
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3975546438
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1621
+eccentricity:7.84E-5
+argumentofperigree:100.9401
+nickname:STARLINK-31390
+idesg:24027G  
+cosparid:2024-027G
+altkm:476.26144366889
+velkms:7.6288029314004
+velkmh:27464
+onumepoch:3165
+onumnow:48445.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:06:56+00:00
+nowjuliandate:2460550.6130512
+nowepochdate:24241.1130439815
+TLE:
+STARLINK-31390
+1 58937U 24027G   24240.12981720 -.00000906  00000+0 -18498-4 0  9999
+2 58937  53.1621  28.9745 0000784 100.9401 259.1688 15.30185451 31658

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49428
+launchyear:2021
+epoch:24241.64666855
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3121
+meananomly:276.0928
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8587271528
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001566
+argumentofperigree:84.0242
+nickname:STARLINK-3121
+idesg:21104W  
+cosparid:2021-104W
+altkm:540.50417302163
+velkms:7.593360846624
+velkmh:27336
+onumepoch:15546
+onumnow:234587.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:31:12+00:00
+nowjuliandate:2460552.6379936
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3121
+1 49428U 21104W   24241.64666855  .00001603  00000+0  11879-3 0  9992
+2 49428  53.2160 214.1867 0001566  84.0242 276.0928 15.08847762155466

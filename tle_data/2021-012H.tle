@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47627
+launchyear:2021
+epoch:24242.46926767
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1972
+meananomly:323.0991
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3902003684
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001187
+argumentofperigree:37.008
+nickname:STARLINK-1972
+idesg:21012H  
+cosparid:2021-012H
+altkm:547.47489752287
+velkms:7.5898384083187
+velkmh:27323
+onumepoch:19680
+onumnow:296467.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:15:45+00:00
+nowjuliandate:2460552.6394138
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1972
+1 47627U 21012H   24242.46926767 -.00026121  00000+0 -17418-2 0  9999
+2 47627  53.0538 318.0823 0001187  37.0080 323.0991 15.06387087196808

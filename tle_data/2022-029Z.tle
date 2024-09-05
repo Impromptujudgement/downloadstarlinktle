@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52111
+launchyear:2022
+epoch:24241.80768002
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3708
+meananomly:271.3126
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8788364305
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001333
+argumentofperigree:88.8019
+nickname:STARLINK-3708
+idesg:22029Z  
+cosparid:2022-029Z
+altkm:540.61823520609
+velkms:7.5932467006744
+velkmh:27336
+onumepoch:13656
+onumnow:206067.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:23:04+00:00
+nowjuliandate:2460552.6379363
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3708
+1 52111U 22029Z   24241.80768002  .00000200  00000+0  30685-4 0  9996
+2 52111  53.2174  63.5496 0001333  88.8019 271.3126 15.08841183136563

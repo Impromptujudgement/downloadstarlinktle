@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46564
+launchyear:2020
+epoch:24243.01664063
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1733
+meananomly:275.5429
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.409546089
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001563
+argumentofperigree:84.5738
+nickname:STARLINK-1733
+idesg:20070AJ 
+cosparid:2020-070AJ
+altkm:548.04708696554
+velkms:7.5892221307209
+velkmh:27321
+onumepoch:21589
+onumnow:325220.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:23:58+00:00
+nowjuliandate:2460553.0282317
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1733
+1 46564U 20070AJ  24243.01664063  .00027723  00000+0  18737-2 0  9993
+2 46564  53.0529 135.6956 0001563  84.5738 275.5429 15.06380775215897

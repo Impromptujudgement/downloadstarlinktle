@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51716
+launchyear:2022
+epoch:24242.46548898
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3543
+meananomly:281.2402
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9095584561
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2141
+eccentricity:0.0001318
+argumentofperigree:78.8738
+nickname:STARLINK-3543
+idesg:22016C  
+cosparid:2022-016C
+altkm:540.49199875781
+velkms:7.5934020384959
+velkmh:27336
+onumepoch:14037
+onumnow:211804.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:10:18+00:00
+nowjuliandate:2460552.6379626
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3543
+1 51716U 22016C   24242.46548898 -.00002001  00000+0 -10770-3 0  9999
+2 51716  53.2141 310.6007 0001318  78.8738 281.2402 15.08831132140375

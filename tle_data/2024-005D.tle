@@ -1,0 +1,38 @@
+date:2024-08-28T04:18:01+00:00
+validtle:1
+satid:58731
+launchyear:2024
+epoch:24240.67205353
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31204
+meananomly:105.5859
+meanmotion:15.0252
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2576842762
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0062
+eccentricity:0.000151
+argumentofperigree:254.4816
+nickname:STARLINK-31204
+idesg:24005D  
+cosparid:2024-005D
+altkm:559.18076026437
+velkms:7.5835068548578
+velkmh:27301
+onumepoch:3631
+onumnow:54564.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:07:45+00:00
+nowjuliandate:2460550.6791897
+nowepochdate:24241.1791782407
+TLE:
+STARLINK-31204
+1 58731U 24005D   24240.67205353  .00003433  00000+0  26920-3 0  9992
+2 58731  43.0062  20.6278 0001510 254.4816 105.5859 15.02523303 36313

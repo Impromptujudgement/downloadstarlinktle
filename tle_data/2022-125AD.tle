@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53991
+launchyear:2022
+epoch:24242.54872689
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5118
+meananomly:268.5423
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.861047094
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000129
+argumentofperigree:91.5717
+nickname:STARLINK-5118
+idesg:22125AD 
+cosparid:2022-125AD
+altkm:540.64405288913
+velkms:7.5932086303934
+velkmh:27336
+onumepoch:10556
+onumnow:159282.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:10:10+00:00
+nowjuliandate:2460552.6378097
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5118
+1 53991U 22125AD  24242.54872689  .00001223  00000+0  94870-4 0  9991
+2 53991  53.2154 185.1590 0001290  91.5717 268.5423 15.08847003105563

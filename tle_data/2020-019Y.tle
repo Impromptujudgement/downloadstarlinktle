@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45382
+launchyear:2020
+epoch:23053.37966233
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1264
+meananomly:301.0470
+meanmotion:15.1479
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6899.7459933276
+altitudeatperigee:519
+altitudeatapogee:524
+inclination:53.0489
+eccentricity:0.0003855
+argumentofperigree:59.0901
+nickname:STARLINK-1264
+idesg:20019Y  
+cosparid:2020-019Y
+altkm:521.1197356521
+velkms:7.6047382449466
+velkmh:27377
+onumepoch:16238
+onumnow:264000.38
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T09:06:43+00:00
+nowjuliandate:2460553.0283445
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1264
+1 45382U 20019Y   23053.37966233  .00026850  00000+0  14402-2 0  9999
+2 45382  53.0489  91.4940 0003855  59.0901 301.0470 15.14793043162387

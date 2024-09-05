@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:57+00:00
+validtle:1
+satid:45094
+launchyear:2020
+epoch:24243.21747011
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1146
+meananomly:271.1086
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3293198504
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001521
+argumentofperigree:89.0077
+nickname:STARLINK-1146
+idesg:20006BC 
+cosparid:2020-006BC
+altkm:548.05097244647
+velkms:7.5891740154584
+velkmh:27321
+onumepoch:25350
+onumnow:381872.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:13:09+00:00
+nowjuliandate:2460553.0284438
+nowepochdate:24243.09.5284375
+TLE:
+STARLINK-1146
+1 45094U 20006BC  24243.21747011  .00001887  00000+0  14551-3 0  9990
+2 45094  53.0523 224.7104 0001521  89.0077 271.1086 15.06406951253509

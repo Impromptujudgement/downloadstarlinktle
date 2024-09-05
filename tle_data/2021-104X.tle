@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49429
+launchyear:2021
+epoch:21332.79533461
+epochday:332
+tleage:1006
+tleclassification:C
+active:0
+name:STARLINK-3123
+meananomly:146.7899
+meanmotion:16.2773
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6576.7835752492
+altitudeatperigee:174
+altitudeatapogee:223
+inclination:53.216
+eccentricity:0.0037603
+argumentofperigree:88.7411
+nickname:STARLINK-3123
+idesg:21104X  
+cosparid:2021-104X
+altkm:233.20761025121
+velkms:7.7540930452707
+velkmh:27915
+onumepoch:1
+onumnow:47388.84
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-11-28T19:05:17+00:00
+nowjuliandate:2460552.6387979
+nowepochdate:24243.1387962963
+TLE:
+STARLINK-3123
+1 49429C 21104X   21332.79533461 -.00500211  00000-0 -10632-3 0  3322
+2 49429  53.2160  54.7982 0037603  88.7411 146.7899 16.27730984    12

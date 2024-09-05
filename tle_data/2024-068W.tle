@@ -1,0 +1,38 @@
+date:2024-08-28T00:11:53+00:00
+validtle:1
+satid:59475
+launchyear:2024
+epoch:24240.54466659
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31566
+meananomly:64.0412
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1437426787
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0055
+eccentricity:6.95E-5
+argumentofperigree:296.0373
+nickname:STARLINK-31566
+idesg:24068W  
+cosparid:2024-068W
+altkm:443.57394924954
+velkms:7.6478896633713
+velkmh:27532
+onumepoch:2279
+onumnow:35119.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:04:19+00:00
+nowjuliandate:2460550.5082563
+nowepochdate:24241.0082523148
+TLE:
+STARLINK-31566
+1 59475U 24068W   24240.54466659  .00008393  00000+0  20788-3 0  9997
+2 59475  43.0055 330.8839 0000695 296.0373  64.0412 15.40712683 22797

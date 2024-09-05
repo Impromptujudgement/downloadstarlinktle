@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55391
+launchyear:2023
+epoch:24241.67549182
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5077
+meananomly:90.2218
+meanmotion:14.9753
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6952.6792484158
+altitudeatperigee:572
+altitudeatapogee:577
+inclination:69.9996
+eccentricity:0.0003096
+argumentofperigree:269.8586
+nickname:STARLINK-5077
+idesg:23014A  
+cosparid:2023-014A
+altkm:576.97414150906
+velkms:7.5724975048864
+velkmh:27261
+onumepoch:8847
+onumnow:132508.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:12:42+00:00
+nowjuliandate:2460552.6377657
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5077
+1 55391U 23014A   24241.67549182  .00001605  00000+0  14523-3 0  9997
+2 55391  69.9996  31.2551 0003096 269.8586  90.2218 14.97527012 88479

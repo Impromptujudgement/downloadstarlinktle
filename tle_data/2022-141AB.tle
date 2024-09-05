@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54182
+launchyear:2022
+epoch:24242.47417522
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5231
+meananomly:264.6433
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8773906606
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001463
+argumentofperigree:95.4726
+nickname:STARLINK-5231
+idesg:22141AB 
+cosparid:2022-141AB
+altkm:540.7324004869
+velkms:7.5931206405311
+velkmh:27335
+onumepoch:10239
+onumnow:154500.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:22:49+00:00
+nowjuliandate:2460552.6377975
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5231
+1 54182U 22141AB  24242.47417522  .00000675  00000+0  60526-4 0  9996
+2 54182  53.2172 315.1909 0001463  95.4726 264.6433 15.08841656102394

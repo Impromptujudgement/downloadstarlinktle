@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54174
+launchyear:2022
+epoch:24242.41944888
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5248
+meananomly:265.4991
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8765439838
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001382
+argumentofperigree:94.6159
+nickname:STARLINK-5248
+idesg:22141T  
+cosparid:2022-141T
+altkm:540.71208005531
+velkms:7.593142473425
+velkmh:27335
+onumepoch:10249
+onumnow:154652.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:04:00+00:00
+nowjuliandate:2460552.6377918
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5248
+1 54174U 22141T   24242.41944888 -.00000003  00000+0  17919-4 0  9995
+2 54174  53.2172 290.5476 0001382  94.6159 265.4991 15.08841933102498

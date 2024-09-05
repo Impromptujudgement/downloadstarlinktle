@@ -1,0 +1,38 @@
+date:2024-08-28T05:43:01+00:00
+validtle:1
+satid:59254
+launchyear:2024
+epoch:24240.32810656
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31659
+meananomly:285.4227
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3829565575
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1572
+eccentricity:0.0001369
+argumentofperigree:74.6929
+nickname:STARLINK-31659
+idesg:24050A  
+cosparid:2024-050A
+altkm:447.90062694399
+velkms:7.6448555456357
+velkmh:27521
+onumepoch:2605
+onumnow:40121.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:52:28+00:00
+nowjuliandate:2460550.7382134
+nowepochdate:24241.2382060185
+TLE:
+STARLINK-31659
+1 59254U 24050A   24240.32810656  .00002255  00000+0  66359-4 0  9995
+2 59254  53.1572 259.4695 0001369  74.6929 285.4227 15.39616018 26059

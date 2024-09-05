@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54805
+launchyear:2022
+epoch:24242.61081513
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5417
+meananomly:270.3172
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9131927925
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001258
+argumentofperigree:89.7964
+nickname:STARLINK-5417
+idesg:22175AZ 
+cosparid:2022-175AZ
+altkm:540.66901188739
+velkms:7.5932097984907
+velkmh:27336
+onumepoch:9387
+onumnow:141641.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:39:34+00:00
+nowjuliandate:2460552.6377885
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5417
+1 54805U 22175AZ  24242.61081513 -.00000699  00000+0 -25867-4 0  9995
+2 54805  53.2186   9.6576 0001258  89.7964 270.3172 15.08829943 93879

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55789
+launchyear:2023
+epoch:24241.55157489
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5815
+meananomly:89.3635
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.185380617
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.001
+eccentricity:0.0002924
+argumentofperigree:270.7189
+nickname:STARLINK-5815
+idesg:23028BA 
+cosparid:2023-028BA
+altkm:574.4502599996
+velkms:7.5738901988311
+velkmh:27266
+onumepoch:8341
+onumnow:124999.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:14:16+00:00
+nowjuliandate:2460552.637735
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5815
+1 55789U 23028BA  24241.55157489  .00000284  00000+0  31577-4 0  9996
+2 55789  70.0010 171.6729 0002924 270.7189  89.3635 14.98333099 83417

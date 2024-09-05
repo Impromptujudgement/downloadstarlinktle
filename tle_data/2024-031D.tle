@@ -1,0 +1,38 @@
+date:2024-08-28T02:29:27+00:00
+validtle:1
+satid:58968
+launchyear:2024
+epoch:24240.10456351
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31356
+meananomly:259.0452
+meanmotion:15.3424
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3077269634
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1626
+eccentricity:0.0001451
+argumentofperigree:101.0713
+nickname:STARLINK-31356
+idesg:24031D  
+cosparid:2024-031D
+altkm:464.26103491359
+velkms:7.6354516191717
+velkmh:27488
+onumepoch:3084
+onumnow:47331.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:30:34+00:00
+nowjuliandate:2460550.6037939
+nowepochdate:24241.1037847222
+TLE:
+STARLINK-31356
+1 58968U 24031D   24240.10456351  .00007336  00000+0  22915-3 0  9993
+2 58968  53.1626  16.9536 0001451 101.0713 259.0452 15.34243414 30848

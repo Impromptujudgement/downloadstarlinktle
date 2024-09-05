@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55950
+launchyear:2023
+epoch:24242.39512359
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5911
+meananomly:90.2979
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1888657628
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9986
+eccentricity:0.000299
+argumentofperigree:269.7837
+nickname:STARLINK-5911
+idesg:23037AN 
+cosparid:2023-037AN
+altkm:574.4869905379
+velkms:7.5738520726571
+velkmh:27266
+onumepoch:8133
+onumnow:121870.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:28:59+00:00
+nowjuliandate:2460552.6377308
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5911
+1 55950U 23037AN  24242.39512359  .00000321  00000+0  34702-4 0  9995
+2 55950  69.9986 229.6813 0002990 269.7837  90.2979 14.98331972 81334

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53806
+launchyear:2022
+epoch:24241.7147361
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4768
+meananomly:270.5966
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8537969023
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2139
+eccentricity:0.0001309
+argumentofperigree:89.5176
+nickname:STARLINK-4768
+idesg:22111AK 
+cosparid:2022-111AK
+altkm:540.60451933147
+velkms:7.5932480388452
+velkmh:27336
+onumepoch:10979
+onumnow:165678.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:09:13+00:00
+nowjuliandate:2460552.6378259
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4768
+1 53806U 22111AK  24241.71473610  .00001273  00000+0  98002-4 0  9996
+2 53806  53.2139 233.8123 0001309  89.5176 270.5966 15.08849375109799

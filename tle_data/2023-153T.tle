@@ -1,0 +1,38 @@
+date:2024-08-28T18:51:55+00:00
+validtle:1
+satid:58008
+launchyear:2023
+epoch:24240.66762567
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30522
+meananomly:105.5685
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2287107641
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.0001025
+argumentofperigree:254.5044
+nickname:STARLINK-30522
+idesg:23153T  
+cosparid:2023-153T
+altkm:559.0605981727
+velkms:7.5836223546946
+velkmh:27301
+onumepoch:5078
+onumnow:76315.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:01:23+00:00
+nowjuliandate:2460551.2860632
+nowepochdate:24241.7860532407
+TLE:
+STARLINK-30522
+1 58008U 23153T   24240.66762567  .00001505  00000+0  12648-3 0  9996
+2 58008  43.0016 226.4239 0001025 254.5044 105.5685 15.02532716 50789

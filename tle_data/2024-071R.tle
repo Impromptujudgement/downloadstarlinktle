@@ -1,0 +1,38 @@
+date:2024-08-27T23:47:02+00:00
+validtle:1
+satid:59499
+launchyear:2024
+epoch:24240.44631081
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31742
+meananomly:97.2094
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1362447541
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0018
+eccentricity:7.01E-5
+argumentofperigree:262.8683
+nickname:STARLINK-31742
+idesg:24071R  
+cosparid:2024-071R
+altkm:443.83356199144
+velkms:7.6475945889828
+velkmh:27531
+onumepoch:2230
+onumnow:34381.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:42:41+00:00
+nowjuliandate:2460550.4909995
+nowepochdate:24241.9909953704
+TLE:
+STARLINK-31742
+1 59499U 24071R   24240.44631081  .00005112  00000+0  12948-3 0  9994
+2 59499  43.0018 290.3313 0000701 262.8683  97.2094 15.40715223 22306

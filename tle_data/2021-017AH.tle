@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47753
+launchyear:2021
+epoch:24242.04768165
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2170
+meananomly:273.5427
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3519905152
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0513
+eccentricity:0.0001993
+argumentofperigree:86.579
+nickname:STARLINK-2170
+idesg:21017AH 
+cosparid:2021-017AH
+altkm:548.00873775092
+velkms:7.5892326772813
+velkmh:27321
+onumepoch:19304
+onumnow:290811.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:08:40+00:00
+nowjuliandate:2460552.6393902
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2170
+1 47753U 21017AH  24242.04768165  .00001190  00000+0  98794-4 0  9999
+2 47753  53.0513 194.9704 0001993  86.5790 273.5427 15.06399554193040

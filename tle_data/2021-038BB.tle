@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48402
+launchyear:2021
+epoch:24242.59074279
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2560
+meananomly:88.5584
+meanmotion:16.2515
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6583.7370724515
+altitudeatperigee:203
+altitudeatapogee:208
+inclination:53.0315
+eccentricity:0.0004025
+argumentofperigree:16.0797
+nickname:STARLINK-2560
+idesg:21038BB 
+cosparid:2021-038BB
+altkm:211.47383654512
+velkms:7.7860036811602
+velkmh:28030
+onumepoch:18503
+onumnow:300710.94
+otype:9
+otypedesc:Orbital Decay
+status:9
+timestamp:2024-08-29T14:10:40+00:00
+nowjuliandate:2460552.6380341
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2560
+1 48402U 21038BB  24242.59074279  .06496699  12003-4  21462-2 0  9995
+2 48402  53.0315 242.5641 0004025  16.0797  88.5584 16.25152942185034

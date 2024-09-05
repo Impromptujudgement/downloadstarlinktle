@@ -1,0 +1,38 @@
+date:2024-08-29T05:13:33+00:00
+validtle:1
+satid:57358
+launchyear:2023
+epoch:24241.13935921
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6299
+meananomly:101.0255
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2168419614
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0037
+eccentricity:0.0001254
+argumentofperigree:259.0446
+nickname:STARLINK-6299
+idesg:23099AG 
+cosparid:2023-099AG
+altkm:559.02452934381
+velkms:7.5836552965753
+velkmh:27301
+onumepoch:6298
+onumnow:94645.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:20:41+00:00
+nowjuliandate:2460551.7177431
+nowepochdate:24242.2177430556
+TLE:
+STARLINK-6299
+1 57358U 23099AG  24241.13935921  .00002204  00000+0  17820-3 0  9995
+2 57358  43.0037  31.1631 0001254 259.0446 101.0255 15.02536572 62989

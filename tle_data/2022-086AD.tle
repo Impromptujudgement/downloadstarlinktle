@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53269
+launchyear:2022
+epoch:24242.4990476
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4057
+meananomly:287.3803
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8310438947
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001216
+argumentofperigree:72.7322
+nickname:STARLINK-4057
+idesg:22086AD 
+cosparid:2022-086AD
+altkm:540.34028103936
+velkms:7.5935255265547
+velkmh:27337
+onumepoch:11690
+onumnow:176395.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:58:38+00:00
+nowjuliandate:2460552.6378685
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4057
+1 53269U 22086AD  24242.49904760  .00001952  00000+0  14066-3 0  9992
+2 53269  53.2175 165.4468 0001216  72.7322 287.3803 15.08856819116906

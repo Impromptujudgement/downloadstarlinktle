@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48466
+launchyear:2021
+epoch:24241.52241452
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2687
+meananomly:260.6753
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2303029852
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:7.99E-5
+argumentofperigree:99.4326
+nickname:STARLINK-2687
+idesg:21040AQ 
+cosparid:2021-040AQ
+altkm:548.06201240164
+velkms:7.5891077881239
+velkmh:27321
+onumepoch:18237
+onumnow:274753.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:32:17+00:00
+nowjuliandate:2460552.6380275
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2687
+1 48466U 21040AQ  24241.52241452  .00017319  00000+0  11775-2 0  9996
+2 48466  53.0535 177.3302 0000799  99.4326 260.6753 15.06439259182376

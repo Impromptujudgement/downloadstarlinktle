@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53903
+launchyear:2022
+epoch:24242.45399443
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5022
+meananomly:260.8581
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8767059833
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001602
+argumentofperigree:99.2593
+nickname:STARLINK-5022
+idesg:22119T  
+cosparid:2022-119T
+altkm:540.81323159211
+velkms:7.5930315743876
+velkmh:27335
+onumepoch:10714
+onumnow:161667.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:53:45+00:00
+nowjuliandate:2460552.6378107
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5022
+1 53903U 22119T   24242.45399443  .00000318  00000+0  38079-4 0  9992
+2 53903  53.2163 305.4532 0001602  99.2593 260.8581 15.08841880107146

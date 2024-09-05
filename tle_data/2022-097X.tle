@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53409
+launchyear:2022
+epoch:24241.89924301
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4490
+meananomly:274.0109
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8534820757
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001395
+argumentofperigree:86.1042
+nickname:STARLINK-4490
+idesg:22097X  
+cosparid:2022-097X
+altkm:540.54645232797
+velkms:7.5933115823162
+velkmh:27336
+onumepoch:11458
+onumnow:172902.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:34:55+00:00
+nowjuliandate:2460552.6378565
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4490
+1 53409U 22097X   24241.89924301  .00002828  00000+0  19563-3 0  9996
+2 53409  53.2167  88.3342 0001395  86.1042 274.0109 15.08849478114580

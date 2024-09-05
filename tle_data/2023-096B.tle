@@ -1,0 +1,38 @@
+date:2024-08-29T05:33:15+00:00
+validtle:1
+satid:57291
+launchyear:2023
+epoch:24241.07762237
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30239
+meananomly:119.2102
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2412721742
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.002
+eccentricity:4.59E-5
+argumentofperigree:240.8694
+nickname:STARLINK-30239
+idesg:23096B  
+cosparid:2023-096B
+altkm:559.03770459115
+velkms:7.5836542157602
+velkmh:27301
+onumepoch:6358
+onumnow:95548.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:51:47+00:00
+nowjuliandate:2460551.7314337
+nowepochdate:24242.2314236111
+TLE:
+STARLINK-30239
+1 57291U 23096B   24241.07762237 -.00000250  00000+0 -34885-5 0  9992
+2 57291  43.0020  18.8432 0000459 240.8694 119.2102 15.02528635 63587

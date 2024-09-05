@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55617
+launchyear:2023
+epoch:24241.43154364
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5721
+meananomly:87.2561
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1986879624
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001203
+argumentofperigree:272.8144
+nickname:STARLINK-5721
+idesg:23020BA 
+cosparid:2023-020BA
+altkm:558.80000518855
+velkms:7.5838907320955
+velkmh:27302
+onumepoch:8509
+onumnow:127876.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:21:25+00:00
+nowjuliandate:2460552.6377502
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5721
+1 55617U 23020BA  24241.43154364  .00001278  00000+0  10961-3 0  9991
+2 55617  43.0031 145.0148 0001203 272.8144  87.2561 15.02542470 85095

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53666
+launchyear:2022
+epoch:24242.19786831
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4449
+meananomly:300.1499
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1507918435
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6527
+eccentricity:0.0003629
+argumentofperigree:60.0085
+nickname:STARLINK-4449
+idesg:22105U  
+cosparid:2022-105U
+altkm:564.8066931719
+velkms:7.57948883243
+velkmh:27286
+onumepoch:10987
+onumnow:164957.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:44:56+00:00
+nowjuliandate:2460552.6378334
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4449
+1 53666U 22105U   24242.19786831 -.00000401  00000+0 -26583-4 0  9997
+2 53666  97.6527 121.9906 0003629  60.0085 300.1499 15.01259392109879

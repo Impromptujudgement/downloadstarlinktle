@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52482
+launchyear:2022
+epoch:24241.96499036
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3813
+meananomly:273.7943
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8242736579
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.000154
+argumentofperigree:86.3225
+nickname:STARLINK-3813
+idesg:22049AH 
+cosparid:2022-049AH
+altkm:540.51440325794
+velkms:7.5933307554488
+velkmh:27336
+onumepoch:12835
+onumnow:193679.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:09:35+00:00
+nowjuliandate:2460552.6379224
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3813
+1 52482U 22049AH  24241.96499036  .00005391  00000+0  35635-3 0  9999
+2 52482  53.2179  32.8431 0001540  86.3225 273.7943 15.08859034128354

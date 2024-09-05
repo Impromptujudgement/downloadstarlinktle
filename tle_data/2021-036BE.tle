@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48328
+launchyear:2021
+epoch:24241.84403286
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2504
+meananomly:277.2422
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3016629326
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0531
+eccentricity:0.0002042
+argumentofperigree:82.8799
+nickname:STARLINK-2504
+idesg:21036BE 
+cosparid:2021-036BE
+altkm:547.86563681225
+velkms:7.5893619330245
+velkmh:27322
+onumepoch:18395
+onumnow:277124.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:15:24+00:00
+nowjuliandate:2460552.6380418
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2504
+1 48328U 21036BE  24241.84403286  .00017569  00000+0  11949-2 0  9998
+2 48328  53.0531  85.8853 0002042  82.8799 277.2422 15.06415975183957

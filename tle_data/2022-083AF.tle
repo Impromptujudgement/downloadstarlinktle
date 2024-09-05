@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53161
+launchyear:2022
+epoch:24242.02248859
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4055
+meananomly:265.7892
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8285405863
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001302
+argumentofperigree:94.3249
+nickname:STARLINK-4055
+idesg:22083AF 
+cosparid:2022-083AF
+altkm:540.65520875919
+velkms:7.5931785896127
+velkmh:27335
+onumepoch:11780
+onumnow:177760.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:32:23+00:00
+nowjuliandate:2460552.6378799
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4055
+1 53161U 22083AF  24242.02248859  .00002009  00000+0  14424-3 0  9991
+2 53161  53.2175 147.5854 0001302  94.3249 265.7892 15.08857638117809

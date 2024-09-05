@@ -1,0 +1,38 @@
+date:2024-08-28T01:19:47+00:00
+validtle:1
+satid:59394
+launchyear:2024
+epoch:24240.01359761
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31607
+meananomly:274.5801
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3384596928
+altitudeatperigee:447
+altitudeatapogee:447
+inclination:53.1622
+eccentricity:4.33E-5
+argumentofperigree:85.5254
+nickname:STARLINK-31607
+idesg:24062W  
+cosparid:2024-062W
+altkm:448.08144973487
+velkms:7.6446282236334
+velkmh:27521
+onumepoch:2389
+onumnow:36797.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:19:35+00:00
+nowjuliandate:2460550.555411
+nowepochdate:24241.0554050926
+TLE:
+STARLINK-31607
+1 59394U 24062W   24240.01359761  .00001640  00000+0  50951-4 0  9992
+2 59394  53.1622 340.9075 0000433  85.5254 274.5801 15.39631074 23896

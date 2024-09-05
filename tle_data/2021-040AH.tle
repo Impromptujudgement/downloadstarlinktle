@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48459
+launchyear:2021
+epoch:24241.52476195
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2579
+meananomly:280.2343
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2596877126
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001528
+argumentofperigree:79.8818
+nickname:STARLINK-2579
+idesg:21040AH 
+cosparid:2021-040AH
+altkm:547.81377135083
+velkms:7.5893958056679
+velkmh:27322
+onumepoch:18243
+onumnow:274842.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:35:39+00:00
+nowjuliandate:2460552.6380277
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2579
+1 48459U 21040AH  24241.52476195  .00011933  00000+0  81801-3 0  9996
+2 48459  53.0528 172.6740 0001528  79.8818 280.2343 15.06429671182430

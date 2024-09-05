@@ -1,0 +1,38 @@
+date:2024-08-27T22:30:57+00:00
+validtle:1
+satid:59643
+launchyear:2024
+epoch:24240.24874479
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31800
+meananomly:78.1524
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1703663814
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0003
+eccentricity:0.0001501
+argumentofperigree:281.9164
+nickname:STARLINK-31800
+idesg:24082N  
+cosparid:2024-082N
+altkm:443.59741833806
+velkms:7.647878243828
+velkmh:27532
+onumepoch:1913
+onumnow:29484.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:58:12+00:00
+nowjuliandate:2460550.4381669
+nowepochdate:24240.9381597222
+TLE:
+STARLINK-31800
+1 59643U 24082N   24240.24874479  .00002350  00000+0  63503-4 0  9990
+2 59643  43.0003  78.1712 0001501 281.9164  78.1524 15.40703664 19130

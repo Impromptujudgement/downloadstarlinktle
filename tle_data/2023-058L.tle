@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56327
+launchyear:2023
+epoch:24242.24130685
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5997
+meananomly:181.2863
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1387398109
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.652
+eccentricity:0.0001761
+argumentofperigree:178.8365
+nickname:STARLINK-5997
+idesg:23058L  
+cosparid:2023-058L
+altkm:567.28172878988
+velkms:7.5767801282235
+velkmh:27276
+onumepoch:7400
+onumnow:111106.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:47:29+00:00
+nowjuliandate:2460552.6377065
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5997
+1 56327U 23058L   24242.24130685 -.00000014  00000+0  35130-5 0  9996
+2 56327  97.6520 242.0036 0001761 178.8365 181.2863 15.01263302 74007

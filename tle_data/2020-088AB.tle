@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:47147
+launchyear:2020
+epoch:24242.43196877
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1860
+meananomly:338.7526
+meanmotion:15.1372
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6903.0004873473
+altitudeatperigee:518
+altitudeatapogee:532
+inclination:53.0475
+eccentricity:0.0010484
+argumentofperigree:21.3902
+nickname:STARLINK-1860
+idesg:20088AB 
+cosparid:2020-088AB
+altkm:519.0006465616
+velkms:7.6088605772557
+velkmh:27392
+onumepoch:20812
+onumnow:315046.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:22:02+00:00
+nowjuliandate:2460552.6396687
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1860
+1 47147U 20088AB  24242.43196877  .00036983  00000+0  20330-2 0  9998
+2 47147  53.0475 281.6906 0010484  21.3902 338.7526 15.13721921208124

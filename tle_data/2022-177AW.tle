@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54864
+launchyear:2022
+epoch:24241.78221265
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5359
+meananomly:81.2843
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2084236375
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.0001141
+argumentofperigree:278.787
+nickname:STARLINK-5359
+idesg:22177AW 
+cosparid:2022-177AW
+altkm:558.72953207672
+velkms:7.5839730432715
+velkmh:27302
+onumepoch:9318
+onumnow:140026.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:46:23+00:00
+nowjuliandate:2460552.6377823
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5359
+1 54864U 22177AW  24241.78221265  .00000498  00000+0  51919-4 0  9991
+2 54864  43.0011 271.6542 0001141 278.7870  81.2843 15.02539307 93183

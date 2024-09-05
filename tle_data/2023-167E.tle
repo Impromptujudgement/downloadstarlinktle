@@ -1,0 +1,38 @@
+date:2024-08-28T17:07:32+00:00
+validtle:1
+satid:58179
+launchyear:2023
+epoch:24240.89867891
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30819
+meananomly:82.9779
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2050101452
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:8.82E-5
+argumentofperigree:277.0963
+nickname:STARLINK-30819
+idesg:23167E  
+cosparid:2023-167E
+altkm:558.77125081017
+velkms:7.5839255970322
+velkmh:27302
+onumepoch:4689
+onumnow:70466.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T21:34:06+00:00
+nowjuliandate:2460551.21357
+nowepochdate:24241.7135648148
+TLE:
+STARLINK-30819
+1 58179U 23167E   24240.89867891  .00001313  00000+0  11226-3 0  9999
+2 58179  43.0014 302.6747 0000882 277.0963  82.9779 15.02540416 46892

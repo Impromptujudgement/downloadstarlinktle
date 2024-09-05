@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56490
+launchyear:2023
+epoch:24241.80914467
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5873
+meananomly:87.0998
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1540701647
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0013
+eccentricity:0.0003155
+argumentofperigree:272.98
+nickname:STARLINK-5873
+idesg:23064AU 
+cosparid:2023-064AU
+altkm:574.33069326475
+velkms:7.5740034454832
+velkmh:27266
+onumepoch:7266
+onumnow:108889.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:25:10+00:00
+nowjuliandate:2460552.6376964
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5873
+1 56490U 23064AU  24241.80914467  .00004043  00000+0  34635-3 0  9995
+2 56490  70.0013  71.2222 0003155 272.9800  87.0998 14.98343224 72667

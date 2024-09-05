@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45786
+launchyear:2020
+epoch:24243.1308852
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1513
+meananomly:278.3106
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3877392543
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0524
+eccentricity:0.0001475
+argumentofperigree:81.8051
+nickname:STARLINK-1513
+idesg:20038BJ 
+cosparid:2020-038BJ
+altkm:547.98210772657
+velkms:7.5892813936705
+velkmh:27321
+onumepoch:23379
+onumnow:352184.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:08:28+00:00
+nowjuliandate:2460553.0283046
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1513
+1 45786U 20038BJ  24243.13088520  .00021426  00000+0  14534-2 0  9998
+2 45786  53.0524 175.1078 0001475  81.8051 278.3106 15.06387890233798

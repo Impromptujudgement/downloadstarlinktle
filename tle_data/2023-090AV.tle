@@ -1,0 +1,38 @@
+date:2024-08-29T06:36:32+00:00
+validtle:1
+satid:57144
+launchyear:2023
+epoch:24241.75704062
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5150
+meananomly:65.6126
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2075679555
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:9.92E-5
+argumentofperigree:294.4612
+nickname:STARLINK-5150
+idesg:23090AV 
+cosparid:2023-090AV
+altkm:558.5646882856
+velkms:7.58415270371
+velkmh:27303
+onumepoch:6644
+onumnow:99836.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:10:08+00:00
+nowjuliandate:2460551.7753728
+nowepochdate:24242.2753703704
+TLE:
+STARLINK-5150
+1 57144U 23090AV  24241.75704062  .00001073  00000+0  94471-4 0  9998
+2 57144  43.0031  53.4672 0000992 294.4612  65.6126 15.02539585 66448

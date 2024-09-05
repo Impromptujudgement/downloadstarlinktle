@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49166
+launchyear:2021
+epoch:24241.72972142
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3089
+meananomly:93.5544
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.198507919
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9981
+eccentricity:0.0003145
+argumentofperigree:266.5255
+nickname:STARLINK-3089
+idesg:21082AN 
+cosparid:2021-082AN
+altkm:574.62138352916
+velkms:7.5737108837688
+velkmh:27265
+onumepoch:16409
+onumnow:245881.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:30:48+00:00
+nowjuliandate:2460552.6380049
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3089
+1 49166U 21082AN  24241.72972142  .00001799  00000+0  15857-3 0  9990
+2 49166  69.9981 241.2711 0003145 266.5255  93.5544 14.98328854164094

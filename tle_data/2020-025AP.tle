@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45568
+launchyear:2020
+epoch:24242.79087606
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1363
+meananomly:273.8386
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2789068659
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.055
+eccentricity:0.0001361
+argumentofperigree:86.2758
+nickname:STARLINK-1363
+idesg:20025AP 
+cosparid:2020-025AP
+altkm:547.95810662746
+velkms:7.5892481900809
+velkmh:27321
+onumepoch:24142
+onumnow:363691.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:58:52+00:00
+nowjuliandate:2460553.02834
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1363
+1 45568U 20025AP  24242.79087606  .00010184  00000+0  70113-3 0  9992
+2 45568  53.0550  66.8767 0001361  86.2758 273.8386 15.06423400241420

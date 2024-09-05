@@ -1,0 +1,38 @@
+date:2024-08-28T07:37:42+00:00
+validtle:1
+satid:58998
+launchyear:2024
+epoch:24240.31114251
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31468
+meananomly:313.8566
+meanmotion:15.3396
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6842.1376303183
+altitudeatperigee:464
+altitudeatapogee:464
+inclination:53.1602
+eccentricity:4.18E-5
+argumentofperigree:46.2471
+nickname:STARLINK-31468
+idesg:24036A  
+cosparid:2024-036A
+altkm:464.70363613062
+velkms:7.6354198651163
+velkmh:27488
+onumepoch:2969
+onumnow:45558.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:28:03+00:00
+nowjuliandate:2460550.8178531
+nowepochdate:24241.3178472222
+TLE:
+STARLINK-31468
+1 58998U 24036A   24240.31114251 -.00030482  00000+0 -90723-3 0  9996
+2 58998  53.1602 156.1289 0000418  46.2471 313.8566 15.33964283 29699

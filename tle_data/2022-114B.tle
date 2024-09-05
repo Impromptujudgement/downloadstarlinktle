@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53819
+launchyear:2022
+epoch:24241.42080369
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4738
+meananomly:265.3128
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8703482741
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001506
+argumentofperigree:94.8036
+nickname:STARLINK-4738
+idesg:22114B  
+cosparid:2022-114B
+altkm:540.71596580981
+velkms:7.5931348170428
+velkmh:27335
+onumepoch:10855
+onumnow:163810.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:05:57+00:00
+nowjuliandate:2460552.6378196
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4738
+1 53819U 22114B   24241.42080369  .00000424  00000+0  44713-4 0  9993
+2 53819  53.2167 290.1589 0001506  94.8036 265.3128 15.08843960108558

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53220
+launchyear:2022
+epoch:24241.92476856
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4363
+meananomly:66.5060
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1234883623
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6612
+eccentricity:4.84E-5
+argumentofperigree:293.6114
+nickname:STARLINK-4363
+idesg:22084AH 
+cosparid:2022-084AH
+altkm:565.90996081743
+velkms:7.5782693221978
+velkmh:27282
+onumepoch:11615
+onumnow:174390.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:11:40+00:00
+nowjuliandate:2460552.6378734
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4363
+1 53220U 22084AH  24241.92476856  .00000858  00000+0  71407-4 0  9991
+2 53220  97.6612 301.7212 0000484 293.6114  66.5060 15.01268250116150

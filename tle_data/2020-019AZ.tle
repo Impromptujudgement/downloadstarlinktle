@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45407
+launchyear:2020
+epoch:24242.31720638
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1275
+meananomly:276.5318
+meanmotion:15.3157
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6849.2760278637
+altitudeatperigee:470
+altitudeatapogee:472
+inclination:53.0564
+eccentricity:0.0001727
+argumentofperigree:83.5878
+nickname:STARLINK-1275
+idesg:20019AZ 
+cosparid:2020-019AZ
+altkm:471.8937280306
+velkms:7.6313757087456
+velkmh:27473
+onumepoch:24612
+onumnow:376967.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:36:47+00:00
+nowjuliandate:2460553.0283548
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1275
+1 45407U 20019AZ  24242.31720638  .00026166  00000+0  85547-3 0  9998
+2 45407  53.0564  99.5985 0001727  83.5878 276.5318 15.31566834246125

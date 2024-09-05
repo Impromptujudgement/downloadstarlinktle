@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48453
+launchyear:2021
+epoch:24242.26053248
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2620
+meananomly:254.0959
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3107347635
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001245
+argumentofperigree:106.0167
+nickname:STARLINK-2620
+idesg:21040AB 
+cosparid:2021-040AB
+altkm:548.28905551933
+velkms:7.5889030406096
+velkmh:27320
+onumepoch:18389
+onumnow:277027.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:15:10+00:00
+nowjuliandate:2460552.6380282
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2620
+1 48453U 21040AB  24242.26053248  .00034181  00000+0  23017-2 0  9996
+2 48453  53.0531 164.0151 0001245 106.0167 254.0959 15.06413015183893

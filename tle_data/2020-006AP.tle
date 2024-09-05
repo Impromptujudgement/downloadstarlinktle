@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:00+00:00
+validtle:1
+satid:45081
+launchyear:2020
+epoch:24242.71898618
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1151
+meananomly:274.6058
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3426120644
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001373
+argumentofperigree:85.5088
+nickname:STARLINK-1151
+idesg:20006AP 
+cosparid:2020-006AP
+altkm:548.00845813751
+velkms:7.5892278567688
+velkmh:27321
+onumepoch:25279
+onumnow:380815.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:15:20+00:00
+nowjuliandate:2460553.0284765
+nowepochdate:24243.5284722222
+TLE:
+STARLINK-1151
+1 45081U 20006AP  24242.71898618 -.00000371  00000+0 -60079-5 0  9997
+2 45081  53.0542 247.0355 0001373  85.5088 274.6058 15.06402614252799

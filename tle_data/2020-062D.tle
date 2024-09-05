@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46328
+launchyear:2020
+epoch:24242.53745068
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1686
+meananomly:239.7439
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2787750804
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0559
+eccentricity:0.0001963
+argumentofperigree:120.3744
+nickname:STARLINK-1686
+idesg:20062D  
+cosparid:2020-062D
+altkm:548.70619508206
+velkms:7.5884286221229
+velkmh:27318
+onumepoch:22061
+onumnow:332347.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:53:56+00:00
+nowjuliandate:2460553.0282431
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1686
+1 46328U 20062D   24242.53745068  .00026561  00000+0  17942-2 0  9999
+2 46328  53.0559 337.7674 0001963 120.3744 239.7439 15.06423443220619

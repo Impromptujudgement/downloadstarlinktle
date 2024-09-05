@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56039
+launchyear:2023
+epoch:24241.1614519
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5795
+meananomly:88.4676
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1552179589
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001388
+argumentofperigree:271.6007
+nickname:STARLINK-5795
+idesg:23042BF 
+cosparid:2023-042BF
+altkm:558.77059671245
+velkms:7.5838991733101
+velkmh:27302
+onumepoch:7919
+onumnow:119017.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:52:29+00:00
+nowjuliandate:2460552.6377232
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5795
+1 56039U 23042BF  24241.16145190  .00000504  00000+0  52377-4 0  9990
+2 56039  43.0015 184.8880 0001388 271.6007  88.4676 15.02556593 79194

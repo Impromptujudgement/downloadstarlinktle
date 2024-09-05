@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45589
+launchyear:2020
+epoch:24243.17140445
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1364
+meananomly:20.1311
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2651031422
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0557
+eccentricity:3.56E-5
+argumentofperigree:339.9664
+nickname:STARLINK-1364
+idesg:20025BL 
+cosparid:2020-025BL
+altkm:547.77586991846
+velkms:7.5894402887044
+velkmh:27322
+onumepoch:24102
+onumnow:363084.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:06:49+00:00
+nowjuliandate:2460553.0283336
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1364
+1 45589U 20025BL  24243.17140445  .00007720  00000+0  53619-3 0  9993
+2 45589  53.0557  54.9257 0000356 339.9664  20.1311 15.06427904241029

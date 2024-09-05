@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55305
+launchyear:2023
+epoch:24242.43822844
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5316
+meananomly:53.5405
+meanmotion:14.9838
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.0447476535
+altitudeatperigee:567
+altitudeatapogee:576
+inclination:70.0021
+eccentricity:0.0006514
+argumentofperigree:306.5153
+nickname:STARLINK-5316
+idesg:23010AN 
+cosparid:2023-010AN
+altkm:571.64291039371
+velkms:7.5768732736718
+velkmh:27277
+onumepoch:8948
+onumnow:134085.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:31:03+00:00
+nowjuliandate:2460552.6377769
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5316
+1 55305U 23010AN  24242.43822844  .00013354  00000+0  11231-2 0  9998
+2 55305  70.0021 349.6739 0006514 306.5153  53.5405 14.98378577 89480

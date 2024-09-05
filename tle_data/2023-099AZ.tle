@@ -1,0 +1,38 @@
+date:2024-08-29T05:01:42+00:00
+validtle:1
+satid:57375
+launchyear:2023
+epoch:24241.10828264
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6363
+meananomly:95.2076
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2095440272
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.004
+eccentricity:0.000145
+argumentofperigree:264.86
+nickname:STARLINK-6363
+idesg:23099AZ 
+cosparid:2023-099AZ
+altkm:558.94224922986
+velkms:7.5837412228568
+velkmh:27301
+onumepoch:6224
+onumnow:93534.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:35:56+00:00
+nowjuliandate:2460551.7095188
+nowepochdate:24242.2095138889
+TLE:
+STARLINK-6363
+1 57375U 23099AZ  24241.10828264  .00000297  00000+0  37025-4 0  9992
+2 57375  43.0040  30.9243 0001450 264.8600  95.2076 15.02538943 62240

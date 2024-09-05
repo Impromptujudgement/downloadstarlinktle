@@ -1,0 +1,38 @@
+date:2024-08-29T07:05:49+00:00
+validtle:1
+satid:57053
+launchyear:2023
+epoch:24241.77144583
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5865
+meananomly:87.1466
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2074263679
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001132
+argumentofperigree:272.9246
+nickname:STARLINK-5865
+idesg:23088F  
+cosparid:2023-088F
+altkm:558.80946877479
+velkms:7.583885153833
+velkmh:27302
+onumepoch:6644
+onumnow:99836.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:30:53+00:00
+nowjuliandate:2460551.795707
+nowepochdate:24242.2957060185
+TLE:
+STARLINK-5865
+1 57053U 23088F   24241.77144583 -.00000198  00000+0  42365-6 0  9997
+2 57053  43.0019 259.1101 0001132 272.9246  87.1466 15.02539631 66444

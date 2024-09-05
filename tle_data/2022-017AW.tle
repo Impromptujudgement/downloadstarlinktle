@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51812
+launchyear:2022
+epoch:24242.49124019
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3610
+meananomly:278.8797
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8779255648
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001329
+argumentofperigree:81.2346
+nickname:STARLINK-3610
+idesg:22017AW 
+cosparid:2022-017AW
+altkm:540.49625053414
+velkms:7.5933800520852
+velkmh:27336
+onumepoch:14008
+onumnow:211368.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:47:23+00:00
+nowjuliandate:2460552.6379573
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3610
+1 51812U 22017AW  24242.49124019  .00000678  00000+0  60712-4 0  9993
+2 51812  53.2148 310.4803 0001329  81.2346 278.8797 15.08841481140081

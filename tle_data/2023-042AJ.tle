@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56018
+launchyear:2023
+epoch:24242.17613396
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5945
+meananomly:101.1070
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.216321779
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001028
+argumentofperigree:258.9657
+nickname:STARLINK-5945
+idesg:23042AJ 
+cosparid:2023-042AJ
+altkm:558.99467649541
+velkms:7.5836876311786
+velkmh:27301
+onumepoch:7953
+onumnow:119511.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:13:38+00:00
+nowjuliandate:2460552.6377259
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5945
+1 56018U 23042AJ  24242.17613396  .00000785  00000+0  73198-4 0  9992
+2 56018  43.0009 192.6638 0001028 258.9657 101.1070 15.02536741 79534

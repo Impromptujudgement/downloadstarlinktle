@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53139
+launchyear:2022
+epoch:24242.05101208
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4185
+meananomly:263.5150
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8533078513
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001442
+argumentofperigree:96.6006
+nickname:STARLINK-4185
+idesg:22083H  
+cosparid:2022-083H
+altkm:540.72661850757
+velkms:7.5931137974194
+velkmh:27335
+onumepoch:11766
+onumnow:177547.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:13:27+00:00
+nowjuliandate:2460552.6378763
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4185
+1 53139U 22083H   24242.05101208  .00001369  00000+0  10409-3 0  9992
+2 53139  53.2183 157.4519 0001442  96.6006 263.5150 15.08849535117666

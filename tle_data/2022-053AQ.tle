@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52694
+launchyear:2022
+epoch:24242.3739397
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4072
+meananomly:281.7285
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8815078975
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001354
+argumentofperigree:78.3859
+nickname:STARLINK-4072
+idesg:22053AQ 
+cosparid:2022-053AQ
+altkm:540.4515562209
+velkms:7.5934310564835
+velkmh:27336
+onumepoch:12661
+onumnow:191045.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:58:28+00:00
+nowjuliandate:2460552.6379027
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4072
+1 52694U 22053AQ  24242.37393970  .00000242  00000+0  33287-4 0  9997
+2 52694  53.2167 126.0068 0001354  78.3859 281.7285 15.08840309126615

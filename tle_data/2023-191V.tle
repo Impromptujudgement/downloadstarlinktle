@@ -1,0 +1,38 @@
+date:2024-08-28T08:52:44+00:00
+validtle:1
+satid:58527
+launchyear:2023
+epoch:24240.33291052
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31001
+meananomly:88.1258
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2026277825
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001184
+argumentofperigree:271.9449
+nickname:STARLINK-31001
+idesg:23191V  
+cosparid:2023-191V
+altkm:558.81685289327
+velkms:7.5838744698561
+velkmh:27302
+onumepoch:4130
+onumnow:62070.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:59:23+00:00
+nowjuliandate:2460550.8699642
+nowepochdate:24241.3699537037
+TLE:
+STARLINK-31001
+1 58527U 23191V   24240.33291052  .00001643  00000+0  13664-3 0  9996
+2 58527  43.0015 264.9295 0001184 271.9449  88.1258 15.02541190 41307

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52838
+launchyear:2022
+epoch:24242.67110744
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4092
+meananomly:1.6552
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8989611374
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2186
+eccentricity:8.54E-5
+argumentofperigree:358.4437
+nickname:STARLINK-4092
+idesg:22062J  
+cosparid:2022-062J
+altkm:540.06895866043
+velkms:7.5938604449563
+velkmh:27338
+onumepoch:12218
+onumnow:184356.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:06:24+00:00
+nowjuliandate:2460552.6378942
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4092
+1 52838U 22062J   24242.67110744 -.00000301  00000+0 -82106-6 0  9990
+2 52838  53.2186  14.6609 0000854 358.4437   1.6552 15.08834599122185

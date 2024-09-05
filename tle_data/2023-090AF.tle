@@ -1,0 +1,38 @@
+date:2024-08-29T06:47:21+00:00
+validtle:1
+satid:57130
+launchyear:2023
+epoch:24241.77997528
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6172
+meananomly:87.5375
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1910422649
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001361
+argumentofperigree:272.5312
+nickname:STARLINK-6172
+idesg:23090AF 
+cosparid:2023-090AF
+altkm:558.79180475682
+velkms:7.583895525523
+velkmh:27302
+onumepoch:6630
+onumnow:99626.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:43:10+00:00
+nowjuliandate:2460551.7828904
+nowepochdate:24242.2828819444
+TLE:
+STARLINK-6172
+1 57130U 23090AF  24241.77997528  .00002856  00000+0  22634-3 0  9997
+2 57130  43.0034  65.7981 0001361 272.5312  87.5375 15.02544954 66300

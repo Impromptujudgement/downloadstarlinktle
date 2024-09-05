@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46590
+launchyear:2020
+epoch:22105.0605314
+epochday:105
+tleage:868
+tleclassification:C
+active:0
+name:STARLINK-1754
+meananomly:28.7083
+meanmotion:16.0334
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6643.313814546
+altitudeatperigee:261
+altitudeatapogee:269
+inclination:53.0431
+eccentricity:0.0005991
+argumentofperigree:290.1139
+nickname:STARLINK-1754
+idesg:20070BL 
+cosparid:2020-070BL
+altkm:271.57087191754
+velkms:7.7461173037249
+velkmh:27886
+onumepoch:1
+onumnow:34302.96
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-15T01:27:10+00:00
+nowjuliandate:2460553.0282281
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1754
+1 46590C 20070BL  22105.06053140  .00619928  00000-0  92890-3 0  1057
+2 46590  53.0431 291.2007 0005991 290.1139  28.7083 16.03340653    12

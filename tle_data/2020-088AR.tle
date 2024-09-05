@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:05+00:00
+validtle:1
+satid:47161
+launchyear:2020
+epoch:24242.39414933
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1876
+meananomly:268.4520
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3500841739
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001364
+argumentofperigree:91.6625
+nickname:STARLINK-1876
+idesg:20088AR 
+cosparid:2020-088AR
+altkm:548.11771680091
+velkms:7.5891122497129
+velkmh:27321
+onumepoch:20823
+onumnow:313688.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:27:35+00:00
+nowjuliandate:2460552.6396442
+nowepochdate:24243.1396412037
+TLE:
+STARLINK-1876
+1 47161U 20088AR  24242.39414933 -.00001102  00000+0 -55115-4 0  9993
+2 47161  53.0534 273.4166 0001364  91.6625 268.4520 15.06400176208235

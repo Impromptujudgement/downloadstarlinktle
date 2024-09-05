@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47397
+launchyear:2021
+epoch:24242.16469814
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2119
+meananomly:280.1542
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3421216887
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0556
+eccentricity:0.0001984
+argumentofperigree:79.967
+nickname:STARLINK-2119
+idesg:21005BA 
+cosparid:2021-005BA
+altkm:547.84238661108
+velkms:7.5894095226479
+velkmh:27322
+onumepoch:19901
+onumnow:299803.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:57:10+00:00
+nowjuliandate:2460552.639579
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2119
+1 47397U 21005BA  24242.16469814  .00000547  00000+0  55654-4 0  9995
+2 47397  53.0556  44.4428 0001984  79.9670 280.1542 15.06402774199010

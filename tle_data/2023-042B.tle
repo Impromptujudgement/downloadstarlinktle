@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55987
+launchyear:2023
+epoch:24241.63961996
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5915
+meananomly:101.1429
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2186333593
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.002
+eccentricity:4.67E-5
+argumentofperigree:258.9361
+nickname:STARLINK-5915
+idesg:23042B  
+cosparid:2023-042B
+altkm:558.92229156556
+velkms:7.5837679833149
+velkmh:27302
+onumepoch:7896
+onumnow:118662.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:21:03+00:00
+nowjuliandate:2460552.6377232
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5915
+1 55987U 23042B   24241.63961996  .00001765  00000+0  14570-3 0  9995
+2 55987  43.0020 208.5320 0000467 258.9361 101.1429 15.02535990 78963

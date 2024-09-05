@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50192
+launchyear:2021
+epoch:24242.22352355
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3259
+meananomly:256.8407
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8882568781
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001669
+argumentofperigree:103.2771
+nickname:STARLINK-3259
+idesg:21125AN 
+cosparid:2021-125AN
+altkm:540.9116291669
+velkms:7.5929299354212
+velkmh:27335
+onumepoch:14948
+onumnow:225552.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:21:52+00:00
+nowjuliandate:2460552.637986
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3259
+1 50192U 21125AN  24242.22352355 -.00000232  00000+0  35356-5 0  9993
+2 50192  53.2168 221.6817 0001669 103.2771 256.8407 15.08838101149487

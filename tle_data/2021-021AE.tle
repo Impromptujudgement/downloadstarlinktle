@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:08+00:00
+validtle:1
+satid:47888
+launchyear:2021
+epoch:24242.74246676
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2348
+meananomly:270.1534
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3600020667
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001417
+argumentofperigree:89.9617
+nickname:STARLINK-2348
+idesg:21021AE 
+cosparid:2021-021AE
+altkm:548.09954265401
+velkms:7.5891375813236
+velkmh:27321
+onumepoch:19177
+onumnow:288885.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:49:09+00:00
+nowjuliandate:2460552.6382912
+nowepochdate:24243..138287037
+TLE:
+STARLINK-2348
+1 47888U 21021AE  24242.74246676 -.00000084  00000+0  13226-4 0  9997
+2 47888  53.0538 251.8558 0001417  89.9617 270.1534 15.06396940191778

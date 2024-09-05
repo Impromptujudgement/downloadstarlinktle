@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47738
+launchyear:2021
+epoch:24100.31883942
+epochday:100
+tleage:143
+tleclassification:U
+active:0
+name:STARLINK-2149
+meananomly:344.5510
+meanmotion:15.9609
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6663.4112895144
+altitudeatperigee:280
+altitudeatapogee:291
+inclination:53.0484
+eccentricity:0.0007873
+argumentofperigree:154.9148
+nickname:STARLINK-2149
+idesg:21017S  
+cosparid:2021-017S
+altkm:282.13778282847
+velkms:7.7453870336673
+velkmh:27883
+onumepoch:17281
+onumnow:278100.27
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-04-09T07:39:08+00:00
+nowjuliandate:2460552.6393315
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2149
+1 47738U 21017S   24100.31883942  .02452150  43638-2  61510-2 0  9995
+2 47738  53.0484  26.8598 0007873 154.9148 344.5510 15.96092386172810

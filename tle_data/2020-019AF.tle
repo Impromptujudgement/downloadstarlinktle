@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45389
+launchyear:2020
+epoch:24242.99543275
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1283
+meananomly:272.1953
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3812171591
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001399
+argumentofperigree:87.9196
+nickname:STARLINK-1283
+idesg:20019AF 
+cosparid:2020-019AF
+altkm:548.08614711148
+velkms:7.5891638538209
+velkmh:27321
+onumepoch:24610
+onumnow:370730.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:53:25+00:00
+nowjuliandate:2460553.0283593
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1283
+1 45389U 20019AF  24242.99543275  .00019251  00000+0  13081-2 0  9991
+2 45389  53.0527 125.7152 0001399  87.9196 272.1953 15.06390018246103

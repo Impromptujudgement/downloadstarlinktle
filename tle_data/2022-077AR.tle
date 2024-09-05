@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53082
+launchyear:2022
+epoch:24241.77357626
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4321
+meananomly:279.3455
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1460727422
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6558
+eccentricity:0.0002994
+argumentofperigree:80.8107
+nickname:STARLINK-4321
+idesg:22077AR 
+cosparid:2022-077AR
+altkm:565.72972397976
+velkms:7.5784784252468
+velkmh:27283
+onumepoch:11721
+onumnow:175983.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:33:57+00:00
+nowjuliandate:2460552.6378842
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4321
+1 53082U 22077AR  24241.77357626  .00000164  00000+0  17344-4 0  9995
+2 53082  97.6558  61.5753 0002994  80.8107 279.3455 15.01260923117211

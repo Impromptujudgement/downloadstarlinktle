@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52989
+launchyear:2022
+epoch:24241.87346135
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4293
+meananomly:266.1738
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8648708747
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2193
+eccentricity:0.0001491
+argumentofperigree:93.9424
+nickname:STARLINK-4293
+idesg:22076D  
+cosparid:2022-076D
+altkm:540.69446367671
+velkms:7.5931554113494
+velkmh:27335
+onumepoch:11849
+onumnow:178802.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:57:47+00:00
+nowjuliandate:2460552.6378886
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4293
+1 52989U 22076D   24241.87346135  .00001183  00000+0  92413-4 0  9995
+2 52989  53.2193  88.2550 0001491  93.9424 266.1738 15.08845752118493

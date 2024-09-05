@@ -1,0 +1,38 @@
+date:2024-08-27T23:25:32+00:00
+validtle:1
+satid:59534
+launchyear:2024
+epoch:24240.39812773
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31734
+meananomly:84.5331
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2146226997
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0019
+eccentricity:0.0001039
+argumentofperigree:275.5407
+nickname:STARLINK-31734
+idesg:24074A  
+cosparid:2024-074A
+altkm:443.78446683572
+velkms:7.6476933971915
+velkmh:27532
+onumepoch:2021
+onumnow:31161.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:33:18+00:00
+nowjuliandate:2460550.4760683
+nowepochdate:24241.9760648148
+TLE:
+STARLINK-31734
+1 59534U 24074A   24240.39812773  .00004649  00000+0  11854-3 0  9999
+2 59534  43.0019 284.9878 0001039 275.5407  84.5331 15.40688672 20210

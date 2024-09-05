@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50839
+launchyear:2022
+epoch:24242.47191475
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3320
+meananomly:282.1586
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8582289312
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001284
+argumentofperigree:77.955
+nickname:STARLINK-3320
+idesg:22001AN 
+cosparid:2022-001AN
+altkm:540.43142767125
+velkms:7.5934403963039
+velkmh:27336
+onumepoch:14741
+onumnow:222427.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:19:33+00:00
+nowjuliandate:2460552.6379807
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3320
+1 50839U 22001AN  24242.47191475  .00001677  00000+0  12343-3 0  9998
+2 50839  53.2152 160.5662 0001284  77.9550 282.1586 15.08847925147417

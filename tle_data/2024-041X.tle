@@ -1,0 +1,38 @@
+date:2024-08-28T06:49:07+00:00
+validtle:1
+satid:59095
+launchyear:2024
+epoch:24240.6635834
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31295
+meananomly:96.7422
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1983066308
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0035
+eccentricity:8.77E-5
+argumentofperigree:263.3329
+nickname:STARLINK-31295
+idesg:24041X  
+cosparid:2024-041X
+altkm:487.90796252042
+velkms:7.6229559072412
+velkmh:27443
+onumepoch:2882
+onumnow:43986.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:55:34+00:00
+nowjuliandate:2460550.784111
+nowepochdate:24241.2841087963
+TLE:
+STARLINK-31295
+1 59095U 24041X   24240.66358340  .00001069  00000+0  50711-4 0  9999
+2 59095  43.0035 223.6466 0000877 263.3329  96.7422 15.25908326 28825

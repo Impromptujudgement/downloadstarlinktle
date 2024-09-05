@@ -1,0 +1,38 @@
+date:2024-08-28T04:09:41+00:00
+validtle:1
+satid:58743
+launchyear:2024
+epoch:24240.09226047
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31156
+meananomly:81.0206
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2007132755
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.003
+eccentricity:7.33E-5
+argumentofperigree:279.0554
+nickname:STARLINK-31156
+idesg:24005R  
+cosparid:2024-005R
+altkm:558.76254383136
+velkms:7.5839327694549
+velkmh:27302
+onumepoch:3629
+onumnow:54543.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:12:51+00:00
+nowjuliandate:2460550.6734027
+nowepochdate:24241.1733912037
+TLE:
+STARLINK-31156
+1 58743U 24005R   24240.09226047 -.00000119  00000+0  62398-5 0  9994
+2 58743  43.0030  22.3255 0000733 279.0554  81.0206 15.02541812 36299

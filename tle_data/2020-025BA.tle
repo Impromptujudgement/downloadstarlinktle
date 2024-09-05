@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45579
+launchyear:2020
+epoch:24242.67753282
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1332
+meananomly:264.6182
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3817320608
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0558
+eccentricity:0.000269
+argumentofperigree:95.5113
+nickname:STARLINK-1332
+idesg:20025BA 
+cosparid:2020-025BA
+altkm:548.2991980626
+velkms:7.5889307459246
+velkmh:27320
+onumepoch:24211
+onumnow:364724.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:15:39+00:00
+nowjuliandate:2460553.0283367
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1332
+1 45579U 20025BA  24242.67753282  .00002045  00000+0  15620-3 0  9990
+2 45579  53.0558  17.3051 0002690  95.5113 264.6182 15.06389850242110

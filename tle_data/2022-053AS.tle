@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52696
+launchyear:2022
+epoch:24241.96545709
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4025
+meananomly:266.5277
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8553496399
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001427
+argumentofperigree:93.5878
+nickname:STARLINK-4025
+idesg:22053AS 
+cosparid:2022-053AS
+altkm:540.6754198457
+velkms:7.5931710928126
+velkmh:27335
+onumepoch:12695
+onumnow:191566.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:10:15+00:00
+nowjuliandate:2460552.6379029
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4025
+1 52696U 22053AS  24241.96545709  .00001251  00000+0  96683-4 0  9992
+2 52696  53.2149 127.8415 0001427  93.5878 266.5277 15.08848867126959

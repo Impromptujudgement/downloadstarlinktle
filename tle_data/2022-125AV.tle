@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54007
+launchyear:2022
+epoch:24242.18713246
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5132
+meananomly:263.6098
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8606589087
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.000155
+argumentofperigree:96.507
+nickname:STARLINK-5132
+idesg:22125AV 
+cosparid:2022-125AV
+altkm:540.74048836612
+velkms:7.593102603896
+velkmh:27335
+onumepoch:10535
+onumnow:158971.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:29:28+00:00
+nowjuliandate:2460552.6378075
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5132
+1 54007U 22125AV  24242.18713246  .00001575  00000+0  11698-3 0  9999
+2 54007  53.2166 196.4938 0001550  96.5070 263.6098 15.08847130105354

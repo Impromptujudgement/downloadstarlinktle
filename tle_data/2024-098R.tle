@@ -1,0 +1,38 @@
+date:2024-08-27T18:40:35+00:00
+validtle:1
+satid:59873
+launchyear:2024
+epoch:24238.48639629
+epochday:238
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31940
+meananomly:84.9641
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1409501422
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0033
+eccentricity:0.000179
+argumentofperigree:275.1011
+nickname:STARLINK-31940
+idesg:24098R  
+cosparid:2024-098R
+altkm:443.67143758445
+velkms:7.647778870368
+velkmh:27532
+onumepoch:1569
+onumnow:24209.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-25T11:40:25+00:00
+nowjuliandate:2460550.2781944
+nowepochdate:24240.7781828704
+TLE:
+STARLINK-31940
+1 59873U 24098R   24238.48639629  .00003232  00000+0  84561-4 0  9998
+2 59873  43.0033 235.3899 0001790 275.1011  84.9641 15.40713629 15691

@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:10+00:00
+validtle:1
+satid:46718
+launchyear:2020
+epoch:24241.28237556
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1821
+meananomly:269.8400
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3253141161
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001205
+argumentofperigree:90.2727
+nickname:STARLINK-1821
+idesg:20073BA 
+cosparid:2020-073BA
+altkm:548.06978583365
+velkms:7.5891512157655
+velkmh:27321
+onumepoch:21275
+onumnow:320516.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:46:37+00:00
+nowjuliandate:2460552.6403986
+nowepochdate:24243.1403935185
+TLE:
+STARLINK-1821
+1 46718U 20073BA  24241.28237556  .00001358  00000+0  11000-3 0  9990
+2 46718  53.0539 243.4455 0001205  90.2727 269.8400 15.06408258212750

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53001
+launchyear:2022
+epoch:24242.79070515
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4190
+meananomly:268.5228
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8702260106
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001533
+argumentofperigree:91.594
+nickname:STARLINK-4190
+idesg:22076R  
+cosparid:2022-076R
+altkm:540.65819057382
+velkms:7.5931981444437
+velkmh:27336
+onumepoch:11924
+onumnow:179919.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:58:37+00:00
+nowjuliandate:2460552.6378874
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4190
+1 53001U 22076R   24242.79070515  .00000920  00000+0  75909-4 0  9998
+2 53001  53.2180  74.1369 0001533  91.5940 268.5228 15.08844000119240

@@ -1,0 +1,38 @@
+date:2024-08-29T06:35:45+00:00
+validtle:1
+satid:57145
+launchyear:2023
+epoch:24241.20524336
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5768
+meananomly:93.2652
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2148166365
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.000132
+argumentofperigree:266.804
+nickname:STARLINK-5768
+idesg:23090AW 
+cosparid:2023-090AW
+altkm:558.90819200754
+velkms:7.5837813094871
+velkmh:27302
+onumepoch:6636
+onumnow:99724.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:55:33+00:00
+nowjuliandate:2460551.7748309
+nowepochdate:24242.2748263889
+TLE:
+STARLINK-5768
+1 57145U 23090AW  24241.20524336  .00001116  00000+0  97639-4 0  9990
+2 57145  43.0026  56.2022 0001320 266.8040  93.2652 15.02537230 66364

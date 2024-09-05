@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54075
+launchyear:2022
+epoch:24242.50499389
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5212
+meananomly:260.9404
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8780111495
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001265
+argumentofperigree:99.1731
+nickname:STARLINK-5212
+idesg:22136AA 
+cosparid:2022-136AA
+altkm:540.77611505488
+velkms:7.5930730144444
+velkmh:27335
+onumepoch:10328
+onumnow:155842.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:07:11+00:00
+nowjuliandate:2460552.6378035
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5212
+1 54075U 22136AA  24242.50499389 -.00000191  00000+0  61059-5 0  9993
+2 54075  53.2155 320.0349 0001265  99.1731 260.9404 15.08841453103287

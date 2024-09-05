@@ -1,0 +1,38 @@
+date:2024-08-29T05:31:07+00:00
+validtle:1
+satid:57294
+launchyear:2023
+epoch:24241.66592872
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30235
+meananomly:89.4921
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2197045051
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.003
+eccentricity:8.14E-5
+argumentofperigree:270.5828
+nickname:STARLINK-30235
+idesg:23096E  
+cosparid:2023-096E
+altkm:558.85590140798
+velkms:7.5838411100078
+velkmh:27302
+onumepoch:6257
+onumnow:94022.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:58:56+00:00
+nowjuliandate:2460551.7299533
+nowepochdate:24242.2299421296
+TLE:
+STARLINK-30235
+1 57294U 23096E   24241.66592872  .00000614  00000+0  60492-4 0  9990
+2 57294  43.0030  15.5152 0000814 270.5828  89.4921 15.02535642 62579

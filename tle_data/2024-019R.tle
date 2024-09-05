@@ -1,0 +1,38 @@
+date:2024-08-28T03:07:34+00:00
+validtle:1
+satid:58868
+launchyear:2024
+epoch:24240.49171931
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31196
+meananomly:79.8823
+meanmotion:15.2593
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1195352251
+altitudeatperigee:486
+altitudeatapogee:490
+inclination:43.0019
+eccentricity:0.0002462
+argumentofperigree:280.175
+nickname:STARLINK-31196
+idesg:24019R  
+cosparid:2024-019R
+altkm:487.4617582042
+velkms:7.623407461577
+velkmh:27444
+onumepoch:3359
+onumnow:51265.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:48:05+00:00
+nowjuliandate:2460550.6302637
+nowepochdate:24241.1302546296
+TLE:
+STARLINK-31196
+1 58868U 24019R   24240.49171931  .00001260  00000+0  57984-4 0  9993
+2 58868  43.0019 162.3770 0002462 280.1750  79.8823 15.25934585 33591

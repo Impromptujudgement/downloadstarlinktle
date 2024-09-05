@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:49+00:00
+validtle:1
+satid:48034
+launchyear:2021
+epoch:24242.46050661
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2288
+meananomly:264.0080
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3703766618
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.0001363
+argumentofperigree:96.1065
+nickname:STARLINK-2288
+idesg:21024BK 
+cosparid:2021-024BK
+altkm:548.21088430845
+velkms:7.5890212808238
+velkmh:27320
+onumepoch:19011
+onumnow:286390.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:03:08+00:00
+nowjuliandate:2460552.638074
+nowepochdate:24243.1380671296
+TLE:
+STARLINK-2288
+1 48034U 21024BK  24242.46050661  .00001236  00000+0  10187-3 0  9991
+2 48034  53.0522 313.1219 0001363  96.1065 264.0080 15.06393555190112

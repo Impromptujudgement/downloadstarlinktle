@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72335
+launchyear:2021
+epoch:21083.38128155
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2335
+meananomly:337.8585
+meanmotion:15.8562
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.7261386624
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.0504
+eccentricity:8.04E-5
+argumentofperigree:69.6311
+nickname:STARLINK-2335
+idesg:21021U  
+cosparid:2021-021U
+altkm:316.88745769612
+velkms:7.7231085563555
+velkmh:27803
+onumepoch:1
+onumnow:50117.53
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:09:03+00:00
+nowjuliandate:2460552.6397742
+nowepochdate:24243.1397685185
+TLE:
+STARLINK-2335
+1 72335C 21021U   21083.38128155 -.01036981  00000-0 -44052-2 0   834
+2 72335  53.0504 168.5682 0000804  69.6311 337.8585 15.85617297    14

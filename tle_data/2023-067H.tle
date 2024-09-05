@@ -1,0 +1,38 @@
+date:2024-08-29T09:13:28+00:00
+validtle:1
+satid:56695
+launchyear:2023
+epoch:24241.77780698
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30121
+meananomly:93.1931
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2195259808
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001282
+argumentofperigree:266.8765
+nickname:STARLINK-30121
+idesg:23067H  
+cosparid:2023-067H
+altkm:558.91032333624
+velkms:7.5837815475134
+velkmh:27302
+onumepoch:7173
+onumnow:107786.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:40:03+00:00
+nowjuliandate:2460551.8843616
+nowepochdate:24242.3843518519
+TLE:
+STARLINK-30121
+1 56695U 23067H   24241.77780698  .00001067  00000+0  94066-4 0  9996
+2 56695  43.0030  66.1442 0001282 266.8765  93.1931 15.02535700 71731

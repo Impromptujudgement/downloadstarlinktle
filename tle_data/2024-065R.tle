@@ -1,0 +1,38 @@
+date:2024-08-28T00:50:21+00:00
+validtle:1
+satid:59436
+launchyear:2024
+epoch:24240.08115185
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31700
+meananomly:284.7169
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3371977373
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1614
+eccentricity:0.0001401
+argumentofperigree:75.3991
+nickname:STARLINK-31700
+idesg:24065R  
+cosparid:2024-065R
+altkm:447.86090249583
+velkms:7.6448744598027
+velkmh:27522
+onumepoch:2312
+onumnow:35610.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:56:52+00:00
+nowjuliandate:2460550.5349691
+nowepochdate:24241.0349652778
+TLE:
+STARLINK-31700
+1 59436U 24065R   24240.08115185  .00007450  00000+0  19597-3 0  9994
+2 59436  53.1614  10.0370 0001401  75.3991 284.7169 15.39631501 23129

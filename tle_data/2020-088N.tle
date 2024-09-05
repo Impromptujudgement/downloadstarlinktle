@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47134
+launchyear:2020
+epoch:24242.37040498
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1844
+meananomly:339.8896
+meanmotion:15.1888
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6887.3564111057
+altitudeatperigee:505
+altitudeatapogee:514
+inclination:53.0473
+eccentricity:0.0006397
+argumentofperigree:20.2351
+nickname:STARLINK-1844
+idesg:20088N  
+cosparid:2020-088N
+altkm:505.9657611667
+velkms:7.6146435206749
+velkmh:27413
+onumepoch:20819
+onumnow:316227.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:53:23+00:00
+nowjuliandate:2460552.6396047
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1844
+1 47134U 20088N   24242.37040498  .00097738  00000+0  45804-2 0  9992
+2 47134  53.0473 279.5835 0006397  20.2351 339.8896 15.18882295208195

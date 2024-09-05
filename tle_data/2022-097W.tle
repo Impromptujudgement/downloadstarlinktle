@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53408
+launchyear:2022
+epoch:24242.30310427
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4491
+meananomly:284.0835
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.901550095
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2226
+eccentricity:0.0001754
+argumentofperigree:76.0352
+nickname:STARLINK-4491
+idesg:22097W  
+cosparid:2022-097W
+altkm:540.36744514091
+velkms:7.593534326774
+velkmh:27337
+onumepoch:11401
+onumnow:172034.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:16:28+00:00
+nowjuliandate:2460552.6378565
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4491
+1 53408U 22097W   24242.30310427  .00002642  00000+0  18405-3 0  9998
+2 53408  53.2226  96.3311 0001754  76.0352 284.0835 15.08833752114014

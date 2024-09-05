@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50848
+launchyear:2022
+epoch:24242.51238856
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3315
+meananomly:265.4523
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.822699542
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001631
+argumentofperigree:94.6655
+nickname:STARLINK-3315
+idesg:22001AX 
+cosparid:2022-001AX
+altkm:540.67271293456
+velkms:7.5931561844707
+velkmh:27335
+onumepoch:14746
+onumnow:222503.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:17:50+00:00
+nowjuliandate:2460552.6379784
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3315
+1 50848U 22001AX  24242.51238856  .00002469  00000+0  17306-3 0  9992
+2 50848  53.2170 160.3830 0001631  94.6655 265.4523 15.08859549147465

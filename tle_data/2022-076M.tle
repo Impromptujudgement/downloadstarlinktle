@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52997
+launchyear:2022
+epoch:24241.64609933
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4301
+meananomly:96.0528
+meanmotion:15.4352
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6813.875355097
+altitudeatperigee:433
+altitudeatapogee:438
+inclination:53.2395
+eccentricity:0.0003573
+argumentofperigree:264.0072
+nickname:STARLINK-4301
+idesg:22076M  
+cosparid:2022-076M
+altkm:436.90938540103
+velkms:7.650739718333
+velkmh:27543
+onumepoch:11951
+onumnow:184488.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:30:23+00:00
+nowjuliandate:2460552.6378874
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4301
+1 52997U 22076M   24241.64609933  .00156203  00000+0  33692-2 0  9993
+2 52997  53.2395  16.3427 0003573 264.0072  96.0528 15.43517931119519

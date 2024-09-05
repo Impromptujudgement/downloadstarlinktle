@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51892
+launchyear:2022
+epoch:24242.54000877
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3587
+meananomly:264.6006
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8902528433
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001883
+argumentofperigree:95.5201
+nickname:STARLINK-3587
+idesg:22022AS 
+cosparid:2022-022AS
+altkm:540.77359645811
+velkms:7.5930824821521
+velkmh:27335
+onumepoch:13913
+onumnow:209933.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:57:37+00:00
+nowjuliandate:2460552.6379515
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3587
+1 51892U 22022AS  24242.54000877  .00000193  00000+0  30263-4 0  9998
+2 51892  53.2186 340.2658 0001883  95.5201 264.6006 15.08837448139131

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55280
+launchyear:2023
+epoch:24242.40942545
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5331
+meananomly:96.6399
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2190354945
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0019
+eccentricity:0.0003054
+argumentofperigree:263.4412
+nickname:STARLINK-5331
+idesg:23010M  
+cosparid:2023-010M
+altkm:574.7520668243
+velkms:7.5735796637735
+velkmh:27265
+onumepoch:8899
+onumnow:133346.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:34+00:00
+nowjuliandate:2460552.6377741
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5331
+1 55280U 23010M   24242.40942545 -.00000732  00000+0 -53575-4 0  9995
+2 55280  70.0019   9.4395 0003054 263.4412  96.6399 14.98322216 88997

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52282
+launchyear:2022
+epoch:24241.8426365
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3783
+meananomly:271.7556
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8589472262
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001368
+argumentofperigree:88.3592
+nickname:STARLINK-3783
+idesg:22041X  
+cosparid:2022-041X
+altkm:540.59034720472
+velkms:7.5932664100867
+velkmh:27336
+onumepoch:13150
+onumnow:198433.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:13:24+00:00
+nowjuliandate:2460552.6379302
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3783
+1 52282U 22041X   24241.84263650  .00001300  00000+0  99714-4 0  9992
+2 52282  53.2160  83.3923 0001368  88.3592 271.7556 15.08847690131500

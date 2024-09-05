@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:09+00:00
+validtle:1
+satid:47887
+launchyear:2021
+epoch:24242.38770603
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2346
+meananomly:266.5095
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.364559528
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001378
+argumentofperigree:93.6052
+nickname:STARLINK-2346
+idesg:21021AD 
+cosparid:2021-021AD
+altkm:548.16482199441
+velkms:7.5890685607501
+velkmh:27321
+onumepoch:19158
+onumnow:288606.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:18:18+00:00
+nowjuliandate:2460552.6383027
+nowepochdate:24243.1382986111
+TLE:
+STARLINK-2346
+1 47887U 21021AD  24242.38770603  .00001305  00000+0  10652-3 0  9993
+2 47887  53.0539 263.4435 0001378  93.6052 266.5095 15.06395453191580

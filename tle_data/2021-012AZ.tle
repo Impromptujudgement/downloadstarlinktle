@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47667
+launchyear:2021
+epoch:24241.76202048
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2058
+meananomly:276.1666
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3767608115
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001401
+argumentofperigree:83.9483
+nickname:STARLINK-2058
+idesg:21012AZ 
+cosparid:2021-012AZ
+altkm:548.01466033526
+velkms:7.5892397308056
+velkmh:27321
+onumepoch:19587
+onumnow:295077.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:17:19+00:00
+nowjuliandate:2460552.6394295
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2058
+1 47667U 21012AZ  24241.76202048  .00000240  00000+0  35016-4 0  9992
+2 47667  53.0535  56.2546 0001401  83.9483 276.1666 15.06391472195874

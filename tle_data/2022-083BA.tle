@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53180
+launchyear:2022
+epoch:24242.35736165
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4258
+meananomly:278.2370
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8473108701
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001608
+argumentofperigree:81.8804
+nickname:STARLINK-4258
+idesg:22083BA 
+cosparid:2022-083BA
+altkm:540.44834816852
+velkms:7.5934158513223
+velkmh:27336
+onumepoch:11841
+onumnow:178674.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:34:36+00:00
+nowjuliandate:2460552.6378772
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4258
+1 53180U 22083BA  24242.35736165 -.00000033  00000+0  16013-4 0  9993
+2 53180  53.2157 105.9553 0001608  81.8804 278.2370 15.08851497118416

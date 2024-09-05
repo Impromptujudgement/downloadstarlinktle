@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48477
+launchyear:2021
+epoch:21151.34288411
+epochday:151
+tleage:1187
+tleclassification:C
+active:0
+name:STARLINK-2638
+meananomly:232.3290
+meanmotion:16.2333
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6588.6725468071
+altitudeatperigee:203
+altitudeatapogee:218
+inclination:53.0431
+eccentricity:0.0011114
+argumentofperigree:258.6729
+nickname:STARLINK-2638
+idesg:21040BB 
+cosparid:2021-040BB
+altkm:218.01822850279
+velkms:7.7780587941777
+velkmh:28001
+onumepoch:1
+onumnow:50206.21
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-05-31T08:13:45+00:00
+nowjuliandate:2460552.6392886
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2638
+1 48477C 21040BB  21151.34288411  .01702014  00000-0  64409-3 0  1519
+2 48477  53.0431 109.5511 0011114 258.6729 232.3290 16.23327218    14

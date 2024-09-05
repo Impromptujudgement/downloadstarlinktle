@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:37+00:00
+validtle:1
+satid:47743
+launchyear:2021
+epoch:24241.56204114
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2157
+meananomly:270.4575
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3085403584
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001552
+argumentofperigree:89.6592
+nickname:STARLINK-2157
+idesg:21017X  
+cosparid:2021-017X
+altkm:548.04199508817
+velkms:7.58917249005
+velkmh:27321
+onumepoch:19311
+onumnow:290927.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:29:20+00:00
+nowjuliandate:2460552.6393258
+nowepochdate:24243.1393171296
+TLE:
+STARLINK-2157
+1 47743U 21017X   24241.56204114  .00003932  00000+0  28262-3 0  9991
+2 47743  53.0523 187.1494 0001552  89.6592 270.4575 15.06413731193117

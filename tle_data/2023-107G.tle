@@ -1,0 +1,38 @@
+date:2024-08-28T22:57:52+00:00
+validtle:1
+satid:57463
+launchyear:2023
+epoch:24241.41080748
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30091
+meananomly:90.0236
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2110522448
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0048
+eccentricity:0.0001098
+argumentofperigree:270.048
+nickname:STARLINK-30091
+idesg:23107G  
+cosparid:2023-107G
+altkm:558.85280798091
+velkms:7.5838397747741
+velkmh:27302
+onumepoch:6113
+onumnow:91858.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:51:34+00:00
+nowjuliandate:2460551.4568544
+nowepochdate:24241.9568518519
+TLE:
+STARLINK-30091
+1 57463U 23107G   24241.41080748  .00000804  00000+0  74593-4 0  9996
+2 57463  43.0048 132.5104 0001098 270.0480  90.0236 15.02538453 61138

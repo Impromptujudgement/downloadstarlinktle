@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52097
+launchyear:2022
+epoch:22106.1457172
+epochday:106
+tleage:867
+tleclassification:C
+active:0
+name:STARLINK-3676
+meananomly:206.8770
+meanmotion:16.1025
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6624.2898265085
+altitudeatperigee:241
+altitudeatapogee:251
+inclination:53.2096
+eccentricity:0.0007761
+argumentofperigree:271.2505
+nickname:STARLINK-3676
+idesg:22029K  
+cosparid:2022-029K
+altkm:255.42620043111
+velkms:7.7568255317584
+velkmh:27925
+onumepoch:1
+onumnow:34427.07
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-16T03:29:50+00:00
+nowjuliandate:2460552.637938
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3676
+1 52097C 22029K   22106.14571720  .04106175  00000-0  31797-2 0  1069
+2 52097  53.2096   2.3880 0007761 271.2505 206.8770 16.10252448    18

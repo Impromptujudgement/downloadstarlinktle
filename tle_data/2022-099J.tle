@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53473
+launchyear:2022
+epoch:24241.29928397
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4383
+meananomly:120.4785
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1494910845
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6575
+eccentricity:0.000325
+argumentofperigree:239.6118
+nickname:STARLINK-4383
+idesg:22099J  
+cosparid:2022-099J
+altkm:567.21501734394
+velkms:7.5768588074392
+velkmh:27277
+onumepoch:11220
+onumnow:168468.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:10:58+00:00
+nowjuliandate:2460552.6378526
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4383
+1 53473U 22099J   24241.29928397  .00001960  00000+0  15718-3 0  9996
+2 53473  97.6575   1.0966 0003250 239.6118 120.4785 15.01259814112204

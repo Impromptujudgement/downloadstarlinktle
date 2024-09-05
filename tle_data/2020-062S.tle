@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46341
+launchyear:2020
+epoch:24242.55219198
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1760
+meananomly:273.2415
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3342143935
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0519
+eccentricity:0.0001143
+argumentofperigree:86.8705
+nickname:STARLINK-1760
+idesg:20062S  
+cosparid:2020-062S
+altkm:548.0313697694
+velkms:7.5891981657165
+velkmh:27321
+onumepoch:22080
+onumnow:332629.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:15:09+00:00
+nowjuliandate:2460553.0282349
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1760
+1 46341U 20062S   24242.55219198  .00018149  00000+0  12340-2 0  9996
+2 46341  53.0519 337.7090 0001143  86.8705 273.2415 15.06405354220804

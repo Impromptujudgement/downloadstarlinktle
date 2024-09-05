@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46149
+launchyear:2020
+epoch:24074.88266442
+epochday:74
+tleage:169
+tleclassification:U
+active:0
+name:STARLINK-1620
+meananomly:251.7134
+meanmotion:15.0676
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6924.2539927753
+altitudeatperigee:545
+altitudeatapogee:547
+inclination:53.0541
+eccentricity:0.0001202
+argumentofperigree:108.3986
+nickname:STARLINK-1620
+idesg:20057AJ 
+cosparid:2020-057AJ
+altkm:547.25742394291
+velkms:7.5894554706475
+velkmh:27322
+onumepoch:19837
+onumnow:301428.68
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-03-14T21:11:02+00:00
+nowjuliandate:2460553.0282885
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1620
+1 46149U 20057AJ  24074.88266442  .00028028  00000+0  18749-2 0  9995
+2 46149  53.0541 310.3833 0001202 108.3986 251.7134 15.06757879198371

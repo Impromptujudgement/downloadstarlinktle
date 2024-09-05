@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47750
+launchyear:2021
+epoch:24242.5388246
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2164
+meananomly:268.3311
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3716363272
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0519
+eccentricity:0.0001504
+argumentofperigree:91.7851
+nickname:STARLINK-2164
+idesg:21017AE 
+cosparid:2021-017AE
+altkm:548.14394001522
+velkms:7.5890953049983
+velkmh:27321
+onumepoch:19326
+onumnow:291134.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:55:54+00:00
+nowjuliandate:2460552.6393937
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2164
+1 47750U 21017AE  24242.53882460  .00006764  00000+0  47262-3 0  9990
+2 47750  53.0519 182.7643 0001504  91.7851 268.3311 15.06393144193261

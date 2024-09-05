@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55487
+launchyear:2023
+epoch:24242.41352657
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5701
+meananomly:84.3069
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1943326208
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0024
+eccentricity:0.000119
+argumentofperigree:275.7638
+nickname:STARLINK-5701
+idesg:23015AQ 
+cosparid:2023-015AQ
+altkm:558.75363442787
+velkms:7.583939027006
+velkmh:27302
+onumepoch:8677
+onumnow:130386.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:55:29+00:00
+nowjuliandate:2460552.6377579
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5701
+1 55487U 23015AQ  24242.41352657  .00001452  00000+0  12249-3 0  9999
+2 55487  43.0024 127.1978 0001190 275.7638  84.3069 15.02543885 86777

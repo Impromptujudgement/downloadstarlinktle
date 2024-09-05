@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53797
+launchyear:2022
+epoch:24242.35456471
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4723
+meananomly:267.8193
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8645071415
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001394
+argumentofperigree:92.2959
+nickname:STARLINK-4723
+idesg:22111AA 
+cosparid:2022-111AA
+altkm:540.66159737036
+velkms:7.5931912743639
+velkmh:27335
+onumepoch:10875
+onumnow:164098.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:30:34+00:00
+nowjuliandate:2460552.6378266
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4723
+1 53797U 22111AA  24242.35456471 -.00000108  00000+0  11299-4 0  9992
+2 53797  53.2161 255.6622 0001394  92.2959 267.8193 15.08845871108756

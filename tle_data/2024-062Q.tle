@@ -1,0 +1,38 @@
+date:2024-08-28T01:24:01+00:00
+validtle:1
+satid:59388
+launchyear:2024
+epoch:24239.99967371
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31643
+meananomly:264.8616
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3620970841
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1623
+eccentricity:0.0001859
+argumentofperigree:95.2601
+nickname:STARLINK-31643
+idesg:24062Q  
+cosparid:2024-062Q
+altkm:448.24255969145
+velkms:7.6444610455987
+velkmh:27520
+onumepoch:2390
+onumnow:36813.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T23:59:32+00:00
+nowjuliandate:2460550.5583453
+nowepochdate:24241.0583449074
+TLE:
+STARLINK-31643
+1 59388U 24062Q   24239.99967371  .00001926  00000+0  58128-4 0  9993
+2 59388  53.1623 340.8191 0001859  95.2601 264.8616 15.39623076 23906

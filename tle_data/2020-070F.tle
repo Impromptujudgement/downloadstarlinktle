@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46537
+launchyear:2020
+epoch:24243.04058344
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1672
+meananomly:274.7438
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3554384831
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001243
+argumentofperigree:85.3693
+nickname:STARLINK-1672
+idesg:20070F  
+cosparid:2020-070F
+altkm:548.02631679756
+velkms:7.5892153044836
+velkmh:27321
+onumepoch:21531
+onumnow:324349.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:58:26+00:00
+nowjuliandate:2460553.0282283
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1672
+1 46537U 20070F   24243.04058344  .00031987  00000+0  21567-2 0  9997
+2 46537  53.0532 155.5095 0001243  85.3693 274.7438 15.06398429215313

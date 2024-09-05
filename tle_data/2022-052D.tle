@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52601
+launchyear:2022
+epoch:24242.32287714
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4027
+meananomly:276.6919
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8576481822
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001328
+argumentofperigree:83.4225
+nickname:STARLINK-4027
+idesg:22052D  
+cosparid:2022-052D
+altkm:540.51089811829
+velkms:7.5933528762861
+velkmh:27336
+onumepoch:12708
+onumnow:191756.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:44:57+00:00
+nowjuliandate:2460552.6379073
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4027
+1 52601U 22052D   24242.32287714  .00000733  00000+0  64147-4 0  9991
+2 52601  53.2154 261.2373 0001328  83.4225 276.6919 15.08848115127087

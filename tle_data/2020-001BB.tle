@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:35+00:00
+validtle:1
+satid:44963
+launchyear:2020
+epoch:23053.52153449
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1085
+meananomly:80.2476
+meanmotion:15.4471
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6810.3808309136
+altitudeatperigee:427
+altitudeatapogee:437
+inclination:52.9707
+eccentricity:0.0007168
+argumentofperigree:279.7719
+nickname:STARLINK-1085
+idesg:20001BB 
+cosparid:2020-001BB
+altkm:432.30516287513
+velkms:7.6539519539292
+velkmh:27554
+onumepoch:17423
+onumnow:287516.27
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T12:31:01+00:00
+nowjuliandate:2460553.0295753
+nowepochdate:24243.5295717593
+TLE:
+STARLINK-1085
+1 44963U 20001BB  23053.52153449  .00197939  00000+0  40736-2 0  9994
+2 44963  52.9707 210.7021 0007168 279.7719  80.2476 15.44706092174237

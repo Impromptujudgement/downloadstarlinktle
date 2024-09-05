@@ -1,0 +1,38 @@
+date:2024-08-28T01:33:06+00:00
+validtle:1
+satid:59376
+launchyear:2024
+epoch:24240.00930403
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31695
+meananomly:262.6373
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3828176514
+altitudeatperigee:446
+altitudeatapogee:449
+inclination:53.1613
+eccentricity:0.0001905
+argumentofperigree:97.4848
+nickname:STARLINK-31695
+idesg:24062C  
+cosparid:2024-062C
+altkm:448.31616748044
+velkms:7.6443902098856
+velkmh:27520
+onumepoch:2386
+onumnow:36751.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:13:24+00:00
+nowjuliandate:2460550.5646569
+nowepochdate:24241.0646527778
+TLE:
+STARLINK-31695
+1 59376U 24062C   24240.00930403  .00000134  00000+0  13340-4 0  9997
+2 59376  53.1613 340.8847 0001905  97.4848 262.6373 15.39616065 23860

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54804
+launchyear:2022
+epoch:24241.66501701
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5422
+meananomly:273.2614
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8653996633
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001159
+argumentofperigree:86.8511
+nickname:STARLINK-5422
+idesg:22175AY 
+cosparid:2022-175AY
+altkm:540.58018275219
+velkms:7.5932810964916
+velkmh:27336
+onumepoch:9589
+onumnow:144705.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:57:37+00:00
+nowjuliandate:2460552.6377884
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5422
+1 54804U 22175AY  24241.66501701  .00001505  00000+0  11258-3 0  9997
+2 54804  53.2165  13.7107 0001159  86.8511 273.2614 15.08845579 95897

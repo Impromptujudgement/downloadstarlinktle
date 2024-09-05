@@ -1,0 +1,38 @@
+date:2024-08-28T08:15:40+00:00
+validtle:1
+satid:58535
+launchyear:2023
+epoch:24240.05137778
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31032
+meananomly:282.8628
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3717838238
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.161
+eccentricity:0.0001193
+argumentofperigree:77.2508
+nickname:STARLINK-31032
+idesg:23192E  
+cosparid:2023-192E
+altkm:463.95452408047
+velkms:7.6358292658678
+velkmh:27489
+onumepoch:4029
+onumnow:61828.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:13:59+00:00
+nowjuliandate:2460550.8442172
+nowepochdate:24241..344212963
+TLE:
+STARLINK-31032
+1 58535U 23192E   24240.05137778  .00001681  00000+0  61199-4 0  9998
+2 58535  53.1610 142.8179 0001193  77.2508 282.8628 15.34221866 40298

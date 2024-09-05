@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:37+00:00
+validtle:1
+satid:47742
+launchyear:2021
+epoch:24242.13337216
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2156
+meananomly:267.5793
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3172812113
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001211
+argumentofperigree:92.5335
+nickname:STARLINK-2156
+idesg:21017W  
+cosparid:2021-017W
+altkm:548.09470260591
+velkms:7.5891195279021
+velkmh:27321
+onumepoch:19320
+onumnow:291053.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:12:03+00:00
+nowjuliandate:2460552.639327
+nowepochdate:24243.1393171296
+TLE:
+STARLINK-2156
+1 47742U 21017W   24242.13337216  .00003288  00000+0  23946-3 0  9992
+2 47742  53.0526 184.5840 0001211  92.5335 267.5793 15.06410879193204

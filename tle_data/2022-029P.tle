@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52101
+launchyear:2022
+epoch:24242.79302846
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3703
+meananomly:264.3425
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8692479028
+altitudeatperigee:538
+altitudeatapogee:542
+inclination:53.209
+eccentricity:0.0002985
+argumentofperigree:95.7908
+nickname:STARLINK-3703
+idesg:22029P  
+cosparid:2022-029P
+altkm:540.83292654776
+velkms:7.5930058797888
+velkmh:27335
+onumepoch:13657
+onumnow:206068.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:01:58+00:00
+nowjuliandate:2460552.6379373
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3703
+1 52101U 22029P   24242.79302846  .00001404  00000+0  10632-3 0  9990
+2 52101  53.2090  69.3177 0002985  95.7908 264.3425 15.08844320136578

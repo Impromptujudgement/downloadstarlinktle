@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45586
+launchyear:2020
+epoch:24242.76227412
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1347
+meananomly:271.3229
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2745364966
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.051
+eccentricity:0.0002065
+argumentofperigree:88.7996
+nickname:STARLINK-1347
+idesg:20025BH 
+cosparid:2020-025BH
+altkm:547.98355967259
+velkms:7.5892179163065
+velkmh:27321
+onumepoch:24155
+onumnow:363888.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:17:40+00:00
+nowjuliandate:2460553.0283346
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1347
+1 45586U 20025BH  24242.76227412  .00007680  00000+0  53356-3 0  9997
+2 45586  53.0510  56.7622 0002065  88.7996 271.3229 15.06424826241553

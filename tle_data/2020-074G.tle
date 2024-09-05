@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46745
+launchyear:2020
+epoch:22326.14493056
+epochday:326
+tleage:647
+tleclassification:C
+active:0
+name:STARLINK-1898
+meananomly:251.2342
+meanmotion:15.9321
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6671.4548071359
+altitudeatperigee:289
+altitudeatapogee:298
+inclination:53.0396
+eccentricity:0.000659
+argumentofperigree:172.973
+nickname:STARLINK-1898
+idesg:20074G  
+cosparid:2020-074G
+altkm:299.6369421168
+velkms:7.7330362795375
+velkmh:27839
+onumepoch:1
+onumnow:30556.83
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-11-22T03:28:42+00:00
+nowjuliandate:2460552.6396933
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1898
+1 46745C 20074G   22326.14493056  .01185680  00000-0  30610-2 0  3261
+2 46745  53.0396 207.0653 0006590 172.9730 251.2342 15.93206735    17

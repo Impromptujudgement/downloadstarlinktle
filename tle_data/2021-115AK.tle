@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49757
+launchyear:2021
+epoch:24241.93927301
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3197
+meananomly:283.0285
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8252028452
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001401
+argumentofperigree:77.0863
+nickname:STARLINK-3197
+idesg:21115AK 
+cosparid:2021-115AK
+altkm:540.36715334457
+velkms:7.5934928407977
+velkmh:27337
+onumepoch:15147
+onumnow:228564.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:32:33+00:00
+nowjuliandate:2460552.6379928
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3197
+1 49757U 21115AK  24241.93927301  .00004259  00000+0  28540-3 0  9990
+2 49757  53.2164 122.9721 0001401  77.0863 283.0285 15.08858730151477

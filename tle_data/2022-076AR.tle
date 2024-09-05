@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53025
+launchyear:2022
+epoch:24242.77690849
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4218
+meananomly:278.1793
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8937037576
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.00016
+argumentofperigree:81.9381
+nickname:STARLINK-4218
+idesg:22076AR 
+cosparid:2022-076AR
+altkm:540.49664044295
+velkms:7.5933882641872
+velkmh:27336
+onumepoch:11938
+onumnow:180130.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:38:45+00:00
+nowjuliandate:2460552.6378904
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4218
+1 53025U 22076AR  24242.77690849 -.00000524  00000+0 -14849-4 0  9998
+2 53025  53.2159  64.2015 0001600  81.9381 278.1793 15.08836319119380

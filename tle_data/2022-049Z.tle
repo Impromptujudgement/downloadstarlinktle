@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52474
+launchyear:2022
+epoch:24241.71939668
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3855
+meananomly:266.6863
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8625295343
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001141
+argumentofperigree:93.4259
+nickname:STARLINK-3855
+idesg:22049Z  
+cosparid:2022-049Z
+altkm:540.6687605826
+velkms:7.5931823318419
+velkmh:27335
+onumepoch:12815
+onumnow:193380.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:15:56+00:00
+nowjuliandate:2460552.6379175
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3855
+1 52474U 22049Z   24241.71939668  .00001106  00000+0  87565-4 0  9993
+2 52474  53.2184  33.9573 0001141  93.4259 266.6863 15.08846518128156

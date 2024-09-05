@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50811
+launchyear:2022
+epoch:24241.46175816
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3347
+meananomly:272.2567
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8384468544
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001193
+argumentofperigree:87.8561
+nickname:STARLINK-3347
+idesg:22001J  
+cosparid:2022-001J
+altkm:540.56641968506
+velkms:7.5932814395588
+velkmh:27336
+onumepoch:14627
+onumnow:220723.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:04:56+00:00
+nowjuliandate:2460552.6379778
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3347
+1 50811U 22001J   24241.46175816 -.00001736  00000+0 -90945-4 0  9990
+2 50811  53.2170 145.1408 0001193  87.8561 272.2567 15.08854397146278

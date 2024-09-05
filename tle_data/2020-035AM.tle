@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45692
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1416
+meananomly:228.5642
+meanmotion:15.7822
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6713.6233219622
+altitudeatperigee:335
+altitudeatapogee:336
+inclination:53.0531
+eccentricity:9.35E-5
+argumentofperigree:59.4585
+nickname:STARLINK-1416
+idesg:20035AM 
+cosparid:2020-035AM
+altkm:352.97729009277
+velkms:7.6966907868136
+velkmh:27708
+onumepoch:584
+onumnow:9225.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283242
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1416
+1 45692U 20035AM  24243.00001157  .00612875  00000+0  32619-2 0  9996
+2 45692  53.0531  19.4259 0000935  59.4585 228.5642 15.78219845  5844

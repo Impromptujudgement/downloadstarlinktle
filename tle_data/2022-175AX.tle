@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54803
+launchyear:2022
+epoch:24242.67750418
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5430
+meananomly:259.8947
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9040015069
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2192
+eccentricity:0.0001304
+argumentofperigree:100.2192
+nickname:STARLINK-5430
+idesg:22175AX 
+cosparid:2022-175AX
+altkm:540.82298451894
+velkms:7.5930358203855
+velkmh:27335
+onumepoch:9367
+onumnow:141339.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:15:36+00:00
+nowjuliandate:2460552.6377884
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5430
+1 54803U 22175AX  24242.67750418 -.00001122  00000+0 -52419-4 0  9991
+2 54803  53.2192  24.3089 0001304 100.2192 259.8947 15.08832950 93673

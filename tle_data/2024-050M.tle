@@ -1,0 +1,38 @@
+date:2024-08-28T05:35:14+00:00
+validtle:1
+satid:59265
+launchyear:2024
+epoch:24240.31904314
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31646
+meananomly:266.6108
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.368675481
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1618
+eccentricity:0.0001449
+argumentofperigree:93.5059
+nickname:STARLINK-31646
+idesg:24050M  
+cosparid:2024-050M
+altkm:476.1903735053
+velkms:7.6288659795826
+velkmh:27464
+onumepoch:2490
+onumnow:38115.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T07:39:25+00:00
+nowjuliandate:2460550.7328025
+nowepochdate:24241.2328009259
+TLE:
+STARLINK-31646
+1 59265U 24050M   24240.31904314  .00001379  00000+0  58676-4 0  9990
+2 59265  53.1618 259.4085 0001449  93.5059 266.6108 15.30195123 24909

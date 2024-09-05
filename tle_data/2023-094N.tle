@@ -1,0 +1,38 @@
+date:2024-08-29T05:42:29+00:00
+validtle:1
+satid:57230
+launchyear:2023
+epoch:24241.56146913
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6250
+meananomly:85.7287
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.203975941
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43
+eccentricity:0.0001104
+argumentofperigree:274.343
+nickname:STARLINK-6250
+idesg:23094N  
+cosparid:2023-094N
+altkm:558.78784335811
+velkms:7.5839069026105
+velkmh:27302
+onumepoch:6316
+onumnow:94910.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:28:31+00:00
+nowjuliandate:2460551.7378369
+nowepochdate:24242.2378356481
+TLE:
+STARLINK-6250
+1 57230U 23094N   24241.56146913  .00001112  00000+0  97378-4 0  9995
+2 57230  43.0000 182.9852 0001104 274.3430  85.7287 15.02540752 63164

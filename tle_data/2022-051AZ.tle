@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52583
+launchyear:2022
+epoch:24242.32656056
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3895
+meananomly:274.8615
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.853628791
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001766
+argumentofperigree:85.2579
+nickname:STARLINK-3895
+idesg:22051AZ 
+cosparid:2022-051AZ
+altkm:540.51066895621
+velkms:7.5933509272544
+velkmh:27336
+onumepoch:12751
+onumnow:192405.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:50:15+00:00
+nowjuliandate:2460552.6379144
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3895
+1 52583U 22051AZ  24242.32656056  .00001219  00000+0  94626-4 0  9993
+2 52583  53.2170 101.2216 0001766  85.2579 274.8615 15.08849430127513

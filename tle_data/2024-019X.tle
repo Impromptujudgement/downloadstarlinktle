@@ -1,0 +1,38 @@
+date:2024-08-28T03:03:30+00:00
+validtle:1
+satid:58874
+launchyear:2024
+epoch:24240.48493856
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30945
+meananomly:72.3850
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1488158818
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0036
+eccentricity:0.0001359
+argumentofperigree:287.6853
+nickname:STARLINK-30945
+idesg:24019X  
+cosparid:2024-019X
+altkm:487.50551611539
+velkms:7.6233751080511
+velkmh:27444
+onumepoch:3361
+onumnow:51296.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:38:19+00:00
+nowjuliandate:2460550.6274312
+nowepochdate:24241.1274305556
+TLE:
+STARLINK-30945
+1 58874U 24019X   24240.48493856  .00002681  00000+0  11223-3 0  9995
+2 58874  43.0036 162.3146 0001359 287.6853  72.3850 15.25924824 33610

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55468
+launchyear:2023
+epoch:24241.92513719
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5672
+meananomly:98.7888
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2051948246
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.999
+eccentricity:0.0001147
+argumentofperigree:261.2824
+nickname:STARLINK-5672
+idesg:23015V  
+cosparid:2023-015V
+altkm:558.96756156138
+velkms:7.5837111933981
+velkmh:27301
+onumepoch:8685
+onumnow:130513.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:12:12+00:00
+nowjuliandate:2460552.637754
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5672
+1 55468U 23015V   24241.92513719  .00001247  00000+0  10736-3 0  9992
+2 55468  42.9990 116.5619 0001147 261.2824  98.7888 15.02540356 86856

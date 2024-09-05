@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56703
+launchyear:2023
+epoch:24241.23266442
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-30132
+meananomly:91.2275
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1893401459
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0051
+eccentricity:0.0001444
+argumentofperigree:268.8402
+nickname:STARLINK-30132
+idesg:23067R  
+cosparid:2023-067R
+altkm:558.85232667606
+velkms:7.5838284668768
+velkmh:27302
+onumepoch:7165
+onumnow:107686.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:35:02+00:00
+nowjuliandate:2460552.6376959
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-30132
+1 56703U 23067R   24241.23266442  .00005455  00000+0  41847-3 0  9996
+2 56703  43.0051  68.9413 0001444 268.8402  91.2275 15.02545507 71659

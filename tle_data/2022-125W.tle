@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53984
+launchyear:2022
+epoch:24242.56623281
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5142
+meananomly:263.9220
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8567953983
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.000152
+argumentofperigree:96.1945
+nickname:STARLINK-5142
+idesg:22125W  
+cosparid:2022-125W
+altkm:540.72863178924
+velkms:7.5931134978875
+velkmh:27335
+onumepoch:10542
+onumnow:159071.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:35:23+00:00
+nowjuliandate:2460552.6378041
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5142
+1 53984U 22125W   24242.56623281  .00001162  00000+0  91052-4 0  9998
+2 53984  53.2168 195.2999 0001520  96.1945 263.9220 15.08848394105428

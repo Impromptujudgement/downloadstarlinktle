@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45365
+launchyear:2020
+epoch:23053.36355097
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1317
+meananomly:313.4761
+meanmotion:15.1405
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6902.0182038281
+altitudeatperigee:521
+altitudeatapogee:526
+inclination:52.9947
+eccentricity:0.0003679
+argumentofperigree:46.6537
+nickname:STARLINK-1317
+idesg:20019F  
+cosparid:2020-019F
+altkm:523.01026191024
+velkms:7.6039042093275
+velkmh:27374
+onumepoch:16248
+onumnow:264021.68
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T08:43:31+00:00
+nowjuliandate:2460553.02835
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1317
+1 45365U 20019F   23053.36355097  .00045430  00000+0  24707-2 0  9993
+2 45365  52.9947  92.0332 0003679  46.6537 313.4761 15.14045078162487

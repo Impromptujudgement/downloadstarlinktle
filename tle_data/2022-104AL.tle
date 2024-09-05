@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53622
+launchyear:2022
+epoch:24242.63057398
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4568
+meananomly:262.9898
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8794844291
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001353
+argumentofperigree:97.1248
+nickname:STARLINK-4568
+idesg:22104AL 
+cosparid:2022-104AL
+altkm:540.75417823975
+velkms:7.5930978914277
+velkmh:27335
+onumepoch:11097
+onumnow:167443.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:08:02+00:00
+nowjuliandate:2460552.6378434
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4568
+1 53622U 22104AL  24242.63057398  .00000999  00000+0  80871-4 0  9996
+2 53622  53.2168 214.4588 0001353  97.1248 262.9898 15.08840971110975

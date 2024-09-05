@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56128
+launchyear:2023
+epoch:24242.44205453
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6122
+meananomly:73.1622
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1723682606
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001004
+argumentofperigree:286.9111
+nickname:STARLINK-6122
+idesg:23046AM 
+cosparid:2023-046AM
+altkm:558.6116272079
+velkms:7.5840822275597
+velkmh:27303
+onumepoch:7892
+onumnow:118591.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:36:34+00:00
+nowjuliandate:2460552.6377184
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6122
+1 56128U 23046AM  24242.44205453  .00002428  00000+0  19467-3 0  9993
+2 56128  43.0009 294.2341 0001004 286.9111  73.1622 15.02551021 78927

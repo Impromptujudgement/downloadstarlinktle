@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51737
+launchyear:2022
+epoch:24242.44432574
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3509
+meananomly:273.5552
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8975734327
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2146
+eccentricity:0.000168
+argumentofperigree:86.5632
+nickname:STARLINK-3509
+idesg:22016Z  
+cosparid:2022-016Z
+altkm:540.58580377871
+velkms:7.5932925461934
+velkmh:27336
+onumepoch:14049
+onumnow:211986.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:39:50+00:00
+nowjuliandate:2460552.6379594
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3509
+1 51737U 22016Z   24242.44432574 -.00000805  00000+0 -32515-4 0  9995
+2 51737  53.2146 300.6935 0001680  86.5632 273.5552 15.08835053140492

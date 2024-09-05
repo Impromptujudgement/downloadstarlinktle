@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47654
+launchyear:2021
+epoch:24242.77196091
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2038
+meananomly:267.0409
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3826699177
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.061
+eccentricity:0.0002293
+argumentofperigree:93.0843
+nickname:STARLINK-2038
+idesg:21012AL 
+cosparid:2021-012AL
+altkm:548.20779207199
+velkms:7.589031390785
+velkmh:27321
+onumepoch:19552
+onumnow:294534.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:31:37+00:00
+nowjuliandate:2460552.6394412
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2038
+1 47654U 21012AL  24242.77196091 -.00003562  00000+0 -22039-3 0  9992
+2 47654  53.0610  51.7172 0002293  93.0843 267.0409 15.06389544195524

@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:00+00:00
+validtle:1
+satid:47907
+launchyear:2021
+epoch:24242.38401762
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2367
+meananomly:275.7644
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3666712258
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001485
+argumentofperigree:84.3514
+nickname:STARLINK-2367
+idesg:21021AZ 
+cosparid:2021-021AZ
+altkm:548.00559136354
+velkms:7.5892441501567
+velkmh:27321
+onumepoch:19157
+onumnow:288591.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:12:59+00:00
+nowjuliandate:2460552.6381955
+nowepochdate:24243.1381944444
+TLE:
+STARLINK-2367
+1 47907U 21021AZ  24242.38401762  .00000814  00000+0  73574-4 0  9990
+2 47907  53.0541 263.4629 0001485  84.3514 275.7644 15.06394764191575

@@ -1,0 +1,38 @@
+date:2024-08-27T20:01:56+00:00
+validtle:1
+satid:59789
+launchyear:2024
+epoch:24240.45684888
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31863
+meananomly:74.5417
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.195446448
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0001
+eccentricity:9.25E-5
+argumentofperigree:285.5338
+nickname:STARLINK-31863
+idesg:24093H  
+cosparid:2024-093H
+altkm:443.66440939311
+velkms:7.6478171980881
+velkmh:27532
+onumepoch:1692
+onumnow:26074.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:57:52+00:00
+nowjuliandate:2460550.3346772
+nowepochdate:24240.8346759259
+TLE:
+STARLINK-31863
+1 59789U 24093H   24240.45684888  .00001042  00000+0  32210-4 0  9997
+2 59789  43.0001 148.3003 0000925 285.5338  74.5417 15.40695168 16928

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56322
+launchyear:2023
+epoch:24241.72822414
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6033
+meananomly:287.0167
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.120301227
+altitudeatperigee:559
+altitudeatapogee:567
+inclination:97.6523
+eccentricity:0.0005119
+argumentofperigree:73.1619
+nickname:STARLINK-6033
+idesg:23058F  
+cosparid:2023-058F
+altkm:565.00259273077
+velkms:7.5792583020965
+velkmh:27285
+onumepoch:7406
+onumnow:111205.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:28:39+00:00
+nowjuliandate:2460552.6377076
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6033
+1 56322U 23058F   24241.72822414  .00001704  00000+0  13716-3 0  9991
+2 56322  97.6523 241.4624 0005119  73.1619 287.0167 15.01269284 74064

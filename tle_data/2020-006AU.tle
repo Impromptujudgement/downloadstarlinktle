@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:59+00:00
+validtle:1
+satid:45086
+launchyear:2020
+epoch:23053.55314151
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1181
+meananomly:358.5323
+meanmotion:15.3822
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6829.5178819039
+altitudeatperigee:448
+altitudeatapogee:455
+inclination:52.9749
+eccentricity:0.0004817
+argumentofperigree:1.5693
+nickname:STARLINK-1181
+idesg:20006AU 
+cosparid:2020-006AU
+altkm:448.97505828992
+velkms:7.6459613739037
+velkmh:27525
+onumepoch:16999
+onumnow:279786.09
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T13:16:31+00:00
+nowjuliandate:2460553.028462
+nowepochdate:24243.5284606481
+TLE:
+STARLINK-1181
+1 45086U 20006AU  23053.55314151  .00059828  00000+0  15633-2 0  9990
+2 45086  52.9749 153.3593 0004817   1.5693 358.5323 15.38217991169993

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46081
+launchyear:2020
+epoch:24242.2775847
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1571
+meananomly:271.8705
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3251884582
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001686
+argumentofperigree:88.2477
+nickname:STARLINK-1571
+idesg:20055BG 
+cosparid:2020-055BG
+altkm:548.02920881026
+velkms:7.5891955989878
+velkmh:27321
+onumepoch:22528
+onumnow:339374.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:39:43+00:00
+nowjuliandate:2460553.0282939
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1571
+1 46081U 20055BG  24242.27758470  .00009142  00000+0  63166-3 0  9995
+2 46081  53.0529  78.9410 0001686  88.2477 271.8705 15.06408299225284

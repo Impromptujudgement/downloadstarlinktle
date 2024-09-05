@@ -1,0 +1,38 @@
+date:2024-08-28T20:46:01+00:00
+validtle:1
+satid:57814
+launchyear:2023
+epoch:24241.12050989
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30413
+meananomly:88.3178
+meanmotion:15.0251
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2897023135
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0132
+eccentricity:0.0001093
+argumentofperigree:271.7539
+nickname:STARLINK-30413
+idesg:23138G  
+cosparid:2023-138G
+altkm:558.90981368971
+velkms:7.5838203549912
+velkmh:27302
+onumepoch:5468
+onumnow:82168.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:53:32+00:00
+nowjuliandate:2460551.3652918
+nowepochdate:24241.8652893519
+TLE:
+STARLINK-30413
+1 57814U 23138G   24241.12050989  .00006750  00000+0  51463-3 0  9998
+2 57814  43.0132  31.1055 0001093 271.7539  88.3178 15.02512901 54686

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53774
+launchyear:2022
+epoch:24242.38680483
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4719
+meananomly:271.8872
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8605855508
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.000128
+argumentofperigree:88.2267
+nickname:STARLINK-4719
+idesg:22111B  
+cosparid:2022-111B
+altkm:540.59180068407
+velkms:7.5932657123364
+velkmh:27336
+onumepoch:10861
+onumnow:163887.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:17:00+00:00
+nowjuliandate:2460552.6378259
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4719
+1 53774U 22111B   24242.38680483  .00000814  00000+0  69209-4 0  9999
+2 53774  53.2161 265.8344 0001280  88.2267 271.8872 15.08847154108616

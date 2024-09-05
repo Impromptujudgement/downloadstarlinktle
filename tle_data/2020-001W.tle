@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:19+00:00
+validtle:1
+satid:44934
+launchyear:2020
+epoch:24242.43700669
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1071
+meananomly:265.1443
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.359051958
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001472
+argumentofperigree:94.9714
+nickname:STARLINK-1071
+idesg:20001W  
+cosparid:2020-001W
+altkm:548.18745087
+velkms:7.5890407603899
+velkmh:27321
+onumepoch:25613
+onumnow:385849.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:29:17+00:00
+nowjuliandate:2460553.029387
+nowepochdate:24243.5293865741
+TLE:
+STARLINK-1071
+1 44934U 20001W   24242.43700669  .00002443  00000+0  18284-3 0  9994
+2 44934  53.0532 308.2247 0001472  94.9714 265.1443 15.06397250256138

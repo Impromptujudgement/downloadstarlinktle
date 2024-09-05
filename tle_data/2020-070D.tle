@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46535
+launchyear:2020
+epoch:24243.08113005
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1663
+meananomly:273.8545
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3805459481
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001568
+argumentofperigree:86.2623
+nickname:STARLINK-1663
+idesg:20070D  
+cosparid:2020-070D
+altkm:548.04962726313
+velkms:7.5892034939705
+velkmh:27321
+onumepoch:21562
+onumnow:324814.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:56:50+00:00
+nowjuliandate:2460553.0282284
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1663
+1 46535U 20070D   24243.08113005  .00010115  00000+0  69715-3 0  9993
+2 46535  53.0527 155.3316 0001568  86.2623 273.8545 15.06390237215624

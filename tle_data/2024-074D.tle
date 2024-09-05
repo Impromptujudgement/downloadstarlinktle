@@ -1,0 +1,38 @@
+date:2024-08-27T23:23:31+00:00
+validtle:1
+satid:59537
+launchyear:2024
+epoch:24240.43347946
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31737
+meananomly:213.9987
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1519697559
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43
+eccentricity:5.1E-6
+argumentofperigree:146.0873
+nickname:STARLINK-31737
+idesg:24074D  
+cosparid:2024-074D
+altkm:443.81788527896
+velkms:7.6476209408747
+velkmh:27531
+onumepoch:2022
+onumnow:31176.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:24:13+00:00
+nowjuliandate:2460550.4746661
+nowepochdate:24241.9746643519
+TLE:
+STARLINK-31737
+1 59537U 24074D   24240.43347946  .00002810  00000+0  74478-4 0  9992
+2 59537  43.0000 284.3846 0000051 146.0873 213.9987 15.40709896 20222

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53964
+launchyear:2022
+epoch:24242.6352363
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4633
+meananomly:262.0294
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8581861392
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2144
+eccentricity:0.000137
+argumentofperigree:98.0853
+nickname:STARLINK-4633
+idesg:22125A  
+cosparid:2022-125A
+altkm:540.74982089543
+velkms:7.5930910093097
+velkmh:27335
+onumepoch:10529
+onumnow:158874.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:14:44+00:00
+nowjuliandate:2460552.6378103
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4633
+1 53964U 22125A   24242.63523630  .00002167  00000+0  15416-3 0  9996
+2 53964  53.2144 204.9908 0001370  98.0853 262.0294 15.08847939105290

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46366
+launchyear:2020
+epoch:24242.48999107
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1651
+meananomly:290.1573
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3412665964
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001106
+argumentofperigree:69.9535
+nickname:STARLINK-1651
+idesg:20062AT 
+cosparid:2020-062AT
+altkm:547.8193877771
+velkms:7.5894342503466
+velkmh:27322
+onumepoch:22095
+onumnow:332847.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:45:35+00:00
+nowjuliandate:2460553.0282779
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1651
+1 46366U 20062AT  24242.48999107  .00005707  00000+0  40166-3 0  9994
+2 46366  53.0534 312.9746 0001106  69.9535 290.1573 15.06403053220956

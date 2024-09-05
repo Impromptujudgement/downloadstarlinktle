@@ -1,0 +1,38 @@
+date:2024-08-28T06:03:40+00:00
+validtle:1
+satid:59218
+launchyear:2024
+epoch:24240.27638885
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31421
+meananomly:267.4653
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3818600864
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.159
+eccentricity:0.0001317
+argumentofperigree:92.6503
+nickname:STARLINK-31421
+idesg:24046T  
+cosparid:2024-046T
+altkm:448.18795899073
+velkms:7.6445332195911
+velkmh:27520
+onumepoch:2734
+onumnow:42108.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:38:00+00:00
+nowjuliandate:2460550.7525488
+nowepochdate:24241.2525462963
+TLE:
+STARLINK-31421
+1 59218U 24046T   24240.27638885  .00000989  00000+0  34712-4 0  9996
+2 59218  53.1590 237.1172 0001317  92.6503 267.4653 15.39616389 27340

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51800
+launchyear:2022
+epoch:23341.54501709
+epochday:341
+tleage:267
+tleclassification:U
+active:0
+name:STARLINK-3600
+meananomly:60.9047
+meanmotion:16.0827
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6629.742178763
+altitudeatperigee:246
+altitudeatapogee:258
+inclination:53.1976
+eccentricity:0.0009081
+argumentofperigree:38.1731
+nickname:STARLINK-3600
+idesg:22017AJ 
+cosparid:2022-017AJ
+altkm:255.01279438146
+velkms:7.7621843676807
+velkmh:27944
+onumepoch:10065
+onumnow:176372.03
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-12-07T13:04:49+00:00
+nowjuliandate:2460552.6379586
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3600
+1 51800U 22017AJ  23341.54501709  .00744239  30219-3  86008-3 0  9992
+2 51800  53.1976  15.2014 0009081  38.1731  60.9047 16.08266430100655

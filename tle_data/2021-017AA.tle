@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47746
+launchyear:2021
+epoch:24242.15825589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2160
+meananomly:271.1467
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3254704224
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001307
+argumentofperigree:88.9672
+nickname:STARLINK-2160
+idesg:21017AA 
+cosparid:2021-017AA
+altkm:548.04930971011
+velkms:7.5891737323878
+velkmh:27321
+onumepoch:19306
+onumnow:290841.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:47:53+00:00
+nowjuliandate:2460552.6393977
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2160
+1 47746U 21017AA  24242.15825589  .00005058  00000+0  35810-3 0  9993
+2 47746  53.0520 194.4685 0001307  88.9672 271.1467 15.06408207193063

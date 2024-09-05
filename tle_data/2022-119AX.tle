@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53931
+launchyear:2022
+epoch:24241.83892309
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5015
+meananomly:277.7241
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8706050274
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001507
+argumentofperigree:82.3923
+nickname:STARLINK-5015
+idesg:22119AX 
+cosparid:2022-119AX
+altkm:540.49098463852
+velkms:7.5933818221833
+velkmh:27336
+onumepoch:10740
+onumnow:162068.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:08:03+00:00
+nowjuliandate:2460552.6378137
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5015
+1 53931U 22119AX  24241.83892309  .00001102  00000+0  87294-4 0  9998
+2 53931  53.2169 283.0772 0001507  82.3923 277.7241 15.08843876107400

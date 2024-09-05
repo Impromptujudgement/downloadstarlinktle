@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:40+00:00
+validtle:1
+satid:47780
+launchyear:2021
+epoch:24242.13613399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2213
+meananomly:254.9124
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3582367037
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0508
+eccentricity:0.0001445
+argumentofperigree:105.2024
+nickname:STARLINK-2213
+idesg:21017BL 
+cosparid:2021-017BL
+altkm:548.3605623611
+velkms:7.5888506781603
+velkmh:27320
+onumepoch:19307
+onumnow:290855.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:16:02+00:00
+nowjuliandate:2460552.6393539
+nowepochdate:24243.1393518519
+TLE:
+STARLINK-2213
+1 47780U 21017BL  24242.13613399  .00001855  00000+0  14340-3 0  9999
+2 47780  53.0508 194.5666 0001445 105.2024 254.9124 15.06397516193074

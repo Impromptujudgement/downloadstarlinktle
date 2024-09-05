@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56529
+launchyear:2023
+epoch:24242.55506356
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6307
+meananomly:266.0384
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.186622298
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.0049
+eccentricity:2.71E-5
+argumentofperigree:94.049
+nickname:STARLINK-6307
+idesg:23065AC 
+cosparid:2023-065AC
+altkm:558.84097126189
+velkms:7.5838393929432
+velkmh:27302
+onumepoch:7218
+onumnow:108462.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:19:17+00:00
+nowjuliandate:2460552.6376932
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-6307
+1 56529U 23065AC  24242.55506356  .00002161  00000+0  17495-3 0  9990
+2 56529  43.0049 344.9490 0000271  94.0490 266.0384 15.02546390 72180

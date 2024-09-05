@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46080
+launchyear:2020
+epoch:24242.80101409
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1568
+meananomly:278.0356
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2644564775
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0547
+eccentricity:0.0001749
+argumentofperigree:82.0832
+nickname:STARLINK-1568
+idesg:20055BF 
+cosparid:2020-055BF
+altkm:547.83747916934
+velkms:7.5893724403765
+velkmh:27322
+onumepoch:22534
+onumnow:339461.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:13:28+00:00
+nowjuliandate:2460553.0282936
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1568
+1 46080U 20055BF  24242.80101409  .00010275  00000+0  70715-3 0  9994
+2 46080  53.0547  76.8557 0001749  82.0832 278.0356 15.06428115225346

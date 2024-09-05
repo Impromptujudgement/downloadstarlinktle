@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:50184
+launchyear:2021
+epoch:21362.77756915
+epochday:362
+tleage:976
+tleclassification:U
+active:0
+name:STARLINK-3280
+meananomly:171.9426
+meanmotion:16.1701
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6605.8156704338
+altitudeatperigee:188
+altitudeatapogee:267
+inclination:53.215
+eccentricity:0.0059346
+argumentofperigree:188.0665
+nickname:STARLINK-3280
+idesg:21125AE 
+cosparid:2021-125AE
+altkm:267.437776983
+velkms:7.725241685956
+velkmh:27811
+onumepoch:444
+onumnow:53753.08
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-12-28T18:39:42+00:00
+nowjuliandate:2460552.6386065
+nowepochdate:24243..138599537
+TLE:
+STARLINK-3280
+1 50184U 21125AE  21362.77756915  .01460207  11653-4  64938-3 0  9993
+2 50184  53.2150 314.7233 0059346 188.0665 171.9426 16.17012138  4442

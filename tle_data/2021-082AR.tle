@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49169
+launchyear:2021
+epoch:24242.18869688
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3046
+meananomly:90.6835
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1854022639
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9984
+eccentricity:0.0003007
+argumentofperigree:269.3979
+nickname:STARLINK-3046
+idesg:21082AR 
+cosparid:2021-082AR
+altkm:574.49765000781
+velkms:7.5738385732731
+velkmh:27266
+onumepoch:16417
+onumnow:245995.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:31:43+00:00
+nowjuliandate:2460552.6380047
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3046
+1 49169U 21082AR  24242.18869688  .00000104  00000+0  16519-4 0  9990
+2 49169  69.9984 240.1207 0003007 269.3979  90.6835 14.98333092164179

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55589
+launchyear:2023
+epoch:24241.49443473
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5697
+meananomly:76.5930
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2080850582
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9984
+eccentricity:0.0001002
+argumentofperigree:283.4801
+nickname:STARLINK-5697
+idesg:23020W  
+cosparid:2023-020W
+altkm:558.68764504014
+velkms:7.5840186280798
+velkmh:27302
+onumepoch:8495
+onumnow:127665.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:51:59+00:00
+nowjuliandate:2460552.637747
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5697
+1 55589U 23020W   24241.49443473  .00000464  00000+0  49396-4 0  9998
+2 55589  42.9984 157.5985 0001002 283.4801  76.5930 15.02539417 84952

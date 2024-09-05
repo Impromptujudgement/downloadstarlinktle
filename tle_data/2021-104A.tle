@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49408
+launchyear:2021
+epoch:24242.6338738
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3151
+meananomly:278.8254
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.807606414
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2155
+eccentricity:9.37E-5
+argumentofperigree:81.2844
+nickname:STARLINK-3151
+idesg:21104A  
+cosparid:2021-104A
+altkm:540.46842863712
+velkms:7.5933720755933
+velkmh:27336
+onumepoch:15563
+onumnow:234832.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:12:47+00:00
+nowjuliandate:2460552.6380006
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3151
+1 49408U 21104A   24242.63387380 -.00004823  00000+0 -28498-3 0  9997
+2 49408  53.2155 209.8664 0000937  81.2844 278.8254 15.08864487155636

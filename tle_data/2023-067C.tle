@@ -1,0 +1,38 @@
+date:2024-08-29T09:17:01+00:00
+validtle:1
+satid:56690
+launchyear:2023
+epoch:24241.79445454
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30124
+meananomly:95.4325
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1899372725
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.0001641
+argumentofperigree:264.633
+nickname:STARLINK-30124
+idesg:23067C  
+cosparid:2023-067C
+altkm:558.93910486736
+velkms:7.5837339719541
+velkmh:27301
+onumepoch:7173
+onumnow:107786.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:04:01+00:00
+nowjuliandate:2460551.8868176
+nowepochdate:24242.3868171296
+TLE:
+STARLINK-30124
+1 56690U 23067C   24241.79445454  .00002886  00000+0  22858-3 0  9990
+2 56690  43.0036  66.2729 0001641 264.6330  95.4325 15.02545313 71737

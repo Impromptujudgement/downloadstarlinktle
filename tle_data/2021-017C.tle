@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:39+00:00
+validtle:1
+satid:47724
+launchyear:2021
+epoch:24241.93341332
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2116
+meananomly:274.6616
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2309864187
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001392
+argumentofperigree:85.4532
+nickname:STARLINK-2116
+idesg:21017C  
+cosparid:2021-017C
+altkm:547.89476499447
+velkms:7.5892913837129
+velkmh:27321
+onumepoch:19476
+onumnow:293412.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:24:07+00:00
+nowjuliandate:2460552.6393509
+nowepochdate:24243.1393402778
+TLE:
+STARLINK-2116
+1 47724U 21017C   24241.93341332  .00030716  00000+0  20698-2 0  9999
+2 47724  53.0533 115.4835 0001392  85.4532 274.6616 15.06439036194760

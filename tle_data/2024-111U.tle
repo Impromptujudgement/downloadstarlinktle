@@ -1,0 +1,38 @@
+date:2024-08-27T17:39:06+00:00
+validtle:1
+satid:60034
+launchyear:2024
+epoch:24240.06189919
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32005
+meananomly:303.5008
+meanmotion:15.3965
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.283492762
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1566
+eccentricity:8.36E-5
+argumentofperigree:56.6077
+nickname:STARLINK-32005
+idesg:24111U  
+cosparid:2024-111U
+altkm:447.73457620718
+velkms:7.6449859015516
+velkmh:27522
+onumepoch:1320
+onumnow:20333.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:29:08+00:00
+nowjuliandate:2460550.2354867
+nowepochdate:24240.7354861111
+TLE:
+STARLINK-32005
+1 60034U 24111U   24240.06189919  .00023351  00000+0  59139-3 0  9990
+2 60034  53.1566 157.7536 0000836  56.6077 303.5008 15.39649673 13201

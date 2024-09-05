@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51747
+launchyear:2022
+epoch:24241.88591976
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3446
+meananomly:270.9989
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8683676061
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001387
+argumentofperigree:89.1162
+nickname:STARLINK-3446
+idesg:22016AK 
+cosparid:2022-016AK
+altkm:540.61203808116
+velkms:7.593247767835
+velkmh:27336
+onumepoch:13935
+onumnow:210274.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:15:43+00:00
+nowjuliandate:2460552.6379637
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3446
+1 51747U 22016AK  24241.88591976  .00001561  00000+0  11612-3 0  9997
+2 51747  53.2161 303.2541 0001387  89.1162 270.9989 15.08844608139357

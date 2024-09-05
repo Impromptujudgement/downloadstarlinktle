@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52473
+launchyear:2022
+epoch:24242.70008551
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3879
+meananomly:271.4772
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.892792887
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001394
+argumentofperigree:88.638
+nickname:STARLINK-3879
+idesg:22049Y  
+cosparid:2022-049Y
+altkm:540.62846485743
+velkms:7.5932431183455
+velkmh:27336
+onumepoch:12832
+onumnow:193620.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:48:07+00:00
+nowjuliandate:2460552.6379175
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3879
+1 52473U 22049Y   24242.70008551  .00000339  00000+0  39381-4 0  9990
+2 52473  53.2174  39.5450 0001394  88.6380 271.4772 15.08836617128322

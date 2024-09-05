@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45666
+launchyear:2020
+epoch:24242.12789593
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1449
+meananomly:312.6681
+meanmotion:15.2441
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6870.7075371107
+altitudeatperigee:491
+altitudeatapogee:494
+inclination:53.0461
+eccentricity:0.0001813
+argumentofperigree:47.4468
+nickname:STARLINK-1449
+idesg:20035K  
+cosparid:2020-035K
+altkm:492.61160898523
+velkms:7.6202358114009
+velkmh:27433
+onumepoch:23494
+onumnow:358165.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:04:10+00:00
+nowjuliandate:2460553.0283154
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1449
+1 45666U 20035K   24242.12789593  .00027598  00000+0  11206-2 0  9997
+2 45666  53.0461  31.5392 0001813  47.4468 312.6681 15.24406397234947

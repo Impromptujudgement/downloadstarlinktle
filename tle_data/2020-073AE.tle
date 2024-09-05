@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:18+00:00
+validtle:1
+satid:46698
+launchyear:2020
+epoch:24242.66047431
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1797
+meananomly:245.6268
+meanmotion:15.0605
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6926.4082194549
+altitudeatperigee:548
+altitudeatapogee:549
+inclination:53.0525
+eccentricity:8.97E-5
+argumentofperigree:114.4814
+nickname:STARLINK-1797
+idesg:20073AE 
+cosparid:2020-073AE
+altkm:549.4064159311
+velkms:7.5882791101843
+velkmh:27318
+onumepoch:21362
+onumnow:321730.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:51:05+00:00
+nowjuliandate:2460552.6404862
+nowepochdate:24243.1404861111
+TLE:
+STARLINK-1797
+1 46698U 20073AE  24242.66047431  .00089549  00000+0  60105-2 0  9998
+2 46698  53.0525 222.7989 0000897 114.4814 245.6268 15.06054994213621

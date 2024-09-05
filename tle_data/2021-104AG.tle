@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49438
+launchyear:2021
+epoch:24242.14258778
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3044
+meananomly:266.2395
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8392109925
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001359
+argumentofperigree:93.8752
+nickname:STARLINK-3044
+idesg:21104AG 
+cosparid:2021-104AG
+altkm:540.66130204805
+velkms:7.5931777465465
+velkmh:27335
+onumepoch:15581
+onumnow:235109.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:25:20+00:00
+nowjuliandate:2460552.6379998
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3044
+1 49438U 21104AG  24242.14258778  .00000826  00000+0  69941-4 0  9990
+2 49438  53.2164 191.9792 0001359  93.8752 266.2395 15.08854147155817

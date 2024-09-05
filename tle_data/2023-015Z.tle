@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55472
+launchyear:2023
+epoch:24241.91774174
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5705
+meananomly:90.3920
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1999129996
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.000126
+argumentofperigree:269.6778
+nickname:STARLINK-5705
+idesg:23015Z  
+cosparid:2023-015Z
+altkm:558.84707979289
+velkms:7.5838399620232
+velkmh:27302
+onumepoch:8699
+onumnow:130724.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:01:33+00:00
+nowjuliandate:2460552.6377538
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5705
+1 55472U 23015Z   24241.91774174  .00001395  00000+0  11832-3 0  9992
+2 55472  43.0023 104.3618 0001260 269.6778  90.3920 15.02542072 86997

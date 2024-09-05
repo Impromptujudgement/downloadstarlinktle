@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53275
+launchyear:2022
+epoch:24242.4806487
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4179
+meananomly:268.7953
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8212996494
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001617
+argumentofperigree:91.3224
+nickname:STARLINK-4179
+idesg:22086AK 
+cosparid:2022-086AK
+altkm:540.60540029248
+velkms:7.5932292777938
+velkmh:27336
+onumepoch:11690
+onumnow:176395.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:32:08+00:00
+nowjuliandate:2460552.6378677
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4179
+1 53275U 22086AK  24242.48064870  .00001444  00000+0  10874-3 0  9996
+2 53275  53.2173 165.5301 0001617  91.3224 268.7953 15.08860007116904

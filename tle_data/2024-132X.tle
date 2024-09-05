@@ -1,0 +1,38 @@
+date:2024-08-27T15:20:13+00:00
+validtle:1
+satid:60299
+launchyear:2024
+epoch:24240.25001157
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32151
+meananomly:271.6709
+meanmotion:15.3958
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.4766281379
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1598
+eccentricity:0.0001414
+argumentofperigree:86.2104
+nickname:STARLINK-32151
+idesg:24132X  
+cosparid:2024-132X
+altkm:448.46615254677
+velkms:7.6442873926525
+velkmh:27519
+onumepoch:587
+onumnow:9043.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:00:01+00:00
+nowjuliandate:2460550.1390438
+nowepochdate:24240.6390393519
+TLE:
+STARLINK-32151
+1 60299U 24132X   24240.25001157  .00047966  00000+0  12030-2 0  9990
+2 60299  53.1598 132.6861 0001414  86.2104 271.6709 15.39584324  5873

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45418
+launchyear:2020
+epoch:23053.43017917
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1299
+meananomly:338.2864
+meanmotion:15.2044
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6882.6418279959
+altitudeatperigee:502
+altitudeatapogee:507
+inclination:52.9965
+eccentricity:0.0004261
+argumentofperigree:21.8311
+nickname:STARLINK-1299
+idesg:20019BL 
+cosparid:2020-019BL
+altkm:502.65877639255
+velkms:7.6157012138331
+velkmh:27417
+onumepoch:16173
+onumnow:263996.05
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T10:19:27+00:00
+nowjuliandate:2460553.0283511
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1299
+1 45418U 20019BL  23053.43017917  .00050781  00000+0  22967-2 0  9997
+2 45418  52.9965 127.7011 0004261  21.8311 338.2864 15.20443205161736

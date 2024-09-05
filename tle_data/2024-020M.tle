@@ -1,0 +1,38 @@
+date:2024-08-28T02:54:33+00:00
+validtle:1
+satid:58887
+launchyear:2024
+epoch:24240.18558344
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31321
+meananomly:286.7166
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3678002924
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1624
+eccentricity:0.0001185
+argumentofperigree:73.3967
+nickname:STARLINK-31321
+idesg:24020M  
+cosparid:2024-020M
+altkm:463.89919219117
+velkms:7.635888784988
+velkmh:27489
+onumepoch:3354
+onumnow:51472.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:27:14+00:00
+nowjuliandate:2460550.6212201
+nowepochdate:24241.1212152778
+TLE:
+STARLINK-31321
+1 58887U 24020M   24240.18558344  .00000883  00000+0  37440-4 0  9994
+2 58887  53.1624  43.0248 0001185  73.3967 286.7166 15.34223206 33549

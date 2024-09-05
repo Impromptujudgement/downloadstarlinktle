@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46046
+launchyear:2020
+epoch:22193.34311638
+epochday:193
+tleage:780
+tleclassification:C
+active:0
+name:STARLINK-1514
+meananomly:33.0363
+meanmotion:15.9293
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6672.2142847871
+altitudeatperigee:289
+altitudeatapogee:299
+inclination:53.0421
+eccentricity:0.0007689
+argumentofperigree:355.6927
+nickname:STARLINK-1514
+idesg:20055V  
+cosparid:2020-055V
+altkm:290.49410894639
+velkms:7.7391444522655
+velkmh:27861
+onumepoch:1
+onumnow:32665.63
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-07-12T08:14:05+00:00
+nowjuliandate:2460553.0282901
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1514
+1 46046C 20055V   22193.34311638  .01835648  00000-0  46451-2 0  1931
+2 46046  53.0421 236.4493 0007689 355.6927  33.0363 15.92934718    13

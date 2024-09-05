@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53854
+launchyear:2022
+epoch:24242.37948687
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4800
+meananomly:271.2724
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8671266327
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.000133
+argumentofperigree:88.842
+nickname:STARLINK-4800
+idesg:22114AN 
+cosparid:2022-114AN
+altkm:540.60704505152
+velkms:7.5932525668933
+velkmh:27336
+onumepoch:10843
+onumnow:163614.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:06:28+00:00
+nowjuliandate:2460552.6378211
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4800
+1 53854U 22114AN  24242.37948687  .00000962  00000+0  78483-4 0  9991
+2 53854  53.2157 266.2200 0001330  88.8420 271.2724 15.08845014108432

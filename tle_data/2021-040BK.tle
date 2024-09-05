@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48485
+launchyear:2021
+epoch:24241.58416736
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2500
+meananomly:265.1361
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3313549005
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001328
+argumentofperigree:94.9779
+nickname:STARLINK-2500
+idesg:21040BK 
+cosparid:2021-040BK
+altkm:548.15129706913
+velkms:7.5890652236692
+velkmh:27321
+onumepoch:18350
+onumnow:276448.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:01:12+00:00
+nowjuliandate:2460552.6380243
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2500
+1 48485U 21040BK  24241.58416736  .00003889  00000+0  27979-3 0  9993
+2 48485  53.0520 187.0469 0001328  94.9779 265.1361 15.06406287183500

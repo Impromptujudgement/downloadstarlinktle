@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46793
+launchyear:2020
+epoch:24241.46991642
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1941
+meananomly:273.4376
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2644503479
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0558
+eccentricity:0.0001196
+argumentofperigree:86.6749
+nickname:STARLINK-1941
+idesg:20074BG 
+cosparid:2020-074BG
+altkm:547.95714500601
+velkms:7.5892413402603
+velkmh:27321
+onumepoch:21253
+onumnow:320186.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:16:41+00:00
+nowjuliandate:2460552.6397032
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1941
+1 46793U 20074BG  24241.46991642  .00018042  00000+0  12261-2 0  9994
+2 46793  53.0558 307.5648 0001196  86.6749 273.4376 15.06428117212537

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53490
+launchyear:2022
+epoch:24242.21390589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4387
+meananomly:269.4568
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.111747763
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6574
+eccentricity:0.0001696
+argumentofperigree:90.685
+nickname:STARLINK-4387
+idesg:22099AB 
+cosparid:2022-099AB
+altkm:566.04366208214
+velkms:7.5781169532065
+velkmh:27281
+onumepoch:11258
+onumnow:169027.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:08:01+00:00
+nowjuliandate:2460552.6378562
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4387
+1 53490U 22099AB  24242.21390589  .00000835  00000+0  69588-4 0  9999
+2 53490  97.6574   2.0131 0001696  90.6850 269.4568 15.01272059112587

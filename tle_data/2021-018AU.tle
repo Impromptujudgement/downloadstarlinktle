@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:34+00:00
+validtle:1
+satid:47829
+launchyear:2021
+epoch:24242.22735855
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2416
+meananomly:261.4852
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.339942583
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001376
+argumentofperigree:98.6293
+nickname:STARLINK-2416
+idesg:21018AU 
+cosparid:2021-018AU
+altkm:548.22313663654
+velkms:7.5889912205947
+velkmh:27320
+onumepoch:19209
+onumnow:289378.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:27:24+00:00
+nowjuliandate:2460552.6392929
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2416
+1 47829U 21018AU  24242.22735855  .00000199  00000+0  32262-4 0  9990
+2 47829  53.0533 244.1614 0001376  98.6293 261.4852 15.06403485192092

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56420
+launchyear:2023
+epoch:24241.94730333
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6272
+meananomly:96.1981
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1573140328
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001203
+argumentofperigree:263.8724
+nickname:STARLINK-6272
+idesg:23061AY 
+cosparid:2023-061AY
+altkm:558.88860410446
+velkms:7.5837713710261
+velkmh:27302
+onumepoch:7344
+onumnow:110365.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:44:07+00:00
+nowjuliandate:2460552.6377016
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6272
+1 56420U 23061AY  24241.94730333  .00003003  00000+0  23718-3 0  9993
+2 56420  43.0025 322.2581 0001203 263.8724  96.1981 15.02555912 73441

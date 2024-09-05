@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52994
+launchyear:2022
+epoch:24241.82654021
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4256
+meananomly:267.9606
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8617623331
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.212
+eccentricity:0.0001786
+argumentofperigree:92.159
+nickname:STARLINK-4256
+idesg:22076J  
+cosparid:2022-076J
+altkm:540.66578527864
+velkms:7.5931851755829
+velkmh:27335
+onumepoch:11862
+onumnow:178999.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:50:13+00:00
+nowjuliandate:2460552.6378877
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4256
+1 52994U 22076J   24241.82654021  .00002200  00000+0  15625-3 0  9992
+2 52994  53.2120  78.4627 0001786  92.1590 267.9606 15.08846769118624

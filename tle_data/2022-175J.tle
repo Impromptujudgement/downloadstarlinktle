@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54766
+launchyear:2022
+epoch:24242.11081983
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5471
+meananomly:274.0303
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8689453007
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001751
+argumentofperigree:86.0889
+nickname:STARLINK-5471
+idesg:22175J  
+cosparid:2022-175J
+altkm:540.54449088947
+velkms:7.5933222022383
+velkmh:27336
+onumepoch:9358
+onumnow:141213.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:39:35+00:00
+nowjuliandate:2460552.6377866
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5471
+1 54766U 22175J   24242.11081983  .00000757  00000+0  65649-4 0  9992
+2 54766  53.2180  27.1835 0001751  86.0889 274.0303 15.08844419 93586

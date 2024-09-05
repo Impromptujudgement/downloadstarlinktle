@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53566
+launchyear:2022
+epoch:24241.73822065
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4576
+meananomly:269.4197
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8840326501
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.219
+eccentricity:0.0001373
+argumentofperigree:90.6952
+nickname:STARLINK-4576
+idesg:22101AR 
+cosparid:2022-101AR
+altkm:540.65435845103
+velkms:7.5932099096644
+velkmh:27336
+onumepoch:11290
+onumnow:170369.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:43:02+00:00
+nowjuliandate:2460552.6378487
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4576
+1 53566U 22101AR  24241.73822065 -.00000062  00000+0  14225-4 0  9993
+2 53566  53.2190  38.8517 0001373  90.6952 269.4197 15.08839483112904

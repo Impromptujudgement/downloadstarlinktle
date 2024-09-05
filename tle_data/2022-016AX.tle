@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51759
+launchyear:2022
+epoch:24242.18027928
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3456
+meananomly:268.1129
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8630888883
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001332
+argumentofperigree:92.0016
+nickname:STARLINK-3456
+idesg:22016AX 
+cosparid:2022-016AX
+altkm:540.6537628441
+velkms:7.5931990941486
+velkmh:27336
+onumepoch:14068
+onumnow:212278.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:19:36+00:00
+nowjuliandate:2460552.6379626
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3456
+1 51759U 22016AX  24242.18027928  .00010444  00000+0  67319-3 0  9990
+2 51759  53.2156 291.8771 0001332  92.0016 268.1129 15.08846335140684

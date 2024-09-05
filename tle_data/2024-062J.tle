@@ -1,0 +1,38 @@
+date:2024-08-28T01:28:07+00:00
+validtle:1
+satid:59382
+launchyear:2024
+epoch:24240.00432082
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31705
+meananomly:279.8088
+meanmotion:15.3962
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3670090058
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1609
+eccentricity:0.0001182
+argumentofperigree:80.305
+nickname:STARLINK-31705
+idesg:24062J  
+cosparid:2024-062J
+altkm:447.99610670813
+velkms:7.6447397299799
+velkmh:27521
+onumepoch:2386
+onumnow:36751.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:06:13+00:00
+nowjuliandate:2460550.5612034
+nowepochdate:24241.0611921296
+TLE:
+STARLINK-31705
+1 59382U 24062J   24240.00432082  .00002093  00000+0  62278-4 0  9994
+2 59382  53.1609 340.8529 0001182  80.3050 279.8088 15.39621414 23869

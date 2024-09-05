@@ -1,0 +1,38 @@
+date:2024-08-28T04:49:09+00:00
+validtle:1
+satid:58681
+launchyear:2023
+epoch:24240.05969938
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31147
+meananomly:243.6658
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.2040513113
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0038
+eccentricity:0.0001347
+argumentofperigree:116.4331
+nickname:STARLINK-31147
+idesg:23211Q  
+cosparid:2023-211Q
+altkm:488.25332699778
+velkms:7.6225758588346
+velkmh:27441
+onumepoch:3692
+onumnow:56353.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:25:58+00:00
+nowjuliandate:2460550.7008027
+nowepochdate:24241.2007986111
+TLE:
+STARLINK-31147
+1 58681U 23211Q   24240.05969938  .00001037  00000+0  49483-4 0  9990
+2 58681  43.0038   1.7113 0001347 116.4331 243.6658 15.25906411 36923

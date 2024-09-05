@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46128
+launchyear:2020
+epoch:24242.76228701
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1622
+meananomly:268.8359
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3674834177
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001333
+argumentofperigree:91.2782
+nickname:STARLINK-1622
+idesg:20057M  
+cosparid:2020-057M
+altkm:548.12831757775
+velkms:7.5891101487831
+velkmh:27321
+onumepoch:22268
+onumnow:335447.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:17:42+00:00
+nowjuliandate:2460553.0282816
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1622
+1 46128U 20057M   24242.76228701  .00000439  00000+0  48388-4 0  9992
+2 46128  53.0531 256.7628 0001333  91.2782 268.8359 15.06394499222686

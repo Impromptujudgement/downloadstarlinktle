@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49730
+launchyear:2021
+epoch:24242.45170312
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3249
+meananomly:268.7227
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762444376
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001334
+argumentofperigree:91.3918
+nickname:STARLINK-3249
+idesg:21115G  
+cosparid:2021-115G
+altkm:540.65728624812
+velkms:7.5932024320591
+velkmh:27336
+onumepoch:15237
+onumnow:229912.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:50:27+00:00
+nowjuliandate:2460552.6379894
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3249
+1 49730U 21115G   24242.45170312 -.00000127  00000+0  10131-4 0  9990
+2 49730  53.2169 140.8541 0001334  91.3918 268.7227 15.08842031152370

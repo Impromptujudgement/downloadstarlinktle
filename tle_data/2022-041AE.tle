@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52289
+launchyear:2022
+epoch:24241.83895621
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3751
+meananomly:270.7453
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8450153929
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2136
+eccentricity:0.0001626
+argumentofperigree:89.3726
+nickname:STARLINK-3751
+idesg:22041AE 
+cosparid:2022-041AE
+altkm:540.59056184121
+velkms:7.5932585454381
+velkmh:27336
+onumepoch:13028
+onumnow:196592.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:08:06+00:00
+nowjuliandate:2460552.637936
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3751
+1 52289U 22041AE  24241.83895621  .00000209  00000+0  31221-4 0  9993
+2 52289  53.2136  83.4090 0001626  89.3726 270.7453 15.08852248130287

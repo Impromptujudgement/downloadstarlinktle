@@ -1,0 +1,38 @@
+date:2024-08-29T07:51:39+00:00
+validtle:1
+satid:56920
+launchyear:2023
+epoch:24241.2204717
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5960
+meananomly:88.3964
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2274272319
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001181
+argumentofperigree:271.6743
+nickname:STARLINK-5960
+idesg:23083AW 
+cosparid:2023-083AW
+altkm:558.84567881679
+velkms:7.5838564890789
+velkmh:27302
+onumepoch:6781
+onumnow:101903.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:17:29+00:00
+nowjuliandate:2460551.8275378
+nowepochdate:24242.3275347222
+TLE:
+STARLINK-5960
+1 56920U 23083AW  24241.22047170  .00000312  00000+0  38156-4 0  9996
+2 56920  43.0023 223.2092 0001181 271.6743  88.3964 15.02533133 67813

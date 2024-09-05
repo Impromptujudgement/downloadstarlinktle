@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:15+00:00
+validtle:1
+satid:46706
+launchyear:2020
+epoch:24241.66155906
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1807
+meananomly:270.8843
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3507431181
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001684
+argumentofperigree:89.2339
+nickname:STARLINK-1807
+idesg:20073AN 
+cosparid:2020-073AN
+altkm:548.07490260584
+velkms:7.5891595123597
+velkmh:27321
+onumepoch:21302
+onumnow:320915.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:52:39+00:00
+nowjuliandate:2460552.6404532
+nowepochdate:24243.1404513889
+TLE:
+STARLINK-1807
+1 46706U 20073AN  24241.66155906 -.00001112  00000+0 -55781-4 0  9992
+2 46706  53.0532 226.7050 0001684  89.2339 270.8843 15.06399961213027

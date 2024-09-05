@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56005
+launchyear:2023
+epoch:24241.61408292
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5801
+meananomly:96.8423
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1947050561
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001094
+argumentofperigree:263.2295
+nickname:STARLINK-5801
+idesg:23042V  
+cosparid:2023-042V
+altkm:558.92624519186
+velkms:7.5837506215083
+velkmh:27302
+onumepoch:7896
+onumnow:118663.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:44:17+00:00
+nowjuliandate:2460552.63772
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5801
+1 56005U 23042V   24241.61408292  .00001292  00000+0  11064-3 0  9990
+2 56005  43.0021 208.3384 0001094 263.2295  96.8423 15.02543764 78968

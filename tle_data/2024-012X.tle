@@ -1,0 +1,38 @@
+date:2024-08-28T03:34:27+00:00
+validtle:1
+satid:58808
+launchyear:2024
+epoch:24240.28298714
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31174
+meananomly:101.1183
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1884912047
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0059
+eccentricity:0.0001758
+argumentofperigree:258.9471
+nickname:STARLINK-31174
+idesg:24012X  
+cosparid:2024-012X
+altkm:488.06060783022
+velkms:7.622781092441
+velkmh:27442
+onumepoch:3574
+onumnow:54549.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:47:30+00:00
+nowjuliandate:2460550.6489339
+nowepochdate:24241.1489236111
+TLE:
+STARLINK-31174
+1 58808U 24012X   24240.28298714  .00001071  00000+0  50769-4 0  9990
+2 58808  43.0059  79.1747 0001758 258.9471 101.1183 15.25911598 35744

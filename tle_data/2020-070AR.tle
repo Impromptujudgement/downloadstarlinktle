@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46571
+launchyear:2020
+epoch:22119.82210213
+epochday:119
+tleage:854
+tleclassification:C
+active:0
+name:STARLINK-1753
+meananomly:174.4064
+meanmotion:16.1370
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6614.8449138905
+altitudeatperigee:228
+altitudeatapogee:245
+inclination:53.0355
+eccentricity:0.0012483
+argumentofperigree:297.5084
+nickname:STARLINK-1753
+idesg:20070AR 
+cosparid:2020-070AR
+altkm:250.24073792407
+velkms:7.758033121294
+velkmh:27929
+onumepoch:1
+onumnow:34286.43
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-29T19:43:50+00:00
+nowjuliandate:2460553.0282316
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1753
+1 46571C 20070AR  22119.82210213  .01215292  00000-0  87947-3 0  1190
+2 46571  53.0355 294.9944 0012483 297.5084 174.4064 16.13702443    18

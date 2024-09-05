@@ -1,0 +1,38 @@
+date:2024-08-28T23:04:06+00:00
+validtle:1
+satid:57449
+launchyear:2023
+epoch:24241.20634251
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30225
+meananomly:96.2078
+meanmotion:15.0251
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.3006233744
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001277
+argumentofperigree:263.8619
+nickname:STARLINK-30225
+idesg:23105V  
+cosparid:2023-105V
+altkm:559.03761943236
+velkms:7.5836866579044
+velkmh:27301
+onumepoch:6161
+onumnow:92595.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:57:08+00:00
+nowjuliandate:2460551.4611918
+nowepochdate:24242.9611805556
+TLE:
+STARLINK-30225
+1 57449U 23105V   24241.20634251 -.00000918  00000+0 -52923-4 0  9990
+2 57449  43.0025  55.9898 0001277 263.8619  96.2078 15.02509353 61610

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45214
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1233
+meananomly:279.7663
+meanmotion:15.9424
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6668.5778829282
+altitudeatperigee:284
+altitudeatapogee:297
+inclination:53.0497
+eccentricity:0.0009832
+argumentofperigree:0.4626
+nickname:STARLINK-1233
+idesg:20012AN 
+cosparid:2020-012AN
+altkm:307.34621143071
+velkms:7.7237884882603
+velkmh:27806
+onumepoch:25129
+onumnow:400620.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0284069
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1233
+1 45214U 20012AN  24243.25001157  .00320138  50978-4  84197-3 0  9999
+2 45214  53.0497 293.5334 0009832   0.4626 279.7663 15.94237846251293

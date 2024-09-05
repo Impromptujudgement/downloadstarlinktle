@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47624
+launchyear:2021
+epoch:24241.74173942
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1669
+meananomly:270.8164
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3582121847
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0559
+eccentricity:0.0001538
+argumentofperigree:89.3001
+nickname:STARLINK-1669
+idesg:21012E  
+cosparid:2021-012E
+altkm:548.08545140988
+velkms:7.5891520399565
+velkmh:27321
+onumepoch:19618
+onumnow:295546.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:48:06+00:00
+nowjuliandate:2460552.6394166
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1669
+1 47624U 21012E   24241.74173942 -.00001748  00000+0 -98502-4 0  9998
+2 47624  53.0559  36.3406 0001538  89.3001 270.8164 15.06397524196187

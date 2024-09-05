@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49132
+launchyear:2021
+epoch:24242.21830098
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3090
+meananomly:90.7449
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1751416738
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9978
+eccentricity:0.0003105
+argumentofperigree:269.3355
+nickname:STARLINK-3090
+idesg:21082C  
+cosparid:2021-082C
+altkm:574.49050211413
+velkms:7.5738407784109
+velkmh:27266
+onumepoch:16247
+onumnow:243448.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:14:21+00:00
+nowjuliandate:2460552.6380032
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3090
+1 49132U 21082C   24242.21830098  .00000253  00000+0  29017-4 0  9999
+2 49132  69.9978 260.0597 0003105 269.3355  90.7449 14.98336410162472

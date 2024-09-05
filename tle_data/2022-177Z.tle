@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54843
+launchyear:2022
+epoch:24241.83733425
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5304
+meananomly:81.5639
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1994790039
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0005
+eccentricity:0.000102
+argumentofperigree:278.5088
+nickname:STARLINK-5304
+idesg:22177Z  
+cosparid:2022-177Z
+altkm:558.73663183464
+velkms:7.5839604101467
+velkmh:27302
+onumepoch:9304
+onumnow:139816.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:05:46+00:00
+nowjuliandate:2460552.6377784
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5304
+1 54843U 22177Z   24241.83733425  .00000992  00000+0  88474-4 0  9995
+2 54843  43.0005 284.2230 0001020 278.5088  81.5639 15.02542213 93043

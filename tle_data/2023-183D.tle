@@ -1,0 +1,38 @@
+date:2024-08-28T14:58:04+00:00
+validtle:1
+satid:58440
+launchyear:2023
+epoch:24239.90941888
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-30950
+meananomly:63.6468
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1944338531
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0026
+eccentricity:0.0001751
+argumentofperigree:296.4203
+nickname:STARLINK-30950
+idesg:23183D  
+cosparid:2023-183D
+altkm:487.2998040552
+velkms:7.6236286433596
+velkmh:27445
+onumepoch:4332
+onumnow:66128.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T21:49:34+00:00
+nowjuliandate:2460551.1236593
+nowepochdate:24241.6236574074
+TLE:
+STARLINK-30950
+1 58440U 23183D   24239.90941888  .00001061  00000+0  50386-4 0  9998
+2 58440  43.0026 136.7638 0001751 296.4203  63.6468 15.25909617 43322

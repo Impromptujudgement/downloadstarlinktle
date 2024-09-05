@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56097
+launchyear:2023
+epoch:24242.76522874
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6077
+meananomly:87.2153
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2037450919
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0035
+eccentricity:9.18E-5
+argumentofperigree:272.8584
+nickname:STARLINK-6077
+idesg:23046E  
+cosparid:2023-046E
+altkm:558.81408070331
+velkms:7.5838781083268
+velkmh:27302
+onumepoch:7942
+onumnow:119337.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:21:56+00:00
+nowjuliandate:2460552.6377154
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6077
+1 56097U 23046E   24242.76522874  .00001005  00000+0  89442-4 0  9993
+2 56097  43.0035 253.2775 0000918 272.8584  87.2153 15.02540827 79421

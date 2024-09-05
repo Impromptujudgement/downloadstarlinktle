@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48465
+launchyear:2021
+epoch:24242.53237028
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2681
+meananomly:271.8830
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3803375356
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001055
+argumentofperigree:88.228
+nickname:STARLINK-2681
+idesg:21040AP 
+cosparid:2021-040AP
+altkm:548.09832140429
+velkms:7.5891500361014
+velkmh:27321
+onumepoch:18379
+onumnow:276868.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:46:37+00:00
+nowjuliandate:2460552.6380275
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2681
+1 48465U 21040AP  24242.53237028  .00008863  00000+0  61329-3 0  9996
+2 48465  53.0528 172.7945 0001055  88.2280 271.8830 15.06390305183795

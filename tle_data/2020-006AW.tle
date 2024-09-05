@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:58+00:00
+validtle:1
+satid:45088
+launchyear:2020
+epoch:24243.24789712
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1183
+meananomly:264.5531
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3222186407
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001251
+argumentofperigree:95.5601
+nickname:STARLINK-1183
+idesg:20006AW 
+cosparid:2020-006AW
+altkm:548.14662058666
+velkms:7.5890653521625
+velkmh:27321
+onumepoch:25315
+onumnow:381351.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:56:58+00:00
+nowjuliandate:2460553.0284581
+nowepochdate:24243.5284490741
+TLE:
+STARLINK-1183
+1 45088U 20006AW  24243.24789712  .00001148  00000+0  95935-4 0  9996
+2 45088  53.0541 224.5828 0001251  95.5601 264.5531 15.06409268253154

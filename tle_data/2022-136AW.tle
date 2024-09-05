@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54095
+launchyear:2022
+epoch:24242.51099003
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5193
+meananomly:260.3601
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9066791114
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001088
+argumentofperigree:99.7514
+nickname:STARLINK-5193
+idesg:22136AW 
+cosparid:2022-136AW
+altkm:540.79317149317
+velkms:7.5930699980201
+velkmh:27335
+onumepoch:10334
+onumnow:155932.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:15:50+00:00
+nowjuliandate:2460552.6378015
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5193
+1 54095U 22136AW  24242.51099003 -.00001054  00000+0 -48178-4 0  9991
+2 54095  53.2172 315.0715 0001088  99.7514 260.3601 15.08832074103346

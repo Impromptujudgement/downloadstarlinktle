@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54082
+launchyear:2022
+epoch:24242.49263906
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5210
+meananomly:278.8694
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8701068036
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.215
+eccentricity:0.0001076
+argumentofperigree:81.242
+nickname:STARLINK-5210
+idesg:22136AH 
+cosparid:2022-136AH
+altkm:540.51556512504
+velkms:7.5933545771231
+velkmh:27336
+onumepoch:10334
+onumnow:155933.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:49:24+00:00
+nowjuliandate:2460552.6378032
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5210
+1 54082U 22136AH  24242.49263906  .00000527  00000+0  51169-4 0  9995
+2 54082  53.2150 315.6632 0001076  81.2420 278.8694 15.08844039103341

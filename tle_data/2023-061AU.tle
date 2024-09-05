@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56416
+launchyear:2023
+epoch:24242.49687792
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6260
+meananomly:85.3798
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1368396753
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0059
+eccentricity:0.0001794
+argumentofperigree:274.6839
+nickname:STARLINK-6260
+idesg:23061AU 
+cosparid:2023-061AU
+altkm:558.67830563591
+velkms:7.5839900041393
+velkmh:27302
+onumepoch:7352
+onumnow:110478.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:55:30+00:00
+nowjuliandate:2460552.6377031
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6260
+1 56416U 23061AU  24242.49687792 -.00004543  00000+0 -32121-3 0  9999
+2 56416  43.0059 319.4987 0001794 274.6839  85.3798 15.02562564 73529

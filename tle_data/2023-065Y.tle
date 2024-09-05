@@ -1,0 +1,38 @@
+date:2024-08-29T09:19:55+00:00
+validtle:1
+satid:56525
+launchyear:2023
+epoch:24241.63176386
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6329
+meananomly:89.1756
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1797368901
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:8.58E-5
+argumentofperigree:270.8988
+nickname:STARLINK-6329
+idesg:23065Y  
+cosparid:2023-065Y
+altkm:558.81229134044
+velkms:7.5838669778583
+velkmh:27302
+onumepoch:7268
+onumnow:109216.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:09:44+00:00
+nowjuliandate:2460551.8888419
+nowepochdate:24242.3888310185
+TLE:
+STARLINK-6329
+1 56525U 23065Y   24241.63176386  .00002201  00000+0  17790-3 0  9993
+2 56525  43.0022   2.2240 0000858 270.8988  89.1756 15.02548627 72688

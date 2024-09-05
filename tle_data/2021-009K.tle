@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47557
+launchyear:2021
+epoch:24242.68626749
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1956
+meananomly:282.8723
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3622516801
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0561
+eccentricity:0.000137
+argumentofperigree:77.2419
+nickname:STARLINK-1956
+idesg:21009K  
+cosparid:2021-009K
+altkm:547.89328265835
+velkms:7.5893647693893
+velkmh:27322
+onumepoch:19716
+onumnow:297007.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:28:14+00:00
+nowjuliandate:2460552.6394624
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1956
+1 47557U 21009K   24242.68626749  .00021569  00000+0  14626-2 0  9995
+2 47557  53.0561  22.1009 0001370  77.2419 282.8723 15.06396206197169

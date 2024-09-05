@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53198
+launchyear:2022
+epoch:24242.15805694
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4385
+meananomly:262.5524
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1228873065
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6556
+eccentricity:0.000139
+argumentofperigree:97.5858
+nickname:STARLINK-4385
+idesg:22084K  
+cosparid:2022-084K
+altkm:566.16869891143
+velkms:7.5779865193613
+velkmh:27281
+onumepoch:11604
+onumnow:174221.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:47:36+00:00
+nowjuliandate:2460552.6378706
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4385
+1 53198U 22084K   24242.15805694  .00001824  00000+0  14654-3 0  9991
+2 53198  97.6556 301.9454 0001390  97.5858 262.5524 15.01268445116041

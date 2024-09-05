@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55275
+launchyear:2023
+epoch:24241.55800636
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5260
+meananomly:96.0835
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1763910022
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0021
+eccentricity:0.0002653
+argumentofperigree:264.0022
+nickname:STARLINK-5260
+idesg:23010G  
+cosparid:2023-010G
+altkm:574.65925707848
+velkms:7.5736575829031
+velkmh:27265
+onumepoch:8967
+onumnow:134379.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:23:32+00:00
+nowjuliandate:2460552.6377742
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5260
+1 55275U 23010G   24241.55800636 -.00000018  00000+0  63101-5 0  9991
+2 55275  70.0021 351.8218 0002653 264.0022  96.0835 14.98336006 89677

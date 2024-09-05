@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:47+00:00
+validtle:1
+satid:44713
+launchyear:2019
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1007
+meananomly:335.3427
+meanmotion:15.8101
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6705.7319518115
+altitudeatperigee:325
+altitudeatapogee:330
+inclination:53.0473
+eccentricity:0.0003772
+argumentofperigree:191.8649
+nickname:STARLINK-1007
+idesg:19074A  
+cosparid:2019-074A
+altkm:325.4512794282
+velkms:7.7165085226413
+velkmh:27779
+onumepoch:26538
+onumnow:419571.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0297197
+nowepochdate:24243.5297106481
+TLE:
+STARLINK-1007
+1 44713U 19074A   24243.25001157  .00226400  00000+0  11135-2 0  9992
+2 44713  53.0473 140.4286 0003772 191.8649 335.3427 15.81006561265389

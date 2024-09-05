@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48139
+launchyear:2021
+epoch:24242.19326912
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2482
+meananomly:273.8025
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3279590647
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0549
+eccentricity:0.0001427
+argumentofperigree:86.3127
+nickname:STARLINK-2482
+idesg:21027AZ 
+cosparid:2021-027AZ
+altkm:548.00471087678
+velkms:7.5892239513776
+velkmh:27321
+onumepoch:18827
+onumnow:283625.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:38:18+00:00
+nowjuliandate:2460552.6380509
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2482
+1 48139U 21027AZ  24242.19326912  .00010587  00000+0  72845-3 0  9993
+2 48139  53.0549 134.3195 0001427  86.3127 273.8025 15.06407395188273

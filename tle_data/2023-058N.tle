@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56329
+launchyear:2023
+epoch:24242.71133749
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5984
+meananomly:151.8162
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1477896187
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6528
+eccentricity:0.0001986
+argumentofperigree:208.2954
+nickname:STARLINK-5984
+idesg:23058N  
+cosparid:2023-058N
+altkm:567.28385383084
+velkms:7.5767827430712
+velkmh:27276
+onumepoch:7407
+onumnow:111204.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:04:20+00:00
+nowjuliandate:2460552.6377061
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5984
+1 56329U 23058N   24242.71133749 -.00002361  00000+0 -17926-3 0  9993
+2 56329  97.6528 242.4589 0001986 208.2954 151.8162 15.01260366 74074

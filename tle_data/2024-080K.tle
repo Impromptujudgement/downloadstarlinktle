@@ -1,0 +1,38 @@
+date:2024-08-27T22:48:28+00:00
+validtle:1
+satid:59610
+launchyear:2024
+epoch:24240.56135489
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31729
+meananomly:109.0314
+meanmotion:15.4073
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.0881138823
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.002
+eccentricity:0.0001925
+argumentofperigree:251.0334
+nickname:STARLINK-31729
+idesg:24080K  
+cosparid:2024-080K
+altkm:444.15381175641
+velkms:7.6472088809761
+velkmh:27530
+onumepoch:1990
+onumnow:30666.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:28:21+00:00
+nowjuliandate:2460550.4503254
+nowepochdate:24240.9503240741
+TLE:
+STARLINK-31729
+1 59610U 24080K   24240.56135489 -.00011300  00000+0 -26334-3 0  9995
+2 59610  43.0020 344.7880 0001925 251.0334 109.0314 15.40731528 19904

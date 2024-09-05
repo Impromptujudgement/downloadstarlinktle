@@ -1,0 +1,38 @@
+date:2024-08-28T15:45:09+00:00
+validtle:1
+satid:58371
+launchyear:2023
+epoch:24241.0238694
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30859
+meananomly:86.4884
+meanmotion:15.0252
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2709353034
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.001
+eccentricity:0.0001592
+argumentofperigree:273.5776
+nickname:STARLINK-30859
+idesg:23177W  
+cosparid:2023-177W
+altkm:558.84441261582
+velkms:7.5838815856109
+velkmh:27302
+onumepoch:4418
+onumnow:66390.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:34:22+00:00
+nowjuliandate:2460551.1563654
+nowepochdate:24241.6563541667
+TLE:
+STARLINK-30859
+1 58371U 23177W   24241.02386940  .00005614  00000+0  43050-3 0  9999
+2 58371  43.0010 147.5559 0001592 273.5776  86.4884 15.02518998 44187

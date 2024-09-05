@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52867
+launchyear:2022
+epoch:24241.6416187
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4126
+meananomly:272.3888
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8412863928
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2191
+eccentricity:0.0001531
+argumentofperigree:87.728
+nickname:STARLINK-4126
+idesg:22062AP 
+cosparid:2022-062AP
+altkm:540.55788564743
+velkms:7.5932923591324
+velkmh:27336
+onumepoch:12217
+onumnow:184359.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:23:56+00:00
+nowjuliandate:2460552.6378969
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4126
+1 52867U 22062AP  24241.64161870  .00003680  00000+0  24912-3 0  9993
+2 52867  53.2191   9.2978 0001531  87.7280 272.3888 15.08853468122177

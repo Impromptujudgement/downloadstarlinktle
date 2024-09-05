@@ -1,0 +1,38 @@
+date:2024-08-29T05:15:40+00:00
+validtle:1
+satid:57355
+launchyear:2023
+epoch:24241.6900505
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6276
+meananomly:89.3178
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.20737712
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001212
+argumentofperigree:270.7526
+nickname:STARLINK-6276
+idesg:23099AD 
+cosparid:2023-099AD
+altkm:558.83863104032
+velkms:7.5838532621933
+velkmh:27302
+onumepoch:6306
+onumnow:94754.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:33:40+00:00
+nowjuliandate:2460551.7192221
+nowepochdate:24242..219212963
+TLE:
+STARLINK-6276
+1 57355U 23099AD  24241.69005050  .00000867  00000+0  79249-4 0  9991
+2 57355  43.0031  28.4181 0001212 270.7526  89.3178 15.02539647 63060

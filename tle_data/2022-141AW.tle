@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54201
+launchyear:2022
+epoch:24242.51652454
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5199
+meananomly:276.9339
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8230388174
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001784
+argumentofperigree:83.1856
+nickname:STARLINK-5199
+idesg:22141AW 
+cosparid:2022-141AW
+altkm:540.43480493081
+velkms:7.5934174220625
+velkmh:27336
+onumepoch:10211
+onumnow:154079.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:23:48+00:00
+nowjuliandate:2460552.6377952
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5199
+1 54201U 22141AW  24242.51652454 -.00005228  00000+0 -31046-3 0  9993
+2 54201  53.2186 335.3660 0001784  83.1856 276.9339 15.08859438102111

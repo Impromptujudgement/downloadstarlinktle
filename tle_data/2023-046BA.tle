@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56141
+launchyear:2023
+epoch:24241.86361659
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5377
+meananomly:82.4716
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1444944573
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.000149
+argumentofperigree:277.5957
+nickname:STARLINK-5377
+idesg:23046BA 
+cosparid:2023-046BA
+altkm:558.65039409111
+velkms:7.5840246748642
+velkmh:27302
+onumepoch:7830
+onumnow:117669.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:43:36+00:00
+nowjuliandate:2460552.6377165
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5377
+1 56141U 23046BA  24241.86361659 -.00004096  00000+0 -28815-3 0  9996
+2 56141  43.0030 296.7677 0001490 277.5957  82.4716 15.02560077 78308

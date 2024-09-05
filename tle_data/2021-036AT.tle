@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48317
+launchyear:2021
+epoch:24241.82282924
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2513
+meananomly:266.3922
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.306315307
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.053
+eccentricity:0.0002264
+argumentofperigree:93.7326
+nickname:STARLINK-2513
+idesg:21036AT 
+cosparid:2021-036AT
+altkm:548.14727431317
+velkms:7.5890559417764
+velkmh:27321
+onumepoch:18408
+onumnow:277320.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:44:52+00:00
+nowjuliandate:2460552.6380432
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2513
+1 48317U 21036AT  24241.82282924  .00004310  00000+0  30794-3 0  9998
+2 48317  53.0530  75.9797 0002264  93.7326 266.3922 15.06414457184087

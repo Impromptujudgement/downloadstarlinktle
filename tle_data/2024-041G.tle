@@ -1,0 +1,38 @@
+date:2024-08-28T06:59:32+00:00
+validtle:1
+satid:59080
+launchyear:2024
+epoch:24240.90461731
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31299
+meananomly:79.5504
+meanmotion:15.4068
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2523232018
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.003
+eccentricity:0.0001373
+argumentofperigree:280.5198
+nickname:STARLINK-31299
+idesg:24041G  
+cosparid:2024-041G
+altkm:443.71999788472
+velkms:7.64778669859
+velkmh:27532
+onumepoch:2975
+onumnow:45841.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T21:42:39+00:00
+nowjuliandate:2460550.7913512
+nowepochdate:24241.2913425926
+TLE:
+STARLINK-31299
+1 59080U 24041G   24240.90461731 -.00001392  00000+0 -26081-4 0  9993
+2 59080  43.0030 147.6501 0001373 280.5198  79.5504 15.40675901 29756

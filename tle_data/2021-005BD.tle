@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47400
+launchyear:2021
+epoch:24242.59966116
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2122
+meananomly:249.7164
+meanmotion:15.0634
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.5418741954
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001017
+argumentofperigree:110.3934
+nickname:STARLINK-2122
+idesg:21005BD 
+cosparid:2021-005BD
+altkm:548.5281899471
+velkms:7.5887674506791
+velkmh:27320
+onumepoch:19963
+onumnow:300718.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:23:31+00:00
+nowjuliandate:2460552.6395759
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2122
+1 47400U 21005BD  24242.59966116 -.00022276  00000+0 -14838-2 0  9996
+2 47400  53.0546   2.4949 0001017 110.3934 249.7164 15.06337601199631

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45576
+launchyear:2020
+epoch:24242.21308119
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1328
+meananomly:274.9291
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.333579972
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001036
+argumentofperigree:85.1816
+nickname:STARLINK-1328
+idesg:20025AX 
+cosparid:2020-025AX
+altkm:548.0139967486
+velkms:7.5892168512072
+velkmh:27321
+onumepoch:24149
+onumnow:363801.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:06:50+00:00
+nowjuliandate:2460553.0283374
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1328
+1 45576U 20025AX  24242.21308119  .00003557  00000+0  25749-3 0  9994
+2 45576  53.0534  59.2236 0001036  85.1816 274.9291 15.06405561241492

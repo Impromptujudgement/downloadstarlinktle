@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53780
+launchyear:2022
+epoch:24242.74472649
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4678
+meananomly:261.1125
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8830331412
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001423
+argumentofperigree:99.0028
+nickname:STARLINK-4678
+idesg:22111H  
+cosparid:2022-111H
+altkm:540.79551879255
+velkms:7.5930544740991
+velkmh:27335
+onumepoch:10880
+onumnow:164167.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:52:24+00:00
+nowjuliandate:2460552.6378243
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4678
+1 53780U 22111H   24242.74472649 -.00000087  00000+0  12603-4 0  9998
+2 53780  53.2161 254.5426 0001423  99.0028 261.1125 15.08839810108807

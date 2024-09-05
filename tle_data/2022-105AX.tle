@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53693
+launchyear:2022
+epoch:24242.23304008
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4566
+meananomly:184.2999
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1442109957
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6562
+eccentricity:6.07E-5
+argumentofperigree:175.823
+nickname:STARLINK-4566
+idesg:22105AX 
+cosparid:2022-105AX
+altkm:566.48501152307
+velkms:7.5776528249695
+velkmh:27280
+onumepoch:10988
+onumnow:164972.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:35:35+00:00
+nowjuliandate:2460552.6378356
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4566
+1 53693U 22105AX  24242.23304008 -.00000020  00000+0  30582-5 0  9995
+2 53693  97.6562 122.0122 0000607 175.8230 184.2999 15.01261527109880

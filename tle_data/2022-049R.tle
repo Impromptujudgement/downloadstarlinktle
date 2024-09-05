@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52466
+launchyear:2022
+epoch:24242.29080376
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3840
+meananomly:81.6210
+meanmotion:15.1541
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6897.8603249778
+altitudeatperigee:517
+altitudeatapogee:522
+inclination:53.213
+eccentricity:0.0003597
+argumentofperigree:278.4377
+nickname:STARLINK-3840
+idesg:22049R  
+cosparid:2022-049R
+altkm:520.26218011424
+velkms:7.6046465614822
+velkmh:27377
+onumepoch:12827
+onumnow:194395.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:58:45+00:00
+nowjuliandate:2460552.6379182
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3840
+1 52466U 22049R   24242.29080376  .00098444  00000+0  50957-2 0  9995
+2 52466  53.2130  40.4072 0003597 278.4377  81.6210 15.15414234128276

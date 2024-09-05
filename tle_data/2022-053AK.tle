@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52689
+launchyear:2022
+epoch:24242.37025253
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4078
+meananomly:287.6347
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8479007866
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2179
+eccentricity:7.82E-5
+argumentofperigree:72.4731
+nickname:STARLINK-4078
+idesg:22053AK 
+cosparid:2022-053AK
+altkm:540.44450851068
+velkms:7.5934203876508
+velkmh:27336
+onumepoch:12661
+onumnow:191047.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:53:10+00:00
+nowjuliandate:2460552.6379034
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4078
+1 52689U 22053AK  24242.37025253  .00002273  00000+0  16079-3 0  9992
+2 52689  53.2179 126.0256 0000782  72.4731 287.6347 15.08851304126610

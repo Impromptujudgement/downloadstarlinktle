@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47551
+launchyear:2021
+epoch:24242.63650146
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1938
+meananomly:285.2869
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3814623504
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0577
+eccentricity:0.0001751
+argumentofperigree:74.8314
+nickname:STARLINK-1938
+idesg:21009D  
+cosparid:2021-009D
+altkm:547.80438529961
+velkms:7.5894726607932
+velkmh:27322
+onumepoch:19744
+onumnow:297429.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:16:34+00:00
+nowjuliandate:2460552.6394673
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1938
+1 47551U 21009D   24242.63650146  .00001268  00000+0  10401-3 0  9994
+2 47551  53.0577   2.3295 0001751  74.8314 285.2869 15.06389938197440

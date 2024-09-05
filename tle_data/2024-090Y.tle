@@ -1,0 +1,38 @@
+date:2024-08-27T21:24:27+00:00
+validtle:1
+satid:59752
+launchyear:2024
+epoch:24240.40170234
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31822
+meananomly:78.2485
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1640993527
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9982
+eccentricity:0.0001066
+argumentofperigree:281.8252
+nickname:STARLINK-31822
+idesg:24090Y  
+cosparid:2024-090Y
+altkm:443.65295385212
+velkms:7.6478125156488
+velkmh:27532
+onumepoch:1766
+onumnow:27216.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T09:38:27+00:00
+nowjuliandate:2460550.3919811
+nowepochdate:24240.8919791667
+TLE:
+STARLINK-31822
+1 59752U 24090Y   24240.40170234  .00003107  00000+0  81602-4 0  9997
+2 59752  42.9982 122.0196 0001066 281.8252  78.2485 15.40705787 17664

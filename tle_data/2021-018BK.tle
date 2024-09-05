@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:32+00:00
+validtle:1
+satid:47844
+launchyear:2021
+epoch:24241.71962462
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2446
+meananomly:266.5315
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3326574559
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001283
+argumentofperigree:93.5821
+nickname:STARLINK-2446
+idesg:21018BK 
+cosparid:2021-018BK
+altkm:548.12847643298
+velkms:7.5890909354986
+velkmh:27321
+onumepoch:19249
+onumnow:289989.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:16:16+00:00
+nowjuliandate:2460552.639266
+nowepochdate:24243.1392592593
+TLE:
+STARLINK-2446
+1 47844U 21018BK  24241.71962462  .00000763  00000+0  70122-4 0  9990
+2 47844  53.0531 236.4420 0001283  93.5821 266.5315 15.06405862192499

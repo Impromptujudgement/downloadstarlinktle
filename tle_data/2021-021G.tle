@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:55+00:00
+validtle:1
+satid:47866
+launchyear:2021
+epoch:24241.73989426
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2320
+meananomly:284.2101
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3135942353
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001175
+argumentofperigree:75.9019
+nickname:STARLINK-2320
+idesg:21021G  
+cosparid:2021-021G
+altkm:547.85597277689
+velkms:7.5893790426931
+velkmh:27322
+onumepoch:19225
+onumnow:289628.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:45:27+00:00
+nowjuliandate:2460552.6381417
+nowepochdate:24243.1381365741
+TLE:
+STARLINK-2320
+1 47866U 21021G   24241.73989426  .00001764  00000+0  13726-3 0  9997
+2 47866  53.0539 256.3524 0001175  75.9019 284.2101 15.06412082192256

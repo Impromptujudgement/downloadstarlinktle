@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55374
+launchyear:2023
+epoch:24241.8910957
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5578
+meananomly:91.0837
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1876010923
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001421
+argumentofperigree:268.9842
+nickname:STARLINK-5578
+idesg:23013AV 
+cosparid:2023-013AV
+altkm:558.84740946438
+velkms:7.583832891238
+velkmh:27302
+onumepoch:8765
+onumnow:131716.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:23:11+00:00
+nowjuliandate:2460552.63777
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5578
+1 55374U 23013AV  24241.89109570  .00003984  00000+0  30973-3 0  9993
+2 55374  43.0018 104.1058 0001421 268.9842  91.0837 15.02546072 87654

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47636
+launchyear:2021
+epoch:24242.67428115
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2013
+meananomly:273.3203
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3957601038
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001597
+argumentofperigree:86.7968
+nickname:STARLINK-2013
+idesg:21012S  
+cosparid:2021-012S
+altkm:548.07388743479
+velkms:7.5891852347501
+velkmh:27321
+onumepoch:19579
+onumnow:294942.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:10:58+00:00
+nowjuliandate:2460552.639407
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2013
+1 47636U 21012S   24242.67428115  .00000174  00000+0  30599-4 0  9991
+2 47636  53.0536  32.1531 0001597  86.7968 273.3203 15.06385273195792

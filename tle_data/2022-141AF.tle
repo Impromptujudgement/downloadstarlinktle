@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54186
+launchyear:2022
+epoch:24242.53496415
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5194
+meananomly:260.6264
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8984812483
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001618
+argumentofperigree:99.4911
+nickname:STARLINK-5194
+idesg:22141AF 
+cosparid:2022-141AF
+altkm:540.84130490696
+velkms:7.5930126956162
+velkmh:27335
+onumepoch:10211
+onumnow:154076.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:50:21+00:00
+nowjuliandate:2460552.6377965
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5194
+1 54186U 22141AF  24242.53496415 -.00001886  00000+0 -10043-3 0  9990
+2 54186  53.2169 335.4832 0001618  99.4911 260.6264 15.08834756102117

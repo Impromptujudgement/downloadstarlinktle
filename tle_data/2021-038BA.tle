@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48401
+launchyear:2021
+epoch:24242.53332707
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2571
+meananomly:272.5983
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.428659009
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001387
+argumentofperigree:87.5165
+nickname:STARLINK-2571
+idesg:21038BA 
+cosparid:2021-038BA
+altkm:548.12723995834
+velkms:7.5891447733341
+velkmh:27321
+onumepoch:18391
+onumnow:277046.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:47:59+00:00
+nowjuliandate:2460552.6380346
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2571
+1 48401U 21038BA  24242.53332707  .00024289  00000+0  16450-2 0  9997
+2 48401  53.0536 322.8041 0001387  87.5165 272.5983 15.06374539183913

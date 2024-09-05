@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54844
+launchyear:2022
+epoch:24242.4189858
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5388
+meananomly:99.5416
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1852341344
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:0.0001129
+argumentofperigree:260.5299
+nickname:STARLINK-5388
+idesg:22177AA 
+cosparid:2022-177AA
+altkm:558.95638121641
+velkms:7.5837125312141
+velkmh:27301
+onumepoch:9215
+onumnow:138470.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:03:20+00:00
+nowjuliandate:2460552.6377846
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5388
+1 54844U 22177AA  24242.41898580 -.00001478  00000+0 -94303-4 0  9995
+2 54844  43.0039 280.8217 0001129 260.5299  99.5416 15.02546841 92157

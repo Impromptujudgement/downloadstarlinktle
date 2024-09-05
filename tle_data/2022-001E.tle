@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50807
+launchyear:2022
+epoch:24143.39413874
+epochday:143
+tleage:100
+tleclassification:U
+active:0
+name:STARLINK-3353
+meananomly:97.4005
+meanmotion:16.1072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6623.0199475976
+altitudeatperigee:239
+altitudeatapogee:251
+inclination:53.2007
+eccentricity:0.0008546
+argumentofperigree:3.9755
+nickname:STARLINK-3353
+idesg:22001E  
+cosparid:2022-001E
+altkm:251.82641610799
+velkms:7.7618607973432
+velkmh:27943
+onumepoch:13333
+onumnow:216361.08
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-05-22T09:27:34+00:00
+nowjuliandate:2460552.637978
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3353
+1 50807U 22001E   24143.39413874  .00946080  53330-3  93494-3 0  9994
+2 50807  53.2007 180.4456 0008546   3.9755  97.4005 16.10715588133339

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48397
+launchyear:2021
+epoch:24241.51230767
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2590
+meananomly:251.1956
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2464663856
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0607
+eccentricity:0.0001521
+argumentofperigree:108.9198
+nickname:STARLINK-2590
+idesg:21038AW 
+cosparid:2021-038AW
+altkm:548.32890726451
+velkms:7.5888242488953
+velkmh:27320
+onumepoch:18439
+onumnow:277795.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:17:43+00:00
+nowjuliandate:2460552.6380351
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2590
+1 48397U 21038AW  24241.51230767  .00022311  00000+0  15106-2 0  9992
+2 48397  53.0607 327.3703 0001521 108.9198 251.1956 15.06433985184392

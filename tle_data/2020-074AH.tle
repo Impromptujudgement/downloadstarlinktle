@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:12+00:00
+validtle:1
+satid:46770
+launchyear:2020
+epoch:24242.49881634
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1932
+meananomly:274.7323
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4153326679
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001319
+argumentofperigree:85.3816
+nickname:STARLINK-1932
+idesg:20074AH 
+cosparid:2020-074AH
+altkm:548.08218117993
+velkms:7.5891868490915
+velkmh:27321
+onumepoch:21249
+onumnow:320100.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:58:18+00:00
+nowjuliandate:2460552.6397229
+nowepochdate:24243.1397222222
+TLE:
+STARLINK-1932
+1 46770U 20074AH  24242.49881634  .00021806  00000+0  14791-2 0  9994
+2 46770  53.0544 318.4918 0001319  85.3816 274.7323 15.06378887212495

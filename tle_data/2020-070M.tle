@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46543
+launchyear:2020
+epoch:24243.05365647
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1693
+meananomly:246.1131
+meanmotion:15.1041
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6913.0729689087
+altitudeatperigee:532
+altitudeatapogee:537
+inclination:53.055
+eccentricity:0.0003594
+argumentofperigree:114.0236
+nickname:STARLINK-1693
+idesg:20070M  
+cosparid:2020-070M
+altkm:536.82348971183
+velkms:7.5947792229174
+velkmh:27341
+onumepoch:21563
+onumnow:325697.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:17:16+00:00
+nowjuliandate:2460553.028229
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1693
+1 46543U 20070M   24243.05365647  .00075035  00000+0  44842-2 0  9995
+2 46543  53.0550 154.7821 0003594 114.0236 246.1131 15.10414843215634

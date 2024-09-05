@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45415
+launchyear:2020
+epoch:24242.97055226
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1316
+meananomly:274.2291
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3809658381
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001487
+argumentofperigree:85.8868
+nickname:STARLINK-1316
+idesg:20019BH 
+cosparid:2020-019BH
+altkm:548.04714518644
+velkms:7.5892064426833
+velkmh:27321
+onumepoch:24597
+onumnow:370535.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:17:36+00:00
+nowjuliandate:2460553.0283517
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1316
+1 45415U 20019BH  24242.97055226  .00007643  00000+0  53158-3 0  9995
+2 45415  53.0533 115.8285 0001487  85.8868 274.2291 15.06390100245972

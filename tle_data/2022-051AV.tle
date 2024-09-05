@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52579
+launchyear:2022
+epoch:24242.37854369
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3893
+meananomly:286.0966
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8848487631
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000163
+argumentofperigree:74.0205
+nickname:STARLINK-3893
+idesg:22051AV 
+cosparid:2022-051AV
+altkm:540.33257735132
+velkms:7.5935634411853
+velkmh:27337
+onumepoch:12731
+onumnow:192101.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:05:06+00:00
+nowjuliandate:2460552.6379148
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3893
+1 52579U 22051AV  24242.37854369  .00000046  00000+0  21006-4 0  9999
+2 52579  53.2154 115.9899 0001630  74.0205 286.0966 15.08839216127314

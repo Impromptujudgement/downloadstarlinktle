@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51891
+launchyear:2022
+epoch:24242.53264461
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3549
+meananomly:272.3492
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8876425001
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001554
+argumentofperigree:87.7678
+nickname:STARLINK-3549
+idesg:22022AR 
+cosparid:2022-022AR
+altkm:540.60425157298
+velkms:7.5932668666958
+velkmh:27336
+onumepoch:13918
+onumnow:210009.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:47:00+00:00
+nowjuliandate:2460552.6379516
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3549
+1 51891U 22022AR  24242.53264461  .00000101  00000+0  24472-4 0  9991
+2 51891  53.2184 340.2992 0001554  87.7678 272.3492 15.08838302139185

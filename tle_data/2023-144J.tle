@@ -1,0 +1,38 @@
+date:2024-08-28T20:14:36+00:00
+validtle:1
+satid:57872
+launchyear:2023
+epoch:24240.80387527
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30446
+meananomly:83.9699
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2228348386
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001405
+argumentofperigree:276.0983
+nickname:STARLINK-30446
+idesg:23144J  
+cosparid:2023-144J
+altkm:558.7619166092
+velkms:7.5839455122097
+velkmh:27302
+onumepoch:5342
+onumnow:80281.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T19:17:35+00:00
+nowjuliandate:2460551.3434731
+nowepochdate:24241.8434722222
+TLE:
+STARLINK-30446
+1 57872U 23144J   24240.80387527  .00000732  00000+0  69258-4 0  9990
+2 57872  43.0045  71.1845 0001405 276.0983  83.9699 15.02534625 53429

@@ -1,0 +1,38 @@
+date:2024-08-29T07:19:39+00:00
+validtle:1
+satid:57081
+launchyear:2023
+epoch:24241.71188028
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6184
+meananomly:85.0877
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.198583311
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001162
+argumentofperigree:274.9832
+nickname:STARLINK-6184
+idesg:23088AK 
+cosparid:2023-088AK
+altkm:558.77068700725
+velkms:7.5839227104073
+velkmh:27302
+onumepoch:6658
+onumnow:100044.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:05:06+00:00
+nowjuliandate:2460551.805318
+nowepochdate:24242.08.3053125
+TLE:
+STARLINK-6184
+1 57081U 23088AK  24241.71188028  .00001169  00000+0  10157-3 0  9993
+2 57081  43.0018 246.5106 0001162 274.9832  85.0877 15.02542504 66586

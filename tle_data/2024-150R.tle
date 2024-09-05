@@ -1,0 +1,38 @@
+date:2024-08-27T13:41:51+00:00
+validtle:1
+satid:60598
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32208
+meananomly:51.0245
+meanmotion:15.8589
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.9709073754
+altitudeatperigee:313
+altitudeatapogee:314
+inclination:53.157
+eccentricity:9.0E-5
+argumentofperigree:91.3185
+nickname:STARLINK-32208
+idesg:24150R  
+cosparid:2024-150R
+altkm:315.05366615538
+velkms:7.7233484027054
+velkmh:27804
+onumepoch:223
+onumnow:3546.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0707336
+nowepochdate:24240.5707291667
+TLE:
+STARLINK-32208
+1 60598U 24150R   24239.91667824 -.01088130  00000+0 -49183-2 0  9992
+2 60598  53.1570  34.2766 0000900  91.3185  51.0245 15.85885725  2233

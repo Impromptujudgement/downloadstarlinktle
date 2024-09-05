@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48660
+launchyear:2021
+epoch:24242.3397871
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2688
+meananomly:268.6133
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3267607158
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001396
+argumentofperigree:91.5016
+nickname:STARLINK-2688
+idesg:21044Y  
+cosparid:2021-044Y
+altkm:548.09237289875
+velkms:7.5891272628612
+velkmh:27321
+onumepoch:18054
+onumnow:271978.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:09:18+00:00
+nowjuliandate:2460552.6380075
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2688
+1 48660U 21044Y   24242.33978710  .00003814  00000+0  27476-3 0  9991
+2 48660  53.0543 103.6619 0001396  91.5016 268.6133 15.06407786180544

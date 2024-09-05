@@ -1,0 +1,38 @@
+date:2024-08-28T20:15:59+00:00
+validtle:1
+satid:57870
+launchyear:2023
+epoch:24240.85019854
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30460
+meananomly:94.1662
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1959208577
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0052
+eccentricity:0.0001157
+argumentofperigree:265.9048
+nickname:STARLINK-30460
+idesg:23144G  
+cosparid:2023-144G
+altkm:558.89571484434
+velkms:7.583784644424
+velkmh:27302
+onumepoch:5355
+onumnow:80476.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:24:17+00:00
+nowjuliandate:2460551.3444365
+nowepochdate:24241.8444328704
+TLE:
+STARLINK-30460
+1 57870U 23144G   24240.85019854  .00000544  00000+0  55344-4 0  9990
+2 57870  43.0052  84.3091 0001157 265.9048  94.1662 15.02543369 53550

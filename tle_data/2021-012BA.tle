@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47668
+launchyear:2021
+epoch:24241.73805667
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2059
+meananomly:287.1157
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3262979264
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0565
+eccentricity:0.0001996
+argumentofperigree:73.005
+nickname:STARLINK-2059
+idesg:21012BA 
+cosparid:2021-012BA
+altkm:547.66206858753
+velkms:7.5895984181993
+velkmh:27323
+onumepoch:19617
+onumnow:295533.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:42:48+00:00
+nowjuliandate:2460552.6394284
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2059
+1 47668U 21012BA  24241.73805667  .00006221  00000+0  43607-3 0  9995
+2 47668  53.0565  36.3551 0001996  73.0050 287.1157 15.06407937196177

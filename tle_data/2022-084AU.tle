@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53231
+launchyear:2022
+epoch:24241.90441098
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4370
+meananomly:266.5070
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1378151047
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6534
+eccentricity:0.0002043
+argumentofperigree:93.6387
+nickname:STARLINK-4370
+idesg:22084AU 
+cosparid:2022-084AU
+altkm:566.14518343201
+velkms:7.5780203343691
+velkmh:27281
+onumepoch:11563
+onumnow:173609.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:42:21+00:00
+nowjuliandate:2460552.6378719
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4370
+1 53231U 22084AU  24241.90441098  .00000525  00000+0  45421-4 0  9999
+2 53231  97.6534 301.7031 0002043  93.6387 266.5070 15.01263602115638

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53168
+launchyear:2022
+epoch:24241.48521321
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4105
+meananomly:262.8595
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8416837451
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001378
+argumentofperigree:97.2554
+nickname:STARLINK-4105
+idesg:22083AN 
+cosparid:2022-083AN
+altkm:540.72061445655
+velkms:7.5931140197459
+velkmh:27335
+onumepoch:11709
+onumnow:176696.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:38:42+00:00
+nowjuliandate:2460552.637879
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4105
+1 53168U 22083AN  24241.48521321  .00002432  00000+0  17077-3 0  9992
+2 53168  53.2165 149.9970 0001378  97.2554 262.8595 15.08853338117096

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56376
+launchyear:2023
+epoch:24242.01437488
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6188
+meananomly:91.3098
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1970227745
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.000117
+argumentofperigree:268.761
+nickname:STARLINK-6188
+idesg:23061C  
+cosparid:2023-061C
+altkm:558.85678148026
+velkms:7.5838277859559
+velkmh:27302
+onumepoch:7315
+onumnow:109927.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:20:42+00:00
+nowjuliandate:2460552.6377005
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6188
+1 56376U 23061C   24242.01437488  .00000923  00000+0  83374-4 0  9990
+2 56376  43.0026 347.9103 0001170 268.7610  91.3098 15.02543011 73158

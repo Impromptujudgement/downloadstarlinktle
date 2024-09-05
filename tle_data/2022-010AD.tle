@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73367
+launchyear:2022
+epoch:23051.42756944
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3367
+meananomly:330.3002
+meanmotion:15.9955
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.8009869998
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:70
+eccentricity:0.0061371
+argumentofperigree:161.9722
+nickname:STARLINK-3367
+idesg:22010AD 
+cosparid:2022-010AD
+altkm:246.39975226363
+velkms:7.784436588802
+velkmh:28024
+onumepoch:1
+onumnow:19075.81
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:15:42+00:00
+nowjuliandate:2460552.6379699
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3367
+1 73367C 22010AD  23051.42756944 -.01056476  00000-0 -18078-2 0   519
+2 73367  70.0000 143.3332 0061371 161.9722 330.3002 15.99551567    15

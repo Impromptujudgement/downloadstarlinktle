@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48322
+launchyear:2021
+epoch:24241.86614586
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2477
+meananomly:278.1635
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3109094578
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0567
+eccentricity:0.0002065
+argumentofperigree:81.9588
+nickname:STARLINK-2477
+idesg:21036AY 
+cosparid:2021-036AY
+altkm:547.8504770624
+velkms:7.5893835964852
+velkmh:27322
+onumepoch:18395
+onumnow:277123.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:47:15+00:00
+nowjuliandate:2460552.6380429
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2477
+1 48322U 21036AY  24241.86614586  .00011720  00000+0  80412-3 0  9996
+2 48322  53.0567  85.7826 0002065  81.9588 278.1635 15.06412958183954

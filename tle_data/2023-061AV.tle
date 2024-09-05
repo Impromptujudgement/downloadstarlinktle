@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56417
+launchyear:2023
+epoch:24241.98133689
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6261
+meananomly:95.8756
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1775238368
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0024
+eccentricity:9.03E-5
+argumentofperigree:264.1983
+nickname:STARLINK-6261
+idesg:23061AV 
+cosparid:2023-061AV
+altkm:558.88278910573
+velkms:7.5837887401676
+velkmh:27302
+onumepoch:7330
+onumnow:110154.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:33:08+00:00
+nowjuliandate:2460552.6377022
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6261
+1 56417U 23061AV  24241.98133689  .00001789  00000+0  14743-3 0  9991
+2 56417  43.0024 334.6591 0000903 264.1983  95.8756 15.02549346 73306

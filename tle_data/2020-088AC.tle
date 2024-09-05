@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:47148
+launchyear:2020
+epoch:24242.35360777
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1861
+meananomly:260.2001
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3530417618
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001489
+argumentofperigree:99.9157
+nickname:STARLINK-1861
+idesg:20088AC 
+cosparid:2020-088AC
+altkm:548.27073067253
+velkms:7.5889462447097
+velkmh:27320
+onumepoch:20822
+onumnow:313674.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:29:12+00:00
+nowjuliandate:2460552.6396672
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1861
+1 47148U 20088AC  24242.35360777  .00001006  00000+0  86420-4 0  9994
+2 47148  53.0539 273.5936 0001489  99.9157 260.2001 15.06399211208220

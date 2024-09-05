@@ -1,0 +1,38 @@
+date:2024-08-28T09:37:13+00:00
+validtle:1
+satid:58510
+launchyear:2023
+epoch:24240.78839167
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30989
+meananomly:81.9184
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1924458213
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:8.73E-5
+argumentofperigree:278.156
+nickname:STARLINK-30989
+idesg:23191C  
+cosparid:2023-191C
+altkm:558.74834144114
+velkms:7.5839437819678
+velkmh:27302
+onumepoch:4139
+onumnow:62199.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:55:17+00:00
+nowjuliandate:2460550.9008469
+nowepochdate:24241.4008449074
+TLE:
+STARLINK-30989
+1 58510U 23191C   24240.78839167  .00001316  00000+0  11247-3 0  9994
+2 58510  43.0014 263.2809 0000873 278.1560  81.9184 15.02544498 41390

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55788
+launchyear:2023
+epoch:24242.51126399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5804
+meananomly:93.2531
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2030197669
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0013
+eccentricity:0.0002427
+argumentofperigree:266.8351
+nickname:STARLINK-5804
+idesg:23028AZ 
+cosparid:2023-028AZ
+altkm:574.5860357171
+velkms:7.573751854729
+velkmh:27266
+onumepoch:8355
+onumnow:125194.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:16:13+00:00
+nowjuliandate:2460552.6377352
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5804
+1 55788U 23028AZ  24242.51126399 -.00000792  00000+0 -58631-4 0  9994
+2 55788  70.0013 169.4096 0002427 266.8351  93.2531 14.98327395 83552

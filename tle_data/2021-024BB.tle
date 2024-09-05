@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:50+00:00
+validtle:1
+satid:48026
+launchyear:2021
+epoch:24242.38817083
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2278
+meananomly:283.5620
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4034101218
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.0001847
+argumentofperigree:76.5574
+nickname:STARLINK-2278
+idesg:21024BB 
+cosparid:2021-024BB
+altkm:547.84568351083
+velkms:7.5894394149509
+velkmh:27322
+onumepoch:19002
+onumnow:286254.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:18:58+00:00
+nowjuliandate:2460552.6380858
+nowepochdate:24243.1380787037
+TLE:
+STARLINK-2278
+1 48026U 21024BB  24242.38817083 -.00014667  00000+0 -96821-3 0  9995
+2 48026  53.0535 318.4392 0001847  76.5574 283.5620 15.06382777190021

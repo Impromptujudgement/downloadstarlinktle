@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52570
+launchyear:2022
+epoch:24242.34494108
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3924
+meananomly:266.5260
+meanmotion:15.0888
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7748437896
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2165
+eccentricity:0.0001214
+argumentofperigree:93.5871
+nickname:STARLINK-3924
+idesg:22051AP 
+cosparid:2022-051AP
+altkm:540.58615247641
+velkms:7.5932249586755
+velkmh:27336
+onumepoch:12751
+onumnow:192408.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:16:43+00:00
+nowjuliandate:2460552.6379158
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3924
+1 52570U 22051AP  24242.34494108  .00005270  00000+0  34860-3 0  9993
+2 52570  53.2165 101.1360 0001214  93.5871 266.5260 15.08875206127511

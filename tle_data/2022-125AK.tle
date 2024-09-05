@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53997
+launchyear:2022
+epoch:24242.17340051
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5130
+meananomly:278.4583
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8540995027
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001384
+argumentofperigree:81.6566
+nickname:STARLINK-5130
+idesg:22125AK 
+cosparid:2022-125AK
+altkm:540.4737652369
+velkms:7.5933916788023
+velkmh:27336
+onumepoch:10550
+onumnow:159198.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:09:42+00:00
+nowjuliandate:2460552.6378088
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5130
+1 53997U 22125AK  24242.17340051  .00002427  00000+0  17046-3 0  9995
+2 53997  53.2170 187.1344 0001384  81.6566 278.4583 15.08849276105507

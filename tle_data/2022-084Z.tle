@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53212
+launchyear:2022
+epoch:24242.73756308
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4416
+meananomly:177.7807
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.158775188
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6533
+eccentricity:0.0004796
+argumentofperigree:182.3395
+nickname:STARLINK-4416
+idesg:22084Z  
+cosparid:2022-084Z
+altkm:569.40663444957
+velkms:7.574471957027
+velkmh:27268
+onumepoch:11613
+onumnow:174346.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:42:05+00:00
+nowjuliandate:2460552.6378688
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4416
+1 53212U 22084Z   24242.73756308 -.00000093  00000+0 -26552-5 0  9990
+2 53212  97.6533 302.5068 0004796 182.3395 177.7807 15.01256802116138

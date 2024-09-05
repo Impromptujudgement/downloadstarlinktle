@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55277
+launchyear:2023
+epoch:24242.43430063
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5299
+meananomly:91.9933
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2055648358
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0026
+eccentricity:0.0002754
+argumentofperigree:268.091
+nickname:STARLINK-5299
+idesg:23010J  
+cosparid:2023-010J
+altkm:574.55965753418
+velkms:7.5737819810675
+velkmh:27266
+onumepoch:8900
+onumnow:133361.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:24+00:00
+nowjuliandate:2460552.6377741
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5299
+1 55277U 23010J   24242.43430063 -.00000233  00000+0 -11709-4 0  9990
+2 55277  70.0026   9.5260 0002754 268.0910  91.9933 14.98326572 89007

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47399
+launchyear:2021
+epoch:24242.10760345
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2121
+meananomly:271.4791
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3733863743
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001645
+argumentofperigree:88.6387
+nickname:STARLINK-2121
+idesg:21005BC 
+cosparid:2021-005BC
+altkm:548.08624957079
+velkms:7.5891594609631
+velkmh:27321
+onumepoch:19927
+onumnow:300194.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:34:57+00:00
+nowjuliandate:2460552.6395764
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2121
+1 47399U 21005BC  24242.10760345 -.00001417  00000+0 -76277-4 0  9997
+2 47399  53.0544  24.9410 0001645  88.6387 271.4791 15.06392573199271

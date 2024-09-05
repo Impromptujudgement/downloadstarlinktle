@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52675
+launchyear:2022
+epoch:24241.95809504
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3934
+meananomly:265.1294
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.82975709
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001577
+argumentofperigree:94.9878
+nickname:STARLINK-3934
+idesg:22053V  
+cosparid:2022-053V
+altkm:540.68273919066
+velkms:7.5931490474484
+velkmh:27335
+onumepoch:12697
+onumnow:191597.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:59:39+00:00
+nowjuliandate:2460552.6378992
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3934
+1 52675U 22053V   24241.95809504  .00004844  00000+0  32211-3 0  9991
+2 52675  53.2153 127.8752 0001577  94.9878 265.1294 15.08857240126977

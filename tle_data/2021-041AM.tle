@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48588
+launchyear:2021
+epoch:24242.34623959
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2244
+meananomly:268.9605
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3128035129
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001546
+argumentofperigree:91.1561
+nickname:STARLINK-2244
+idesg:21041AM 
+cosparid:2021-041AM
+altkm:548.07438173526
+velkms:7.589139341503
+velkmh:27321
+onumepoch:18164
+onumnow:273636.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:18:35+00:00
+nowjuliandate:2460552.6380199
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2244
+1 48588U 21041AM  24242.34623959  .00017826  00000+0  12122-2 0  9999
+2 48588  53.0534 113.6690 0001546  91.1561 268.9605 15.06412340181642

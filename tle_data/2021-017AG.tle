@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47752
+launchyear:2021
+epoch:24242.13844829
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2169
+meananomly:261.9638
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3358663421
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:7.85E-5
+argumentofperigree:98.144
+nickname:STARLINK-2169
+idesg:21017AG 
+cosparid:2021-017AG
+altkm:548.15388211296
+velkms:7.5890648582562
+velkmh:27321
+onumepoch:19313
+onumnow:290947.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:19:22+00:00
+nowjuliandate:2460552.639392
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2169
+1 47752U 21017AG  24242.13844829  .00005077  00000+0  35944-3 0  9995
+2 47752  53.0533 189.5578 0000785  98.1440 261.9638 15.06404815193131

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47982
+launchyear:2021
+epoch:24242.29877666
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2317
+meananomly:267.7594
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3402490676
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001478
+argumentofperigree:92.3564
+nickname:STARLINK-2317
+idesg:21024F  
+cosparid:2021-024F
+altkm:548.12251042059
+velkms:7.5891016217715
+velkmh:27321
+onumepoch:19099
+onumnow:287720.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:10:14+00:00
+nowjuliandate:2460552.638057
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2317
+1 47982U 21024F   24242.29877666 -.00000315  00000+0 -22173-5 0  9994
+2 47982  53.0544 248.8415 0001478  92.3564 267.7594 15.06403385190997

@@ -1,0 +1,38 @@
+date:2024-08-28T21:30:38+00:00
+validtle:1
+satid:57705
+launchyear:2023
+epoch:24241.37778412
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30342
+meananomly:92.4740
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2052840863
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9991
+eccentricity:0.000132
+argumentofperigree:267.5951
+nickname:STARLINK-30342
+idesg:23129H  
+cosparid:2023-129H
+altkm:558.88565364432
+velkms:7.5838007400984
+velkmh:27302
+onumepoch:5667
+onumnow:85156.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:04:01+00:00
+nowjuliandate:2460551.3962786
+nowepochdate:24241.8962731481
+TLE:
+STARLINK-30342
+1 57705U 23129H   24241.37778412  .00001652  00000+0  13735-3 0  9998
+2 57705  42.9991 273.6785 0001320 267.5951  92.4740 15.02540327 56678

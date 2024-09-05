@@ -1,0 +1,38 @@
+date:2024-08-27T18:33:59+00:00
+validtle:1
+satid:59887
+launchyear:2024
+epoch:24240.24650816
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31976
+meananomly:83.8339
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1672018696
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9989
+eccentricity:9.43E-5
+argumentofperigree:276.2409
+nickname:STARLINK-31976
+idesg:24100C  
+cosparid:2024-100C
+altkm:443.73513443156
+velkms:7.6477221702649
+velkmh:27532
+onumepoch:1531
+onumnow:23584.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:54:58+00:00
+nowjuliandate:2460550.2736098
+nowepochdate:24240..773599537
+TLE:
+STARLINK-31976
+1 59887U 24100C   24240.24650816  .00001947  00000+0  53844-4 0  9996
+2 59887  42.9989  68.4920 0000943 276.2409  83.8339 15.40704736 15316

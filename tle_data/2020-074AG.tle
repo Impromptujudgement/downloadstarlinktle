@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:12+00:00
+validtle:1
+satid:46769
+launchyear:2020
+epoch:22096.47914675
+epochday:96
+tleage:877
+tleclassification:C
+active:0
+name:STARLINK-1919
+meananomly:88.5037
+meanmotion:16.0060
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6650.8927969813
+altitudeatperigee:268
+altitudeatapogee:278
+inclination:53.0439
+eccentricity:0.0007565
+argumentofperigree:339.7723
+nickname:STARLINK-1919
+idesg:20074AG 
+cosparid:2020-074AG
+altkm:277.9797178787
+velkms:7.7467222956258
+velkmh:27888
+onumepoch:1
+onumnow:34375.47
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-06T11:29:58+00:00
+nowjuliandate:2460552.6397249
+nowepochdate:24243.1397222222
+TLE:
+STARLINK-1919
+1 46769C 20074AG  22096.47914675  .03386013  00000-0  51040-2 0   961
+2 46769  53.0439 236.4404 0007565 339.7723  88.5037 16.00600819    11

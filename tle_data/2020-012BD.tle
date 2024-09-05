@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45229
+launchyear:2020
+epoch:24242.58443872
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1226
+meananomly:269.8707
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.347862154
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001172
+argumentofperigree:90.2416
+nickname:STARLINK-1226
+idesg:20012BD 
+cosparid:2020-012BD
+altkm:548.09174382728
+velkms:7.5891394878028
+velkmh:27321
+onumepoch:25132
+onumnow:378602.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:01:36+00:00
+nowjuliandate:2460553.0283794
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1226
+1 45229U 20012BD  24242.58443872  .00011293  00000+0  77577-3 0  9993
+2 45229  53.0531 347.5651 0001172  90.2416 269.8707 15.06400901251323

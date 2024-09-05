@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:59+00:00
+validtle:1
+satid:45084
+launchyear:2020
+epoch:24243.24421064
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1173
+meananomly:270.3084
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3111546429
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001349
+argumentofperigree:89.8059
+nickname:STARLINK-1173
+idesg:20006AS 
+cosparid:2020-006AS
+altkm:548.04827878587
+velkms:7.5891670356612
+velkmh:27321
+onumepoch:25360
+onumnow:382030.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:51:40+00:00
+nowjuliandate:2460553.0284688
+nowepochdate:24243.5284606481
+TLE:
+STARLINK-1173
+1 45084U 20006AS  24243.24421064  .00002277  00000+0  17166-3 0  9998
+2 45084  53.0537 224.5984 0001349  89.8059 270.3084 15.06412878253608

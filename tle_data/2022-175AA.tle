@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54782
+launchyear:2022
+epoch:24242.37748457
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5437
+meananomly:312.9507
+meanmotion:15.5490
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6780.588131668
+altitudeatperigee:402
+altitudeatapogee:403
+inclination:53.214
+eccentricity:0.0001371
+argumentofperigree:47.162
+nickname:STARLINK-5437
+idesg:22175AA 
+cosparid:2022-175AA
+altkm:402.73295981234
+velkms:7.6705310328963
+velkmh:27614
+onumepoch:9521
+onumnow:148053.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:03:35+00:00
+nowjuliandate:2460552.637791
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5437
+1 54782U 22175AA  24242.37748457  .00098975  00000+0  14447-2 0  9991
+2 54782  53.2140 273.2282 0001371  47.1620 312.9507 15.54898013 95219

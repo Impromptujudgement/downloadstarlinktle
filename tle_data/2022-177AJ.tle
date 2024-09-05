@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54852
+launchyear:2022
+epoch:24242.34289539
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5418
+meananomly:97.5963
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2146196445
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9996
+eccentricity:0.0001301
+argumentofperigree:262.4732
+nickname:STARLINK-5418
+idesg:22177AJ 
+cosparid:2022-177AJ
+altkm:558.974802726
+velkms:7.5837084184137
+velkmh:27301
+onumepoch:9228
+onumnow:138666.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:13:46+00:00
+nowjuliandate:2460552.637784
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5418
+1 54852U 22177AJ  24242.34289539  .00000507  00000+0  52601-4 0  9999
+2 54852  42.9996 268.9834 0001301 262.4732  97.5963 15.02537294 92284

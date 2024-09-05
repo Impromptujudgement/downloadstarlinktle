@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55783
+launchyear:2023
+epoch:24242.52378273
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5825
+meananomly:85.4830
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1742170474
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0013
+eccentricity:0.0002418
+argumentofperigree:274.6052
+nickname:STARLINK-5825
+idesg:23028AU 
+cosparid:2023-028AU
+altkm:574.32914969708
+velkms:7.5740160906999
+velkmh:27266
+onumepoch:8356
+onumnow:125210.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:34:15+00:00
+nowjuliandate:2460552.637736
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5825
+1 55783U 23028AU  24242.52378273 -.00001343  00000+0 -10477-3 0  9998
+2 55783  70.0013 169.4528 0002418 274.6052  85.4830 14.98336709 83567

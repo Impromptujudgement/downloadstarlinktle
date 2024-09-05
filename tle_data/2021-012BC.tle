@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47670
+launchyear:2021
+epoch:24242.1508083
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2062
+meananomly:101.2346
+meanmotion:15.0658
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6924.7965712654
+altitudeatperigee:544
+altitudeatapogee:549
+inclination:53.0681
+eccentricity:0.0003853
+argumentofperigree:258.821
+nickname:STARLINK-2062
+idesg:21012BC 
+cosparid:2021-012BC
+altkm:548.06099337948
+velkms:7.5888717593306
+velkmh:27320
+onumepoch:19571
+onumnow:294867.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:37:10+00:00
+nowjuliandate:2460552.6394256
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2062
+1 47670U 21012BC  24242.15080830 -.00037151  00000+0 -24756-2 0  9993
+2 47670  53.0681  34.5050 0003853 258.8210 101.2346 15.06580794195716

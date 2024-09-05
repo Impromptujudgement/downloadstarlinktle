@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45417
+launchyear:2020
+epoch:24243.00833074
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1286
+meananomly:262.6397
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3645564631
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001288
+argumentofperigree:97.4738
+nickname:STARLINK-1286
+idesg:20019BK 
+cosparid:2020-019BK
+altkm:548.22093458866
+velkms:7.5890070893682
+velkmh:27320
+onumepoch:24582
+onumnow:370309.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:12:00+00:00
+nowjuliandate:2460553.0283513
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1286
+1 45417U 20019BK  24243.00833074  .00031085  00000+0  20968-2 0  9996
+2 45417  53.0535 145.6561 0001288  97.4738 262.6397 15.06395454245827

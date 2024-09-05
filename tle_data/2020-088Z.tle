@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47145
+launchyear:2020
+epoch:22214.733125
+epochday:214
+tleage:759
+tleclassification:C
+active:0
+name:STARLINK-1858
+meananomly:177.0042
+meanmotion:15.9332
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6671.1408124078
+altitudeatperigee:289
+altitudeatapogee:297
+inclination:53.0434
+eccentricity:0.0006543
+argumentofperigree:313.2629
+nickname:STARLINK-1858
+idesg:20088Z  
+cosparid:2020-088Z
+altkm:300.45177585253
+velkms:7.7299722798894
+velkmh:27828
+onumepoch:1
+onumnow:32334.92
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-02T17:35:42+00:00
+nowjuliandate:2460552.6395985
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1858
+1 47145C 20088Z   22214.73312500  .00937936  00000-0  24384-2 0  2141
+2 47145  53.0434 350.2419 0006543 313.2629 177.0042 15.93319219    15

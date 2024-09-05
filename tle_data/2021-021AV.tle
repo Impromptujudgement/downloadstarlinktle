@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:01+00:00
+validtle:1
+satid:47903
+launchyear:2021
+epoch:24241.71775275
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2363
+meananomly:258.6350
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3372455207
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0517
+eccentricity:0.0001514
+argumentofperigree:101.4809
+nickname:STARLINK-2363
+idesg:21021AV 
+cosparid:2021-021AV
+altkm:548.28581401457
+velkms:7.5889210852353
+velkmh:27320
+onumepoch:19257
+onumnow:290109.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:13:34+00:00
+nowjuliandate:2460552.6382069
+nowepochdate:24243.1382060185
+TLE:
+STARLINK-2363
+1 47903U 21021AV  24241.71775275  .00003699  00000+0  26707-3 0  9994
+2 47903  53.0517 246.4423 0001514 101.4809 258.6350 15.06404365192572

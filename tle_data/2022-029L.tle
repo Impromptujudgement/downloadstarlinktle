@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52098
+launchyear:2022
+epoch:24242.78932548
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3665
+meananomly:267.7993
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8778949988
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2103
+eccentricity:0.0002286
+argumentofperigree:92.3261
+nickname:STARLINK-3665
+idesg:22029L  
+cosparid:2022-029L
+altkm:540.69862532641
+velkms:7.5931579756416
+velkmh:27335
+onumepoch:13658
+onumnow:206082.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:56:38+00:00
+nowjuliandate:2460552.6379379
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3665
+1 52098U 22029L   24242.78932548  .00000682  00000+0  60955-4 0  9993
+2 52098  53.2103  69.1428 0002286  92.3261 267.7993 15.08841491136588

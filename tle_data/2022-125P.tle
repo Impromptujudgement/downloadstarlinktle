@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53977
+launchyear:2022
+epoch:24241.63656988
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5094
+meananomly:252.9817
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8665642213
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.0001613
+argumentofperigree:107.1352
+nickname:STARLINK-5094
+idesg:22125P  
+cosparid:2022-125P
+altkm:540.95376220837
+velkms:7.5928718275665
+velkmh:27334
+onumepoch:10514
+onumnow:158662.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:16:40+00:00
+nowjuliandate:2460552.6378053
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5094
+1 53977U 22125P   24241.63656988  .00000912  00000+0  75397-4 0  9993
+2 53977  53.2179 204.4255 0001613 107.1352 252.9817 15.08845198105146

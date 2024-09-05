@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56333
+launchyear:2023
+epoch:24241.90409819
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5553
+meananomly:201.2448
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1302756781
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6538
+eccentricity:0.0002321
+argumentofperigree:158.8872
+nickname:STARLINK-5553
+idesg:23058S  
+cosparid:2023-058S
+altkm:567.55284944323
+velkms:7.5764795746753
+velkmh:27275
+onumepoch:7444
+onumnow:111772.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:41:54+00:00
+nowjuliandate:2460552.6377056
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5553
+1 56333U 23058S   24241.90409819  .00000577  00000+0  49481-4 0  9999
+2 56333  97.6538 241.6821 0002321 158.8872 201.2448 15.01266048 74444

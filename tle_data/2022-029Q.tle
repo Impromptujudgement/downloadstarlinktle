@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52102
+launchyear:2022
+epoch:24242.78384434
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3709
+meananomly:278.4329
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8578040674
+altitudeatperigee:540
+altitudeatapogee:540
+inclination:53.2163
+eccentricity:1.99E-5
+argumentofperigree:81.6686
+nickname:STARLINK-3709
+idesg:22029Q  
+cosparid:2022-029Q
+altkm:540.59790161984
+velkms:7.593257494529
+velkmh:27336
+onumepoch:13671
+onumnow:206279.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:48:44+00:00
+nowjuliandate:2460552.6379373
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3709
+1 52102U 22029Q   24242.78384434  .00006110  00000+0  40153-3 0  9993
+2 52102  53.2163  59.1670 0000199  81.6686 278.4329 15.08848064136711

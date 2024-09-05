@@ -1,0 +1,38 @@
+date:2024-08-27T14:13:53+00:00
+validtle:1
+satid:60413
+launchyear:2024
+epoch:24240.16667824
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32178
+meananomly:150.0847
+meanmotion:15.7862
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6712.4992259719
+altitudeatperigee:334
+altitudeatapogee:335
+inclination:53.1525
+eccentricity:8.63E-5
+argumentofperigree:71.8163
+nickname:STARLINK-32178
+idesg:24141R  
+cosparid:2024-141R
+altkm:344.99274244089
+velkms:7.7013463619573
+velkmh:27725
+onumepoch:380
+onumnow:5996.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T04:00:01+00:00
+nowjuliandate:2460550.0929837
+nowepochdate:24240..592974537
+TLE:
+STARLINK-32178
+1 60413U 24141R   24240.16667824 -.00641718  00000+0 -38775-2 0  9998
+2 60413  53.1525 324.7660 0000863  71.8163 150.0847 15.78616302  3803

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52339
+launchyear:2022
+epoch:24242.5795187
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3792
+meananomly:272.0915
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8716289845
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001488
+argumentofperigree:88.0247
+nickname:STARLINK-3792
+idesg:22045J  
+cosparid:2022-045J
+altkm:540.59452666586
+velkms:7.5932687685111
+velkmh:27336
+onumepoch:13154
+onumnow:198481.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:54:30+00:00
+nowjuliandate:2460552.6379256
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3792
+1 52339U 22045J   24242.57951870  .00000781  00000+0  67140-4 0  9998
+2 52339  53.2165 189.7298 0001488  88.0247 272.0915 15.08843541131549

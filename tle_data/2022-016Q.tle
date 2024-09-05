@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51728
+launchyear:2022
+epoch:24242.46272639
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3448
+meananomly:271.1508
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8958311613
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001497
+argumentofperigree:88.9656
+nickname:STARLINK-3448
+idesg:22016Q  
+cosparid:2022-016Q
+altkm:540.6354440564
+velkms:7.5932371238573
+velkmh:27336
+onumepoch:14057
+onumnow:212107.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:06:20+00:00
+nowjuliandate:2460552.6379605
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3448
+1 51728U 22016Q   24242.46272639 -.00000327  00000+0 -24400-5 0  9995
+2 51728  53.2161 300.6099 0001497  88.9656 271.1508 15.08835623140575

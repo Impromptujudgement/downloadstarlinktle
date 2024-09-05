@@ -1,0 +1,38 @@
+date:2024-08-28T06:47:42+00:00
+validtle:1
+satid:59152
+launchyear:2024
+epoch:24239.62084802
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31312
+meananomly:89.3513
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2082906251
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0042
+eccentricity:0.0001211
+argumentofperigree:270.7204
+nickname:STARLINK-31312
+idesg:24044A  
+cosparid:2024-044A
+altkm:443.83659508892
+velkms:7.6476314532758
+velkmh:27531
+onumepoch:2824
+onumnow:43530.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T14:54:01+00:00
+nowjuliandate:2460550.7831253
+nowepochdate:24241.007.283125
+TLE:
+STARLINK-31312
+1 59152U 24044A   24239.62084802  .00004059  00000+0  10440-3 0  9995
+2 59152  43.0042   3.6858 0001211 270.7204  89.3513 15.40690817 28240

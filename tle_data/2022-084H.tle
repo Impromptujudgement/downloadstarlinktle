@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53196
+launchyear:2022
+epoch:24242.41910515
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4407
+meananomly:241.3400
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1292030222
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6553
+eccentricity:5.42E-5
+argumentofperigree:118.7879
+nickname:STARLINK-4407
+idesg:22084H  
+cosparid:2022-084H
+altkm:566.23028428607
+velkms:7.5779227274636
+velkmh:27281
+onumepoch:11608
+onumnow:174277.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:03:31+00:00
+nowjuliandate:2460552.637871
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4407
+1 53196U 22084H   24242.41910515  .00000164  00000+0  17389-4 0  9992
+2 53196  97.6553 302.2175 0000542 118.7879 241.3400 15.01266396116082

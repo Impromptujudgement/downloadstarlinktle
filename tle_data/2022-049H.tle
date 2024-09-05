@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52458
+launchyear:2022
+epoch:24241.75067099
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3898
+meananomly:273.4019
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8501962661
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001158
+argumentofperigree:86.7106
+nickname:STARLINK-3898
+idesg:22049H  
+cosparid:2022-049H
+altkm:540.56309013169
+velkms:7.5932915267347
+velkmh:27336
+onumepoch:12788
+onumnow:192972.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:00:58+00:00
+nowjuliandate:2460552.6379196
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3898
+1 52458U 22049H   24241.75067099  .00001627  00000+0  12028-3 0  9998
+2 52458  53.2168  53.8045 0001158  86.7106 273.4019 15.08850553127881

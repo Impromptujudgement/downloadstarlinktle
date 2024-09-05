@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47645
+launchyear:2021
+epoch:24242.1407755
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2027
+meananomly:265.2327
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3579486063
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0552
+eccentricity:0.0001643
+argumentofperigree:94.8849
+nickname:STARLINK-2027
+idesg:21012AB 
+cosparid:2021-012AB
+altkm:548.19487796937
+velkms:7.5890320214175
+velkmh:27321
+onumepoch:19584
+onumnow:295027.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:22:43+00:00
+nowjuliandate:2460552.6394488
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-2027
+1 47645U 21012AB  24242.14077550  .00001957  00000+0  15026-3 0  9993
+2 47645  53.0552  24.7910 0001643  94.8849 265.2327 15.06397610195849

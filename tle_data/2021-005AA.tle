@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47373
+launchyear:2021
+epoch:24241.18424544
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2092
+meananomly:277.7224
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3279038978
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0548
+eccentricity:0.0001415
+argumentofperigree:82.3926
+nickname:STARLINK-2092
+idesg:21005AA 
+cosparid:2021-005AA
+altkm:547.93849758519
+velkms:7.5892964583073
+velkmh:27321
+onumepoch:19886
+onumnow:299593.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:25:19+00:00
+nowjuliandate:2460552.6395971
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-2092
+1 47373U 21005AA  24241.18424544  .00008169  00000+0  56658-3 0  9993
+2 47373  53.0548  48.8452 0001415  82.3926 277.7224 15.06407413198867

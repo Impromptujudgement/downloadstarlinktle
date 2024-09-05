@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:44+00:00
+validtle:1
+satid:44768
+launchyear:2019
+epoch:24242.64157176
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1063
+meananomly:267.7927
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3427132044
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.000146
+argumentofperigree:92.3229
+nickname:STARLINK-1063
+idesg:19074BH 
+cosparid:2019-074BH
+altkm:548.12379950101
+velkms:7.5891015565902
+velkmh:27321
+onumepoch:26424
+onumnow:398065.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:23:52+00:00
+nowjuliandate:2460553.0296775
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1063
+1 44768U 19074BH  24242.64157176  .00001705  00000+0  13332-3 0  9998
+2 44768  53.0535 207.3030 0001460  92.3229 267.7927 15.06402581264245

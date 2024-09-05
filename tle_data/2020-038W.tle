@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45750
+launchyear:2020
+epoch:24243.18431696
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1391
+meananomly:264.6830
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2814107903
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001406
+argumentofperigree:95.4319
+nickname:STARLINK-1391
+idesg:20038W  
+cosparid:2020-038W
+altkm:548.11363128219
+velkms:7.5890791812007
+velkmh:27321
+onumepoch:23371
+onumnow:352071.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:25:25+00:00
+nowjuliandate:2460553.0283008
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1391
+1 45750U 20038W   24243.18431696  .00015525  00000+0  10582-2 0  9992
+2 45750  53.0521 194.8661 0001406  95.4319 264.6830 15.06422583233717

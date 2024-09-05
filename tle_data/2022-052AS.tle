@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52638
+launchyear:2022
+epoch:24241.76075958
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3941
+meananomly:273.1269
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8698286542
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001372
+argumentofperigree:86.988
+nickname:STARLINK-3941
+idesg:22052AS 
+cosparid:2022-052AS
+altkm:540.57839822995
+velkms:7.5932854797451
+velkmh:27336
+onumepoch:12757
+onumnow:192504.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:15:30+00:00
+nowjuliandate:2460552.6379094
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3941
+1 52638U 22052AS  24241.76075958  .00000506  00000+0  49874-4 0  9991
+2 52638  53.2156 253.7617 0001372  86.9880 273.1269 15.08844130127577

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47736
+launchyear:2021
+epoch:24242.12968433
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2147
+meananomly:268.6312
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3446593836
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001466
+argumentofperigree:91.4844
+nickname:STARLINK-2147
+idesg:21017Q  
+cosparid:2021-017Q
+altkm:548.11103261181
+velkms:7.5891166064105
+velkmh:27321
+onumepoch:19320
+onumnow:291052.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:06:45+00:00
+nowjuliandate:2460552.6393346
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2147
+1 47736U 21017Q   24242.12968433  .00003335  00000+0  24265-3 0  9993
+2 47736  53.0532 184.5958 0001466  91.4844 268.6312 15.06401946193203

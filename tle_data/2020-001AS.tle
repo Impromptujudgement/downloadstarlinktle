@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:40+00:00
+validtle:1
+satid:44954
+launchyear:2020
+epoch:24242.39093389
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1066
+meananomly:264.9922
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3522970011
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001708
+argumentofperigree:95.1262
+nickname:STARLINK-1066
+idesg:20001AS 
+cosparid:2020-001AS
+altkm:548.19783774443
+velkms:7.5890256892309
+velkmh:27320
+onumepoch:25635
+onumnow:386182.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:22:57+00:00
+nowjuliandate:2460553.0296302
+nowepochdate:24243.5296296296
+TLE:
+STARLINK-1066
+1 44954U 20001AS  24242.39093389  .00002718  00000+0  20130-3 0  9993
+2 44954  53.0544 288.4288 0001708  95.1262 264.9922 15.06399454256351

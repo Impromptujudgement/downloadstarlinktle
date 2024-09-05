@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51730
+launchyear:2022
+epoch:24242.45536121
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3530
+meananomly:259.2528
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8759387782
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001394
+argumentofperigree:100.8622
+nickname:STARLINK-3530
+idesg:22016S  
+cosparid:2022-016S
+altkm:540.81621114186
+velkms:7.5930278849951
+velkmh:27335
+onumepoch:14050
+onumnow:212002.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:55:43+00:00
+nowjuliandate:2460552.6379604
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3530
+1 51730U 22016S   24242.45536121  .00000813  00000+0  69130-4 0  9992
+2 51730  53.2167 300.6454 0001394 100.8622 259.2528 15.08842131140506

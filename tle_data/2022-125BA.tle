@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54012
+launchyear:2022
+epoch:24242.80265417
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5126
+meananomly:261.0803
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9055206498
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001844
+argumentofperigree:99.0398
+nickname:STARLINK-5126
+idesg:22125BA 
+cosparid:2022-125BA
+altkm:540.86391340716
+velkms:7.5929917438703
+velkmh:27335
+onumepoch:10558
+onumnow:159307.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:15:49+00:00
+nowjuliandate:2460552.6378068
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5126
+1 54012U 22125BA  24242.80265417 -.00000487  00000+0 -12499-4 0  9990
+2 54012  53.2172 183.9625 0001844  99.0398 261.0803 15.08832453105581

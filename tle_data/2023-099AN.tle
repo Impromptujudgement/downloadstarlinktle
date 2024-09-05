@@ -1,0 +1,38 @@
+date:2024-08-29T05:09:24+00:00
+validtle:1
+satid:57364
+launchyear:2023
+epoch:24241.12825781
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6338
+meananomly:83.3999
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2085005873
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.004
+eccentricity:0.0001217
+argumentofperigree:276.6705
+nickname:STARLINK-6338
+idesg:23099AN 
+cosparid:2023-099AN
+altkm:558.75284101076
+velkms:7.5839476163085
+velkmh:27302
+onumepoch:6224
+onumnow:93534.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:04:41+00:00
+nowjuliandate:2460551.7148703
+nowepochdate:24242.2148611111
+TLE:
+STARLINK-6338
+1 57364U 23099AN  24241.12825781  .00000747  00000+0  70376-4 0  9999
+2 57364  43.0040  31.0760 0001217 276.6705  83.3999 15.02539282 62241

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53049
+launchyear:2022
+epoch:24241.74764685
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4345
+meananomly:170.3454
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1397138351
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6551
+eccentricity:0.0001172
+argumentofperigree:189.7747
+nickname:STARLINK-4345
+idesg:22077G  
+cosparid:2022-077G
+altkm:566.86247505437
+velkms:7.5772383125289
+velkmh:27278
+onumepoch:11720
+onumnow:175968.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:56:37+00:00
+nowjuliandate:2460552.6378828
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4345
+1 53049U 22077G   24241.74764685  .00000363  00000+0  32876-4 0  9990
+2 53049  97.6551  61.5390 0001172 189.7747 170.3454 15.01262986117209

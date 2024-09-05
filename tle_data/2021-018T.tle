@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:28+00:00
+validtle:1
+satid:47804
+launchyear:2021
+epoch:24242.2006452
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2385
+meananomly:260.0240
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3500473957
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001522
+argumentofperigree:100.0921
+nickname:STARLINK-2385
+idesg:21018T  
+cosparid:2021-018T
+altkm:548.27482030739
+velkms:7.5889401276354
+velkmh:27320
+onumepoch:19250
+onumnow:289994.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:48:56+00:00
+nowjuliandate:2460552.6392155
+nowepochdate:24243..139212963
+TLE:
+STARLINK-2385
+1 47804U 21018T   24242.20064520  .00001037  00000+0  88525-4 0  9990
+2 47804  53.0538 214.2821 0001522 100.0921 260.0240 15.06400188192506

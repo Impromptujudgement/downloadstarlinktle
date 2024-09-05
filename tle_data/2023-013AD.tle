@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55358
+launchyear:2023
+epoch:24242.28021434
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5622
+meananomly:87.8237
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1537467068
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.000136
+argumentofperigree:272.245
+nickname:STARLINK-5622
+idesg:23013AD 
+cosparid:2023-013AD
+altkm:558.75914751962
+velkms:7.5839108821091
+velkmh:27302
+onumepoch:8829
+onumnow:132673.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:43:31+00:00
+nowjuliandate:2460552.6377717
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5622
+1 55358U 23013AD  24242.28021434  .00002807  00000+0  22263-3 0  9997
+2 55358  43.0025  88.8748 0001360 272.2450  87.8237 15.02557071 88292

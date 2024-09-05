@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55765
+launchyear:2023
+epoch:24241.60606584
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5595
+meananomly:94.9257
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2138618385
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9998
+eccentricity:0.0002992
+argumentofperigree:265.156
+nickname:STARLINK-5595
+idesg:23028AA 
+cosparid:2023-028AA
+altkm:574.67983440106
+velkms:7.5736555513542
+velkmh:27265
+onumepoch:8293
+onumnow:124278.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:32:44+00:00
+nowjuliandate:2460552.6377384
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5595
+1 55765U 23028AA  24241.60606584  .00002454  00000+0  21341-3 0  9999
+2 55765  69.9998 191.7414 0002992 265.1560  94.9257 14.98323889 82937

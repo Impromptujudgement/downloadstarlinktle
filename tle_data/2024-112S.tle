@@ -1,0 +1,38 @@
+date:2024-08-27T17:24:36+00:00
+validtle:1
+satid:60054
+launchyear:2024
+epoch:24239.4964946
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31735
+meananomly:262.7832
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.346696405
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1604
+eccentricity:0.000139
+argumentofperigree:97.3331
+nickname:STARLINK-31735
+idesg:24112S  
+cosparid:2024-112S
+altkm:448.23239318123
+velkms:7.6444638229291
+velkmh:27520
+onumepoch:1279
+onumnow:19710.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:54:57+00:00
+nowjuliandate:2460550.2254227
+nowepochdate:24240.7254166667
+TLE:
+STARLINK-31735
+1 60054U 24112S   24239.49649460  .00000817  00000+0  30397-4 0  9998
+2 60054  53.1604 162.5094 0001390  97.3331 262.7832 15.39628287 12792

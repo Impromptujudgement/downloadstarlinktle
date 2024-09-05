@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52123
+launchyear:2022
+epoch:24242.21066639
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3725
+meananomly:267.3543
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8628565883
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001213
+argumentofperigree:92.7588
+nickname:STARLINK-3725
+idesg:22029AM 
+cosparid:2022-029AM
+altkm:540.66220146263
+velkms:7.5931897080127
+velkmh:27335
+onumepoch:13677
+onumnow:206378.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:22+00:00
+nowjuliandate:2460552.637941
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3725
+1 52123U 22029AM  24242.21066639  .00000548  00000+0  52511-4 0  9999
+2 52123  53.2184  51.6714 0001213  92.7588 267.3543 15.08846411136770

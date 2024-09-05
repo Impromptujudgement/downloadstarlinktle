@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52574
+launchyear:2022
+epoch:24241.88863913
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3901
+meananomly:275.2920
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8474912072
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001631
+argumentofperigree:84.8258
+nickname:STARLINK-3901
+idesg:22051AQ 
+cosparid:2022-051AQ
+altkm:540.5037731233
+velkms:7.5933551327647
+velkmh:27336
+onumepoch:12737
+onumnow:192201.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:19:38+00:00
+nowjuliandate:2460552.6379155
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3901
+1 52574U 22051AQ  24241.88863913  .00002584  00000+0  18035-3 0  9990
+2 52574  53.2151 103.1876 0001631  84.8258 275.2920 15.08851438127374

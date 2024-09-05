@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47747
+launchyear:2021
+epoch:24241.55836882
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2161
+meananomly:262.1893
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3653533301
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001708
+argumentofperigree:97.929
+nickname:STARLINK-2161
+idesg:21017AB 
+cosparid:2021-017AB
+altkm:548.26839679565
+velkms:7.5889555323618
+velkmh:27320
+onumepoch:19377
+onumnow:291918.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:24:03+00:00
+nowjuliandate:2460552.6393966
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2161
+1 47747U 21017AB  24241.55836882  .00000729  00000+0  67845-4 0  9999
+2 47747  53.0545 187.1703 0001708  97.9290 262.1893 15.06395194193773

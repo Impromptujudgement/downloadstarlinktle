@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56379
+launchyear:2023
+epoch:24242.59493492
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6157
+meananomly:94.3570
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2441686015
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0024
+eccentricity:0.0001855
+argumentofperigree:265.7061
+nickname:STARLINK-6157
+idesg:23061F  
+cosparid:2023-061F
+altkm:558.98324096115
+velkms:7.5837153045273
+velkmh:27301
+onumepoch:7324
+onumnow:110053.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:16:42+00:00
+nowjuliandate:2460552.6377004
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6157
+1 56379U 23061F   24242.59493492 -.00000621  00000+0 -30876-4 0  9999
+2 56379  43.0024 344.5268 0001855 265.7061  94.3570 15.02527694 73248

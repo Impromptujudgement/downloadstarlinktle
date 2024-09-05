@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48443
+launchyear:2021
+epoch:24242.09093562
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2663
+meananomly:278.2046
+meanmotion:15.0633
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.5783855319
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:7.83E-5
+argumentofperigree:81.9031
+nickname:STARLINK-2663
+idesg:21040R  
+cosparid:2021-040R
+altkm:548.24297235489
+velkms:7.5890998441129
+velkmh:27321
+onumepoch:18386
+onumnow:276968.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:10:57+00:00
+nowjuliandate:2460552.6380228
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2663
+1 48443U 21040R   24242.09093562  .00026050  00000+0  17648-2 0  9998
+2 48443  53.0531 164.7772 0000783  81.9031 278.2046 15.06325689183866

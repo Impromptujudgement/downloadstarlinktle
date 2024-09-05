@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52603
+launchyear:2022
+epoch:24242.76911449
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4016
+meananomly:277.2695
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.848429572
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001363
+argumentofperigree:82.8452
+nickname:STARLINK-4016
+idesg:22052F  
+cosparid:2022-052F
+altkm:540.48953497413
+velkms:7.5933712700169
+velkmh:27336
+onumepoch:12715
+onumnow:191855.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:27:31+00:00
+nowjuliandate:2460552.6379071
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4016
+1 52603U 22052F   24242.76911449 -.00000099  00000+0  11849-4 0  9997
+2 52603  53.2163 259.2414 0001363  82.8452 277.2695 15.08851131127154

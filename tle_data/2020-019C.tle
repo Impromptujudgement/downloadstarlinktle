@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45362
+launchyear:2020
+epoch:24243.05625125
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1306
+meananomly:273.9241
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3829610825
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001397
+argumentofperigree:86.1908
+nickname:STARLINK-1306
+idesg:20019C  
+cosparid:2020-019C
+altkm:548.05872535974
+velkms:7.5891948472597
+velkmh:27321
+onumepoch:24583
+onumnow:370322.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:21:00+00:00
+nowjuliandate:2460553.0283509
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1306
+1 45362U 20019C   24243.05625125 -.00000783  00000+0 -33680-4 0  9996
+2 45362  53.0521 145.4427 0001397  86.1908 273.9241 15.06389449245836

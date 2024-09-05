@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53892
+launchyear:2022
+epoch:24242.3941626
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5046
+meananomly:258.2210
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8650359301
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001357
+argumentofperigree:101.8935
+nickname:STARLINK-5046
+idesg:22119G  
+cosparid:2022-119G
+altkm:540.81711106634
+velkms:7.5930209271764
+velkmh:27335
+onumepoch:10713
+onumnow:161653.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:27:36+00:00
+nowjuliandate:2460552.6378118
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5046
+1 53892U 22119G   24242.39416260  .00001819  00000+0  13232-3 0  9999
+2 53892  53.2167 305.7938 0001357 101.8935 258.2210 15.08845698107137

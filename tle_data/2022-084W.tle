@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53209
+launchyear:2022
+epoch:24242.73780517
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4423
+meananomly:178.5217
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1551626447
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6533
+eccentricity:0.0004448
+argumentofperigree:181.5994
+nickname:STARLINK-4423
+idesg:22084W  
+cosparid:2022-084W
+altkm:569.1628741989
+velkms:7.574735987424
+velkmh:27269
+onumepoch:11613
+onumnow:174347.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:42:26+00:00
+nowjuliandate:2460552.637869
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4423
+1 53209U 22084W   24242.73780517  .00000093  00000+0  11841-4 0  9997
+2 53209  97.6533 302.5058 0004448 181.5994 178.5217 15.01257974116138

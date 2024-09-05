@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48681
+launchyear:2021
+epoch:24242.21080772
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2725
+meananomly:264.8408
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3575072658
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0558
+eccentricity:0.0001667
+argumentofperigree:95.2771
+nickname:STARLINK-2725
+idesg:21044AV 
+cosparid:2021-044AV
+altkm:548.20374997935
+velkms:7.589022061241
+velkmh:27320
+onumepoch:18113
+onumnow:272867.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:34+00:00
+nowjuliandate:2460552.6380122
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2725
+1 48681U 21044AV  24242.21080772  .00000483  00000+0  51330-4 0  9999
+2 48681  53.0558  64.4814 0001667  95.2771 264.8408 15.06397754181136

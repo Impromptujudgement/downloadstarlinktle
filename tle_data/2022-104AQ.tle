@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53626
+launchyear:2022
+epoch:24242.63425143
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4554
+meananomly:269.4926
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8580791591
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2166
+eccentricity:0.0001048
+argumentofperigree:90.6186
+nickname:STARLINK-4554
+idesg:22104AQ 
+cosparid:2022-104AQ
+altkm:540.62489617605
+velkms:7.593228025265
+velkmh:27336
+onumepoch:11097
+onumnow:167444.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:13:19+00:00
+nowjuliandate:2460552.6378428
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4554
+1 53626U 22104AQ  24242.63425143  .00001035  00000+0  83057-4 0  9998
+2 53626  53.2166 214.4775 0001048  90.6186 269.4926 15.08847974110979

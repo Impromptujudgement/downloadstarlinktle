@@ -1,0 +1,38 @@
+date:2024-08-28T20:28:32+00:00
+validtle:1
+satid:57849
+launchyear:2023
+epoch:24240.6367242
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30430
+meananomly:219.2755
+meanmotion:15.3422
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3883155412
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1601
+eccentricity:5.38E-5
+argumentofperigree:140.8286
+nickname:STARLINK-30430
+idesg:23141K  
+cosparid:2023-141K
+altkm:464.43749039437
+velkms:7.6352996203933
+velkmh:27487
+onumepoch:5471
+onumnow:83955.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:16:53+00:00
+nowjuliandate:2460551.3531524
+nowepochdate:24241.8531481481
+TLE:
+STARLINK-30430
+1 57849U 23141K   24240.63672420 -.00000194  00000+0  53807-5 0  9998
+2 57849  53.1601   2.3501 0000538 140.8286 219.2755 15.34216305 54715

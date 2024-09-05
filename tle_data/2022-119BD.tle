@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53937
+launchyear:2022
+epoch:24242.32701888
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4765
+meananomly:272.2178
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8967175799
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001502
+argumentofperigree:87.8987
+nickname:STARLINK-4765
+idesg:22119BD 
+cosparid:2022-119BD
+altkm:540.61693637905
+velkms:7.5932579170463
+velkmh:27336
+onumepoch:10754
+onumnow:162271.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:50:54+00:00
+nowjuliandate:2460552.6378128
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4765
+1 53937U 22119BD  24242.32701888 -.00000137  00000+0  95146-5 0  9994
+2 53937  53.2163 276.1630 0001502  87.8987 272.2178 15.08835333107544

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55289
+launchyear:2023
+epoch:24242.55508028
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5320
+meananomly:97.7326
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2245091279
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0024
+eccentricity:0.0002864
+argumentofperigree:262.3507
+nickname:STARLINK-5320
+idesg:23010W  
+cosparid:2023-010W
+altkm:574.77989713008
+velkms:7.5735523194148
+velkmh:27265
+onumepoch:8950
+onumnow:134108.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:19:19+00:00
+nowjuliandate:2460552.6377729
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5320
+1 55289U 23010W   24242.55508028 -.00001595  00000+0 -12594-3 0  9997
+2 55289  70.0024 349.2803 0002864 262.3507  97.7326 14.98320446 89505

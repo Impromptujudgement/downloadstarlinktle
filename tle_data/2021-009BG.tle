@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47602
+launchyear:2021
+epoch:24242.01486997
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2007
+meananomly:15.4110
+meanmotion:15.1368
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6903.1348912817
+altitudeatperigee:520
+altitudeatapogee:530
+inclination:53.0549
+eccentricity:0.0006709
+argumentofperigree:344.6678
+nickname:STARLINK-2007
+idesg:21009BG 
+cosparid:2021-009BG
+altkm:521.41536854864
+velkms:7.6062740752601
+velkmh:27383
+onumepoch:19752
+onumnow:298998.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:21:25+00:00
+nowjuliandate:2460552.6394733
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2007
+1 47602U 21009BG  24242.01486997  .00085687  00000+0  46662-2 0  9998
+2 47602  53.0549 351.7191 0006709 344.6678  15.4110 15.13677713197521

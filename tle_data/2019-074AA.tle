@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:47+00:00
+validtle:1
+satid:44737
+launchyear:2019
+epoch:24243.12259295
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1032
+meananomly:260.2995
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.365791607
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0555
+eccentricity:0.0001567
+argumentofperigree:99.8171
+nickname:STARLINK-1032
+idesg:19074AA 
+cosparid:2019-074AA
+altkm:548.29101356585
+velkms:7.5889309964249
+velkmh:27320
+onumepoch:26475
+onumnow:398824.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T02:56:32+00:00
+nowjuliandate:2460553.0297181
+nowepochdate:24243.5297106481
+TLE:
+STARLINK-1032
+1 44737U 19074AA  24243.12259295 -.00000901  00000+0 -41601-4 0  9993
+2 44737  53.0555 185.1407 0001567  99.8171 260.2995 15.06395051264752

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45380
+launchyear:2020
+epoch:24242.96226076
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1207
+meananomly:277.3093
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3389342492
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001267
+argumentofperigree:82.804
+nickname:STARLINK-1207
+idesg:20019W  
+cosparid:2020-019W
+altkm:547.96945118358
+velkms:7.5892685782944
+velkmh:27321
+onumepoch:24610
+onumnow:370734.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:05:39+00:00
+nowjuliandate:2460553.0283452
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1207
+1 45380U 20019W   24242.96226076  .00021596  00000+0  14641-2 0  9994
+2 45380  53.0539 125.8668 0001267  82.8040 277.3093 15.06403814246107

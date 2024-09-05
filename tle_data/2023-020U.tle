@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55587
+launchyear:2023
+epoch:24241.5010802
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5727
+meananomly:95.0294
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.201839818
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001516
+argumentofperigree:265.0376
+nickname:STARLINK-5727
+idesg:23020U  
+cosparid:2023-020U
+altkm:558.93533158932
+velkms:7.5837445821769
+velkmh:27301
+onumepoch:8495
+onumnow:127665.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:01:33+00:00
+nowjuliandate:2460552.6377475
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5727
+1 55587U 23020U   24241.50108020  .00001724  00000+0  14267-3 0  9992
+2 55587  43.0030 157.5855 0001516 265.0376  95.0294 15.02541446 84957

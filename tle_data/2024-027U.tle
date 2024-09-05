@@ -1,0 +1,38 @@
+date:2024-08-28T02:34:22+00:00
+validtle:1
+satid:58949
+launchyear:2024
+epoch:24240.13719874
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31294
+meananomly:276.5453
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3624768914
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1623
+eccentricity:0.0001323
+argumentofperigree:83.5699
+nickname:STARLINK-31294
+idesg:24027U  
+cosparid:2024-027U
+altkm:476.02214499485
+velkms:7.6290497412523
+velkmh:27465
+onumepoch:3165
+onumnow:48445.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T03:17:34+00:00
+nowjuliandate:2460550.6072105
+nowepochdate:24241.1071990741
+TLE:
+STARLINK-31294
+1 58949U 24027U   24240.13719874  .00000270  00000+0  21232-4 0  9994
+2 58949  53.1623  29.0210 0001323  83.5699 276.5453 15.30197199 31652

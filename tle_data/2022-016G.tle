@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51720
+launchyear:2022
+epoch:24241.91073193
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3526
+meananomly:279.0154
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7830535124
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001358
+argumentofperigree:81.0992
+nickname:STARLINK-3526
+idesg:22016G  
+cosparid:2022-016G
+altkm:540.39639361243
+velkms:7.5934376754307
+velkmh:27336
+onumepoch:14027
+onumnow:211668.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:51:27+00:00
+nowjuliandate:2460552.6379618
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3526
+1 51720U 22016G   24241.91073193  .00006587  00000+0  43121-3 0  9991
+2 51720  53.2175 313.0603 0001358  81.0992 279.0154 15.08872520140272

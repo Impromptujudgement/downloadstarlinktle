@@ -1,0 +1,38 @@
+date:2024-08-27T18:37:58+00:00
+validtle:1
+satid:59877
+launchyear:2024
+epoch:24240.26800844
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31934
+meananomly:317.2332
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1672018696
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0011
+eccentricity:1.94E-5
+argumentofperigree:42.854
+nickname:STARLINK-31934
+idesg:24098V  
+cosparid:2024-098V
+altkm:443.70725240003
+velkms:7.6477534108459
+velkmh:27532
+onumepoch:1532
+onumnow:23611.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:25:56+00:00
+nowjuliandate:2460550.2763693
+nowepochdate:24240.7763657407
+TLE:
+STARLINK-31934
+1 59877U 24098V   24240.26800844  .00001006  00000+0  31327-4 0  9999
+2 59877  43.0011 224.6729 0000194  42.8540 317.2332 15.40704736 15325

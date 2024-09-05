@@ -1,0 +1,38 @@
+date:2024-08-28T05:26:52+00:00
+validtle:1
+satid:59299
+launchyear:2024
+epoch:24240.10763193
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31409
+meananomly:121.0283
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2218049727
+altitudeatperigee:444
+altitudeatapogee:445
+inclination:42.9981
+eccentricity:7.4E-5
+argumentofperigree:239.05
+nickname:STARLINK-31409
+idesg:24056D  
+cosparid:2024-056D
+altkm:444.11889648441
+velkms:7.6473227135907
+velkmh:27530
+onumepoch:2537
+onumnow:39104.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T02:34:59+00:00
+nowjuliandate:2460550.7269979
+nowepochdate:24241.2269907407
+TLE:
+STARLINK-31409
+1 59299U 24056D   24240.10763193 -.00002759  00000+0 -58839-4 0  9994
+2 59299  42.9981 178.6180 0000740 239.0500 121.0283 15.40686239 25378

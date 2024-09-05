@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47644
+launchyear:2021
+epoch:24242.58334491
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2026
+meananomly:29.9535
+meanmotion:15.6821
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6742.1637235768
+altitudeatperigee:357
+altitudeatapogee:371
+inclination:53.0504
+eccentricity:0.0010098
+argumentofperigree:297.8762
+nickname:STARLINK-2026
+idesg:21012AA 
+cosparid:2021-012AA
+altkm:365.51739576145
+velkms:7.6934314407476
+velkmh:27696
+onumepoch:19612
+onumnow:307565.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:00:01+00:00
+nowjuliandate:2460552.6394496
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-2026
+1 47644U 21012AA  24242.58334491  .00318164  00000+0  26871-2 0  9990
+2 47644  53.0504   8.0846 0010098 297.8762  29.9535 15.68209262196122

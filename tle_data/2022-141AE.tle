@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54185
+launchyear:2022
+epoch:24242.55974829
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5235
+meananomly:246.2832
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8943242502
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2217
+eccentricity:0.0001181
+argumentofperigree:113.8285
+nickname:STARLINK-5235
+idesg:22141AE 
+cosparid:2022-141AE
+altkm:540.98385873201
+velkms:7.5928540074572
+velkmh:27334
+onumepoch:10198
+onumnow:153879.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:26:02+00:00
+nowjuliandate:2460552.637797
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5235
+1 54185U 22141AE  24242.55974829  .00001936  00000+0  13971-3 0  9998
+2 54185  53.2217 344.9116 0001181 113.8285 246.2832 15.08836116101987

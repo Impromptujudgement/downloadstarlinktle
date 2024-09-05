@@ -1,0 +1,38 @@
+date:2024-08-28T04:06:16+00:00
+validtle:1
+satid:58748
+launchyear:2024
+epoch:24240.68057204
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31165
+meananomly:93.1656
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.213028319
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001529
+argumentofperigree:266.9011
+nickname:STARLINK-31165
+idesg:24005W  
+cosparid:2024-005W
+altkm:558.91292595062
+velkms:7.5837751623039
+velkmh:27302
+onumepoch:3633
+onumnow:54594.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:20:01+00:00
+nowjuliandate:2460550.6710266
+nowepochdate:24241.1710185185
+TLE:
+STARLINK-31165
+1 58748U 24005W   24240.68057204 -.00000559  00000+0 -26281-4 0  9990
+2 58748  43.0031  18.9942 0001529 266.9011  93.1656 15.02537811 36338

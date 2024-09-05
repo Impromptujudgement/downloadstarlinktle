@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47594
+launchyear:2021
+epoch:24242.66414895
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1999
+meananomly:257.1172
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3516104728
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0524
+eccentricity:0.0002388
+argumentofperigree:103.0083
+nickname:STARLINK-1999
+idesg:21009AY 
+cosparid:2021-009AY
+altkm:548.46258460998
+velkms:7.5887352973598
+velkmh:27319
+onumepoch:19715
+onumnow:296993.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:56:22+00:00
+nowjuliandate:2460552.6394793
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1999
+1 47594U 21009AY  24242.66414895  .00005526  00000+0  38958-3 0  9991
+2 47594  53.0524  22.1959 0002388 103.0083 257.1172 15.06399678197156

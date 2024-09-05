@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55927
+launchyear:2023
+epoch:24242.19963176
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5919
+meananomly:93.7386
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1835622819
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.998
+eccentricity:0.0003127
+argumentofperigree:266.3415
+nickname:STARLINK-5919
+idesg:23037P  
+cosparid:2023-037P
+altkm:574.61262744785
+velkms:7.5737122917494
+velkmh:27265
+onumepoch:8032
+onumnow:120360.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:47:28+00:00
+nowjuliandate:2460552.6377275
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5919
+1 55927U 23037P   24242.19963176  .00000301  00000+0  33005-4 0  9997
+2 55927  69.9980 269.9621 0003127 266.3415  93.7386 14.98333687 80327

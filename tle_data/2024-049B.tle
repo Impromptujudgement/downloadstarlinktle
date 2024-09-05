@@ -1,0 +1,38 @@
+date:2024-08-28T05:58:29+00:00
+validtle:1
+satid:59232
+launchyear:2024
+epoch:24240.29020705
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31305
+meananomly:84.9844
+meanmotion:15.4072
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1265919445
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0016
+eccentricity:0.0001523
+argumentofperigree:275.0839
+nickname:STARLINK-31305
+idesg:24049B  
+cosparid:2024-049B
+altkm:443.67317729045
+velkms:7.6477688968121
+velkmh:27532
+onumepoch:2660
+onumnow:40997.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T06:57:54+00:00
+nowjuliandate:2460550.7489499
+nowepochdate:24241.2489467593
+TLE:
+STARLINK-31305
+1 59232U 24049B   24240.29020705  .00011347  00000+0  27832-3 0  9997
+2 59232  43.0016  83.4579 0001523 275.0839  84.9844 15.40718493 26601

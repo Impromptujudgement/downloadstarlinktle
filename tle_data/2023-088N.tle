@@ -1,0 +1,38 @@
+date:2024-08-29T07:00:34+00:00
+validtle:1
+satid:57060
+launchyear:2023
+epoch:24241.75923373
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6227
+meananomly:91.7670
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.193640076
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.000134
+argumentofperigree:268.3019
+nickname:STARLINK-6227
+idesg:23088N  
+cosparid:2023-088N
+altkm:558.86347857356
+velkms:7.5838186244175
+velkmh:27302
+onumepoch:6644
+onumnow:99837.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:13:18+00:00
+nowjuliandate:2460551.7920708
+nowepochdate:24242.2920601852
+TLE:
+STARLINK-6227
+1 57060U 23088N   24241.75923373  .00001598  00000+0  13328-3 0  9993
+2 57060  43.0021 259.0176 0001340 268.3019  91.7670 15.02544110 66440

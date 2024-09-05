@@ -1,0 +1,38 @@
+date:2024-08-28T07:21:37+00:00
+validtle:1
+satid:59023
+launchyear:2024
+epoch:24240.87470316
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30996
+meananomly:92.5176
+meanmotion:15.2591
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1868083066
+altitudeatperigee:488
+altitudeatapogee:489
+inclination:43.0004
+eccentricity:6.79E-5
+argumentofperigree:267.5597
+nickname:STARLINK-30996
+idesg:24038A  
+cosparid:2024-038A
+altkm:487.84588883443
+velkms:7.6230184233482
+velkmh:27443
+onumepoch:3072
+onumnow:46882.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:59:34+00:00
+nowjuliandate:2460550.8066871
+nowepochdate:24241.3066782407
+TLE:
+STARLINK-30996
+1 59023U 24038A   24240.87470316  .00002002  00000+0  86351-4 0  9994
+2 59023  43.0004 297.8276 0000679 267.5597  92.5176 15.25912159 30728

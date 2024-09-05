@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48009
+launchyear:2021
+epoch:24242.42686414
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2153
+meananomly:277.9316
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.34545318
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0547
+eccentricity:0.000123
+argumentofperigree:82.1812
+nickname:STARLINK-2153
+idesg:21024AJ 
+cosparid:2021-024AJ
+altkm:547.97014417142
+velkms:7.5892713830485
+velkmh:27321
+onumepoch:19032
+onumnow:286709.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:14:41+00:00
+nowjuliandate:2460552.6380978
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2153
+1 48009U 21024AJ  24242.42686414 -.00002118  00000+0 -12336-3 0  9990
+2 48009  53.0547 298.2710 0001230  82.1812 277.9316 15.06401687190322

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49725
+launchyear:2021
+epoch:24242.39740596
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3218
+meananomly:268.5047
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.858345081
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2185
+eccentricity:0.0001417
+argumentofperigree:91.6107
+nickname:STARLINK-3218
+idesg:21115B  
+cosparid:2021-115B
+altkm:540.64458908496
+velkms:7.5932065630238
+velkmh:27336
+onumepoch:15251
+onumnow:230125.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:32:16+00:00
+nowjuliandate:2460552.6379902
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3218
+1 49725U 21115B   24242.39740596  .00001410  00000+0  10664-3 0  9999
+2 49725  53.2185 131.0098 0001417  91.6107 268.5047 15.08847887152514

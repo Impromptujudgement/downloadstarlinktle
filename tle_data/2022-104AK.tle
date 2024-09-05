@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53621
+launchyear:2022
+epoch:24241.67013418
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4608
+meananomly:270.2712
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8626579106
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001329
+argumentofperigree:89.8432
+nickname:STARLINK-4608
+idesg:22104AK 
+cosparid:2022-104AK
+altkm:540.61855901577
+velkms:7.5932374858626
+velkmh:27336
+onumepoch:11139
+onumnow:168092.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:05:00+00:00
+nowjuliandate:2460552.6378435
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4608
+1 53621U 22104AK  24241.67013418  .00001386  00000+0  10514-3 0  9990
+2 53621  53.2148 219.1233 0001329  89.8432 270.2712 15.08846476111397

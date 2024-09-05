@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:58+00:00
+validtle:1
+satid:47910
+launchyear:2021
+epoch:24242.72405876
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2370
+meananomly:276.7476
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3465595914
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001456
+argumentofperigree:83.3679
+nickname:STARLINK-2370
+idesg:21021BC 
+cosparid:2021-021BC
+altkm:547.97024477052
+velkms:7.5892718776201
+velkmh:27321
+onumepoch:19177
+onumnow:288888.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:22:39+00:00
+nowjuliandate:2460552.6381829
+nowepochdate:24243.1381712963
+TLE:
+STARLINK-2370
+1 47910U 21021BC  24242.72405876 -.00001676  00000+0 -93638-4 0  9994
+2 47910  53.0537 252.0959 0001456  83.3679 276.7476 15.06401326191772

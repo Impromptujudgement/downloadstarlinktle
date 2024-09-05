@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55284
+launchyear:2023
+epoch:24242.40091275
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5337
+meananomly:105.1298
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2314269501
+altitudeatperigee:570
+altitudeatapogee:575
+inclination:70.003
+eccentricity:0.0003476
+argumentofperigree:254.9476
+nickname:STARLINK-5337
+idesg:23010R  
+cosparid:2023-010R
+altkm:575.14986600194
+velkms:7.5731529879267
+velkmh:27263
+onumepoch:8900
+onumnow:133361.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:37:19+00:00
+nowjuliandate:2460552.6377733
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5337
+1 55284U 23010R   24242.40091275 -.00001800  00000+0 -14317-3 0  9991
+2 55284  70.0030   9.4126 0003476 254.9476 105.1298 14.98318209 89003

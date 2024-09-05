@@ -1,0 +1,38 @@
+date:2024-08-27T15:33:21+00:00
+validtle:1
+satid:60283
+launchyear:2024
+epoch:24240.01862028
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32037
+meananomly:244.7163
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3517383372
+altitudeatperigee:447
+altitudeatapogee:448
+inclination:53.1621
+eccentricity:9.37E-5
+argumentofperigree:115.3939
+nickname:STARLINK-32037
+idesg:24132F  
+cosparid:2024-132F
+altkm:448.39149867725
+velkms:7.644288502889
+velkmh:27519
+onumepoch:583
+onumnow:8985.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:26:49+00:00
+nowjuliandate:2460550.1481712
+nowepochdate:24240.6481597222
+TLE:
+STARLINK-32037
+1 60283U 24132F   24240.01862028  .00001392  00000+0  44758-4 0  9996
+2 60283  53.1621 134.0816 0000937 115.3939 244.7163 15.39626581  5831

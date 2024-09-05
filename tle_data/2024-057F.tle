@@ -1,0 +1,38 @@
+date:2024-08-28T02:11:22+00:00
+validtle:1
+satid:59325
+launchyear:2024
+epoch:24239.46654446
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31611
+meananomly:82.8200
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.188069413
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:42.9994
+eccentricity:0.0001376
+argumentofperigree:277.25
+nickname:STARLINK-31611
+idesg:24057F  
+cosparid:2024-057F
+altkm:443.70789554594
+velkms:7.647764351529
+velkmh:27532
+onumepoch:2377
+onumnow:36647.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T11:11:49+00:00
+nowjuliandate:2460550.59123
+nowepochdate:24241.0912268519
+TLE:
+STARLINK-31611
+1 59325U 24057F   24239.46654446  .00003555  00000+0  92323-4 0  9991
+2 59325  42.9994 144.3736 0001376 277.2500  82.8200 15.40697667 23771

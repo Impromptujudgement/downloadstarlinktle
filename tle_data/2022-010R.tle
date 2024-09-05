@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51471
+launchyear:2022
+epoch:23053.7219692
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-3165
+meananomly:41.0715
+meanmotion:15.1672
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6893.9085148431
+altitudeatperigee:515
+altitudeatapogee:517
+inclination:53.2142
+eccentricity:0.0001622
+argumentofperigree:319.0159
+nickname:STARLINK-3165
+idesg:22010R  
+cosparid:2022-010R
+altkm:515.82877972955
+velkms:7.6073607951217
+velkmh:27386
+onumepoch:5971
+onumnow:108601.19
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T17:19:38+00:00
+nowjuliandate:2460552.6379664
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3165
+1 51471U 22010R   23053.72196920  .00042645  00000+0  21527-2 0  9991
+2 51471  53.2142 218.6356 0001622 319.0159  41.0715 15.16717447 59710

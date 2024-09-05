@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:46052
+launchyear:2020
+epoch:24241.9071557
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1541
+meananomly:279.9135
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3245019366
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.057
+eccentricity:0.000229
+argumentofperigree:80.2113
+nickname:STARLINK-1541
+idesg:20055AB 
+cosparid:2020-055AB
+altkm:547.79419474797
+velkms:7.5894526863883
+velkmh:27322
+onumepoch:22493
+onumnow:338860.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:46:18+00:00
+nowjuliandate:2460553.0282993
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1541
+1 46052U 20055AB  24241.90715570  .00011181  00000+0  76817-3 0  9999
+2 46052  53.0570 100.5973 0002290  80.2113 279.9135 15.06408523224932

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53280
+launchyear:2022
+epoch:24241.93460348
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4169
+meananomly:272.1472
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8703024252
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.000147
+argumentofperigree:87.9688
+nickname:STARLINK-4169
+idesg:22086AQ 
+cosparid:2022-086AQ
+altkm:540.59270505022
+velkms:7.5932700409774
+velkmh:27336
+onumepoch:11763
+onumnow:177503.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:25:50+00:00
+nowjuliandate:2460552.637867
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4169
+1 53280U 22086AQ  24241.93460348  .00001175  00000+0  91912-4 0  9995
+2 53280  53.2169 122.6547 0001470  87.9688 272.1472 15.08843975117634

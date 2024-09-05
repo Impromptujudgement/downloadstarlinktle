@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53149
+launchyear:2022
+epoch:24242.04923823
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4021
+meananomly:257.0377
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8513608177
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001453
+argumentofperigree:103.0778
+nickname:STARLINK-4021
+idesg:22083T  
+cosparid:2022-083T
+altkm:540.83733019841
+velkms:7.5929912536747
+velkmh:27335
+onumepoch:11780
+onumnow:177758.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:10:54+00:00
+nowjuliandate:2460552.6378753
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4021
+1 53149U 22083T   24242.04923823  .00002213  00000+0  15705-3 0  9990
+2 53149  53.2171 147.6740 0001453 103.0778 257.0377 15.08850172117806

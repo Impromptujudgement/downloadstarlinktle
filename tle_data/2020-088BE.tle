@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:03+00:00
+validtle:1
+satid:47174
+launchyear:2020
+epoch:24242.40796729
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1891
+meananomly:279.6263
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3288294771
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001354
+argumentofperigree:80.4879
+nickname:STARLINK-1891
+idesg:20088BE 
+cosparid:2020-088BE
+altkm:547.9142681008
+velkms:7.5893235079842
+velkmh:27322
+onumepoch:20813
+onumnow:313539.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:47:28+00:00
+nowjuliandate:2460552.6396187
+nowepochdate:24243.1396180556
+TLE:
+STARLINK-1891
+1 47174U 20088BE  24242.40796729  .00000321  00000+0  40432-4 0  9991
+2 47174  53.0546 283.3533 0001354  80.4879 279.6263 15.06407111208139

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45207
+launchyear:2020
+epoch:24242.62258484
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1210
+meananomly:290.8192
+meanmotion:15.0669
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6924.4733644809
+altitudeatperigee:545
+altitudeatapogee:547
+inclination:53.0536
+eccentricity:0.0001311
+argumentofperigree:69.2938
+nickname:STARLINK-1210
+idesg:20012AF 
+cosparid:2020-012AF
+altkm:546.89293582385
+velkms:7.5899748035658
+velkmh:27324
+onumepoch:25021
+onumnow:377001.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:56:31+00:00
+nowjuliandate:2460553.0284104
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1210
+1 45207U 20012AF  24242.62258484  .00030260  00000+0  20260-2 0  9998
+2 45207  53.0536   7.3861 0001311  69.2938 290.8192 15.06686277250219

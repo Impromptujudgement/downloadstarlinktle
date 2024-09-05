@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53849
+launchyear:2022
+epoch:24242.41165349
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4770
+meananomly:262.8002
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8945657227
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001484
+argumentofperigree:97.3159
+nickname:STARLINK-4770
+idesg:22114AH 
+cosparid:2022-114AH
+altkm:540.78370181848
+velkms:7.5930737553885
+velkmh:27335
+onumepoch:10830
+onumnow:163417.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:52:47+00:00
+nowjuliandate:2460552.6378219
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4770
+1 53849U 22114AH  24242.41165349 -.00000248  00000+0  25250-5 0  9999
+2 53849  53.2167 275.6922 0001484  97.3159 262.8002 15.08836037108302

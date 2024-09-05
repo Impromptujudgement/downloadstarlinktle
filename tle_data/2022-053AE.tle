@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52684
+launchyear:2022
+epoch:24242.40705075
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4014
+meananomly:278.9356
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.826501874
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001501
+argumentofperigree:81.1806
+nickname:STARLINK-4014
+idesg:22053AE 
+cosparid:2022-053AE
+altkm:540.42576059414
+velkms:7.5934292423373
+velkmh:27336
+onumepoch:12662
+onumnow:191062.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:46:09+00:00
+nowjuliandate:2460552.6379042
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4014
+1 52684U 22053AE  24242.40705075  .00001582  00000+0  11744-3 0  9994
+2 52684  53.2172 125.8620 0001501  81.1806 278.9356 15.08858305126622

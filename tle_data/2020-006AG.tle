@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:01+00:00
+validtle:1
+satid:45074
+launchyear:2020
+epoch:24242.75583181
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1172
+meananomly:271.0444
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.339075232
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0524
+eccentricity:0.0001316
+argumentofperigree:89.0695
+nickname:STARLINK-1172
+idesg:20006AG 
+cosparid:2020-006AG
+altkm:548.06447002144
+velkms:7.5891645621171
+velkmh:27321
+onumepoch:25279
+onumnow:380815.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:08:24+00:00
+nowjuliandate:2460553.0284944
+nowepochdate:24243.5284837963
+TLE:
+STARLINK-1172
+1 45074U 20006AG  24242.75583181  .00002503  00000+0  18685-3 0  9990
+2 45074  53.0524 246.7930 0001316  89.0695 271.0444 15.06403768252797

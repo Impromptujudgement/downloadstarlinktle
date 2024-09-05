@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46740
+launchyear:2020
+epoch:24242.47018107
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1848
+meananomly:263.0916
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3781614647
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001372
+argumentofperigree:97.0229
+nickname:STARLINK-1848
+idesg:20074B  
+cosparid:2020-074B
+altkm:548.23468417496
+velkms:7.5889994652879
+velkmh:27320
+onumepoch:21263
+onumnow:320314.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:17:04+00:00
+nowjuliandate:2460552.6397101
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1848
+1 46740U 20074B   24242.47018107 -.00000901  00000+0 -41642-4 0  9998
+2 46740  53.0546 308.0692 0001372  97.0229 263.0916 15.06391015212638

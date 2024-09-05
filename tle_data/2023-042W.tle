@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56006
+launchyear:2023
+epoch:24242.59682307
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5794
+meananomly:81.2319
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2057088489
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:0.0001127
+argumentofperigree:278.8396
+nickname:STARLINK-5794
+idesg:23042W  
+cosparid:2023-042W
+altkm:558.72788535565
+velkms:7.5839733636096
+velkmh:27302
+onumepoch:7945
+onumnow:119384.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:19:26+00:00
+nowjuliandate:2460552.6377199
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5794
+1 56006U 23042W   24242.59682307  .00000666  00000+0  64358-4 0  9999
+2 56006  43.0039 202.8095 0001127 278.8396  81.2319 15.02540189 79452

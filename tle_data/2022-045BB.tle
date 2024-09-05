@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52380
+launchyear:2022
+epoch:24242.50872216
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3793
+meananomly:272.6973
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8692326198
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001477
+argumentofperigree:87.4188
+nickname:STARLINK-3793
+idesg:22045BB 
+cosparid:2022-045BB
+altkm:540.58173663642
+velkms:7.5932814906253
+velkmh:27336
+onumepoch:13194
+onumnow:199086.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:12:34+00:00
+nowjuliandate:2460552.6379265
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3793
+1 52380U 22045BB  24242.50872216 -.00000058  00000+0  14475-4 0  9994
+2 52380  53.2177 160.4283 0001477  87.4188 272.6973 15.08844325131948

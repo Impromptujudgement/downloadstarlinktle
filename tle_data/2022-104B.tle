@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53589
+launchyear:2022
+epoch:24241.68026682
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4673
+meananomly:268.5099
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8738236162
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001494
+argumentofperigree:91.6064
+nickname:STARLINK-4673
+idesg:22104B  
+cosparid:2022-104B
+altkm:540.66113039344
+velkms:7.593196888376
+velkmh:27336
+onumepoch:11170
+onumnow:168559.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:19:35+00:00
+nowjuliandate:2460552.6378417
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4673
+1 53589U 22104B   24241.68026682  .00000964  00000+0  78620-4 0  9995
+2 53589  53.2162 229.1745 0001494  91.6064 268.5099 15.08842823111705

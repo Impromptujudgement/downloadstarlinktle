@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53639
+launchyear:2022
+epoch:24241.65263342
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4422
+meananomly:269.5238
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8682117202
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001411
+argumentofperigree:90.5916
+nickname:STARLINK-4422
+idesg:22104BD 
+cosparid:2022-104BD
+altkm:540.6366706911
+velkms:7.5932206539189
+velkmh:27336
+onumepoch:11181
+onumnow:168726.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:39:48+00:00
+nowjuliandate:2460552.637841
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4422
+1 53639U 22104BD  24241.65263342  .00001182  00000+0  92326-4 0  9996
+2 53639  53.2156 209.0334 0001411  90.5916 269.5238 15.08844659111815

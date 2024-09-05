@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46147
+launchyear:2020
+epoch:24242.45634721
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1611
+meananomly:270.7235
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3901084214
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.000136
+argumentofperigree:89.391
+nickname:STARLINK-1611
+idesg:20057AG 
+cosparid:2020-057AG
+altkm:548.12043774907
+velkms:7.5891311501059
+velkmh:27321
+onumepoch:22333
+onumnow:336429.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:57:08+00:00
+nowjuliandate:2460553.0282885
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1611
+1 46147U 20057AG  24242.45634721  .00026511  00000+0  17926-2 0  9993
+2 46147  53.0545 298.1348 0001360  89.3910 270.7235 15.06387117223339

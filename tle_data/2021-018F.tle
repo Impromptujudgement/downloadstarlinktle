@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:31+00:00
+validtle:1
+satid:47792
+launchyear:2021
+epoch:24242.1895922
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2334
+meananomly:259.5224
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.355018597
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001775
+argumentofperigree:100.5964
+nickname:STARLINK-2334
+idesg:21018F  
+cosparid:2021-018F
+altkm:548.32083392725
+velkms:7.5888924398063
+velkmh:27320
+onumepoch:19250
+onumnow:289996.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:33:01+00:00
+nowjuliandate:2460552.6392534
+nowepochdate:24243.1392476852
+TLE:
+STARLINK-2334
+1 47792U 21018F   24242.18959220  .00000767  00000+0  70375-4 0  9996
+2 47792  53.0541 214.3314 0001775 100.5964 259.5224 15.06398566192507

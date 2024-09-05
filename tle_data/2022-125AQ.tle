@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54002
+launchyear:2022
+epoch:24241.5955819
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5109
+meananomly:257.3159
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8514708541
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001559
+argumentofperigree:102.8008
+nickname:STARLINK-5109
+idesg:22125AQ 
+cosparid:2022-125AQ
+altkm:540.8486336035
+velkms:7.592978911263
+velkmh:27335
+onumepoch:10540
+onumnow:159056.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:17:38+00:00
+nowjuliandate:2460552.6378081
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5109
+1 54002U 22125AQ  24241.59558190  .00001191  00000+0  92914-4 0  9998
+2 54002  53.2155 189.2356 0001559 102.8008 257.3159 15.08850136105406

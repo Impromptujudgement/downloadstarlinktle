@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45767
+launchyear:2020
+epoch:24243.01772292
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1511
+meananomly:296.3883
+meanmotion:15.4375
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6813.1953670059
+altitudeatperigee:432
+altitudeatapogee:438
+inclination:53.0464
+eccentricity:0.0004108
+argumentofperigree:63.7544
+nickname:STARLINK-1511
+idesg:20038AP 
+cosparid:2020-038AP
+altkm:434.70801465209
+velkms:7.6528301563106
+velkmh:27550
+onumepoch:23398
+onumnow:361214.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:25:31+00:00
+nowjuliandate:2460553.0283093
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1511
+1 45767U 20038AP  24243.01772292  .00146918  00000+0  31480-2 0  9993
+2 45767  53.0464 161.0896 0004108  63.7544 296.3883 15.43749012233986

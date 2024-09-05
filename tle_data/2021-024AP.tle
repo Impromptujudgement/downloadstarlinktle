@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48014
+launchyear:2021
+epoch:24242.23613559
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2283
+meananomly:249.0743
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3393970407
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001384
+argumentofperigree:111.0394
+nickname:STARLINK-2283
+idesg:21024AP 
+cosparid:2021-024AP
+altkm:548.42392232555
+velkms:7.5887709717859
+velkmh:27320
+onumepoch:19098
+onumnow:287706.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:40:02+00:00
+nowjuliandate:2460552.6380976
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2283
+1 48014U 21024AP  24242.23613559  .00000008  00000+0  19464-4 0  9999
+2 48014  53.0544 249.2841 0001384 111.0394 249.0743 15.06403663190985

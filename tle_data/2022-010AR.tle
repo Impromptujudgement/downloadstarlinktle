@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73377
+launchyear:2022
+epoch:23051.42756944
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3377
+meananomly:331.0474
+meanmotion:15.9970
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.4023341224
+altitudeatperigee:234
+altitudeatapogee:316
+inclination:69.9999
+eccentricity:0.0061929
+argumentofperigree:162.0402
+nickname:STARLINK-3377
+idesg:22010AR 
+cosparid:2022-010AR
+altkm:245.25581488147
+velkms:7.7853753869001
+velkmh:28027
+onumepoch:1
+onumnow:19077.53
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:15:42+00:00
+nowjuliandate:2460552.6379698
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3377
+1 73377C 22010AR  23051.42756944 -.01042524  00000-0 -17597-2 0   514
+2 73377  69.9999 143.3322 0061929 162.0402 331.0474 15.99695330    13

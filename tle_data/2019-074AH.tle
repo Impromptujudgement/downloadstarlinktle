@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:46+00:00
+validtle:1
+satid:44744
+launchyear:2019
+epoch:24243.19076396
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1039
+meananomly:265.5652
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3063459551
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001323
+argumentofperigree:94.5488
+nickname:STARLINK-1039
+idesg:19074AH 
+cosparid:2019-074AH
+altkm:548.11924864479
+velkms:7.5890866597951
+velkmh:27321
+onumepoch:26448
+onumnow:398421.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:34:42+00:00
+nowjuliandate:2460553.0297015
+nowepochdate:24243.5296990741
+TLE:
+STARLINK-1039
+1 44744U 19074AH  24243.19076396  .00002711  00000+0  20074-3 0  9996
+2 44744  53.0529 204.8407 0001323  94.5488 265.5652 15.06414447264482

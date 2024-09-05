@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56405
+launchyear:2023
+epoch:24242.5453552
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6285
+meananomly:116.1213
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2080234984
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:42.9977
+eccentricity:4.61E-5
+argumentofperigree:243.9582
+nickname:STARLINK-6285
+idesg:23061AH 
+cosparid:2023-061AH
+altkm:558.98938673422
+velkms:7.5836888872832
+velkmh:27301
+onumepoch:7338
+onumnow:110265.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:05:19+00:00
+nowjuliandate:2460552.637704
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6285
+1 56405U 23061AH  24242.54535520  .00000676  00000+0  65047-4 0  9999
+2 56405  42.9977 332.0166 0000461 243.9582 116.1213 15.02539437 73380

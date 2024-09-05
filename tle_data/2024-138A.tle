@@ -1,0 +1,38 @@
+date:2024-08-27T14:43:46+00:00
+validtle:1
+satid:60355
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32285
+meananomly:282.9318
+meanmotion:15.7438
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6724.5396610733
+altitudeatperigee:346
+altitudeatapogee:347
+inclination:53.1591
+eccentricity:6.72E-5
+argumentofperigree:45.1361
+nickname:STARLINK-32285
+idesg:24138A  
+cosparid:2024-138A
+altkm:353.66919757437
+velkms:7.6968925489149
+velkmh:27709
+onumepoch:480
+onumnow:7567.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1137299
+nowepochdate:24240.6137268519
+TLE:
+STARLINK-32285
+1 60355U 24138A   24239.91667824 -.00601060  00000+0 -43642-2 0  9995
+2 60355  53.1591  39.7504 0000672  45.1361 282.9318 15.74378380  4809

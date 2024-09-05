@@ -1,0 +1,38 @@
+date:2024-08-29T09:33:18+00:00
+validtle:1
+satid:56506
+launchyear:2023
+epoch:24241.03384254
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5340
+meananomly:91.6048
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1533434976
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0077
+eccentricity:0.0001555
+argumentofperigree:268.4617
+nickname:STARLINK-5340
+idesg:23065D  
+cosparid:2023-065D
+altkm:558.82538238447
+velkms:7.5838382892552
+velkmh:27302
+onumepoch:7273
+onumnow:109295.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:48:44+00:00
+nowjuliandate:2460551.8981339
+nowepochdate:24242.008.398125
+TLE:
+STARLINK-5340
+1 56506U 23065D   24241.03384254 -.00004089  00000+0 -28765-3 0  9993
+2 56506  43.0077 353.3185 0001555 268.4617  91.6048 15.02557202 72739

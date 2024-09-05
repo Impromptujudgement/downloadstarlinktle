@@ -1,0 +1,38 @@
+date:2024-08-27T14:18:09+00:00
+validtle:1
+satid:60408
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-11196
+meananomly:172.9837
+meanmotion:15.8090
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6706.0351634795
+altitudeatperigee:327
+altitudeatapogee:329
+inclination:53.1533
+eccentricity:9.04E-5
+argumentofperigree:66.2321
+nickname:STARLINK-11196
+idesg:24141L  
+cosparid:2024-141L
+altkm:343.15170469438
+velkms:7.7022175565847
+velkmh:27728
+onumepoch:382
+onumnow:6041.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0959439
+nowepochdate:24240.06.5959375
+TLE:
+STARLINK-11196 [DTC]
+1 60408U 24141L   24239.91667824 -.01098382  00000+0 -61855-2 0  9992
+2 60408  53.1533 326.0202 0000904  66.2321 172.9837 15.80899335  3829

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49752
+launchyear:2021
+epoch:24241.93559954
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3209
+meananomly:269.5424
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8615667121
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001428
+argumentofperigree:90.5731
+nickname:STARLINK-3209
+idesg:21115AE 
+cosparid:2021-115AE
+altkm:540.62983817797
+velkms:7.5932245123147
+velkmh:27336
+onumepoch:15258
+onumnow:230237.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:27:16+00:00
+nowjuliandate:2460552.6379932
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3209
+1 49752U 21115AE  24241.93559954  .00003334  00000+0  22741-3 0  9990
+2 49752  53.2158 122.9864 0001428  90.5731 269.5424 15.08846833152584

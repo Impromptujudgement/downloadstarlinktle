@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53927
+launchyear:2022
+epoch:24241.85147295
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5008
+meananomly:327.6535
+meanmotion:15.1109
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6911.025801086
+altitudeatperigee:531
+altitudeatapogee:535
+inclination:53.2172
+eccentricity:0.0003436
+argumentofperigree:32.4669
+nickname:STARLINK-5008
+idesg:22119AT 
+cosparid:2022-119AT
+altkm:531.78118260485
+velkms:7.5991970588356
+velkmh:27357
+onumepoch:10768
+onumnow:162732.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:26:07+00:00
+nowjuliandate:2460552.6378143
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5008
+1 53927U 22119AT  24241.85147295  .00049679  00000+0  29309-2 0  9994
+2 53927  53.2172 293.1490 0003436  32.4669 327.6535 15.11086010107688

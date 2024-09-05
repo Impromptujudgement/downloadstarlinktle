@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52560
+launchyear:2022
+epoch:24241.90703826
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3956
+meananomly:274.0319
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.851761228
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001467
+argumentofperigree:86.0841
+nickname:STARLINK-3956
+idesg:22051AD 
+cosparid:2022-051AD
+altkm:540.54077634698
+velkms:7.5933168680103
+velkmh:27336
+onumepoch:12737
+onumnow:192200.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:46:08+00:00
+nowjuliandate:2460552.6379171
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3956
+1 52560U 22051AD  24241.90703826  .00002852  00000+0  19718-3 0  9991
+2 52560  53.2157 103.1061 0001467  86.0841 274.0319 15.08850041127378

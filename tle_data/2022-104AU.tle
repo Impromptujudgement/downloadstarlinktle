@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53630
+launchyear:2022
+epoch:24241.61314735
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4598
+meananomly:263.1571
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.878802808
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0002321
+argumentofperigree:96.9685
+nickname:STARLINK-4598
+idesg:22104AU 
+cosparid:2022-104AU
+altkm:540.83082477403
+velkms:7.5930134191772
+velkmh:27335
+onumepoch:11095
+onumnow:167428.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:42:56+00:00
+nowjuliandate:2460552.6378423
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4598
+1 53630U 22104AU  24241.61314735  .00000362  00000+0  40883-4 0  9996
+2 53630  53.2169 209.5002 0002321  96.9685 263.1571 15.08841194110956

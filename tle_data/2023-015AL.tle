@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55483
+launchyear:2023
+epoch:24242.40576607
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5692
+meananomly:103.4617
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2444333124
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9994
+eccentricity:9.71E-5
+argumentofperigree:256.6117
+nickname:STARLINK-5692
+idesg:23015AL 
+cosparid:2023-015AL
+altkm:559.04204604325
+velkms:7.5836511946293
+velkmh:27301
+onumepoch:8677
+onumnow:130385.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:44:18+00:00
+nowjuliandate:2460552.6377583
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5692
+1 55483U 23015AL  24242.40576607  .00003623  00000+0  28320-3 0  9996
+2 55483  42.9994 127.1383 0000971 256.6117 103.4617 15.02527608 86770

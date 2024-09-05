@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52542
+launchyear:2022
+epoch:24242.33667509
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3937
+meananomly:260.9620
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8389328462
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001294
+argumentofperigree:99.1518
+nickname:STARLINK-3937
+idesg:22051K  
+cosparid:2022-051K
+altkm:540.73985346852
+velkms:7.5930914031251
+velkmh:27335
+onumepoch:12737
+onumnow:192194.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:04:49+00:00
+nowjuliandate:2460552.6379131
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3937
+1 52542U 22051K   24242.33667509 -.00002137  00000+0 -11619-3 0  9996
+2 52542  53.2153 111.1804 0001294  99.1518 260.9620 15.08854238127373

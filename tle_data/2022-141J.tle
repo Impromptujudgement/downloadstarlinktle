@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54165
+launchyear:2022
+epoch:24242.58461775
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5279
+meananomly:264.6455
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8813275581
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001876
+argumentofperigree:95.4751
+nickname:STARLINK-5279
+idesg:22141J  
+cosparid:2022-141J
+altkm:540.76314055084
+velkms:7.5930890672843
+velkmh:27335
+onumepoch:10161
+onumnow:153321.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:01:51+00:00
+nowjuliandate:2460552.637793
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5279
+1 54165U 22141J   24242.58461775 -.00000115  00000+0  10900-4 0  9999
+2 54165  53.2180 355.0400 0001876  95.4751 264.6455 15.08840368101616

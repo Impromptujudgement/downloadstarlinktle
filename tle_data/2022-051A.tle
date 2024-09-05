@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52533
+launchyear:2022
+epoch:24242.37717391
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3951
+meananomly:278.1775
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8420780408
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001465
+argumentofperigree:81.9383
+nickname:STARLINK-3951
+idesg:22051A  
+cosparid:2022-051A
+altkm:540.45829860431
+velkms:7.5934020673628
+velkmh:27336
+onumepoch:12737
+onumnow:192194.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:03:08+00:00
+nowjuliandate:2460552.6379175
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3951
+1 52533U 22051A   24242.37717391  .00001160  00000+0  90942-4 0  9995
+2 52533  53.2157 111.1370 0001465  81.9383 278.1775 15.08853209127373

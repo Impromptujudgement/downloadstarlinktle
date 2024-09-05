@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52701
+launchyear:2022
+epoch:24240.95070632
+epochday:240
+tleage:3
+tleclassification:U
+active:1
+name:STARLINK-4003
+meananomly:270.9269
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8671296893
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2153
+eccentricity:0.000104
+argumentofperigree:89.1843
+nickname:STARLINK-4003
+idesg:22053AX 
+cosparid:2022-053AX
+altkm:540.61573762885
+velkms:7.5932430303294
+velkmh:27336
+onumepoch:12653
+onumnow:190947.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:49:01+00:00
+nowjuliandate:2460552.637902
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4003
+1 52701U 22053AX  24240.95070632  .00004798  00000+0  31926-3 0  9992
+2 52701  53.2153 122.3986 0001040  89.1843 270.9269 15.08845013126532

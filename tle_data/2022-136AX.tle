@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54096
+launchyear:2022
+epoch:24242.38956889
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5188
+meananomly:254.3401
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9365486377
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.00012
+argumentofperigree:105.7723
+nickname:STARLINK-5188
+idesg:22136AX 
+cosparid:2022-136AX
+altkm:540.92096733545
+velkms:7.5929461335722
+velkmh:27335
+onumepoch:10332
+onumnow:155902.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:20:59+00:00
+nowjuliandate:2460552.6378013
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5188
+1 54096U 22136AX  24242.38956889 -.00002794  00000+0 -15759-3 0  9991
+2 54096  53.2160 315.7328 0001200 105.7723 254.3401 15.08822302103329

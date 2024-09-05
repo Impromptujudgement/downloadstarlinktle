@@ -1,0 +1,38 @@
+date:2024-08-28T15:07:48+00:00
+validtle:1
+satid:58417
+launchyear:2023
+epoch:24241.18308052
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30955
+meananomly:90.8435
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2295541405
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:8.66E-5
+argumentofperigree:269.2308
+nickname:STARLINK-30955
+idesg:23180R  
+cosparid:2023-180R
+altkm:558.87955046057
+velkms:7.5838206376195
+velkmh:27302
+onumepoch:4357
+onumnow:65472.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:23:38+00:00
+nowjuliandate:2460551.1304267
+nowepochdate:24241.6304166667
+TLE:
+STARLINK-30955
+1 58417U 23180R   24241.18308052  .00001450  00000+0  12238-3 0  9997
+2 58417  43.0025 210.5674 0000866 269.2308  90.8435 15.02532442 43572

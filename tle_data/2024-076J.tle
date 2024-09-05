@@ -1,0 +1,38 @@
+date:2024-08-27T23:04:37+00:00
+validtle:1
+satid:59572
+launchyear:2024
+epoch:24240.49512195
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31666
+meananomly:95.6975
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.152270855
+altitudeatperigee:444
+altitudeatapogee:445
+inclination:42.9995
+eccentricity:7.29E-5
+argumentofperigree:264.3798
+nickname:STARLINK-31666
+idesg:24076J  
+cosparid:2024-076J
+altkm:443.83869747459
+velkms:7.6475977905989
+velkmh:27531
+onumepoch:2072
+onumnow:31946.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T11:52:59+00:00
+nowjuliandate:2460550.4615468
+nowepochdate:24241.9615393519
+TLE:
+STARLINK-31666
+1 59572U 24076J   24240.49512195  .00007206  00000+0  17955-3 0  9999
+2 59572  42.9995 309.3076 0000729 264.3798  95.6975 15.40709794 20721

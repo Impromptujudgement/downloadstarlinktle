@@ -1,0 +1,38 @@
+date:2024-08-27T17:56:06+00:00
+validtle:1
+satid:59958
+launchyear:2024
+epoch:24239.45170426
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31995
+meananomly:293.4612
+meanmotion:15.3963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6825.3416012848
+altitudeatperigee:446
+altitudeatapogee:448
+inclination:53.1577
+eccentricity:0.0001129
+argumentofperigree:66.6512
+nickname:STARLINK-31995
+idesg:24107P  
+cosparid:2024-107P
+altkm:447.80098218869
+velkms:7.6449440118719
+velkmh:27522
+onumepoch:1279
+onumnow:19711.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T10:50:27+00:00
+nowjuliandate:2460550.2472977
+nowepochdate:24240.7472916667
+TLE:
+STARLINK-31995
+1 59958U 24107P   24239.45170426  .00012776  00000+0  32874-3 0  9998
+2 59958  53.1577 149.7598 0001129  66.6512 293.4612 15.39630011 12793

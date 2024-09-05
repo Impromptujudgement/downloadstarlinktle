@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51108
+launchyear:2022
+epoch:24242.29987784
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3362
+meananomly:269.7479
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8710329497
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001333
+argumentofperigree:90.3666
+nickname:STARLINK-3362
+idesg:22005E  
+cosparid:2022-005E
+altkm:540.63532640168
+velkms:7.5932236736348
+velkmh:27336
+onumepoch:14584
+onumnow:220060.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:11:49+00:00
+nowjuliandate:2460552.6379728
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3362
+1 51108U 22005E   24242.29987784  .00000242  00000+0  33316-4 0  9999
+2 51108  53.2147 271.3444 0001333  90.3666 269.7479 15.08843736145845

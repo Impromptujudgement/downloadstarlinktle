@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52996
+launchyear:2022
+epoch:24241.84960373
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4295
+meananomly:272.2714
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8487688505
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001328
+argumentofperigree:87.843
+nickname:STARLINK-4295
+idesg:22076L  
+cosparid:2022-076L
+altkm:540.57266406943
+velkms:7.5932802396735
+velkmh:27336
+onumepoch:11862
+onumnow:178999.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:23:26+00:00
+nowjuliandate:2460552.6378875
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4295
+1 52996U 22076L   24241.84960373  .00001528  00000+0  11403-3 0  9998
+2 52996  53.2153  78.6417 0001328  87.8430 272.2714 15.08851020118622

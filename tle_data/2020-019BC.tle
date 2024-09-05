@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45410
+launchyear:2020
+epoch:22123.36967286
+epochday:123
+tleage:850
+tleclassification:C
+active:0
+name:STARLINK-1285
+meananomly:91.1229
+meanmotion:15.9273
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6672.7871274598
+altitudeatperigee:290
+altitudeatapogee:299
+inclination:53.0409
+eccentricity:0.0006567
+argumentofperigree:16.4215
+nickname:STARLINK-1285
+idesg:20019BC 
+cosparid:2020-019BC
+altkm:300.46415055858
+velkms:7.7336887061449
+velkmh:27841
+onumepoch:1
+onumnow:33784.32
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-05-03T08:52:20+00:00
+nowjuliandate:2460553.0283536
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1285
+1 45410C 20019BC  22123.36967286  .01353540  00000-0  35533-2 0  1234
+2 45410  53.0409 180.1724 0006567  16.4215  91.1229 15.92729598    15

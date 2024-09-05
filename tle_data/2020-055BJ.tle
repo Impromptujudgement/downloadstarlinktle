@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46083
+launchyear:2020
+epoch:24242.26927477
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1579
+meananomly:270.6520
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.339528829
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.00014
+argumentofperigree:89.463
+nickname:STARLINK-1579
+idesg:20055BJ 
+cosparid:2020-055BJ
+altkm:548.07066409196
+velkms:7.589158024843
+velkmh:27321
+onumepoch:22528
+onumnow:339373.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:27:45+00:00
+nowjuliandate:2460553.0282938
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1579
+1 46083U 20055BJ  24242.26927477  .00003527  00000+0  25551-3 0  9998
+2 46083  53.0539  78.9632 0001400  89.4630 270.6520 15.06403620225286

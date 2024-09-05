@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51462
+launchyear:2022
+epoch:24241.76079908
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3166
+meananomly:269.8703
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8817554821
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001431
+argumentofperigree:90.2453
+nickname:STARLINK-3166
+idesg:22010G  
+cosparid:2022-010G
+altkm:540.64428420436
+velkms:7.5932197161414
+velkmh:27336
+onumepoch:14259
+onumnow:215164.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:15:33+00:00
+nowjuliandate:2460552.6379673
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3166
+1 51462U 22010G   24241.76079908  .00000818  00000+0  69490-4 0  9990
+2 51462  53.2150 263.7737 0001431  90.2453 269.8703 15.08840228142597

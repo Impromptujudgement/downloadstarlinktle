@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50813
+launchyear:2022
+epoch:24242.04687469
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3349
+meananomly:285.1758
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8518498684
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.000144
+argumentofperigree:74.9393
+nickname:STARLINK-3349
+idesg:22001L  
+cosparid:2022-001L
+altkm:540.35163894126
+velkms:7.5935244561544
+velkmh:27337
+onumepoch:14761
+onumnow:222735.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:07:30+00:00
+nowjuliandate:2460552.6379778
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3349
+1 50813U 22001L   24242.04687469 -.00000326  00000+0 -23653-5 0  9996
+2 50813  53.2176 142.4263 0001440  74.9393 285.1758 15.08850012147614

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:39+00:00
+validtle:1
+satid:47729
+launchyear:2021
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2132
+meananomly:314.8495
+meanmotion:15.7790
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6714.5347913847
+altitudeatperigee:335
+altitudeatapogee:337
+inclination:53.0503
+eccentricity:0.0001537
+argumentofperigree:271.9339
+nickname:STARLINK-2132
+idesg:21017H  
+cosparid:2021-017H
+altkm:347.11092041061
+velkms:7.7007932359043
+velkmh:27723
+onumepoch:19440
+onumnow:306746.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6393435
+nowepochdate:24243.1393402778
+TLE:
+STARLINK-2132
+1 47729U 21017H   24242.91667824  .00552451  00000+0  30049-2 0  9996
+2 47729  53.0503 104.2196 0001537 271.9339 314.8495 15.77898501194403

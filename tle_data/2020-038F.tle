@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45735
+launchyear:2020
+epoch:24243.21195608
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1471
+meananomly:267.2374
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.313532939
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001519
+argumentofperigree:92.8789
+nickname:STARLINK-1471
+idesg:20038F  
+cosparid:2020-038F
+altkm:548.10635873872
+velkms:7.58910470978
+velkmh:27321
+onumepoch:23343
+onumnow:351646.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:05:13+00:00
+nowjuliandate:2460553.0283031
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1471
+1 45735U 20038F   24243.21195608 -.00001651  00000+0 -91945-4 0  9990
+2 45735  53.0532 214.7414 0001519  92.8789 267.2374 15.06412102233434

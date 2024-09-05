@@ -1,0 +1,38 @@
+date:2024-08-28T01:10:18+00:00
+validtle:1
+satid:59410
+launchyear:2024
+epoch:24240.59422749
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31412
+meananomly:214.7831
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1607016433
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0048
+eccentricity:0.0001644
+argumentofperigree:145.3133
+nickname:STARLINK-31412
+idesg:24064N  
+cosparid:2024-064N
+altkm:444.71940430168
+velkms:7.646615798508
+velkmh:27528
+onumepoch:2350
+onumnow:36213.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:15:41+00:00
+nowjuliandate:2460550.5488267
+nowepochdate:24241.0488194444
+TLE:
+STARLINK-31412
+1 59410U 24064N   24240.59422749  .00004280  00000+0  10965-3 0  9996
+2 59410  43.0048 352.3160 0001644 145.3133 214.7831 15.40706938 23504

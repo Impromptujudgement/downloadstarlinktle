@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47405
+launchyear:2021
+epoch:24242.15732111
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2130
+meananomly:264.0915
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2613855881
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0594
+eccentricity:0.0001319
+argumentofperigree:96.0225
+nickname:STARLINK-2130
+idesg:21005BJ 
+cosparid:2021-005BJ
+altkm:548.09816060834
+velkms:7.5890851823658
+velkmh:27321
+onumepoch:19900
+onumnow:299794.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:46:33+00:00
+nowjuliandate:2460552.6395707
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2130
+1 47405U 21005BJ  24242.15732111 -.00008610  00000+0 -55941-3 0  9996
+2 47405  53.0594  44.4781 0001319  96.0225 264.0915 15.06429117199006

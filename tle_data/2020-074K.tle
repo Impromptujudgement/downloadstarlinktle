@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46748
+launchyear:2020
+epoch:24242.43562742
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1910
+meananomly:21.6343
+meanmotion:15.0636
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4634371381
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0547
+eccentricity:2.6E-6
+argumentofperigree:338.4644
+nickname:STARLINK-1910
+idesg:20074K  
+cosparid:2020-074K
+altkm:548.1888165756
+velkms:7.5890963303581
+velkmh:27321
+onumepoch:21270
+onumnow:320413.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:27:18+00:00
+nowjuliandate:2460552.6396894
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1910
+1 46748U 20074K   24242.43562742 -.00017733  00000+0 -11758-2 0  9995
+2 46748  53.0547 303.2259 0000026 338.4644  21.6343 15.06363192212706

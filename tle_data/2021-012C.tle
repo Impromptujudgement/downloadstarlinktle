@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47622
+launchyear:2021
+epoch:24242.19969279
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1645
+meananomly:259.6860
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3323693612
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001016
+argumentofperigree:100.4243
+nickname:STARLINK-1645
+idesg:21012C  
+cosparid:2021-012C
+altkm:548.20026579509
+velkms:7.589012134211
+velkmh:27320
+onumepoch:19544
+onumnow:294426.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:47:33+00:00
+nowjuliandate:2460552.6394174
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1645
+1 47622U 21012C   24242.19969279  .00002604  00000+0  19358-3 0  9993
+2 47622  53.0521  54.2785 0001016 100.4243 259.6860 15.06405956195442

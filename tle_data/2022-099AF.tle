@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53494
+launchyear:2022
+epoch:24241.6105812
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4340
+meananomly:272.1902
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1067544016
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6556
+eccentricity:0.0002314
+argumentofperigree:87.9587
+nickname:STARLINK-4340
+idesg:22099AF 
+cosparid:2022-099AF
+altkm:565.96633258704
+velkms:7.5781986567078
+velkmh:27282
+onumepoch:11225
+onumnow:168540.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:39:14+00:00
+nowjuliandate:2460552.6378556
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4340
+1 53494U 22099AF  24241.61058120  .00006718  00000+0  52690-3 0  9999
+2 53494  97.6556   1.4129 0002314  87.9587 272.1902 15.01273679112251

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51739
+launchyear:2022
+epoch:24242.43696332
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3516
+meananomly:250.9696
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9224360716
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001504
+argumentofperigree:109.1459
+nickname:STARLINK-3516
+idesg:22016AB 
+cosparid:2022-016AB
+altkm:541.0221312967
+velkms:7.5928274082064
+velkmh:27334
+onumepoch:14056
+onumnow:212089.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:29:14+00:00
+nowjuliandate:2460552.6379646
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3516
+1 51739U 22016AB  24242.43696332 -.00002778  00000+0 -15657-3 0  9998
+2 51739  53.2165 300.7256 0001504 109.1459 250.9696 15.08826919140563

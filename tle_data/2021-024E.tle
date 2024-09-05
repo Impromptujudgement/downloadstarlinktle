@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47981
+launchyear:2021
+epoch:24242.5171784
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2303
+meananomly:255.7434
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3725128831
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0555
+eccentricity:0.000158
+argumentofperigree:104.373
+nickname:STARLINK-2303
+idesg:21024E  
+cosparid:2021-024E
+altkm:548.38434497431
+velkms:7.5888324315253
+velkmh:27320
+onumepoch:19005
+onumnow:286299.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:24:44+00:00
+nowjuliandate:2460552.6380569
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2303
+1 47981U 21024E   24242.51717840 -.00004611  00000+0 -29089-3 0  9999
+2 47981  53.0555 317.8658 0001580 104.3730 255.7434 15.06392858190056

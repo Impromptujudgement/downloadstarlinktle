@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:57+00:00
+validtle:1
+satid:47357
+launchyear:2021
+epoch:24242.70288735
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2050
+meananomly:282.5396
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.289517146
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001135
+argumentofperigree:77.5719
+nickname:STARLINK-2050
+idesg:21005J  
+cosparid:2021-005J
+altkm:547.86095037516
+velkms:7.5893604269029
+velkmh:27322
+onumepoch:20003
+onumnow:301335.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:52:09+00:00
+nowjuliandate:2460552.6395572
+nowepochdate:24243.1395486111
+TLE:
+STARLINK-2050
+1 47357U 21005J   24242.70288735  .00005815  00000+0  40874-3 0  9992
+2 47357  53.0534  42.4511 0001135  77.5719 282.5396 15.06419938200037

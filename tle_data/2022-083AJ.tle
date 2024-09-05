@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53164
+launchyear:2022
+epoch:24241.03258462
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4116
+meananomly:259.9224
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8907755236
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001336
+argumentofperigree:100.1919
+nickname:STARLINK-4116
+idesg:22083AJ 
+cosparid:2022-083AJ
+altkm:540.81276894212
+velkms:7.5930397861253
+velkmh:27335
+onumepoch:11702
+onumnow:176595.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:46:55+00:00
+nowjuliandate:2460552.6378793
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4116
+1 53164U 22083AJ  24241.03258462  .00002011  00000+0  14439-3 0  9994
+2 53164  53.2151 152.0292 0001336 100.1919 259.9224 15.08837277117025

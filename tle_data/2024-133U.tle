@@ -1,0 +1,38 @@
+date:2024-08-27T15:04:24+00:00
+validtle:1
+satid:60319
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-32182
+meananomly:16.4039
+meanmotion:15.5824
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6770.888675094
+altitudeatperigee:392
+altitudeatapogee:393
+inclination:53.1591
+eccentricity:7.84E-5
+argumentofperigree:60.3861
+nickname:STARLINK-32182
+idesg:24133U  
+cosparid:2024-133U
+altkm:398.3543446799
+velkms:7.6780244588655
+velkmh:27641
+onumepoch:587
+onumnow:9157.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.1280636
+nowepochdate:24240.6280555556
+TLE:
+STARLINK-32182
+1 60319U 24133U   24239.91667824 -.01710151  00000+0 -24812-1 0  9990
+2 60319  53.1591  27.8732 0000784  60.3861  16.4039 15.58240351  5874

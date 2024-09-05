@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:44+00:00
+validtle:1
+satid:44758
+launchyear:2019
+epoch:24242.63421018
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1053
+meananomly:270.3666
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3237357297
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0524
+eccentricity:0.0001374
+argumentofperigree:89.748
+nickname:STARLINK-1053
+idesg:19074AX 
+cosparid:2019-074AX
+altkm:548.05966321506
+velkms:7.5891614419228
+velkmh:27321
+onumepoch:26423
+onumnow:398051.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:13:16+00:00
+nowjuliandate:2460553.0296859
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1053
+1 44758U 19074AX  24242.63421018  .00004773  00000+0  33900-3 0  9996
+2 44758  53.0524 207.4241 0001374  89.7480 270.3666 15.06408773264238

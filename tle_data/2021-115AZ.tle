@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49771
+launchyear:2021
+epoch:24242.39096149
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3201
+meananomly:285.9576
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8745694246
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.000182
+argumentofperigree:74.1616
+nickname:STARLINK-3201
+idesg:21115AZ 
+cosparid:2021-115AZ
+altkm:540.28888959647
+velkms:7.5936057519799
+velkmh:27337
+onumepoch:15265
+onumnow:230336.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:22:59+00:00
+nowjuliandate:2460552.6379902
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3201
+1 49771U 21115AZ  24242.39096149  .00000871  00000+0  72821-4 0  9992
+2 49771  53.2159 120.9333 0001820  74.1616 285.9576 15.08842579152652

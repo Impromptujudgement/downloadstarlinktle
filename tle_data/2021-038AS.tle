@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48393
+launchyear:2021
+epoch:24242.51857097
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2602
+meananomly:279.0533
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.373082951
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001078
+argumentofperigree:81.0578
+nickname:STARLINK-2602
+idesg:21038AS 
+cosparid:2021-038AS
+altkm:547.99777789
+velkms:7.5892562148939
+velkmh:27321
+onumepoch:18391
+onumnow:277050.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:26:45+00:00
+nowjuliandate:2460552.6380352
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2602
+1 48393U 21038AS  24242.51857097  .00021414  00000+0  14524-2 0  9996
+2 48393  53.0544 322.8526 0001078  81.0578 279.0533 15.06392672183915

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53080
+launchyear:2022
+epoch:24241.77912987
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4330
+meananomly:274.9647
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1429348987
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6563
+eccentricity:0.0002514
+argumentofperigree:85.1864
+nickname:STARLINK-4330
+idesg:22077AP 
+cosparid:2022-077AP
+altkm:565.91288909624
+velkms:7.5782767357992
+velkmh:27282
+onumepoch:11721
+onumnow:175983.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:41:57+00:00
+nowjuliandate:2460552.6378843
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4330
+1 53080U 22077AP  24241.77912987  .00000362  00000+0  32811-4 0  9996
+2 53080  97.6563  61.5808 0002514  85.1864 274.9647 15.01261941117217

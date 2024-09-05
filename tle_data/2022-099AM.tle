@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53500
+launchyear:2022
+epoch:24242.66567802
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4455
+meananomly:270.3353
+meanmotion:15.0124
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.2049464945
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6561
+eccentricity:0.0001758
+argumentofperigree:89.8072
+nickname:STARLINK-4455
+idesg:22099AM 
+cosparid:2022-099AM
+altkm:566.11856849306
+velkms:7.578086000129
+velkmh:27281
+onumepoch:11266
+onumnow:169136.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:58:35+00:00
+nowjuliandate:2460552.6378549
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4455
+1 53500U 22099AM  24242.66567802 -.00002845  00000+0 -21707-3 0  9999
+2 53500  97.6561   2.4543 0001758  89.8072 270.3353 15.01241823112668

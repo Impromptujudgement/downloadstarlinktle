@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:34+00:00
+validtle:1
+satid:47788
+launchyear:2021
+epoch:24241.20404784
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2314
+meananomly:269.3128
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3036581199
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001399
+argumentofperigree:90.8021
+nickname:STARLINK-2314
+idesg:21018B  
+cosparid:2021-018B
+altkm:548.05741670677
+velkms:7.5891529267512
+velkmh:27321
+onumepoch:19278
+onumnow:290435.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:53:50+00:00
+nowjuliandate:2460552.6392842
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2314
+1 47788U 21018B   24241.20404784  .00003429  00000+0  24891-3 0  9992
+2 47788  53.0535 213.7575 0001399  90.8021 269.3128 15.06415324192788

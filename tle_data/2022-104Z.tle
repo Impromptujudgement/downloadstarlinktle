@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53611
+launchyear:2022
+epoch:24242.6053133
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4650
+meananomly:242.2882
+meanmotion:15.1509
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6898.835859836
+altitudeatperigee:519
+altitudeatapogee:523
+inclination:53.2175
+eccentricity:0.0002665
+argumentofperigree:117.8383
+nickname:STARLINK-4650
+idesg:22104Z  
+cosparid:2022-104Z
+altkm:522.45408038624
+velkms:7.6027678113363
+velkmh:27370
+onumepoch:11105
+onumnow:168259.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:31:39+00:00
+nowjuliandate:2460552.6378383
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4650
+1 53611U 22104Z   24242.60531330  .00025850  00000+0  13759-2 0  9996
+2 53611  53.2175 208.7995 0002665 117.8383 242.2882 15.15092813111052

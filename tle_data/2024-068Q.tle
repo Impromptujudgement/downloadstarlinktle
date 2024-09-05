@@ -1,0 +1,38 @@
+date:2024-08-28T00:17:36+00:00
+validtle:1
+satid:59469
+launchyear:2024
+epoch:24239.54776446
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31381
+meananomly:103.6931
+meanmotion:15.4068
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.2269237929
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0024
+eccentricity:0.000135
+argumentofperigree:256.3775
+nickname:STARLINK-31381
+idesg:24068Q  
+cosparid:2024-068Q
+altkm:444.08238105231
+velkms:7.6473664865132
+velkmh:27531
+onumepoch:2263
+onumnow:34888.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T13:08:47+00:00
+nowjuliandate:2460550.5122319
+nowepochdate:24241.0122222222
+TLE:
+STARLINK-31381
+1 59469U 24068Q   24239.54776446  .00002793  00000+0  74147-4 0  9993
+2 59469  43.0024 337.1740 0001350 256.3775 103.6931 15.40684505 22631

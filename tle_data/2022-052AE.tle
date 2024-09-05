@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52626
+launchyear:2022
+epoch:24242.72492608
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3990
+meananomly:269.6283
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8953910086
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001376
+argumentofperigree:90.4866
+nickname:STARLINK-3990
+idesg:22052AE 
+cosparid:2022-052AE
+altkm:540.66187014291
+velkms:7.5932078863917
+velkmh:27336
+onumepoch:12728
+onumnow:192050.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:23:54+00:00
+nowjuliandate:2460552.6379104
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3990
+1 52626U 22052AE  24242.72492608  .00000041  00000+0  20657-4 0  9992
+2 52626  53.2152 249.4352 0001376  90.4866 269.6283 15.08835767127286

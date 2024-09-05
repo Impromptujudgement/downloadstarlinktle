@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45757
+launchyear:2020
+epoch:24242.96656922
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1486
+meananomly:321.1647
+meanmotion:15.4390
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6812.7371583581
+altitudeatperigee:428
+altitudeatapogee:441
+inclination:53.0759
+eccentricity:0.0009533
+argumentofperigree:39.0044
+nickname:STARLINK-1486
+idesg:20038AD 
+cosparid:2020-038AD
+altkm:430.43964169975
+velkms:7.6573679121316
+velkmh:27567
+onumepoch:23464
+onumnow:362270.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:11:52+00:00
+nowjuliandate:2460553.0283116
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1486
+1 45757U 20038AD  24242.96656922  .00055906  00000+0  12099-2 0  9997
+2 45757  53.0759 128.6402 0009533  39.0044 321.1647 15.43904758234641

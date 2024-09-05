@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48380
+launchyear:2021
+epoch:24241.56303705
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2614
+meananomly:263.2010
+meanmotion:15.0646
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.1795025899
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0567
+eccentricity:0.0001288
+argumentofperigree:96.9125
+nickname:STARLINK-2614
+idesg:21038AD 
+cosparid:2021-038AD
+altkm:548.02757340513
+velkms:7.5891177433703
+velkmh:27321
+onumepoch:18303
+onumnow:275750.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:30:46+00:00
+nowjuliandate:2460552.6380364
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2614
+1 48380U 21038AD  24241.56303705  .00023239  00000+0  15715-2 0  9998
+2 48380  53.0567 337.6593 0001288  96.9125 263.2010 15.06455835183039

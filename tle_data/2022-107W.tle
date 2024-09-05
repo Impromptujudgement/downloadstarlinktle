@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53720
+launchyear:2022
+epoch:24242.25707154
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4642
+meananomly:265.2047
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762627772
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.000147
+argumentofperigree:94.9113
+nickname:STARLINK-4642
+idesg:22107W  
+cosparid:2022-107W
+altkm:540.72157723527
+velkms:7.5931318983521
+velkmh:27335
+onumepoch:10980
+onumnow:165684.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:10:11+00:00
+nowjuliandate:2460552.6378272
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4642
+1 53720U 22107W   24242.25707154  .00000257  00000+0  34248-4 0  9992
+2 53720  53.2151 236.2860 0001470  94.9113 265.2047 15.08842025109801

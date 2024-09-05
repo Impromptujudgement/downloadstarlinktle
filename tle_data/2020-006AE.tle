@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:02+00:00
+validtle:1
+satid:45072
+launchyear:2020
+epoch:24243.20919735
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1168
+meananomly:259.4124
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3322559623
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001117
+argumentofperigree:100.6991
+nickname:STARLINK-1168
+idesg:20006AE 
+cosparid:2020-006AE
+altkm:548.21631477347
+velkms:7.588994491098
+velkmh:27320
+onumepoch:25320
+onumnow:381426.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:01:15+00:00
+nowjuliandate:2460553.028501
+nowepochdate:24243.5284953704
+TLE:
+STARLINK-1168
+1 45072U 20006AE  24243.20919735  .00001751  00000+0  13642-3 0  9999
+2 45072  53.0521 244.7556 0001117 100.6991 259.4124 15.06405993253206

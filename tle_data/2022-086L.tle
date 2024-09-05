@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53252
+launchyear:2022
+epoch:24242.09701085
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4132
+meananomly:268.7453
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8576848611
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001394
+argumentofperigree:91.3699
+nickname:STARLINK-4132
+idesg:22086L  
+cosparid:2022-086L
+altkm:540.63920941329
+velkms:7.5932121040185
+velkmh:27336
+onumepoch:11670
+onumnow:176098.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:19:42+00:00
+nowjuliandate:2460552.6378645
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4132
+1 53252U 22086L   24242.09701085  .00001019  00000+0  82108-4 0  9992
+2 53252  53.2162 177.2037 0001394  91.3699 268.7453 15.08848103116707

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53270
+launchyear:2022
+epoch:22220.44909722
+epochday:220
+tleage:753
+tleclassification:C
+active:0
+name:STARLINK-4113
+meananomly:34.7703
+meanmotion:16.0558
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6637.145222748
+altitudeatperigee:220
+altitudeatapogee:298
+inclination:53.2182
+eccentricity:0.0059075
+argumentofperigree:90.8511
+nickname:STARLINK-4113
+idesg:22086AE 
+cosparid:2022-086AE
+altkm:230.56715721072
+velkms:7.7924178314094
+velkmh:28053
+onumepoch:1
+onumnow:32491.87
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-08T10:46:42+00:00
+nowjuliandate:2460552.6378682
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4113
+1 53270C 22086AE  22220.44909722  .00683752  00000-0  70080-3 0  2206
+2 53270  53.2182 327.5434 0059075  90.8511  34.7703 16.05576400    17

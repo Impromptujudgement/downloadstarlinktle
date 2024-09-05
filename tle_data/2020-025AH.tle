@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45562
+launchyear:2020
+epoch:24241.81776994
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1354
+meananomly:272.2162
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3011878882
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0615
+eccentricity:0.000201
+argumentofperigree:87.9057
+nickname:STARLINK-1354
+idesg:20025AH 
+cosparid:2020-025AH
+altkm:547.99049489171
+velkms:7.5892248907428
+velkmh:27321
+onumepoch:24128
+onumnow:363493.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:37:35+00:00
+nowjuliandate:2460553.0283416
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1354
+1 45562U 20025AH  24241.81776994  .00004037  00000+0  28961-3 0  9997
+2 45562  53.0615  71.0002 0002010  87.9057 272.2162 15.06416130241289

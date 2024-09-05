@@ -1,0 +1,38 @@
+date:2024-08-27T22:54:33+00:00
+validtle:1
+satid:59601
+launchyear:2024
+epoch:24240.02034509
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31770
+meananomly:232.3884
+meanmotion:15.4071
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1574544879
+altitudeatperigee:444
+altitudeatapogee:444
+inclination:43.0048
+eccentricity:6.88E-5
+argumentofperigree:127.7035
+nickname:STARLINK-31770
+idesg:24080A  
+cosparid:2024-080A
+altkm:444.08150414448
+velkms:7.6473286458709
+velkmh:27530
+onumepoch:1981
+onumnow:30535.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:29:18+00:00
+nowjuliandate:2460550.4545488
+nowepochdate:24240.9545486111
+TLE:
+STARLINK-31770
+1 59601U 24080A   24240.02034509  .00001968  00000+0  54342-4 0  9995
+2 59601  43.0048 347.6022 0000688 127.7035 232.3884 15.40708038 19818

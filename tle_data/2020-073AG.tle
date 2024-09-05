@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:17+00:00
+validtle:1
+satid:46700
+launchyear:2020
+epoch:24242.21492288
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1800
+meananomly:265.2296
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3350173814
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0548
+eccentricity:0.0001329
+argumentofperigree:94.8844
+nickname:STARLINK-1800
+idesg:20073AG 
+cosparid:2020-073AG
+altkm:548.15382142371
+velkms:7.5890644610479
+velkmh:27321
+onumepoch:21337
+onumnow:321433.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:09:29+00:00
+nowjuliandate:2460552.6404781
+nowepochdate:24243..140474537
+TLE:
+STARLINK-1800
+1 46700U 20073AG  24242.21492288  .00000794  00000+0  72174-4 0  9993
+2 46700  53.0548 239.2195 0001329  94.8844 265.2296 15.06405092213377

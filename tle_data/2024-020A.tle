@@ -1,0 +1,38 @@
+date:2024-08-28T03:02:07+00:00
+validtle:1
+satid:58876
+launchyear:2024
+epoch:24239.81768524
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-31306
+meananomly:288.2219
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3594408408
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.162
+eccentricity:9.83E-5
+argumentofperigree:71.889
+nickname:STARLINK-31306
+idesg:24020A  
+cosparid:2024-020A
+altkm:463.91366921484
+velkms:7.6358679778691
+velkmh:27489
+onumepoch:3350
+onumnow:51416.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T19:37:28+00:00
+nowjuliandate:2460550.6264746
+nowepochdate:24241.1264699074
+TLE:
+STARLINK-31306
+1 58876U 24020A   24239.81768524  .00000892  00000+0  37699-4 0  9999
+2 58876  53.1620  44.9947 0000983  71.8890 288.2219 15.34226018 33508

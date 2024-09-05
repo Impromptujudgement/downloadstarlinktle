@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54860
+launchyear:2022
+epoch:24242.38384908
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5406
+meananomly:94.7584
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2318503418
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001083
+argumentofperigree:265.3135
+nickname:STARLINK-5406
+idesg:22177AS 
+cosparid:2022-177AS
+altkm:558.93535500919
+velkms:7.5837609134222
+velkmh:27302
+onumepoch:9229
+onumnow:138679.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:12:45+00:00
+nowjuliandate:2460552.6377826
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5406
+1 54860U 22177AS  24242.38384908  .00000571  00000+0  57346-4 0  9990
+2 54860  43.0026 268.4279 0001083 265.3135  94.7584 15.02531696 92292

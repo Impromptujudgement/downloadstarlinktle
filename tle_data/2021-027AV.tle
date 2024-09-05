@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48135
+launchyear:2021
+epoch:24242.2591762
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2478
+meananomly:288.3847
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3103394027
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001402
+argumentofperigree:71.7294
+nickname:STARLINK-2478
+idesg:21027AV 
+cosparid:2021-027AV
+altkm:547.74620260234
+velkms:7.5894975203392
+velkmh:27322
+onumepoch:18792
+onumnow:283098.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:13:13+00:00
+nowjuliandate:2460552.6380516
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2478
+1 48135U 21027AV  24242.25917620  .00030916  00000+0  20846-2 0  9999
+2 48135  53.0531 159.1844 0001402  71.7294 288.3847 15.06413144187925

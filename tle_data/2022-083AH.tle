@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53163
+launchyear:2022
+epoch:24242.42731233
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4104
+meananomly:276.2920
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8497102723
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001267
+argumentofperigree:83.8217
+nickname:STARLINK-4104
+idesg:22083AH 
+cosparid:2022-083AH
+altkm:540.51396940453
+velkms:7.5933451596102
+velkmh:27336
+onumepoch:11786
+onumnow:177843.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:15:20+00:00
+nowjuliandate:2460552.6378794
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4104
+1 53163U 22083AH  24242.42731233  .00001935  00000+0  13961-3 0  9992
+2 53163  53.2156 145.9119 0001267  83.8217 276.2920 15.08850712117865

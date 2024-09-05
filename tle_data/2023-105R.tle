@@ -1,0 +1,38 @@
+date:2024-08-28T23:06:54+00:00
+validtle:1
+satid:57445
+launchyear:2023
+epoch:24241.22074912
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30215
+meananomly:88.2253
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.203221834
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0032
+eccentricity:0.0001171
+argumentofperigree:271.8455
+nickname:STARLINK-30215
+idesg:23105R  
+cosparid:2023-105R
+altkm:558.81934142155
+velkms:7.5838720748255
+velkmh:27302
+onumepoch:6139
+onumnow:92252.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:17:53+00:00
+nowjuliandate:2460551.4631312
+nowepochdate:24242.007.963125
+TLE:
+STARLINK-30215
+1 57445U 23105R   24241.22074912  .00001103  00000+0  96726-4 0  9994
+2 57445  43.0032  56.0968 0001171 271.8455  88.2253 15.02540997 61394

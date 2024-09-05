@@ -1,0 +1,38 @@
+date:2024-08-27T13:43:13+00:00
+validtle:1
+satid:60596
+launchyear:2024
+epoch:24239.91667824
+epochday:239
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31930
+meananomly:51.4271
+meanmotion:15.8575
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.3398841717
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.1571
+eccentricity:9.13E-5
+argumentofperigree:87.4269
+nickname:STARLINK-31930
+idesg:24150P  
+cosparid:2024-150P
+altkm:315.83224219752
+velkms:7.7231725933123
+velkmh:27803
+onumepoch:207
+onumnow:3292.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:00:01+00:00
+nowjuliandate:2460550.0716885
+nowepochdate:24240.5716782407
+TLE:
+STARLINK-31930
+1 60596U 24150P   24239.91667824 -.01069132  00000+0 -48524-2 0  9999
+2 60596  53.1571  34.2836 0000913  87.4269  51.4271 15.85754572  2073

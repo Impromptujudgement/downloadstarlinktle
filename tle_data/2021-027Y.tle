@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48114
+launchyear:2021
+epoch:24003.71846154
+epochday:3
+tleage:240
+tleclassification:U
+active:0
+name:STARLINK-2451
+meananomly:64.9307
+meanmotion:16.0505
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6638.5993131647
+altitudeatperigee:253
+altitudeatapogee:268
+inclination:53.026
+eccentricity:0.0010797
+argumentofperigree:38.2003
+nickname:STARLINK-2451
+idesg:21027Y  
+cosparid:2021-027Y
+altkm:263.47768260481
+velkms:7.7571884187135
+velkmh:27926
+onumepoch:15327
+onumnow:249848.65
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-01-03T17:14:35+00:00
+nowjuliandate:2460552.6380466
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2451
+1 48114U 21027Y   24003.71846154  .00881604  41161-3  12452-2 0  9994
+2 48114  53.0260  56.7733 0010797  38.2003  64.9307 16.05048911153279

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72339
+launchyear:2021
+epoch:21083.38146553
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2339
+meananomly:334.4420
+meanmotion:15.8560
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.7660320573
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.0503
+eccentricity:9.78E-5
+argumentofperigree:73.7026
+nickname:STARLINK-2339
+idesg:21021X  
+cosparid:2021-021X
+altkm:316.92093583637
+velkms:7.7231895856509
+velkmh:27803
+onumepoch:1
+onumnow:50117.08
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:09:19+00:00
+nowjuliandate:2460552.639706
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-2339
+1 72339C 21021X   21083.38146553 -.01036359  00000-0 -44053-2 0   830
+2 72339  53.0503 168.5684 0000978  73.7026 334.4420 15.85603120    11

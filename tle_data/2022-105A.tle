@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53648
+launchyear:2022
+epoch:24242.23119159
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4622
+meananomly:264.9300
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1447565736
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6566
+eccentricity:0.0001607
+argumentofperigree:95.2108
+nickname:STARLINK-4622
+idesg:22105A  
+cosparid:2022-105A
+altkm:566.1640790149
+velkms:7.5780034900322
+velkmh:27281
+onumepoch:10989
+onumnow:164987.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:32:55+00:00
+nowjuliandate:2460552.6378383
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4622
+1 53648U 22105A   24242.23119159 -.00000180  00000+0 -94171-5 0  9998
+2 53648  97.6566 122.0109 0001607  95.2108 264.9300 15.01261350109896

@@ -1,0 +1,38 @@
+date:2024-08-28T19:27:45+00:00
+validtle:1
+satid:57944
+launchyear:2023
+epoch:24241.25001157
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30708
+meananomly:247.8468
+meanmotion:15.3022
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.2920719301
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1603
+eccentricity:0.000102
+argumentofperigree:87.4501
+nickname:STARLINK-30708
+idesg:23148K  
+cosparid:2023-148K
+altkm:480.88782948622
+velkms:7.6250790186104
+velkmh:27450
+onumepoch:5289
+onumnow:80930.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:00:01+00:00
+nowjuliandate:2460551.3109434
+nowepochdate:24241.07.8109375
+TLE:
+STARLINK-30708
+1 57944U 23148K   24241.25001157 -.00040259  00000+0 -13536-2 0  9992
+2 57944  53.1603  98.1626 0001020  87.4501 247.8468 15.30220779 52898

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51808
+launchyear:2022
+epoch:24242.47929451
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3609
+meananomly:262.1759
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9398528898
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001071
+argumentofperigree:97.9355
+nickname:STARLINK-3609
+idesg:22017AS 
+cosparid:2022-017AS
+altkm:540.80109589913
+velkms:7.5930794684879
+velkmh:27335
+onumepoch:13994
+onumnow:211154.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:30:11+00:00
+nowjuliandate:2460552.6379575
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3609
+1 51808U 22017AS  24242.47929451 -.00003959  00000+0 -23090-3 0  9993
+2 51808  53.2166 320.5377 0001071  97.9355 262.1759 15.08821221139949

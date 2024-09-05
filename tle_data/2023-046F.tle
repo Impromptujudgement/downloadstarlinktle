@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56098
+launchyear:2023
+epoch:24241.90665323
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6088
+meananomly:98.8696
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1795337446
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:9.55E-5
+argumentofperigree:261.2038
+nickname:STARLINK-6088
+idesg:23046F  
+cosparid:2023-046F
+altkm:558.92270935305
+velkms:7.5837462157326
+velkmh:27301
+onumepoch:7869
+onumnow:118254.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:45:35+00:00
+nowjuliandate:2460552.6377155
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6088
+1 56098U 23046F   24241.90665323  .00004427  00000+0  34248-3 0  9990
+2 56098  43.0014 310.0779 0000955 261.2038  98.8696 15.02548693 78699

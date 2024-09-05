@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53284
+launchyear:2022
+epoch:24242.06849142
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4172
+meananomly:261.1751
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7899886993
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001456
+argumentofperigree:98.9406
+nickname:STARLINK-4172
+idesg:22086AU 
+cosparid:2022-086AU
+altkm:540.70497063508
+velkms:7.5931028768064
+velkmh:27335
+onumepoch:11684
+onumnow:176312.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:38:38+00:00
+nowjuliandate:2460552.6378665
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4172
+1 53284U 22086AU  24242.06849142  .00013926  00000+0  89059-3 0  9992
+2 53284  53.2165 167.3751 0001456  98.9406 261.1751 15.08870251116848

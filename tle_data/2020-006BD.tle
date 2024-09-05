@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:57+00:00
+validtle:1
+satid:45095
+launchyear:2020
+epoch:24242.28226805
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1147
+meananomly:272.7458
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3743303582
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001434
+argumentofperigree:87.3695
+nickname:STARLINK-1147
+idesg:20006BD 
+cosparid:2020-006BD
+altkm:548.06895551459
+velkms:7.5891789222961
+velkmh:27321
+onumepoch:25300
+onumnow:381129.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:46:28+00:00
+nowjuliandate:2460553.0284428
+nowepochdate:24243.09.5284375
+TLE:
+STARLINK-1147
+1 45095U 20006BD  24242.28226805  .00000344  00000+0  41963-4 0  9995
+2 45095  53.0541 229.4956 0001434  87.3695 272.7458 15.06392265253004

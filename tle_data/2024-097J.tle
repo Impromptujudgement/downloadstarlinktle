@@ -1,0 +1,38 @@
+date:2024-08-27T19:00:37+00:00
+validtle:1
+satid:59843
+launchyear:2024
+epoch:24240.24386323
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-31857
+meananomly:99.0430
+meanmotion:15.4070
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1804828071
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0006
+eccentricity:0.0001196
+argumentofperigree:261.0292
+nickname:STARLINK-31857
+idesg:24097J  
+cosparid:2024-097J
+altkm:443.94594232121
+velkms:7.6474933979771
+velkmh:27531
+onumepoch:1612
+onumnow:24844.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:51:10+00:00
+nowjuliandate:2460550.2921037
+nowepochdate:24240.7920949074
+TLE:
+STARLINK-31857
+1 59843U 24097J   24240.24386323  .00000284  00000+0  14069-4 0  9991
+2 59843  43.0006 215.7173 0001196 261.0292  99.0430 15.40700237 16123

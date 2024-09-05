@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53629
+launchyear:2022
+epoch:24242.1742593
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4602
+meananomly:262.9515
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8701251432
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001423
+argumentofperigree:97.1639
+nickname:STARLINK-4602
+idesg:22104AT 
+cosparid:2022-104AT
+altkm:540.75127854917
+velkms:7.5930959478707
+velkmh:27335
+onumepoch:11090
+onumnow:167345.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:10:56+00:00
+nowjuliandate:2460552.6378423
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4602
+1 53629U 22104AT  24242.17425930  .00000937  00000+0  76970-4 0  9990
+2 53629  53.2157 216.5865 0001423  97.1639 262.9515 15.08844033110905

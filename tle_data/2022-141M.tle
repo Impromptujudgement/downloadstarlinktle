@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54168
+launchyear:2022
+epoch:24242.59291135
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5245
+meananomly:273.0210
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8901672583
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001855
+argumentofperigree:87.0994
+nickname:STARLINK-5245
+idesg:22141M  
+cosparid:2022-141M
+altkm:540.5832535662
+velkms:7.5932912896878
+velkmh:27336
+onumepoch:10175
+onumnow:153532.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:13:48+00:00
+nowjuliandate:2460552.6377925
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5245
+1 54168U 22141M   24242.59291135 -.00000377  00000+0 -56035-5 0  9995
+2 54168  53.2181 345.1170 0001855  87.0994 273.0210 15.08837476101751

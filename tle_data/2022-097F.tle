@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53393
+launchyear:2022
+epoch:24241.90105975
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4530
+meananomly:274.8694
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8638713727
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001817
+argumentofperigree:85.2505
+nickname:STARLINK-4530
+idesg:22097F  
+cosparid:2022-097F
+altkm:540.51764067308
+velkms:7.5933488857127
+velkmh:27336
+onumepoch:11446
+onumnow:172721.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:37:32+00:00
+nowjuliandate:2460552.6378584
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4530
+1 53393U 22097F   24241.90105975  .00001143  00000+0  89888-4 0  9995
+2 53393  53.2158 108.1328 0001817  85.2505 274.8694 15.08846079114468

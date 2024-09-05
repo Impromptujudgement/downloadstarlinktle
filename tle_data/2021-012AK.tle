@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47653
+launchyear:2021
+epoch:24242.69638428
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2037
+meananomly:269.2232
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2611097599
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001671
+argumentofperigree:90.8948
+nickname:STARLINK-2037
+idesg:21012AK 
+cosparid:2021-012AK
+altkm:548.01930047283
+velkms:7.5891714223183
+velkmh:27321
+onumepoch:19579
+onumnow:294950.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:42:48+00:00
+nowjuliandate:2460552.6394417
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2037
+1 47653U 21012AK  24242.69638428  .00008825  00000+0  61015-3 0  9999
+2 47653  53.0563  32.0550 0001671  90.8948 269.2232 15.06429207195790

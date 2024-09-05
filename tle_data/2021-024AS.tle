@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48017
+launchyear:2021
+epoch:22188.85373609
+epochday:188
+tleage:785
+tleclassification:C
+active:0
+name:STARLINK-2239
+meananomly:29.2656
+meanmotion:16.0046
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6651.2831058617
+altitudeatperigee:270
+altitudeatapogee:276
+inclination:53.0366
+eccentricity:0.0004651
+argumentofperigree:190.0587
+nickname:STARLINK-2239
+idesg:21024AS 
+cosparid:2021-024AS
+altkm:279.8305733689
+velkms:7.7408710633325
+velkmh:27867
+onumepoch:1
+onumnow:32894.00
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-07-07T20:29:23+00:00
+nowjuliandate:2460552.6380975
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2239
+1 48017C 21024AS  22188.85373609  .03253445  00000-0  49920-2 0  1883
+2 48017  53.0366 140.8144 0004651 190.0587  29.2656 16.00459932    13

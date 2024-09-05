@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46588
+launchyear:2020
+epoch:24243.01294543
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1746
+meananomly:277.0660
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4032752655
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.000192
+argumentofperigree:83.0547
+nickname:STARLINK-1746
+idesg:20070BJ 
+cosparid:2020-070BJ
+altkm:547.9819537812
+velkms:7.5892900558369
+velkmh:27321
+onumepoch:21589
+onumnow:325220.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:18:38+00:00
+nowjuliandate:2460553.0282283
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1746
+1 46588U 20070BJ  24243.01294543  .00006226  00000+0  43671-3 0  9992
+2 46588  53.0535 135.6346 0001920  83.0547 277.0660 15.06382821215890

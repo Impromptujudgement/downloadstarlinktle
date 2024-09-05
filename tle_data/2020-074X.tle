@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:46760
+launchyear:2020
+epoch:24242.48400738
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1896
+meananomly:261.5159
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3797950502
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001374
+argumentofperigree:98.5986
+nickname:STARLINK-1896
+idesg:20074X  
+cosparid:2020-074X
+altkm:548.26223024905
+velkms:7.5889701824982
+velkmh:27320
+onumepoch:21250
+onumnow:320117.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:36:58+00:00
+nowjuliandate:2460552.6396734
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1896
+1 46760U 20074X   24242.48400738  .00027918  00000+0  18862-2 0  9997
+2 46760  53.0529 318.0168 0001374  98.5986 261.5159 15.06390482212503

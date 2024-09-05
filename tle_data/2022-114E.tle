@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53822
+launchyear:2022
+epoch:22279.94006944
+epochday:279
+tleage:694
+tleclassification:C
+active:0
+name:STARLINK-4713
+meananomly:208.1784
+meanmotion:16.1720
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6605.3068044642
+altitudeatperigee:202
+altitudeatapogee:252
+inclination:53.2088
+eccentricity:0.0037623
+argumentofperigree:114.1732
+nickname:STARLINK-4713
+idesg:22114E  
+cosparid:2022-114E
+altkm:258.11012925747
+velkms:7.7390914085136
+velkmh:27861
+onumepoch:1
+onumnow:31764.21
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-10-06T22:33:42+00:00
+nowjuliandate:2460552.6378186
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4713
+1 53822C 22114E   22279.94006944  .04863111  00000-0  26111-2 0  2796
+2 53822  53.2088 167.0257 0037623 114.1732 208.1784 16.17199001    12

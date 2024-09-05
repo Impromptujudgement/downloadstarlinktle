@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52683
+launchyear:2022
+epoch:24242.39233999
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4039
+meananomly:266.7155
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8661729787
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2155
+eccentricity:0.0001073
+argumentofperigree:93.396
+nickname:STARLINK-4039
+idesg:22053AD 
+cosparid:2022-053AD
+altkm:540.66897928045
+velkms:7.5931840864739
+velkmh:27335
+onumepoch:12661
+onumnow:191046.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:24:58+00:00
+nowjuliandate:2460552.6379044
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4039
+1 52683U 22053AD  24242.39233999  .00002301  00000+0  16261-3 0  9991
+2 52683  53.2155 125.9241 0001073  93.3960 266.7155 15.08845326126612

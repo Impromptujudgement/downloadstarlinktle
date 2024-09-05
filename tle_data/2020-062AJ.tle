@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46357
+launchyear:2020
+epoch:24242.53376746
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1666
+meananomly:279.2306
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.300387975
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0585
+eccentricity:0.0001668
+argumentofperigree:80.8872
+nickname:STARLINK-1666
+idesg:20062AJ 
+cosparid:2020-062AJ
+altkm:547.85781530477
+velkms:7.5893698054732
+velkmh:27322
+onumepoch:22061
+onumnow:332337.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:48:38+00:00
+nowjuliandate:2460553.0282781
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1666
+1 46357U 20062AJ  24242.53376746  .00007493  00000+0  52118-3 0  9992
+2 46357  53.0585 337.7895 0001668  80.8872 279.2306 15.06416391220615

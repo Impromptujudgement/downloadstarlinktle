@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48138
+launchyear:2021
+epoch:24241.47265471
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2481
+meananomly:315.4659
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2233092944
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0517
+eccentricity:0.0001666
+argumentofperigree:44.6464
+nickname:STARLINK-2481
+idesg:21027AY 
+cosparid:2021-027AY
+altkm:547.14281118027
+velkms:7.5901110168528
+velkmh:27324
+onumepoch:18828
+onumnow:283657.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:20:37+00:00
+nowjuliandate:2460552.6380509
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2481
+1 48138U 21027AY  24241.47265471  .00011897  00000+0  81531-3 0  9991
+2 48138  53.0517 157.5455 0001666  44.6464 315.4659 15.06441541188287

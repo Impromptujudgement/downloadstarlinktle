@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:34+00:00
+validtle:1
+satid:47833
+launchyear:2021
+epoch:24241.27731048
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2423
+meananomly:266.2051
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.314366569
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001396
+argumentofperigree:93.9097
+nickname:STARLINK-2423
+idesg:21018AY 
+cosparid:2021-018AY
+altkm:548.12051225976
+velkms:7.5890896605843
+velkmh:27321
+onumepoch:19248
+onumnow:289982.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:39:20+00:00
+nowjuliandate:2460552.639286
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2423
+1 47833U 21018AY  24241.27731048  .00002612  00000+0  19413-3 0  9993
+2 47833  53.0537 238.4295 0001396  93.9097 266.2051 15.06411830192484

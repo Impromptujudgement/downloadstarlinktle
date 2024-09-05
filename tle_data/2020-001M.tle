@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:22+00:00
+validtle:1
+satid:44925
+launchyear:2020
+epoch:24242.51625854
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1112
+meananomly:258.1222
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3840429898
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0566
+eccentricity:0.0001906
+argumentofperigree:101.9981
+nickname:STARLINK-1112
+idesg:20001M  
+cosparid:2020-001M
+altkm:548.39828092943
+velkms:7.5888234695357
+velkmh:27320
+onumepoch:25586
+onumnow:385439.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:23:25+00:00
+nowjuliandate:2460553.0294303
+nowepochdate:24243.5294212963
+TLE:
+STARLINK-1112
+1 44925U 20001M   24242.51625854  .00003639  00000+0  26312-3 0  9994
+2 44925  53.0566 327.8687 0001906 101.9981 258.1222 15.06389096255862

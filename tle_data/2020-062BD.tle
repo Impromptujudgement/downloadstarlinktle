@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:42+00:00
+validtle:1
+satid:46376
+launchyear:2020
+epoch:24242.49736667
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1742
+meananomly:285.3438
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3393602625
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:0.0001523
+argumentofperigree:74.7719
+nickname:STARLINK-1742
+idesg:20062BD 
+cosparid:2020-062BD
+altkm:547.80265604029
+velkms:7.5894515388925
+velkmh:27322
+onumepoch:22095
+onumnow:332855.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:56:12+00:00
+nowjuliandate:2460553.028266
+nowepochdate:24243.5282638889
+TLE:
+STARLINK-1742
+1 46376U 20062BD  24242.49736667 -.00001199  00000+0 -61581-4 0  9994
+2 46376  53.0557 312.9531 0001523  74.7719 285.3438 15.06403675220951

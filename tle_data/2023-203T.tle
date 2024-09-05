@@ -1,0 +1,38 @@
+date:2024-08-28T05:06:32+00:00
+validtle:1
+satid:58635
+launchyear:2023
+epoch:24240.5593813
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31018
+meananomly:78.5345
+meanmotion:15.2594
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1026737162
+altitudeatperigee:486
+altitudeatapogee:490
+inclination:42.9994
+eccentricity:0.0002519
+argumentofperigree:281.5223
+nickname:STARLINK-31018
+idesg:23203T  
+cosparid:2023-203T
+altkm:487.39779814526
+velkms:7.623469108003
+velkmh:27444
+onumepoch:3930
+onumnow:59979.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T13:25:31+00:00
+nowjuliandate:2460550.7128729
+nowepochdate:24241.2128703704
+TLE:
+STARLINK-31018
+1 58635U 23203T   24240.55938130  .00018424  00000+0  71173-3 0  9993
+2 58635  42.9994 342.7190 0002519 281.5223  78.5345 15.25940206 39303

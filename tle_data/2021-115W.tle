@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49744
+launchyear:2021
+epoch:24241.42314159
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3231
+meananomly:280.4792
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8584826269
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001227
+argumentofperigree:79.6338
+nickname:STARLINK-3231
+idesg:21115W  
+cosparid:2021-115W
+altkm:540.46443030996
+velkms:7.5934043217182
+velkmh:27336
+onumepoch:15125
+onumnow:228239.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:09:19+00:00
+nowjuliandate:2460552.6379888
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3231
+1 49744U 21115W   24241.42314159  .00002697  00000+0  18743-3 0  9999
+2 49744  53.2157 135.1700 0001227  79.6338 280.4792 15.08847842151251

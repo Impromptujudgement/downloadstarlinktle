@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53545
+launchyear:2022
+epoch:24241.75937774
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4475
+meananomly:273.0915
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8703421609
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001115
+argumentofperigree:87.0204
+nickname:STARLINK-4475
+idesg:22101U  
+cosparid:2022-101U
+altkm:540.58920734234
+velkms:7.5932739005633
+velkmh:27336
+onumepoch:11276
+onumnow:170158.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:13:30+00:00
+nowjuliandate:2460552.637845
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4475
+1 53545U 22101U   24241.75937774  .00000643  00000+0  58499-4 0  9991
+2 53545  53.2171  48.7667 0001115  87.0204 273.0915 15.08843962112760

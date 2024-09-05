@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50175
+launchyear:2021
+epoch:24242.22994882
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3291
+meananomly:271.7232
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8381839909
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2131
+eccentricity:0.0001343
+argumentofperigree:88.3914
+nickname:STARLINK-3291
+idesg:21125V  
+cosparid:2021-125V
+altkm:540.57031898065
+velkms:7.5932770164224
+velkmh:27336
+onumepoch:15195
+onumnow:229282.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:31:08+00:00
+nowjuliandate:2460552.6379819
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3291
+1 50175U 21125V   24242.22994882  .00002031  00000+0  14560-3 0  9991
+2 50175  53.2131 231.6562 0001343  88.3914 271.7232 15.08854483151955

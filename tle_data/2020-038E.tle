@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45734
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1468
+meananomly:57.8184
+meanmotion:15.4515
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6809.0726212873
+altitudeatperigee:427
+altitudeatapogee:435
+inclination:53.0675
+eccentricity:0.0006393
+argumentofperigree:102.049
+nickname:STARLINK-1468
+idesg:20038E  
+cosparid:2020-038E
+altkm:428.8331380627
+velkms:7.6581098837921
+velkmh:27569
+onumepoch:585
+onumnow:9047.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283043
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1468
+1 45734U 20038E   24243.00001157  .00133799  00000+0  27382-2 0  9990
+2 45734  53.0675 146.1204 0006393 102.0490  57.8184 15.45151284  5853

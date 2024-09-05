@@ -1,0 +1,38 @@
+date:2024-08-28T19:07:30+00:00
+validtle:1
+satid:57981
+launchyear:2023
+epoch:24240.44994599
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30510
+meananomly:92.3551
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.216355637
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9997
+eccentricity:0.0001199
+argumentofperigree:267.7154
+nickname:STARLINK-30510
+idesg:23151T  
+cosparid:2023-151T
+altkm:558.89142204852
+velkms:7.5838004716708
+velkmh:27302
+onumepoch:5145
+onumnow:77313.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T10:47:55+00:00
+nowjuliandate:2460551.2968809
+nowepochdate:24241.007.796875
+TLE:
+STARLINK-30510
+1 57981U 23151T   24240.44994599 -.00000153  00000+0  37267-5 0  9996
+2 57981  42.9997 150.7590 0001199 267.7154  92.3551 15.02536730 51453

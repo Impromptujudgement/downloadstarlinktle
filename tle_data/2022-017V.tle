@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51787
+launchyear:2022
+epoch:24242.52621226
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3619
+meananomly:272.1404
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9205990286
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001786
+argumentofperigree:87.9793
+nickname:STARLINK-3619
+idesg:22017V  
+cosparid:2022-017V
+altkm:540.6350029146
+velkms:7.593251170418
+velkmh:27336
+onumepoch:13980
+onumnow:210943.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:37:45+00:00
+nowjuliandate:2460552.6379543
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3619
+1 51787U 22017V   24242.52621226 -.00002034  00000+0 -10974-3 0  9994
+2 51787  53.2168 330.3276 0001786  87.9793 272.1404 15.08827520139803

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53289
+launchyear:2022
+epoch:24242.48296589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4176
+meananomly:284.5789
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8221340831
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001384
+argumentofperigree:75.5357
+nickname:STARLINK-4176
+idesg:22086AZ 
+cosparid:2022-086AZ
+altkm:540.34156369285
+velkms:7.5935192402305
+velkmh:27337
+onumepoch:11697
+onumnow:176501.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:35:28+00:00
+nowjuliandate:2460552.6378656
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4176
+1 53289U 22086AZ  24242.48296589  .00003407  00000+0  23194-3 0  9995
+2 53289  53.2164 160.6615 0001384  75.5357 284.5789 15.08859734116970

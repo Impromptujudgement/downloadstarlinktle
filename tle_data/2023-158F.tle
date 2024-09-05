@@ -1,0 +1,38 @@
+date:2024-08-28T18:29:52+00:00
+validtle:1
+satid:58056
+launchyear:2023
+epoch:24241.16373353
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30553
+meananomly:43.2350
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2285630194
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.002
+eccentricity:3.42E-5
+argumentofperigree:316.8465
+nickname:STARLINK-30553
+idesg:23158F  
+cosparid:2023-158F
+altkm:558.69678910249
+velkms:7.58401979793
+velkmh:27302
+onumepoch:4950
+onumnow:74384.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:55:47+00:00
+nowjuliandate:2460551.2707442
+nowepochdate:24241.7707407407
+TLE:
+STARLINK-30553
+1 58056U 23158F   24241.16373353  .00000970  00000+0  86826-4 0  9996
+2 58056  43.0020 185.2792 0000342 316.8465  43.2350 15.02532764 49501

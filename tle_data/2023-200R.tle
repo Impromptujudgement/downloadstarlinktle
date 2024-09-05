@@ -1,0 +1,38 @@
+date:2024-08-28T07:52:16+00:00
+validtle:1
+satid:58604
+launchyear:2023
+epoch:24240.93430772
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31088
+meananomly:84.7918
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2199815256
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001165
+argumentofperigree:275.2791
+nickname:STARLINK-31088
+idesg:23200R  
+cosparid:2023-200R
+altkm:558.78780356694
+velkms:7.5839156701553
+velkmh:27302
+onumepoch:3954
+onumnow:59411.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:25:24+00:00
+nowjuliandate:2460550.8279672
+nowepochdate:24241..327962963
+TLE:
+STARLINK-31088
+1 58604U 23200R   24240.93430772  .00001260  00000+0  10835-3 0  9995
+2 58604  43.0023 326.3057 0001165 275.2791  84.7918 15.02535552 39540

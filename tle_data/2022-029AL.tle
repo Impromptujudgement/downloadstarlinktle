@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52122
+launchyear:2022
+epoch:24242.77552587
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3726
+meananomly:263.9093
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8964944469
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2182
+eccentricity:0.0001246
+argumentofperigree:96.2041
+nickname:STARLINK-3726
+idesg:22029AL 
+cosparid:2022-029AL
+altkm:540.74854156424
+velkms:7.5931133909198
+velkmh:27335
+onumepoch:13671
+onumnow:206278.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:36:45+00:00
+nowjuliandate:2460552.6379411
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3726
+1 52122U 22029AL  24242.77552587 -.00000023  00000+0  16612-4 0  9992
+2 52122  53.2182  59.2057 0001246  96.2041 263.9093 15.08835406136718

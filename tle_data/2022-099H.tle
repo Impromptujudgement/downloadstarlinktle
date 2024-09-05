@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53472
+launchyear:2022
+epoch:24241.57144359
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4447
+meananomly:159.4319
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1388107051
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6514
+eccentricity:0.0005027
+argumentofperigree:200.6703
+nickname:STARLINK-4447
+idesg:22099H  
+cosparid:2022-099H
+altkm:569.3273222393
+velkms:7.574547609484
+velkmh:27268
+onumepoch:11224
+onumnow:168525.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:42:53+00:00
+nowjuliandate:2460552.6378527
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4447
+1 53472U 22099H   24241.57144359  .00001099  00000+0  90100-4 0  9996
+2 53472  97.6514   1.3549 0005027 200.6703 159.4319 15.01263279112247

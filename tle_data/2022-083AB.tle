@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53157
+launchyear:2022
+epoch:24242.43832434
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4093
+meananomly:275.5831
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8188360846
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2185
+eccentricity:0.0001395
+argumentofperigree:84.532
+nickname:STARLINK-4093
+idesg:22083AB 
+cosparid:2022-083AB
+altkm:540.48561198237
+velkms:7.5933593702894
+velkmh:27336
+onumepoch:11786
+onumnow:177844.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:31:11+00:00
+nowjuliandate:2460552.6378803
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4093
+1 53157U 22083AB  24242.43832434  .00002503  00000+0  17519-3 0  9996
+2 53157  53.2185 145.7196 0001395  84.5320 275.5831 15.08860813117864

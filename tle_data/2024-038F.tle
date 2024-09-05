@@ -1,0 +1,38 @@
+date:2024-08-28T07:18:05+00:00
+validtle:1
+satid:59028
+launchyear:2024
+epoch:24240.7779648
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-31206
+meananomly:87.7439
+meanmotion:15.4069
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6822.1981593363
+altitudeatperigee:443
+altitudeatapogee:445
+inclination:43.0014
+eccentricity:0.0001071
+argumentofperigree:272.3295
+nickname:STARLINK-31206
+idesg:24038F  
+cosparid:2024-038F
+altkm:443.80671282692
+velkms:7.647659271804
+velkmh:27532
+onumepoch:2977
+onumnow:45869.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:40:16+00:00
+nowjuliandate:2460550.8042255
+nowepochdate:24241..304224537
+TLE:
+STARLINK-31206
+1 59028U 24038F   24240.77796480  .00000682  00000+0  23599-4 0  9998
+2 59028  43.0014 262.1728 0001071 272.3295  87.7439 15.40694249 29772

@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:17+00:00
+validtle:1
+satid:46699
+launchyear:2020
+epoch:24241.68000306
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1799
+meananomly:275.3053
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3443804823
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0515
+eccentricity:0.0001437
+argumentofperigree:84.81
+nickname:STARLINK-1799
+idesg:20073AF 
+cosparid:2020-073AF
+altkm:547.99428899935
+velkms:7.5892443454086
+velkmh:27321
+onumepoch:21302
+onumnow:320913.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:19:12+00:00
+nowjuliandate:2460552.6404824
+nowepochdate:24243..140474537
+TLE:
+STARLINK-1799
+1 46699U 20073AF  24241.68000306  .00003634  00000+0  26272-3 0  9999
+2 46699  53.0515 226.6218 0001437  84.8100 275.3053 15.06402037213029

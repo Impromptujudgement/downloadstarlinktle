@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47582
+launchyear:2021
+epoch:24242.64019242
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1986
+meananomly:270.4603
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3801659018
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0559
+eccentricity:0.0002844
+argumentofperigree:89.6711
+nickname:STARLINK-1986
+idesg:21009AL 
+cosparid:2021-009AL
+altkm:548.10715904063
+velkms:7.5891402620054
+velkmh:27321
+onumepoch:19743
+onumnow:297414.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:21:53+00:00
+nowjuliandate:2460552.6394894
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1986
+1 47582U 21009AL  24242.64019242  .00012226  00000+0  83846-3 0  9994
+2 47582  53.0559   2.3120 0002844  89.6711 270.4603 15.06390361197433

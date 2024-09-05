@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53853
+launchyear:2022
+epoch:24242.39691139
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4794
+meananomly:256.6226
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9124897666
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001593
+argumentofperigree:103.4944
+nickname:STARLINK-4794
+idesg:22114AM 
+cosparid:2022-114AM
+altkm:540.92798215689
+velkms:7.59292526263
+velkmh:27335
+onumepoch:10830
+onumnow:163416.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:31:33+00:00
+nowjuliandate:2460552.6378212
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4794
+1 53853U 22114AM  24242.39691139 -.00002099  00000+0 -11385-3 0  9991
+2 53853  53.2171 275.6068 0001593 103.4944 256.6226 15.08830173108309

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46352
+launchyear:2020
+epoch:24242.56325201
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1653
+meananomly:296.1195
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3630883897
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001023
+argumentofperigree:63.99
+nickname:STARLINK-1653
+idesg:20062AD 
+cosparid:2020-062AD
+altkm:547.79332490835
+velkms:7.5894747324931
+velkmh:27322
+onumepoch:22062
+onumnow:332347.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:31:05+00:00
+nowjuliandate:2460553.0282781
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1653
+1 46352U 20062AD  24242.56325201  .00015575  00000+0  10623-2 0  9994
+2 46352  53.0543 337.6564 0001023  63.9900 296.1195 15.06395933220628

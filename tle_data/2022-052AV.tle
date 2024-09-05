@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52641
+launchyear:2022
+epoch:24241.74057989
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3991
+meananomly:273.5524
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8564347228
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001437
+argumentofperigree:86.5632
+nickname:STARLINK-3991
+idesg:22052AV 
+cosparid:2022-052AV
+altkm:540.55518920137
+velkms:7.5933036121695
+velkmh:27336
+onumepoch:12690
+onumnow:191493.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:46:26+00:00
+nowjuliandate:2460552.6379091
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3991
+1 52641U 22052AV  24241.74057989  .00001490  00000+0  11166-3 0  9992
+2 52641  53.2155 244.0553 0001437  86.5632 273.5524 15.08848512126907

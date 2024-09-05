@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51738
+launchyear:2022
+epoch:24242.42592082
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3515
+meananomly:268.2975
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8697675225
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.000146
+argumentofperigree:91.8184
+nickname:STARLINK-3515
+idesg:22016AA 
+cosparid:2022-016AA
+altkm:540.66021044898
+velkms:7.5931956767397
+velkmh:27336
+onumepoch:14054
+onumnow:212061.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:13:20+00:00
+nowjuliandate:2460552.637965
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3515
+1 51738U 22016AA  24242.42592082  .00000090  00000+0  23750-4 0  9990
+2 51738  53.2163 300.7723 0001460  91.8184 268.2975 15.08844150140549

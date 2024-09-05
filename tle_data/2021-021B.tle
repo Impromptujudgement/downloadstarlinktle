@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:59+00:00
+validtle:1
+satid:47861
+launchyear:2021
+epoch:24242.22137636
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2280
+meananomly:269.3983
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3448064964
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001717
+argumentofperigree:90.7203
+nickname:STARLINK-2280
+idesg:21021B  
+cosparid:2021-021B
+altkm:548.09948968539
+velkms:7.5891293320841
+velkmh:27321
+onumepoch:19175
+onumnow:288866.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:18:47+00:00
+nowjuliandate:2460552.6381916
+nowepochdate:24243.1381828704
+TLE:
+STARLINK-2280
+1 47861U 21021B   24242.22137636  .00000055  00000+0  22576-4 0  9991
+2 47861  53.0535 249.1898 0001717  90.7203 269.3983 15.06401898191752

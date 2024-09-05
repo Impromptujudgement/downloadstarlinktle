@@ -1,0 +1,38 @@
+date:2024-08-29T08:38:43+00:00
+validtle:1
+satid:56771
+launchyear:2023
+epoch:24241.91993049
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6339
+meananomly:92.6565
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1853898943
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9979
+eccentricity:0.000306
+argumentofperigree:267.4243
+nickname:STARLINK-6339
+idesg:23078E  
+cosparid:2023-078E
+altkm:574.57127766865
+velkms:7.5737583410422
+velkmh:27266
+onumepoch:7011
+onumnow:105054.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:04:42+00:00
+nowjuliandate:2460551.8602233
+nowepochdate:24242.3602199074
+TLE:
+STARLINK-6339
+1 56771U 23078E   24241.91993049  .00001585  00000+0  14055-3 0  9999
+2 56771  69.9979 270.9470 0003060 267.4243  92.6565 14.98333096 70111

@@ -1,0 +1,38 @@
+date:2024-08-28T19:45:56+00:00
+validtle:1
+satid:57918
+launchyear:2023
+epoch:24240.86248448
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30499
+meananomly:103.1976
+meanmotion:15.2593
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1432333045
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0064
+eccentricity:0.0001416
+argumentofperigree:256.8717
+nickname:STARLINK-30499
+idesg:23147F  
+cosparid:2023-147F
+altkm:488.00454455679
+velkms:7.6228182520239
+velkmh:27442
+onumepoch:5289
+onumnow:80720.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:41:59+00:00
+nowjuliandate:2460551.323565
+nowepochdate:24241.8235648148
+TLE:
+STARLINK-30499
+1 57918U 23147F   24240.86248448  .00004371  00000+0  17676-3 0  9997
+2 57918  43.0064  93.8733 0001416 256.8717 103.1976 15.25926685 52890

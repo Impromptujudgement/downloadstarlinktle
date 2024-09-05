@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52704
+launchyear:2022
+epoch:24242.34541506
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3999
+meananomly:274.1154
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8154249986
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001602
+argumentofperigree:86.0021
+nickname:STARLINK-3999
+idesg:22053BA 
+cosparid:2022-053BA
+altkm:540.49647125274
+velkms:7.5933455865517
+velkmh:27336
+onumepoch:12674
+onumnow:191245.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:17:24+00:00
+nowjuliandate:2460552.6379018
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3999
+1 52704U 22053BA  24242.34541506  .00008152  00000+0  52937-3 0  9996
+2 52704  53.2173 116.1364 0001602  86.0021 274.1154 15.08861929126742

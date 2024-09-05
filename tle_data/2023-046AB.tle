@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56118
+launchyear:2023
+epoch:24242.45057194
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6105
+meananomly:95.9735
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2240414184
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0013
+eccentricity:0.0001201
+argumentofperigree:264.0971
+nickname:STARLINK-6105
+idesg:23046AB 
+cosparid:2023-046AB
+altkm:558.95179746872
+velkms:7.5837386909431
+velkmh:27301
+onumepoch:7878
+onumnow:118379.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:48:49+00:00
+nowjuliandate:2460552.6377194
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6105
+1 56118U 23046AB  24242.45057194 -.00000255  00000+0 -37780-5 0  9998
+2 56118  43.0013 306.4151 0001201 264.0971  95.9735 15.02534233 78783

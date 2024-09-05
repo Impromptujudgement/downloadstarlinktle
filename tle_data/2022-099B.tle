@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53466
+launchyear:2022
+epoch:24242.58073141
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4398
+meananomly:112.4935
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1137481924
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6552
+eccentricity:0.000118
+argumentofperigree:247.6165
+nickname:STARLINK-4398
+idesg:22099B  
+cosparid:2022-099B
+altkm:566.34784408965
+velkms:7.577785954304
+velkmh:27280
+onumepoch:11263
+onumnow:169096.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:56:15+00:00
+nowjuliandate:2460552.6378535
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4398
+1 53466U 22099B   24242.58073141  .00001824  00000+0  14650-3 0  9992
+2 53466  97.6552   2.3562 0001180 247.6165 112.4935 15.01271410112639

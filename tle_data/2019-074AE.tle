@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:46+00:00
+validtle:1
+satid:44741
+launchyear:2019
+epoch:24243.0636174
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1036
+meananomly:258.1550
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3632538927
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001473
+argumentofperigree:101.9604
+nickname:STARLINK-1036
+idesg:19074AE 
+cosparid:2019-074AE
+altkm:548.31467359574
+velkms:7.588903690089
+velkmh:27320
+onumepoch:26474
+onumnow:398810.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:31:37+00:00
+nowjuliandate:2460553.0297091
+nowepochdate:24243.5296990741
+TLE:
+STARLINK-1036
+1 44741U 19074AE  24243.06361740  .00001996  00000+0  15285-3 0  9991
+2 44741  53.0525 185.4051 0001473 101.9604 258.1550 15.06395879264744

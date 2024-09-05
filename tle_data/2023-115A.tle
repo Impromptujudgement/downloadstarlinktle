@@ -1,0 +1,38 @@
+date:2024-08-28T22:31:11+00:00
+validtle:1
+satid:57521
+launchyear:2023
+epoch:24241.49339035
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30259
+meananomly:89.2998
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1948835789
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:0.0001339
+argumentofperigree:270.769
+nickname:STARLINK-30259
+idesg:23115A  
+cosparid:2023-115A
+altkm:558.82492023159
+velkms:7.5838614344813
+velkmh:27302
+onumepoch:5956
+onumnow:89498.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:50:29+00:00
+nowjuliandate:2460551.438327
+nowepochdate:24241.9383217593
+TLE:
+STARLINK-30259
+1 57521U 23115A   24241.49339035  .00002727  00000+0  21682-3 0  9990
+2 57521  43.0039 158.1178 0001339 270.7690  89.2998 15.02543706 59562

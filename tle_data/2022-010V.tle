@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73411
+launchyear:2022
+epoch:23051.42895833
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3411
+meananomly:337.9325
+meanmotion:15.9948
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.9965459817
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:70
+eccentricity:0.0061683
+argumentofperigree:161.9908
+nickname:STARLINK-3411
+idesg:22010V  
+cosparid:2022-010V
+altkm:242.53200752971
+velkms:7.7874784064342
+velkmh:28035
+onumepoch:1
+onumnow:19074.95
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:17:42+00:00
+nowjuliandate:2460552.6379657
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3411
+1 73411C 22010V   23051.42895833 -.01053922  00000-0 -18070-2 0   515
+2 73411  70.0000 143.3296 0061683 161.9908 337.9325 15.99481052    18

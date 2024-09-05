@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45390
+launchyear:2020
+epoch:24241.97442355
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1284
+meananomly:268.2326
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3112496521
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001908
+argumentofperigree:91.8881
+nickname:STARLINK-1284
+idesg:20019AG 
+cosparid:2020-019AG
+altkm:548.09432265517
+velkms:7.5891166471743
+velkmh:27321
+onumepoch:24594
+onumnow:370510.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:23:10+00:00
+nowjuliandate:2460553.0283591
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1284
+1 45390U 20019AG  24241.97442355  .00017223  00000+0  11719-2 0  9990
+2 45390  53.0541 130.2979 0001908  91.8881 268.2326 15.06412847245946

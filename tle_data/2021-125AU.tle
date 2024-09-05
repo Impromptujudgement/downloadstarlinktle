@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50198
+launchyear:2021
+epoch:24242.66512758
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3264
+meananomly:274.4585
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8779133384
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001456
+argumentofperigree:85.6573
+nickname:STARLINK-3264
+idesg:21125AU 
+cosparid:2021-125AU
+altkm:540.55990019215
+velkms:7.5933102040341
+velkmh:27336
+onumepoch:15216
+onumnow:229590.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:57:47+00:00
+nowjuliandate:2460552.6379855
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3264
+1 50198U 21125AU  24242.66512758  .00000669  00000+0  60108-4 0  9997
+2 50198  53.2149 219.7020 0001456  85.6573 274.4585 15.08841485152164

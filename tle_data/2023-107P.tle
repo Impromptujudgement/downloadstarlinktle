@@ -1,0 +1,38 @@
+date:2024-08-28T22:52:57+00:00
+validtle:1
+satid:57470
+launchyear:2023
+epoch:24241.39748286
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30186
+meananomly:81.1711
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2037050781
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0032
+eccentricity:0.0001243
+argumentofperigree:278.8991
+nickname:STARLINK-30186
+idesg:23107P  
+cosparid:2023-107P
+altkm:558.71265277377
+velkms:7.583988915991
+velkmh:27302
+onumepoch:6113
+onumnow:91845.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:32:23+00:00
+nowjuliandate:2460551.4534446
+nowepochdate:24241.07.9534375
+TLE:
+STARLINK-30186
+1 57470U 23107P   24241.39748286  .00001654  00000+0  13747-3 0  9996
+2 57470  43.0032 132.4053 0001243 278.8991  81.1711 15.02540840 61138

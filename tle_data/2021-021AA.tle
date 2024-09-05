@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:19+00:00
+validtle:1
+satid:72343
+launchyear:2021
+epoch:21083.38268879
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2343
+meananomly:338.5003
+meanmotion:15.8548
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.1044984005
+altitudeatperigee:314
+altitudeatapogee:316
+inclination:53.0504
+eccentricity:9.3E-5
+argumentofperigree:73.2701
+nickname:STARLINK-2343
+idesg:21021AA 
+cosparid:2021-021AA
+altkm:317.74899433811
+velkms:7.7229594726505
+velkmh:27803
+onumepoch:1
+onumnow:50113.28
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:11:04+00:00
+nowjuliandate:2460552.6406949
+nowepochdate:24243.1406944444
+TLE:
+STARLINK-2343
+1 72343C 21021AA  21083.38268879 -.01038055  00000-0 -44384-2 0   833
+2 72343  53.0504 168.5695 0000930  73.2701 338.5003 15.85482847    15

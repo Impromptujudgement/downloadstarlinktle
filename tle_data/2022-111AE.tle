@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53801
+launchyear:2022
+epoch:24242.30399115
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4715
+meananomly:265.3723
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8819266517
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2143
+eccentricity:0.000155
+argumentofperigree:94.7446
+nickname:STARLINK-4715
+idesg:22111AE 
+cosparid:2022-111AE
+altkm:540.72867418051
+velkms:7.5931272126167
+velkmh:27335
+onumepoch:10886
+onumnow:164264.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:17:45+00:00
+nowjuliandate:2460552.6378261
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4715
+1 53801U 22111AE  24242.30399115 -.00000074  00000+0  13422-4 0  9996
+2 53801  53.2143 246.0727 0001550  94.7446 265.3723 15.08840172108867

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52700
+launchyear:2022
+epoch:24242.40839132
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4034
+meananomly:297.4357
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8418365729
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001489
+argumentofperigree:62.6787
+nickname:STARLINK-4034
+idesg:22053AW 
+cosparid:2022-053AW
+altkm:540.12759037311
+velkms:7.5937648275327
+velkmh:27338
+onumepoch:12655
+onumnow:190956.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:48:05+00:00
+nowjuliandate:2460552.6379021
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4034
+1 52700U 22053AW  24242.40839132  .00000921  00000+0  75933-4 0  9992
+2 52700  53.2158 130.4927 0001489  62.6787 297.4357 15.08853288126558

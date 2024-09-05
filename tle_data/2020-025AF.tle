@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45560
+launchyear:2020
+epoch:24242.76602051
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1346
+meananomly:272.0652
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3264634272
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0548
+eccentricity:0.0001551
+argumentofperigree:88.0515
+nickname:STARLINK-1346
+idesg:20025AF 
+cosparid:2020-025AF
+altkm:548.03005466744
+velkms:7.5891953696449
+velkmh:27321
+onumepoch:24156
+onumnow:363899.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:23:04+00:00
+nowjuliandate:2460553.0283424
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1346
+1 45560U 20025AF  24242.76602051  .00002877  00000+0  21191-3 0  9990
+2 45560  53.0548  57.1680 0001551  88.0515 272.0652 15.06407883241567

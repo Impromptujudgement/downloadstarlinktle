@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55988
+launchyear:2023
+epoch:24241.18537014
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5916
+meananomly:98.7174
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2036035045
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:9.84E-5
+argumentofperigree:261.3557
+nickname:STARLINK-5916
+idesg:23042C  
+cosparid:2023-042C
+altkm:558.9481019198
+velkms:7.5837315893458
+velkmh:27301
+onumepoch:7889
+onumnow:118564.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:26:56+00:00
+nowjuliandate:2460552.6377226
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5916
+1 55988U 23042C   24241.18537014  .00000850  00000+0  77974-4 0  9998
+2 55988  43.0015 211.1454 0000984 261.3557  98.7174 15.02540873 78891

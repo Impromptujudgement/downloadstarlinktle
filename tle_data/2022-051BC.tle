@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52586
+launchyear:2022
+epoch:24241.32928646
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3910
+meananomly:268.0587
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.88937254
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001873
+argumentofperigree:92.062
+nickname:STARLINK-3910
+idesg:22051BC 
+cosparid:2022-051BC
+altkm:540.69388222494
+velkms:7.5931694659396
+velkmh:27335
+onumepoch:12729
+onumnow:192087.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:54:10+00:00
+nowjuliandate:2460552.6379139
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3910
+1 52586U 22051BC  24241.32928646  .00001019  00000+0  82099-4 0  9991
+2 52586  53.2172 105.7009 0001873  92.0620 268.0587 15.08837736127293

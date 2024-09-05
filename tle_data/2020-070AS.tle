@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46572
+launchyear:2020
+epoch:24242.98803331
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1531
+meananomly:249.7522
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3740851675
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001376
+argumentofperigree:110.3615
+nickname:STARLINK-1531
+idesg:20070AS 
+cosparid:2020-070AS
+altkm:548.44593354064
+velkms:7.5887658244965
+velkmh:27320
+onumepoch:21561
+onumnow:324801.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:42:46+00:00
+nowjuliandate:2460553.0282315
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1531
+1 46572U 20070AS  24242.98803331  .00022554  00000+0  15285-2 0  9992
+2 46572  53.0531 155.7373 0001376 110.3615 249.7522 15.06392345215612

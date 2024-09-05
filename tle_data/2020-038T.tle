@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45747
+launchyear:2020
+epoch:24242.63696343
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1506
+meananomly:276.9401
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3622976532
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001545
+argumentofperigree:83.1763
+nickname:STARLINK-1506
+idesg:20038T  
+cosparid:2020-038T
+altkm:547.97504946024
+velkms:7.5892752175915
+velkmh:27321
+onumepoch:23223
+onumnow:349843.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:17:14+00:00
+nowjuliandate:2460553.028301
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1506
+1 45747U 20038T   24242.63696343  .00011719  00000+0  80443-3 0  9994
+2 45747  53.0523 217.3244 0001545  83.1763 276.9401 15.06396191232235

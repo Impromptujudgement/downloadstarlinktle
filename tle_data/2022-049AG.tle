@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52481
+launchyear:2022
+epoch:24241.16552334
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3842
+meananomly:273.2202
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8842160462
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.0001278
+argumentofperigree:86.8936
+nickname:STARLINK-3842
+idesg:22049AG 
+cosparid:2022-049AG
+altkm:540.5951235798
+velkms:7.5932750061002
+velkmh:27336
+onumepoch:12917
+onumnow:194926.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:58:21+00:00
+nowjuliandate:2460552.6379226
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3842
+1 52481U 22049AG  24241.16552334  .00000568  00000+0  53771-4 0  9994
+2 52481  53.2179  46.4313 0001278  86.8936 273.2202 15.08839423129179

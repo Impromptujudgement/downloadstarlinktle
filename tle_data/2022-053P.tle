@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52669
+launchyear:2022
+epoch:24242.43556402
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3972
+meananomly:283.0080
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8217886947
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001519
+argumentofperigree:77.1082
+nickname:STARLINK-3972
+idesg:22053P  
+cosparid:2022-053P
+altkm:540.34581407794
+velkms:7.5935143873124
+velkmh:27337
+onumepoch:12691
+onumnow:191500.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:27:13+00:00
+nowjuliandate:2460552.6378996
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3972
+1 52669U 22053P   24242.43556402  .00003005  00000+0  20672-3 0  9990
+2 52669  53.2173 135.7314 0001519  77.1082 283.0080 15.08859847126911

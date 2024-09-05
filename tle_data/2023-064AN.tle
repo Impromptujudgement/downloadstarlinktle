@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56484
+launchyear:2023
+epoch:24242.3267332
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6221
+meananomly:89.0259
+meanmotion:14.9835
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1445116563
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0021
+eccentricity:0.0002991
+argumentofperigree:271.0558
+nickname:STARLINK-6221
+idesg:23064AN 
+cosparid:2023-064AN
+altkm:574.39673664098
+velkms:7.5739262811234
+velkmh:27266
+onumepoch:7261
+onumnow:108807.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:50:30+00:00
+nowjuliandate:2460552.6376965
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-6221
+1 56484U 23064AN  24242.32673320  .00001847  00000+0  16248-3 0  9995
+2 56484  70.0021  89.6865 0002991 271.0558  89.0259 14.98346315 72613

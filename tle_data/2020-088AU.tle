@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:04+00:00
+validtle:1
+satid:47164
+launchyear:2020
+epoch:24242.34346737
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1879
+meananomly:272.1491
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3409110742
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001254
+argumentofperigree:87.9641
+nickname:STARLINK-1879
+idesg:20088AU 
+cosparid:2020-088AU
+altkm:548.05038088157
+velkms:7.589181000349
+velkmh:27321
+onumepoch:20836
+onumnow:313886.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:14:36+00:00
+nowjuliandate:2460552.639637
+nowepochdate:24243.1396296296
+TLE:
+STARLINK-1879
+1 47164U 20088AU  24242.34346737  .00001783  00000+0  13853-3 0  9992
+2 47164  53.0528 263.6418 0001254  87.9641 272.1491 15.06403169208364

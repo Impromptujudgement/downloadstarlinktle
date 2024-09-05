@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54202
+launchyear:2022
+epoch:24242.55330334
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5205
+meananomly:276.0008
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.891062845
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001183
+argumentofperigree:84.1119
+nickname:STARLINK-5205
+idesg:22141AX 
+cosparid:2022-141AX
+altkm:540.56589646525
+velkms:7.5933108249801
+velkmh:27336
+onumepoch:10212
+onumnow:154091.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:16:45+00:00
+nowjuliandate:2460552.6377949
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5205
+1 54202U 22141AX  24242.55330334 -.00000276  00000+0  71464-6 0  9996
+2 54202  53.2164 334.8899 0001183  84.1119 276.0008 15.08837183102120

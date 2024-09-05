@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52699
+launchyear:2022
+epoch:24242.36151859
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3987
+meananomly:261.0631
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8535890556
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2147
+eccentricity:9.33E-5
+argumentofperigree:99.0466
+nickname:STARLINK-3987
+idesg:22053AV 
+cosparid:2022-053AV
+altkm:540.71403682691
+velkms:7.5931277558681
+velkmh:27335
+onumepoch:12667
+onumnow:191137.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:40:35+00:00
+nowjuliandate:2460552.6379022
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3987
+1 52699U 22053AV  24242.36151859  .00001042  00000+0  83541-4 0  9996
+2 52699  53.2147 121.0964 0000933  99.0466 261.0631 15.08849443126674

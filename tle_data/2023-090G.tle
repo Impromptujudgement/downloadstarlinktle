@@ -1,0 +1,38 @@
+date:2024-08-29T06:22:15+00:00
+validtle:1
+satid:57107
+launchyear:2023
+epoch:24241.81327627
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6131
+meananomly:93.2323
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2097348628
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001155
+argumentofperigree:266.8387
+nickname:STARLINK-6131
+idesg:23090G  
+cosparid:2023-090G
+altkm:558.89615564311
+velkms:7.5837916915224
+velkmh:27302
+onumepoch:6649
+onumnow:99910.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:31:07+00:00
+nowjuliandate:2460551.765458
+nowepochdate:24242.2654513889
+TLE:
+STARLINK-6131
+1 57107U 23090G   24241.81327627  .00001311  00000+0  11212-3 0  9998
+2 57107  43.0030  66.0528 0001155 266.8387  93.2323 15.02538881 66499

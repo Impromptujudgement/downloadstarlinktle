@@ -1,0 +1,38 @@
+date:2024-08-27T14:50:32+00:00
+validtle:1
+satid:60343
+launchyear:2024
+epoch:24240.05868599
+epochday:240
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-32083
+meananomly:276.2684
+meanmotion:15.7322
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6727.8265894544
+altitudeatperigee:349
+altitudeatapogee:350
+inclination:53.1547
+eccentricity:3.65E-5
+argumentofperigree:83.8376
+nickname:STARLINK-32083
+idesg:24136Q  
+cosparid:2024-136Q
+altkm:350.57862413842
+velkms:7.6999103552203
+velkmh:27720
+onumepoch:489
+onumnow:7701.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T01:24:30+00:00
+nowjuliandate:2460550.1184282
+nowepochdate:24240.6184259259
+TLE:
+STARLINK-32083
+1 60343U 24136Q   24240.05868599  .00012871  00000+0  95871-4 0  9996
+2 60343  53.1547 157.8426 0000365  83.8376 276.2684 15.73224760  4898

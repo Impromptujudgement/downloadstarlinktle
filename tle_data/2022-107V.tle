@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53719
+launchyear:2022
+epoch:24242.17517246
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4644
+meananomly:265.5796
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8602554406
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.000152
+argumentofperigree:94.537
+nickname:STARLINK-4644
+idesg:22107V  
+cosparid:2022-107V
+altkm:540.70168829905
+velkms:7.5931449561798
+velkmh:27335
+onumepoch:11020
+onumnow:166289.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:12:15+00:00
+nowjuliandate:2460552.6378272
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4644
+1 53719U 22107V   24242.17517246  .00001046  00000+0  83783-4 0  9997
+2 53719  53.2158 206.5224 0001520  94.5370 265.5796 15.08847262110205
