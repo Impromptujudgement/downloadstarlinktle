@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45416
+launchyear:2020
+epoch:24243.13641953
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1318
+meananomly:274.5191
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3626838268
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001154
+argumentofperigree:85.593
+nickname:STARLINK-1318
+idesg:20019BJ 
+cosparid:2020-019BJ
+altkm:548.04179835218
+velkms:7.5892023054885
+velkmh:27321
+onumepoch:24598
+onumnow:370549.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:16:27+00:00
+nowjuliandate:2460553.0283514
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1318
+1 45416U 20019BJ  24243.13641953  .00015464  00000+0  10549-2 0  9999
+2 45416  53.0535 115.0830 0001154  85.5930 274.5191 15.06396065245980

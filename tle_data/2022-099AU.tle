@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53507
+launchyear:2022
+epoch:24242.31758505
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4444
+meananomly:130.6422
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1375068694
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6565
+eccentricity:5.07E-5
+argumentofperigree:229.4758
+nickname:STARLINK-4444
+idesg:22099AU 
+cosparid:2022-099AU
+altkm:566.28733857058
+velkms:7.5778649672554
+velkmh:27280
+onumepoch:11260
+onumnow:169054.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:37:19+00:00
+nowjuliandate:2460552.637854
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4444
+1 53507U 22099AU  24242.31758505  .00001128  00000+0  92420-4 0  9992
+2 53507  97.6565   2.1044 0000507 229.4758 130.6422 15.01263702112605

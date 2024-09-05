@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52461
+launchyear:2022
+epoch:24241.73315806
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3900
+meananomly:265.0522
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.865087892
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001337
+argumentofperigree:95.0623
+nickname:STARLINK-3900
+idesg:22049L  
+cosparid:2022-049L
+altkm:540.70544621149
+velkms:7.5931434793026
+velkmh:27335
+onumepoch:12815
+onumnow:193379.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:35:45+00:00
+nowjuliandate:2460552.6379188
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3900
+1 52461U 22049L   24241.73315806  .00001493  00000+0  11184-3 0  9995
+2 52461  53.2180  33.8870 0001337  95.0623 265.0522 15.08845681128152

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47408
+launchyear:2021
+epoch:24242.62820217
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2135
+meananomly:275.2806
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3120097259
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0559
+eccentricity:0.0001597
+argumentofperigree:84.8365
+nickname:STARLINK-2135
+idesg:21005BM 
+cosparid:2021-005BM
+altkm:547.95265771078
+velkms:7.589272256816
+velkmh:27321
+onumepoch:20011
+onumnow:301455.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:04:37+00:00
+nowjuliandate:2460552.6395676
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2135
+1 47408U 21005BM  24242.62820217 -.00008162  00000+0 -52947-3 0  9991
+2 47408  53.0559  12.3632 0001597  84.8365 275.2806 15.06412599200111

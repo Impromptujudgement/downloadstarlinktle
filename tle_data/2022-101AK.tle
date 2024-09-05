@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53560
+launchyear:2022
+epoch:24242.15408099
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4564
+meananomly:270.7069
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8643329164
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.22
+eccentricity:0.0001387
+argumentofperigree:89.4082
+nickname:STARLINK-4564
+idesg:22101AK 
+cosparid:2022-101AK
+altkm:540.61330906878
+velkms:7.5932441645539
+velkmh:27336
+onumepoch:11227
+onumnow:169412.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:41:53+00:00
+nowjuliandate:2460552.6378497
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4564
+1 53560U 22101AK  24242.15408099  .00000949  00000+0  77691-4 0  9990
+2 53560  53.2200  37.1795 0001387  89.4082 270.7069 15.08845928112279

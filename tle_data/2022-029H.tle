@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52095
+launchyear:2022
+epoch:24242.78565922
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3701
+meananomly:275.8497
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8109227383
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.22
+eccentricity:0.0001515
+argumentofperigree:84.2668
+nickname:STARLINK-3701
+idesg:22029H  
+cosparid:2022-029H
+altkm:540.46495081224
+velkms:7.59337770873
+velkmh:27336
+onumepoch:13658
+onumnow:206085.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:51:21+00:00
+nowjuliandate:2460552.6379382
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3701
+1 52095U 22029H   24242.78565922  .00012103  00000+0  77674-3 0  9994
+2 52095  53.2200  69.1614 0001515  84.2668 275.8497 15.08863402136580

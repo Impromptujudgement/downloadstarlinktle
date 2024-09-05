@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52469
+launchyear:2022
+epoch:24241.71752095
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3828
+meananomly:271.2543
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8578224069
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2131
+eccentricity:0.00018
+argumentofperigree:88.8655
+nickname:STARLINK-3828
+idesg:22049U  
+cosparid:2022-049U
+altkm:540.59073857565
+velkms:7.5932653643973
+velkmh:27336
+onumepoch:12801
+onumnow:193169.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:13:14+00:00
+nowjuliandate:2460552.6379182
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3828
+1 52469U 22049U   24241.71752095  .00000877  00000+0  73179-4 0  9994
+2 52469  53.2131  43.9540 0001800  88.8655 271.2543 15.08848058128010

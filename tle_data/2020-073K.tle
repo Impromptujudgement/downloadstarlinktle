@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:15+00:00
+validtle:1
+satid:46679
+launchyear:2020
+epoch:24241.60444445
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1773
+meananomly:274.4319
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3136248834
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001504
+argumentofperigree:85.6842
+nickname:STARLINK-1773
+idesg:20073K  
+cosparid:2020-073K
+altkm:547.97509042315
+velkms:7.5892485638069
+velkmh:27321
+onumepoch:21378
+onumnow:322063.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:30:24+00:00
+nowjuliandate:2460552.6397626
+nowepochdate:24243.1397569444
+TLE:
+STARLINK-1773
+1 46679U 20073K   24241.60444445  .00004191  00000+0  29998-3 0  9992
+2 46679  53.0516 206.9600 0001504  85.6842 274.4319 15.06412072213789

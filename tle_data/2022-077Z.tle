@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53066
+launchyear:2022
+epoch:24242.39404944
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4309
+meananomly:219.6760
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1302910899
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6586
+eccentricity:4.85E-5
+argumentofperigree:140.45
+nickname:STARLINK-4309
+idesg:22077Z  
+cosparid:2022-077Z
+altkm:566.30995285949
+velkms:7.5778363448849
+velkmh:27280
+onumepoch:11788
+onumnow:176980.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:27:26+00:00
+nowjuliandate:2460552.6378806
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4309
+1 53066U 22077Z   24242.39404944  .00001124  00000+0  92073-4 0  9991
+2 53066  97.6586  62.1860 0000485 140.4500 219.6760 15.01266043117881

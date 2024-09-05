@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53897
+launchyear:2022
+epoch:24242.47146778
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5035
+meananomly:259.5834
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8944190052
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001334
+argumentofperigree:100.5309
+nickname:STARLINK-5035
+idesg:22119M  
+cosparid:2022-119M
+altkm:540.82174075885
+velkms:7.5930319374248
+velkmh:27335
+onumepoch:10714
+onumnow:161666.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:18:55+00:00
+nowjuliandate:2460552.6378115
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5035
+1 53897U 22119M   24242.47146778  .00000121  00000+0  25672-4 0  9994
+2 53897  53.2170 305.5631 0001334 100.5309 259.5834 15.08836085107147

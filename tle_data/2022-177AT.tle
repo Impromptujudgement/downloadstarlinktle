@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54861
+launchyear:2022
+epoch:24241.8021892
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5400
+meananomly:81.7061
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1966811186
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0008
+eccentricity:0.0001147
+argumentofperigree:278.3651
+nickname:STARLINK-5400
+idesg:22177AT 
+cosparid:2022-177AT
+altkm:558.72292089914
+velkms:7.583973867211
+velkmh:27302
+onumepoch:9318
+onumnow:140027.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:15:09+00:00
+nowjuliandate:2460552.6377826
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5400
+1 54861U 22177AT  24241.80218920  .00001086  00000+0  95454-4 0  9991
+2 54861  43.0008 271.8071 0001147 278.3651  81.7061 15.02543122 93181

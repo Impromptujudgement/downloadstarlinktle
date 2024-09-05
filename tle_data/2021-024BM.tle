@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:48036
+launchyear:2021
+epoch:24242.4678805
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2295
+meananomly:257.2151
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4149342273
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.0001667
+argumentofperigree:102.9025
+nickname:STARLINK-2295
+idesg:21024BM 
+cosparid:2021-024BM
+altkm:548.41242585211
+velkms:7.5888248624454
+velkmh:27320
+onumepoch:19011
+onumnow:286387.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:13:45+00:00
+nowjuliandate:2460552.6380574
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2295
+1 48036U 21024BM  24242.46788050  .00016561  00000+0  11287-2 0  9991
+2 48036  53.0522 313.0891 0001667 102.9025 257.2151 15.06379017190118

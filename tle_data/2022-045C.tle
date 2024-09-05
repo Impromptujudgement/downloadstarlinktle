@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52333
+launchyear:2022
+epoch:24242.17843679
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3847
+meananomly:257.8925
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8528310266
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.000159
+argumentofperigree:102.2246
+nickname:STARLINK-3847
+idesg:22045C  
+cosparid:2022-045C
+altkm:540.84406762543
+velkms:7.5929846663041
+velkmh:27335
+onumepoch:13146
+onumnow:198367.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:16:57+00:00
+nowjuliandate:2460552.6379261
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3847
+1 52333U 22045C   24242.17843679  .00000850  00000+0  71490-4 0  9995
+2 52333  53.2171 191.8891 0001590 102.2246 257.8925 15.08849691131460

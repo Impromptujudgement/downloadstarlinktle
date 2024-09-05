@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55480
+launchyear:2023
+epoch:24242.40685577
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5690
+meananomly:86.7494
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.194720446
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0028
+eccentricity:0.0001259
+argumentofperigree:273.3204
+nickname:STARLINK-5690
+idesg:23015AH 
+cosparid:2023-015AH
+altkm:558.78644803587
+velkms:7.5839033833362
+velkmh:27302
+onumepoch:8659
+onumnow:130116.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:45:52+00:00
+nowjuliandate:2460552.6377586
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5690
+1 55480U 23015AH  24242.40685577  .00000924  00000+0  83470-4 0  9999
+2 55480  43.0028 127.0634 0001259 273.3204  86.7494 15.02543759 86599

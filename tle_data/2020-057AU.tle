@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46159
+launchyear:2020
+epoch:24242.44898804
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1595
+meananomly:314.3097
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3070232777
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001682
+argumentofperigree:45.803
+nickname:STARLINK-1595
+idesg:20057AU 
+cosparid:2020-057AU
+altkm:547.23544651324
+velkms:7.5900552839824
+velkmh:27324
+onumepoch:22333
+onumnow:336435.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:46:33+00:00
+nowjuliandate:2460553.0282853
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1595
+1 46159U 20057AU  24242.44898804  .00006715  00000+0  46912-3 0  9991
+2 46159  53.0534 298.1606 0001682  45.8030 314.3097 15.06414226223337

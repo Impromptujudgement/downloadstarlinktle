@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45706
+launchyear:2020
+epoch:24242.64802367
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1411
+meananomly:276.3273
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3521713419
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0558
+eccentricity:0.0001601
+argumentofperigree:83.7899
+nickname:STARLINK-1411
+idesg:20035BB 
+cosparid:2020-035BB
+altkm:547.97238848091
+velkms:7.5892725974466
+velkmh:27321
+onumepoch:23518
+onumnow:354288.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:33:09+00:00
+nowjuliandate:2460553.0283204
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1411
+1 45706U 20035BB  24242.64802367 -.00000606  00000+0 -21805-4 0  9995
+2 45706  53.0558  17.2759 0001601  83.7899 276.3273 15.06399495235183

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52566
+launchyear:2022
+epoch:24241.92957638
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3938
+meananomly:275.4461
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8224733584
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001551
+argumentofperigree:84.6708
+nickname:STARLINK-3938
+idesg:22051AK 
+cosparid:2022-051AK
+altkm:540.48113061062
+velkms:7.5933662790964
+velkmh:27336
+onumepoch:12717
+onumnow:191899.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:18:35+00:00
+nowjuliandate:2460552.637916
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3938
+1 52566U 22051AK  24241.92957638  .00005675  00000+0  37417-3 0  9993
+2 52566  53.2166 118.0027 0001551  84.6708 275.4461 15.08859623127177

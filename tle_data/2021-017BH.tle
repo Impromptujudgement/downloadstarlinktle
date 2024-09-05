@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:40+00:00
+validtle:1
+satid:47777
+launchyear:2021
+epoch:24241.61272734
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2210
+meananomly:261.9571
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2892229263
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001772
+argumentofperigree:98.1619
+nickname:STARLINK-2210
+idesg:21017BH 
+cosparid:2021-017BH
+altkm:548.20325042669
+velkms:7.588985276711
+velkmh:27320
+onumepoch:19363
+onumnow:291711.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:42:20+00:00
+nowjuliandate:2460552.6393589
+nowepochdate:24243.1393518519
+TLE:
+STARLINK-2210
+1 47777U 21017BH  24241.61272734  .00006382  00000+0  44671-3 0  9991
+2 47777  53.0546 196.9159 0001772  98.1619 261.9571 15.06420034193636

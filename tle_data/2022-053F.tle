@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52661
+launchyear:2022
+epoch:24242.40613965
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4042
+meananomly:268.0049
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8796494854
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001289
+argumentofperigree:92.1091
+nickname:STARLINK-4042
+idesg:22053F  
+cosparid:2022-053F
+altkm:540.67106781003
+velkms:7.5931891745419
+velkmh:27335
+onumepoch:12691
+onumnow:191498.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:44:50+00:00
+nowjuliandate:2460552.6379007
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4042
+1 52661U 22053F   24242.40613965  .00002078  00000+0  14861-3 0  9999
+2 52661  53.2161 135.8650 0001289  92.1091 268.0049 15.08840917126911

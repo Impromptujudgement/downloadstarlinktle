@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55994
+launchyear:2023
+epoch:24241.63739422
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5956
+meananomly:95.1170
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2031725862
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001295
+argumentofperigree:264.9525
+nickname:STARLINK-5956
+idesg:23042J  
+cosparid:2023-042J
+altkm:558.9244538095
+velkms:7.5837571941284
+velkmh:27302
+onumepoch:7896
+onumnow:118663.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:17:51+00:00
+nowjuliandate:2460552.6377219
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5956
+1 55994U 23042J   24241.63739422  .00000769  00000+0  71958-4 0  9997
+2 55994  43.0021 208.5152 0001295 264.9525  95.1170 15.02541013 78962

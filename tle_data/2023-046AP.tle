@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56130
+launchyear:2023
+epoch:24242.42983836
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6117
+meananomly:83.2075
+meanmotion:15.0258
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.0897726183
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:0.0001051
+argumentofperigree:276.8647
+nickname:STARLINK-6117
+idesg:23046AP 
+cosparid:2023-046AP
+altkm:558.64488527432
+velkms:7.5840008689598
+velkmh:27302
+onumepoch:7892
+onumnow:118594.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:18:58+00:00
+nowjuliandate:2460552.6377185
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6117
+1 56130U 23046AP  24242.42983836 -.00007626  00000+0 -54943-3 0  9997
+2 56130  43.0039 294.1366 0001051 276.8647  83.2075 15.02577856 78921

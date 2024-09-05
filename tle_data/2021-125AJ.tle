@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:50188
+launchyear:2021
+epoch:24242.60225233
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3275
+meananomly:266.1773
+meanmotion:15.1632
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6895.1025461652
+altitudeatperigee:514
+altitudeatapogee:520
+inclination:53.2158
+eccentricity:0.0004612
+argumentofperigree:93.9749
+nickname:STARLINK-3275
+idesg:21125AJ 
+cosparid:2021-125AJ
+altkm:518.07920755518
+velkms:7.6055359287574
+velkmh:27380
+onumepoch:14989
+onumnow:227289.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:27:15+00:00
+nowjuliandate:2460552.6379862
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3275
+1 50188U 21125AJ  24242.60225233  .00016960  00000+0  87828-3 0  9997
+2 50188  53.2158 195.3562 0004612  93.9749 266.1773 15.16323487149896

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47759
+launchyear:2021
+epoch:22067.82347875
+epochday:67
+tleage:906
+tleclassification:C
+active:0
+name:STARLINK-2177
+meananomly:269.8956
+meanmotion:15.9340
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6670.912611303
+altitudeatperigee:287
+altitudeatapogee:299
+inclination:53.0444
+eccentricity:0.000915
+argumentofperigree:300.5083
+nickname:STARLINK-2177
+idesg:21017AP 
+cosparid:2021-017AP
+altkm:299.69556800947
+velkms:7.7279447312029
+velkmh:27821
+onumepoch:1
+onumnow:34675.36
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-03-08T19:45:49+00:00
+nowjuliandate:2460552.6393835
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2177
+1 47759C 21017AP  22067.82347875  .01584667  00000-0  39571-2 0   674
+2 47759  53.0444 217.1456 0009150 300.5083 269.8956 15.93400977    15

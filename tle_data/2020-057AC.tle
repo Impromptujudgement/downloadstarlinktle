@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46143
+launchyear:2020
+epoch:22033.82158749
+epochday:33
+tleage:940
+tleclassification:C
+active:0
+name:STARLINK-1599
+meananomly:295.6889
+meanmotion:16.0876
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6628.3959467238
+altitudeatperigee:244
+altitudeatapogee:256
+inclination:53.045
+eccentricity:0.0008951
+argumentofperigree:17.2091
+nickname:STARLINK-1599
+idesg:20057AC 
+cosparid:2020-057AC
+altkm:259.24353281577
+velkms:7.7526978953674
+velkmh:27910
+onumepoch:1
+onumnow:35556.39
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-02-02T19:43:05+00:00
+nowjuliandate:2460553.0282886
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1599
+1 46143C 20057AC  22033.82158749  .01009582  00000-0  10463-2 0   336
+2 46143  53.0450 128.4687 0008951  17.2091 295.6889 16.08756415    17

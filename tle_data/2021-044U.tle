@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48656
+launchyear:2021
+epoch:24241.8901052
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2701
+meananomly:276.6525
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.341695675
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001671
+argumentofperigree:83.4654
+nickname:STARLINK-2701
+idesg:21044U  
+cosparid:2021-044U
+altkm:547.94984626203
+velkms:7.5892915653808
+velkmh:27321
+onumepoch:17963
+onumnow:270613.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:21:45+00:00
+nowjuliandate:2460552.6380082
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2701
+1 48656U 21044U   24241.89010520  .00010735  00000+0  73843-3 0  9991
+2 48656  53.0537 105.6773 0001671  83.4654 276.6525 15.06402913179638

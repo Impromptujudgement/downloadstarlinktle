@@ -1,0 +1,38 @@
+date:2024-08-29T09:38:15+00:00
+validtle:1
+satid:56553
+launchyear:2023
+epoch:24242.09907378
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-6074
+meananomly:90.3956
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1809434512
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001195
+argumentofperigree:269.675
+nickname:STARLINK-6074
+idesg:23065BC 
+cosparid:2023-065BC
+altkm:558.82807999666
+velkms:7.5838503840353
+velkmh:27302
+onumepoch:7182
+onumnow:107912.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:22:40+00:00
+nowjuliandate:2460551.9015682
+nowepochdate:24242.08.4015625
+TLE:
+STARLINK-6074
+1 56553U 23065BC  24242.09907378  .00000939  00000+0  84582-4 0  9998
+2 56553  43.0045  12.7192 0001195 269.6750  90.3956 15.02548235 71820

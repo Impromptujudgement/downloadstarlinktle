@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45763
+launchyear:2020
+epoch:22203.526875
+epochday:203
+tleage:770
+tleclassification:C
+active:0
+name:STARLINK-1501
+meananomly:33.4036
+meanmotion:16.0262
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6645.3017808228
+altitudeatperigee:265
+altitudeatapogee:270
+inclination:53.0324
+eccentricity:0.0003759
+argumentofperigree:102.4944
+nickname:STARLINK-1501
+idesg:20038AK 
+cosparid:2020-038AK
+altkm:267.43189231164
+velkms:7.7525173916343
+velkmh:27909
+onumepoch:1
+onumnow:32709.52
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-07-22T12:38:42+00:00
+nowjuliandate:2460553.0283099
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1501
+1 45763C 20038AK  22203.52687500  .03434002  00000-0  45756-2 0  2033
+2 45763  53.0324 220.3157 0003759 102.4944  33.4036 16.02621239    14

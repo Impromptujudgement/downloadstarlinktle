@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52465
+launchyear:2022
+epoch:24242.12323909
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3863
+meananomly:269.6304
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8742331995
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001119
+argumentofperigree:90.4817
+nickname:STARLINK-3863
+idesg:22049Q  
+cosparid:2022-049Q
+altkm:540.63981484774
+velkms:7.5932205015824
+velkmh:27336
+onumepoch:12837
+onumnow:193705.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:57:28+00:00
+nowjuliandate:2460552.6379183
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3863
+1 52465U 22049Q   24242.12323909 -.00000148  00000+0  88114-5 0  9992
+2 52465  53.2184  32.1363 0001119  90.4817 269.6304 15.08842689128378

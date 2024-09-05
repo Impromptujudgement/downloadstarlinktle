@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52382
+launchyear:2022
+epoch:24242.51882691
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3799
+meananomly:288.4076
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8300352354
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001269
+argumentofperigree:71.7054
+nickname:STARLINK-3799
+idesg:22045BD 
+cosparid:2022-045BD
+altkm:540.313200276
+velkms:7.593554690136
+velkmh:27337
+onumepoch:13181
+onumnow:198891.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:27:07+00:00
+nowjuliandate:2460552.6379264
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3799
+1 52382U 22045BD  24242.51882691  .00002563  00000+0  17900-3 0  9992
+2 52382  53.2161 170.3691 0001269  71.7054 288.4076 15.08857149131816

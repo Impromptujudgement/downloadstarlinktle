@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53700
+launchyear:2022
+epoch:24241.24965536
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4725
+meananomly:266.6529
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8803952954
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001457
+argumentofperigree:93.463
+nickname:STARLINK-4725
+idesg:22107A  
+cosparid:2022-107A
+altkm:540.69955308906
+velkms:7.5931583272716
+velkmh:27335
+onumepoch:10980
+onumnow:165699.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:59:30+00:00
+nowjuliandate:2460552.6378325
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4725
+1 53700U 22107A   24241.24965536  .00000227  00000+0  32328-4 0  9992
+2 53700  53.2152 230.6807 0001457  93.4630 266.6529 15.08840673109809

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52637
+launchyear:2022
+epoch:24241.73591868
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3961
+meananomly:271.3758
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8142971404
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2134
+eccentricity:0.0001132
+argumentofperigree:88.7364
+nickname:STARLINK-3961
+idesg:22052AR 
+cosparid:2022-052AR
+altkm:540.55556526881
+velkms:7.5932801251992
+velkmh:27336
+onumepoch:12770
+onumnow:192702.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:39:43+00:00
+nowjuliandate:2460552.6379094
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3961
+1 52637U 22052AR  24241.73591868  .00003884  00000+0  26180-3 0  9996
+2 52637  53.2134 243.8724 0001132  88.7364 271.3758 15.08862298127705

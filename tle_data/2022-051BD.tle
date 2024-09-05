@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52587
+launchyear:2022
+epoch:24241.90429722
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3867
+meananomly:268.7115
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8571683002
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2143
+eccentricity:0.0001939
+argumentofperigree:91.4099
+nickname:STARLINK-3867
+idesg:22051BD 
+cosparid:2022-051BD
+altkm:540.64766721435
+velkms:7.5932025406217
+velkmh:27336
+onumepoch:12738
+onumnow:192215.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:42:11+00:00
+nowjuliandate:2460552.6379138
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3867
+1 52587U 22051BD  24241.90429722  .00001588  00000+0  11784-3 0  9990
+2 52587  53.2143 102.9726 0001939  91.4099 268.7115 15.08848272127384

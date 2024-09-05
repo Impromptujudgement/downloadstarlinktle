@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55622
+launchyear:2023
+epoch:24242.01430616
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5702
+meananomly:100.4413
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1970812561
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0044
+eccentricity:0.0001075
+argumentofperigree:259.6308
+nickname:STARLINK-5702
+idesg:23020BF 
+cosparid:2023-020BF
+altkm:558.97360168976
+velkms:7.5837001724427
+velkmh:27301
+onumepoch:8518
+onumnow:128003.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:20:36+00:00
+nowjuliandate:2460552.63775
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5702
+1 55622U 23020BF  24242.01430616  .00001467  00000+0  12363-3 0  9997
+2 55622  43.0044 141.6459 0001075 259.6308 100.4413 15.02542992 85187

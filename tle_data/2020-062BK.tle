@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46382
+launchyear:2020
+epoch:24242.37940838
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1769
+meananomly:259.9759
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3667202638
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001089
+argumentofperigree:100.1353
+nickname:STARLINK-1769
+idesg:20062BK 
+cosparid:2020-062BK
+altkm:548.2400079592
+velkms:7.5889873780027
+velkmh:27320
+onumepoch:22094
+onumnow:332840.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:06:21+00:00
+nowjuliandate:2460553.0282432
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1769
+1 46382U 20062BK  24242.37940838 -.00004416  00000+0 -27777-3 0  9998
+2 46382  53.0530 313.4834 0001089 100.1353 259.9759 15.06394748220948

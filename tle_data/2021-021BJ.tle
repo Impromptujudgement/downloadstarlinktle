@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:57+00:00
+validtle:1
+satid:47916
+launchyear:2021
+epoch:24242.23473861
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2378
+meananomly:266.9125
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3588159633
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001587
+argumentofperigree:93.2046
+nickname:STARLINK-2378
+idesg:21021BJ 
+cosparid:2021-021BJ
+altkm:548.16008839674
+velkms:7.5890706061672
+velkmh:27321
+onumepoch:19183
+onumnow:288985.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:38:01+00:00
+nowjuliandate:2460552.6381652
+nowepochdate:24243.1381597222
+TLE:
+STARLINK-2378
+1 47916U 21021BJ  24242.23473861 -.00000498  00000+0 -14501-4 0  9998
+2 47916  53.0527 244.1301 0001587  93.2046 266.9125 15.06397327191837

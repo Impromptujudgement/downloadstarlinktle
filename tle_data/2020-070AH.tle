@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46563
+launchyear:2020
+epoch:24243.02768394
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1730
+meananomly:270.5213
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3623191073
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001232
+argumentofperigree:89.5917
+nickname:STARLINK-1730
+idesg:20070AH 
+cosparid:2020-070AH
+altkm:548.0966027288
+velkms:7.5891420684739
+velkmh:27321
+onumepoch:21589
+onumnow:325223.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:39:52+00:00
+nowjuliandate:2460553.0282318
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1730
+1 46563U 20070AH  24243.02768394  .00031544  00000+0  21273-2 0  9990
+2 46563  53.0530 135.5713 0001232  89.5917 270.5213 15.06396184215892

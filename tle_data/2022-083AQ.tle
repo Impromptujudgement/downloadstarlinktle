@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53170
+launchyear:2022
+epoch:24242.44063343
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4095
+meananomly:283.3557
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.896087917
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001715
+argumentofperigree:76.7627
+nickname:STARLINK-4095
+idesg:22083AQ 
+cosparid:2022-083AQ
+altkm:540.38249169568
+velkms:7.5935148242008
+velkmh:27337
+onumepoch:11793
+onumnow:177947.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:34:31+00:00
+nowjuliandate:2460552.6378789
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4095
+1 53170U 22083AQ  24242.44063343 -.00003143  00000+0 -17945-3 0  9993
+2 53170  53.2162 140.6612 0001715  76.7627 283.3557 15.08835539117937

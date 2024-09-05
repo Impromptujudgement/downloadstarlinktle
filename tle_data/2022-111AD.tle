@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53800
+launchyear:2022
+epoch:24241.72625445
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4720
+meananomly:258.2317
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8743248972
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.000157
+argumentofperigree:101.8852
+nickname:STARLINK-4720
+idesg:22111AD 
+cosparid:2022-111AD
+altkm:540.85640535399
+velkms:7.5929828991311
+velkmh:27335
+onumepoch:10958
+onumnow:165360.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:25:48+00:00
+nowjuliandate:2460552.6378262
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4720
+1 53800U 22111AD  24241.72625445  .00000685  00000+0  61126-4 0  9999
+2 53800  53.2175 248.8657 0001570 101.8852 258.2317 15.08842659109588

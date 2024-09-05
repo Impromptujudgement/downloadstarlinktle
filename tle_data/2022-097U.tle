@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53406
+launchyear:2022
+epoch:24242.29205817
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4533
+meananomly:277.9254
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8651948723
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2158
+eccentricity:0.0001019
+argumentofperigree:82.1853
+nickname:STARLINK-4533
+idesg:22097U  
+cosparid:2022-097U
+altkm:540.52830922106
+velkms:7.5933379037343
+velkmh:27336
+onumepoch:11401
+onumnow:172036.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:00:34+00:00
+nowjuliandate:2460552.6378568
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4533
+1 53406U 22097U   24242.29205817  .00001520  00000+0  11353-3 0  9999
+2 53406  53.2158  96.3767 0001019  82.1853 277.9254 15.08845646114010

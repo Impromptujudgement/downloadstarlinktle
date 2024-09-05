@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52454
+launchyear:2022
+epoch:24242.16555679
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3888
+meananomly:269.1230
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8415462001
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001812
+argumentofperigree:90.997
+nickname:STARLINK-3888
+idesg:22049D  
+cosparid:2022-049D
+altkm:540.62134126325
+velkms:7.5932228731194
+velkmh:27336
+onumepoch:12810
+onumnow:193298.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:58:24+00:00
+nowjuliandate:2460552.63792
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3888
+1 52454U 22049D   24242.16555679  .00004575  00000+0  30525-3 0  9993
+2 52454  53.2172  51.9454 0001812  90.9970 269.1230 15.08853383128105

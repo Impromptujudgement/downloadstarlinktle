@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54845
+launchyear:2022
+epoch:24241.42958574
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5082
+meananomly:81.6382
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1949851521
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001236
+argumentofperigree:278.4321
+nickname:STARLINK-5082
+idesg:22177AB 
+cosparid:2022-177AB
+altkm:558.71142991041
+velkms:7.5839854992995
+velkmh:27302
+onumepoch:9298
+onumnow:139732.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:18:36+00:00
+nowjuliandate:2460552.6377844
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5082
+1 54845U 22177AB  24241.42958574  .00000961  00000+0  86187-4 0  9991
+2 54845  43.0018 286.3224 0001236 278.4321  81.6382 15.02543673 92982

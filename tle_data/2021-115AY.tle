@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49770
+launchyear:2021
+epoch:24242.39192339
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3191
+meananomly:275.2485
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8577062571
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001696
+argumentofperigree:84.8701
+nickname:STARLINK-3191
+idesg:21115AY 
+cosparid:2021-115AY
+altkm:540.51101244898
+velkms:7.5933527831615
+velkmh:27336
+onumepoch:15265
+onumnow:230336.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:24:22+00:00
+nowjuliandate:2460552.6379903
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3191
+1 49770U 21115AY  24242.39192339  .00002500  00000+0  17506-3 0  9998
+2 49770  53.2177 120.9786 0001696  84.8701 275.2485 15.08848096152658

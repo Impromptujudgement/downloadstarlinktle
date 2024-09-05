@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52304
+launchyear:2022
+epoch:24241.83621419
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3744
+meananomly:271.3769
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8825654812
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001309
+argumentofperigree:88.7373
+nickname:STARLINK-3744
+idesg:22041AV 
+cosparid:2022-041AV
+altkm:540.62129433594
+velkms:7.5932453858936
+velkmh:27336
+onumepoch:13042
+onumnow:196802.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:04:09+00:00
+nowjuliandate:2460552.6379338
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3744
+1 52304U 22041AV  24241.83621419  .00000752  00000+0  65349-4 0  9994
+2 52304  53.2171  73.4224 0001309  88.7373 271.3769 15.08839963130423

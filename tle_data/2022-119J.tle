@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53894
+launchyear:2022
+epoch:24242.47514331
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5043
+meananomly:263.2108
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8719285302
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001673
+argumentofperigree:96.9075
+nickname:STARLINK-5043
+idesg:22119J  
+cosparid:2022-119J
+altkm:540.76939725836
+velkms:7.5930770552556
+velkmh:27335
+onumepoch:10714
+onumnow:161667.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:24:12+00:00
+nowjuliandate:2460552.6378117
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5043
+1 53894U 22119J   24242.47514331 -.00000310  00000+0 -13830-5 0  9991
+2 53894  53.2180 305.5919 0001673  96.9075 263.2108 15.08843443107140

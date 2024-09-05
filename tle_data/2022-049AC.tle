@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52477
+launchyear:2022
+epoch:24241.72212104
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3860
+meananomly:263.0760
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8661393563
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.000189
+argumentofperigree:97.0447
+nickname:STARLINK-3860
+idesg:22049AC 
+cosparid:2022-049AC
+altkm:540.78432957907
+velkms:7.5930575006585
+velkmh:27335
+onumepoch:12939
+onumnow:195250.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:19:51+00:00
+nowjuliandate:2460552.637923
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3860
+1 52477U 22049AC  24241.72212104  .00000130  00000+0  26295-4 0  9995
+2 52477  53.2167  33.9358 0001890  97.0447 263.0760 15.08845337129393

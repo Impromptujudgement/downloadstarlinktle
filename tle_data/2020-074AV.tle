@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46782
+launchyear:2020
+epoch:24242.30752971
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1835
+meananomly:270.8126
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3507155344
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001393
+argumentofperigree:89.3023
+nickname:STARLINK-1835
+idesg:20074AV 
+cosparid:2020-074AV
+altkm:548.07922269298
+velkms:7.5891547647215
+velkmh:27321
+onumepoch:21252
+onumnow:320152.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:22:51+00:00
+nowjuliandate:2460552.6397134
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1835
+1 46782U 20074AV  24242.30752971 -.00001489  00000+0 -81093-4 0  9996
+2 46782  53.0541 293.8049 0001393  89.3023 270.8126 15.06399970212520

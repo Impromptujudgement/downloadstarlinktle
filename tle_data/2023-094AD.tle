@@ -1,0 +1,38 @@
+date:2024-08-29T06:05:42+00:00
+validtle:1
+satid:57245
+launchyear:2023
+epoch:24241.53076886
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5587
+meananomly:83.3804
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.21021503
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9976
+eccentricity:0.0001091
+argumentofperigree:276.6914
+nickname:STARLINK-5587
+idesg:23094AD 
+cosparid:2023-094AD
+altkm:558.76362190234
+velkms:7.5839367691163
+velkmh:27302
+onumepoch:6330
+onumnow:95121.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:44:18+00:00
+nowjuliandate:2460551.7539591
+nowepochdate:24242.2539583333
+TLE:
+STARLINK-5587
+1 57245U 23094AD  24241.53076886  .00000877  00000+0  79968-4 0  9991
+2 57245  42.9976 170.6099 0001091 276.6914  83.3804 15.02538725 63306

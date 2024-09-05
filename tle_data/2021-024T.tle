@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:47994
+launchyear:2021
+epoch:24242.41812249
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2290
+meananomly:292.3360
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3538631443
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001134
+argumentofperigree:67.7749
+nickname:STARLINK-2290
+idesg:21024T  
+cosparid:2021-024T
+altkm:547.7975479968
+velkms:7.5894650628105
+velkmh:27322
+onumepoch:19039
+onumnow:286814.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:06+00:00
+nowjuliandate:2460552.638055
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2290
+1 47994U 21024T   24242.41812249  .00011921  00000+0  81783-3 0  9990
+2 47994  53.0541 293.3084 0001134  67.7749 292.3360 15.06398943190396

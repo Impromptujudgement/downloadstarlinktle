@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53933
+launchyear:2022
+epoch:24241.85872496
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4782
+meananomly:266.7616
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8760060233
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001404
+argumentofperigree:93.3536
+nickname:STARLINK-4782
+idesg:22119AZ 
+cosparid:2022-119AZ
+altkm:540.69122631672
+velkms:7.5931650603742
+velkmh:27335
+onumepoch:10775
+onumnow:162596.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:36:34+00:00
+nowjuliandate:2460552.6378136
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4782
+1 53933U 22119AZ  24241.85872496  .00001632  00000+0  12058-3 0  9990
+2 53933  53.2156 288.1826 0001404  93.3536 266.7616 15.08842109107752

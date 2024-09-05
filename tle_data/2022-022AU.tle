@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51894
+launchyear:2022
+epoch:24241.99903302
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3595
+meananomly:294.5342
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.842924707
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001508
+argumentofperigree:65.5807
+nickname:STARLINK-3595
+idesg:22022AU 
+cosparid:2022-022AU
+altkm:540.17028207976
+velkms:7.5937185762224
+velkmh:27337
+onumepoch:13911
+onumnow:209913.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:58:36+00:00
+nowjuliandate:2460552.6379514
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3595
+1 51894U 22022AU  24241.99903302  .00003933  00000+0  26499-3 0  9993
+2 51894  53.2173 342.6916 0001508  65.5807 294.5342 15.08852932139113

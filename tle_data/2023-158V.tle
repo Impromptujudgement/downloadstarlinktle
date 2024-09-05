@@ -1,0 +1,38 @@
+date:2024-08-28T18:19:47+00:00
+validtle:1
+satid:58070
+launchyear:2023
+epoch:24241.13709629
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30532
+meananomly:91.5527
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2310192768
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0032
+eccentricity:0.0001113
+argumentofperigree:268.5187
+nickname:STARLINK-30532
+idesg:23158V  
+cosparid:2023-158V
+altkm:558.89320917942
+velkms:7.5838065118995
+velkmh:27302
+onumepoch:4951
+onumnow:74399.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:17:25+00:00
+nowjuliandate:2460551.2637454
+nowepochdate:24241.7637384259
+TLE:
+STARLINK-30532
+1 58070U 23158V   24241.13709629  .00000637  00000+0  62201-4 0  9999
+2 58070  43.0032 185.0850 0001113 268.5187  91.5527 15.02531966 49510

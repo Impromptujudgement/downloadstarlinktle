@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46154
+launchyear:2020
+epoch:24242.40935628
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1642
+meananomly:264.7151
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3435621674
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001648
+argumentofperigree:95.4026
+nickname:STARLINK-1642
+idesg:20057AP 
+cosparid:2020-057AP
+altkm:548.19091819162
+velkms:7.589028493946
+velkmh:27321
+onumepoch:22221
+onumnow:334746.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:28+00:00
+nowjuliandate:2460553.0282858
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1642
+1 46154U 20057AP  24242.40935628 -.00000295  00000+0 -91280-6 0  9998
+2 46154  53.0540 288.3458 0001648  95.4026 264.7151 15.06402304222212

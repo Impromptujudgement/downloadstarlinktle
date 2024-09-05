@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52495
+launchyear:2022
+epoch:24242.67892942
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3905
+meananomly:265.7061
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8847448386
+altitudeatperigee:538
+altitudeatapogee:542
+inclination:53.2085
+eccentricity:0.0002805
+argumentofperigree:94.4251
+nickname:STARLINK-3905
+idesg:22049AW 
+cosparid:2022-049AW
+altkm:540.79003013926
+velkms:7.5930614330641
+velkmh:27335
+onumepoch:12846
+onumnow:193832.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:17:40+00:00
+nowjuliandate:2460552.6379211
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3905
+1 52495U 22049AW  24242.67892942  .00000116  00000+0  25391-4 0  9994
+2 52495  53.2085  29.6363 0002805  94.4251 265.7061 15.08839250128468

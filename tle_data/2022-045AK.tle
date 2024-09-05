@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52364
+launchyear:2022
+epoch:24242.09562695
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3820
+meananomly:272.7379
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8365793016
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001391
+argumentofperigree:87.3773
+nickname:STARLINK-3820
+idesg:22045AK 
+cosparid:2022-045AK
+altkm:540.55106325202
+velkms:7.5932972671969
+velkmh:27336
+onumepoch:13174
+onumnow:198792.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:17:42+00:00
+nowjuliandate:2460552.6379286
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3820
+1 52364U 22045AK  24242.09562695  .00009642  00000+0  62284-3 0  9994
+2 52364  53.2166 172.1678 0001391  87.3773 272.7379 15.08855008131749

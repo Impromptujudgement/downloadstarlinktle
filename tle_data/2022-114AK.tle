@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53851
+launchyear:2022
+epoch:24242.40428125
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4755
+meananomly:277.5397
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8947338365
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001696
+argumentofperigree:82.5788
+nickname:STARLINK-4755
+idesg:22114AK 
+cosparid:2022-114AK
+altkm:540.50132669631
+velkms:7.5933836862899
+velkmh:27336
+onumepoch:10830
+onumnow:163417.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:42:10+00:00
+nowjuliandate:2460552.6378218
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4755
+1 53851U 22114AK  24242.40428125  .00000424  00000+0  44769-4 0  9995
+2 53851  53.2169 275.6470 0001696  82.5788 277.5397 15.08835982108302

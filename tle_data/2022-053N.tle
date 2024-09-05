@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52668
+launchyear:2022
+epoch:24241.4603756
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4067
+meananomly:273.7689
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8559151056
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001364
+argumentofperigree:86.3459
+nickname:STARLINK-4067
+idesg:22053N  
+cosparid:2022-053N
+altkm:540.55439281618
+velkms:7.593304201738
+velkmh:27336
+onumepoch:12677
+onumnow:191302.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:02:56+00:00
+nowjuliandate:2460552.6378997
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4067
+1 52668U 22053N   24241.46037560  .00001793  00000+0  13069-3 0  9994
+2 52668  53.2171 140.1114 0001364  86.3459 273.7689 15.08848682126774

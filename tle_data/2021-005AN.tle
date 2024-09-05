@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47385
+launchyear:2021
+epoch:24242.66138936
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2105
+meananomly:273.0946
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4080596022
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001657
+argumentofperigree:87.0232
+nickname:STARLINK-2105
+idesg:21005AN 
+cosparid:2021-005AN
+altkm:548.08859237541
+velkms:7.5891758501371
+velkmh:27321
+onumepoch:20011
+onumnow:301449.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:52:24+00:00
+nowjuliandate:2460552.6395884
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2105
+1 47385U 21005AN  24242.66138936  .00010765  00000+0  74082-3 0  9993
+2 47385  53.0563  12.2169 0001657  87.0232 273.0946 15.06381260200110

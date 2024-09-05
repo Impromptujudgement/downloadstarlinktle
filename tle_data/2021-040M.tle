@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48439
+launchyear:2021
+epoch:24242.50381116
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2583
+meananomly:277.3716
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3727642033
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001494
+argumentofperigree:82.7443
+nickname:STARLINK-2583
+idesg:21040M  
+cosparid:2021-040M
+altkm:547.98207264606
+velkms:7.5892732456023
+velkmh:27321
+onumepoch:18392
+onumnow:277065.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:05:29+00:00
+nowjuliandate:2460552.6380231
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2583
+1 48439U 21040M   24242.50381116  .00021231  00000+0  14402-2 0  9995
+2 48439  53.0527 162.9241 0001494  82.7443 277.3716 15.06392776183925

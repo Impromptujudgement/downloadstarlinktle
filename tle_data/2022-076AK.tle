@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53019
+launchyear:2022
+epoch:24242.7953076
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4282
+meananomly:278.2837
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9061350317
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2254
+eccentricity:0.0001233
+argumentofperigree:81.8295
+nickname:STARLINK-4282
+idesg:22076AK 
+cosparid:2022-076AK
+altkm:540.54459717155
+velkms:7.5933424507597
+velkmh:27336
+onumepoch:11938
+onumnow:180129.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:05:15+00:00
+nowjuliandate:2460552.6378913
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4282
+1 53019U 22076AK  24242.79530760 -.00000493  00000+0 -12900-4 0  9999
+2 53019  53.2254  64.1168 0001233  81.8295 278.2837 15.08832252119384

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53969
+launchyear:2022
+epoch:24242.15682413
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4468
+meananomly:271.7457
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8790228829
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001494
+argumentofperigree:88.3706
+nickname:STARLINK-4468
+idesg:22125F  
+cosparid:2022-125F
+altkm:540.60794728638
+velkms:7.5932580911703
+velkmh:27336
+onumepoch:10522
+onumnow:158775.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:45:50+00:00
+nowjuliandate:2460552.6378063
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4468
+1 53969U 22125F   24242.15682413  .00000429  00000+0  45041-4 0  9990
+2 53969  53.2160 206.9822 0001494  88.3706 271.7457 15.08841122105225

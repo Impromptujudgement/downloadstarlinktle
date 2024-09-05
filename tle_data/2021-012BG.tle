@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47674
+launchyear:2021
+epoch:24241.7039395
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2067
+meananomly:269.6814
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3282778073
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0523
+eccentricity:0.0002121
+argumentofperigree:90.4418
+nickname:STARLINK-2067
+idesg:21012BG 
+cosparid:2021-012BG
+altkm:548.07862647851
+velkms:7.5891431512395
+velkmh:27321
+onumepoch:19616
+onumnow:295518.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:53:40+00:00
+nowjuliandate:2460552.6394219
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2067
+1 47674U 21012BG  24241.70393950  .00005596  00000+0  39420-3 0  9998
+2 47674  53.0523  36.5009 0002121  90.4418 269.6814 15.06407291196167

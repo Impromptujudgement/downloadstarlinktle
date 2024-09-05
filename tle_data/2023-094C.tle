@@ -1,0 +1,38 @@
+date:2024-08-29T05:49:38+00:00
+validtle:1
+satid:57220
+launchyear:2023
+epoch:24241.11277458
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5880
+meananomly:95.1438
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2141733345
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001192
+argumentofperigree:264.9268
+nickname:STARLINK-5880
+idesg:23094C  
+cosparid:2023-094C
+altkm:558.92932486533
+velkms:7.5837578672989
+velkmh:27302
+onumepoch:6309
+onumnow:94812.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:42:24+00:00
+nowjuliandate:2460551.7428044
+nowepochdate:24242.2428009259
+TLE:
+STARLINK-5880
+1 57220U 23094C   24241.11277458  .00001180  00000+0  10242-3 0  9993
+2 57220  43.0009 185.6417 0001192 264.9268  95.1438 15.02537439 63093

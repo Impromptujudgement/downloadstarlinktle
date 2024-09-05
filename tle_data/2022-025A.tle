@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51956
+launchyear:2022
+epoch:24242.6254935
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3700
+meananomly:256.9290
+meanmotion:15.0802
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6920.375722708
+altitudeatperigee:541
+altitudeatapogee:543
+inclination:53.0549
+eccentricity:0.0001297
+argumentofperigree:103.1844
+nickname:STARLINK-3700
+idesg:22025A  
+cosparid:2022-025A
+altkm:543.32160175072
+velkms:7.5916481100269
+velkmh:27330
+onumepoch:13814
+onumnow:208326.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:00:43+00:00
+nowjuliandate:2460552.637948
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3700
+1 51956U 22025A   24242.62549350 -.00000806  00000+0 -33405-4 0  9999
+2 51956  53.0549   4.6250 0001297 103.1844 256.9290 15.08024667138140

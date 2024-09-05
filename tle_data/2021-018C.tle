@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:32+00:00
+validtle:1
+satid:47789
+launchyear:2021
+epoch:24242.64664477
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2315
+meananomly:270.4553
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3398659619
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.000137
+argumentofperigree:89.6593
+nickname:STARLINK-2315
+idesg:21018C  
+cosparid:2021-018C
+altkm:548.07424948805
+velkms:7.5891542809846
+velkmh:27321
+onumepoch:19257
+onumnow:290095.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:31:10+00:00
+nowjuliandate:2460552.6392613
+nowepochdate:24243.1392592593
+TLE:
+STARLINK-2315
+1 47789U 21018C   24242.64664477  .00003336  00000+0  24274-3 0  9991
+2 47789  53.0516 212.2840 0001370  89.6593 270.4553 15.06403510192572

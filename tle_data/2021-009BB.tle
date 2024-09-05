@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47597
+launchyear:2021
+epoch:24242.1149461
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2002
+meananomly:278.7858
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3533543775
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0581
+eccentricity:0.0002672
+argumentofperigree:81.3433
+nickname:STARLINK-2002
+idesg:21009BB 
+cosparid:2021-009BB
+altkm:547.81369323522
+velkms:7.5894470983693
+velkmh:27322
+onumepoch:19708
+onumnow:296896.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:45:31+00:00
+nowjuliandate:2460552.6394778
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2002
+1 47597U 21009BB  24242.11494610  .00003351  00000+0  24375-3 0  9999
+2 47597  53.0581  24.6677 0002672  81.3433 278.7858 15.06399109197080

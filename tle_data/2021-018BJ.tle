@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:32+00:00
+validtle:1
+satid:47843
+launchyear:2021
+epoch:24242.18544129
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2435
+meananomly:270.7983
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3690863481
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0519
+eccentricity:0.0001732
+argumentofperigree:89.3205
+nickname:STARLINK-2435
+idesg:21018BJ 
+cosparid:2021-018BJ
+altkm:548.0943981514
+velkms:7.5891481831501
+velkmh:27321
+onumepoch:19216
+onumnow:289483.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:27:02+00:00
+nowjuliandate:2460552.6392681
+nowepochdate:24243.1392592593
+TLE:
+STARLINK-2435
+1 47843U 21018BJ  24242.18544129  .00001711  00000+0  13373-3 0  9995
+2 47843  53.0519 239.3507 0001732  89.3205 270.7983 15.06393976192164

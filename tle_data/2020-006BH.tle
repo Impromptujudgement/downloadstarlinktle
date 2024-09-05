@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:56+00:00
+validtle:1
+satid:45099
+launchyear:2020
+epoch:24243.22946868
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1186
+meananomly:269.9743
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3170084423
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001412
+argumentofperigree:90.1407
+nickname:STARLINK-1186
+idesg:20006BH 
+cosparid:2020-006BH
+altkm:548.05952793574
+velkms:7.5891579124246
+velkmh:27321
+onumepoch:25350
+onumnow:381879.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:30:26+00:00
+nowjuliandate:2460553.0284367
+nowepochdate:24243.5284259259
+TLE:
+STARLINK-1186
+1 45099U 20006BH  24243.22946868  .00002403  00000+0  18011-3 0  9997
+2 45099  53.0529 224.6652 0001412  90.1407 269.9743 15.06410968253504

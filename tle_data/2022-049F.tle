@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52456
+launchyear:2022
+epoch:24242.75164296
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3896
+meananomly:266.8629
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8989152881
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2218
+eccentricity:0.0001152
+argumentofperigree:93.2495
+nickname:STARLINK-3896
+idesg:22049F  
+cosparid:2022-049F
+altkm:540.70348581741
+velkms:7.593164154337
+velkmh:27335
+onumepoch:12819
+onumnow:193423.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:02:22+00:00
+nowjuliandate:2460552.6379196
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3896
+1 52456U 22049F   24242.75164296 -.00001204  00000+0 -57607-4 0  9990
+2 52456  53.2218  49.3115 0001152  93.2495 266.8629 15.08834614128199

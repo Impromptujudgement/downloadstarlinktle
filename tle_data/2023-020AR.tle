@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55608
+launchyear:2023
+epoch:24242.4464712
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5726
+meananomly:90.8076
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2037420139
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.0001139
+argumentofperigree:269.2636
+nickname:STARLINK-5726
+idesg:23020AR 
+cosparid:2023-020AR
+altkm:558.85628643319
+velkms:7.5838319895398
+velkmh:27302
+onumepoch:8524
+onumnow:128086.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:42:55+00:00
+nowjuliandate:2460552.6377514
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5726
+1 55608U 23020AR  24242.44647120  .00000936  00000+0  84364-4 0  9999
+2 55608  43.0045 139.7268 0001139 269.2636  90.8076 15.02540828 85240

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48332
+launchyear:2021
+epoch:24242.29645643
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2511
+meananomly:271.8518
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.274490525
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001217
+argumentofperigree:88.2611
+nickname:STARLINK-2511
+idesg:21036BJ 
+cosparid:2021-036BJ
+altkm:547.98942016338
+velkms:7.5892114711702
+velkmh:27321
+onumepoch:18461
+onumnow:278113.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:06:54+00:00
+nowjuliandate:2460552.6380409
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2511
+1 48332U 21036BJ  24242.29645643  .00021082  00000+0  14290-2 0  9995
+2 48332  53.0541  83.8546 0001217  88.2611 271.8518 15.06424841184618

@@ -1,0 +1,38 @@
+date:2024-08-29T06:46:37+00:00
+validtle:1
+satid:57131
+launchyear:2023
+epoch:24241.77924129
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6162
+meananomly:91.9242
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.207783415
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.0001303
+argumentofperigree:268.1451
+nickname:STARLINK-6162
+idesg:23090AG 
+cosparid:2023-090AG
+altkm:558.8794703917
+velkms:7.5838088595702
+velkmh:27302
+onumepoch:6644
+onumnow:99836.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:42:06+00:00
+nowjuliandate:2460551.7823779
+nowepochdate:24242.2823726852
+TLE:
+STARLINK-6162
+1 57131U 23090AG  24241.77924129  .00000886  00000+0  80653-4 0  9992
+2 57131  43.0036  53.6344 0001303 268.1451  91.9242 15.02539515 66447

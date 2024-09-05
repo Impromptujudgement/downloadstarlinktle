@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53291
+launchyear:2022
+epoch:24242.51605185
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4166
+meananomly:259.2375
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8758104013
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.000138
+argumentofperigree:100.8773
+nickname:STARLINK-4166
+idesg:22086BB 
+cosparid:2022-086BB
+altkm:540.8144437133
+velkms:7.5930297538375
+velkmh:27335
+onumepoch:11698
+onumnow:176513.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:23:07+00:00
+nowjuliandate:2460552.6378652
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4166
+1 53291U 22086BB  24242.51605185  .00000384  00000+0  42204-4 0  9993
+2 53291  53.2159 160.1543 0001380 100.8773 259.2375 15.08842173116982

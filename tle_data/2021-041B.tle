@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48554
+launchyear:2021
+epoch:24241.93714151
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2139
+meananomly:278.1801
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2689402272
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:6.51E-5
+argumentofperigree:81.9262
+nickname:STARLINK-2139
+idesg:21041B  
+cosparid:2021-041B
+altkm:547.94690054916
+velkms:7.5892550173759
+velkmh:27321
+onumepoch:18153
+onumnow:273479.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:29:29+00:00
+nowjuliandate:2460552.6380184
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2139
+1 48554U 21041B   24241.93714151  .00032027  00000+0  21577-2 0  9995
+2 48554  53.0542 115.7725 0000651  81.9262 278.1801 15.06426652181537

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54200
+launchyear:2022
+epoch:24242.42819363
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5250
+meananomly:262.4116
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8907113348
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2193
+eccentricity:0.000157
+argumentofperigree:97.7054
+nickname:STARLINK-5250
+idesg:22141AV 
+cosparid:2022-141AV
+altkm:540.79491022728
+velkms:7.5930593469458
+velkmh:27335
+onumepoch:10210
+onumnow:154062.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:16:36+00:00
+nowjuliandate:2460552.6377951
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5250
+1 54200U 22141AV  24242.42819363 -.00001310  00000+0 -64227-4 0  9992
+2 54200  53.2193 335.5379 0001570  97.7054 262.4116 15.08837298102103

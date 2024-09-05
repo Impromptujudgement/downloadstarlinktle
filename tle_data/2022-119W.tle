@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53906
+launchyear:2022
+epoch:24241.44930573
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5054
+meananomly:267.0407
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8626640238
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001598
+argumentofperigree:93.0768
+nickname:STARLINK-5054
+idesg:22119W  
+cosparid:2022-119W
+altkm:540.68011191895
+velkms:7.5931699498481
+velkmh:27335
+onumepoch:10755
+onumnow:162301.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:47:00+00:00
+nowjuliandate:2460552.6378105
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5054
+1 53906U 22119W   24241.44930573  .00003291  00000+0  22474-3 0  9992
+2 53906  53.2155 299.8778 0001598  93.0768 267.0407 15.08846474107553

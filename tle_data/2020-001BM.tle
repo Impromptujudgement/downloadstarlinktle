@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:31+00:00
+validtle:1
+satid:44973
+launchyear:2020
+epoch:24242.39747269
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1115
+meananomly:315.2862
+meanmotion:15.1630
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6895.1720714683
+altitudeatperigee:515
+altitudeatapogee:519
+inclination:53.0536
+eccentricity:0.0003328
+argumentofperigree:44.84
+nickname:STARLINK-1115
+idesg:20001BM 
+cosparid:2020-001BM
+altkm:516.28762826747
+velkms:7.6075499197598
+velkmh:27387
+onumepoch:25646
+onumnow:388879.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:32:22+00:00
+nowjuliandate:2460553.0295341
+nowepochdate:24243..529525463
+TLE:
+STARLINK-1115
+1 44973U 20001BM  24242.39747269  .00051086  00000+0  26030-2 0  9993
+2 44973  53.0536 284.5619 0003328  44.8400 315.2862 15.16300553256461

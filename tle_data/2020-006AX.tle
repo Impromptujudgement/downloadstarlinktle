@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:58+00:00
+validtle:1
+satid:45089
+launchyear:2020
+epoch:24243.18894249
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1136
+meananomly:265.7702
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3361973449
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001218
+argumentofperigree:94.3426
+nickname:STARLINK-1136
+idesg:20006AX 
+cosparid:2020-006AX
+altkm:548.14043601816
+velkms:7.5890797691891
+velkmh:27321
+onumepoch:25314
+onumnow:381336.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:32:05+00:00
+nowjuliandate:2460553.0284545
+nowepochdate:24243.5284490741
+TLE:
+STARLINK-1136
+1 45089U 20006AX  24243.18894249 -.00000617  00000+0 -22546-4 0  9992
+2 45089  53.0528 224.9336 0001218  94.3426 265.7702 15.06404707253148

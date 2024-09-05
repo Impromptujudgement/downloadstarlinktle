@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45400
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1213
+meananomly:263.8264
+meanmotion:15.3791
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6830.4294692886
+altitudeatperigee:450
+altitudeatapogee:455
+inclination:53.0793
+eccentricity:0.0003229
+argumentofperigree:205.8049
+nickname:STARLINK-1213
+idesg:20019AS 
+cosparid:2020-019AS
+altkm:458.11373183348
+velkms:7.6436989847652
+velkmh:27517
+onumepoch:589
+onumnow:9066.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283565
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1213
+1 45400U 20019AS  24243.00001157  .00163207  00000+0  42326-2 0  9991
+2 45400  53.0793  61.1926 0003229 205.8049 263.8264 15.37910066  5892

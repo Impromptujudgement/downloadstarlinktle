@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48098
+launchyear:2021
+epoch:24242.45774002
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2421
+meananomly:277.7696
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3448892474
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001429
+argumentofperigree:82.3455
+nickname:STARLINK-2421
+idesg:21027G  
+cosparid:2021-027G
+altkm:547.95316522459
+velkms:7.5892896750607
+velkmh:27321
+onumepoch:18822
+onumnow:283545.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:59:09+00:00
+nowjuliandate:2460552.6380477
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2421
+1 48098U 21027G   24242.45774002  .00036786  00000+0  24755-2 0  9998
+2 48098  53.0528 143.1286 0001429  82.3455 277.7696 15.06401871188220

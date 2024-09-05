@@ -1,0 +1,38 @@
+date:2024-08-29T08:26:58+00:00
+validtle:1
+satid:56787
+launchyear:2023
+epoch:24241.56130558
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6326
+meananomly:91.8792
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1649955398
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9987
+eccentricity:0.000323
+argumentofperigree:268.1997
+nickname:STARLINK-6326
+idesg:23078W  
+cosparid:2023-078W
+altkm:574.52605506097
+velkms:7.5737965183778
+velkmh:27266
+onumepoch:6957
+onumnow:104251.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:28:17+00:00
+nowjuliandate:2460551.8520623
+nowepochdate:24242.3520601852
+TLE:
+STARLINK-6326
+1 56787U 23078W   24241.56130558  .00001258  00000+0  11319-3 0  9992
+2 56787  69.9987 291.6034 0003230 268.1997  91.8792 14.98339691 69574

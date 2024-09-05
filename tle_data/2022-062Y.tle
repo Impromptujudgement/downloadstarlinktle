@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52852
+launchyear:2022
+epoch:24242.63154784
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4184
+meananomly:284.2547
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8681200227
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2187
+eccentricity:0.0001548
+argumentofperigree:75.8617
+nickname:STARLINK-4184
+idesg:22062Y  
+cosparid:2022-062Y
+altkm:540.36513475668
+velkms:7.5935185562745
+velkmh:27337
+onumepoch:12231
+onumnow:184554.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:09:26+00:00
+nowjuliandate:2460552.6378924
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4184
+1 52852U 22062Y   24242.63154784  .00013480  00000+0  86330-3 0  9994
+2 52852  53.2187   4.8521 0001548  75.8617 284.2547 15.08844689122316

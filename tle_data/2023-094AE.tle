@@ -1,0 +1,38 @@
+date:2024-08-29T06:04:58+00:00
+validtle:1
+satid:57246
+launchyear:2023
+epoch:24241.50190869
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5049
+meananomly:87.7270
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.20736173
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:0.0001074
+argumentofperigree:272.345
+nickname:STARLINK-5049
+idesg:23094AE 
+cosparid:2023-094AE
+altkm:558.8190123827
+velkms:7.5838746906257
+velkmh:27302
+onumepoch:6330
+onumnow:95122.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:02:45+00:00
+nowjuliandate:2460551.7534546
+nowepochdate:24242.2534490741
+TLE:
+STARLINK-5049
+1 57246U 23094AE  24241.50190869  .00001188  00000+0  10296-3 0  9991
+2 57246  43.0027 170.3946 0001074 272.3450  87.7270 15.02539652 63308

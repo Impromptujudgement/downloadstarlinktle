@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56394
+launchyear:2023
+epoch:24242.56311916
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6305
+meananomly:97.6374
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2156661647
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0111
+eccentricity:6.57E-5
+argumentofperigree:262.4394
+nickname:STARLINK-6305
+idesg:23061W  
+cosparid:2023-061W
+altkm:558.91830764763
+velkms:7.5837707211592
+velkmh:27302
+onumepoch:7338
+onumnow:110264.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:30:53+00:00
+nowjuliandate:2460552.6376988
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6305
+1 56394U 23061W   24242.56311916 -.00001002  00000+0 -59090-4 0  9996
+2 56394  43.0111 332.1454 0000657 262.4394  97.6374 15.02536954 73386

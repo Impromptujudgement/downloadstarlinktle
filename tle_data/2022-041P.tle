@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52274
+launchyear:2022
+epoch:24241.86747716
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3790
+meananomly:274.1257
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8428513496
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.000141
+argumentofperigree:85.9896
+nickname:STARLINK-3790
+idesg:22041P  
+cosparid:2022-041P
+altkm:540.53308356536
+velkms:7.5933204303151
+velkmh:27336
+onumepoch:13015
+onumnow:196396.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:49:10+00:00
+nowjuliandate:2460552.6379314
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3790
+1 52274U 22041P   24241.86747716  .00003597  00000+0  24387-3 0  9998
+2 52274  53.2161  93.2838 0001410  85.9896 274.1257 15.08852956130151

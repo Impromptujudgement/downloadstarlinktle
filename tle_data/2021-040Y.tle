@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48450
+launchyear:2021
+epoch:24241.07640253
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2660
+meananomly:254.5705
+meanmotion:15.0645
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2051631703
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001552
+argumentofperigree:105.5455
+nickname:STARLINK-2660
+idesg:21040Y  
+cosparid:2021-040Y
+altkm:548.23328102023
+velkms:7.5889064211712
+velkmh:27320
+onumepoch:18243
+onumnow:274852.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:50:01+00:00
+nowjuliandate:2460552.6380212
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2660
+1 48450U 21040Y   24241.07640253  .00024020  00000+0  16239-2 0  9998
+2 48450  53.0535 169.3541 0001552 105.5455 254.5705 15.06447462182436

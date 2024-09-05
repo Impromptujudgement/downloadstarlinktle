@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45745
+launchyear:2020
+epoch:24243.21564882
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1503
+meananomly:270.9416
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2934983102
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001356
+argumentofperigree:89.1728
+nickname:STARLINK-1503
+idesg:20038R  
+cosparid:2020-038R
+altkm:548.02003919048
+velkms:7.5891883191246
+velkmh:27321
+onumepoch:23324
+onumnow:351361.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:10:32+00:00
+nowjuliandate:2460553.0283014
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1503
+1 45745U 20038R   24243.21564882  .00005804  00000+0  40804-3 0  9994
+2 45745  53.0520 214.7251 0001356  89.1728 270.9416 15.06418639233240

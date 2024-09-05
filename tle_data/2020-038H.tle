@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45737
+launchyear:2020
+epoch:21174.5009976
+epochday:174
+tleage:1164
+tleclassification:C
+active:0
+name:STARLINK-1473
+meananomly:185.4268
+meanmotion:16.0313
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6643.9062100898
+altitudeatperigee:260
+altitudeatapogee:271
+inclination:52.9783
+eccentricity:0.0008211
+argumentofperigree:291.908
+nickname:STARLINK-1473
+idesg:20038H  
+cosparid:2020-038H
+altkm:275.91409927321
+velkms:7.7444096856163
+velkmh:27880
+onumepoch:1
+onumnow:49216.44
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-06-23T12:01:26+00:00
+nowjuliandate:2460553.0297133
+nowepochdate:24243.5297106481
+TLE:
+STARLINK-1473
+1 45737C 20038H   21174.50099760  .00181804  00000-0  28265-3 0  1743
+2 45737  52.9783 196.7426 0008211 291.9080 185.4268 16.03126218    13

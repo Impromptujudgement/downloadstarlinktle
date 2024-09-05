@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45186
+launchyear:2020
+epoch:24242.66552369
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1224
+meananomly:264.3616
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4149097078
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001427
+argumentofperigree:95.7536
+nickname:STARLINK-1224
+idesg:20012J  
+cosparid:2020-012J
+altkm:548.2541053606
+velkms:7.5889982801561
+velkmh:27320
+onumepoch:25082
+onumnow:377842.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:58:21+00:00
+nowjuliandate:2460553.0283756
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1224
+1 45186U 20012J   24242.66552369  .00000774  00000+0  70902-4 0  9994
+2 45186  53.0533  27.1931 0001427  95.7536 264.3616 15.06379025250820

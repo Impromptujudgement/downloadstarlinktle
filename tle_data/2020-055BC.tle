@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46077
+launchyear:2020
+epoch:24242.24809968
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1559
+meananomly:267.0585
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3385204953
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0564
+eccentricity:0.0001814
+argumentofperigree:93.0612
+nickname:STARLINK-1559
+idesg:20055BC 
+cosparid:2020-055BC
+altkm:548.1455136915
+velkms:7.5890754775992
+velkmh:27321
+onumepoch:22524
+onumnow:339313.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:57:16+00:00
+nowjuliandate:2460553.028294
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1559
+1 46077U 20055BC  24242.24809968  .00004836  00000+0  34327-3 0  9998
+2 46077  53.0564  79.0707 0001814  93.0612 267.0585 15.06403949225243

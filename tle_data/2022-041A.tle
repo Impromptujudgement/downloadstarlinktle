@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52261
+launchyear:2022
+epoch:24241.30908215
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3810
+meananomly:283.2335
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8741720676
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2167
+eccentricity:0.0001046
+argumentofperigree:76.8774
+nickname:STARLINK-3810
+idesg:22041A  
+cosparid:2022-041A
+altkm:540.46892302518
+velkms:7.5934079830938
+velkmh:27336
+onumepoch:13006
+onumnow:196267.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:25:05+00:00
+nowjuliandate:2460552.6379361
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3810
+1 52261U 22041A   24241.30908215  .00001475  00000+0  11070-3 0  9994
+2 52261  53.2167  95.7981 0001046  76.8774 283.2335 15.08842709130061

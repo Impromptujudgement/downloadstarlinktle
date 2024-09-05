@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53177
+launchyear:2022
+epoch:24242.37991612
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4298
+meananomly:276.9279
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8466078609
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001299
+argumentofperigree:83.1861
+nickname:STARLINK-4298
+idesg:22083AX 
+cosparid:2022-083AX
+altkm:540.49865104862
+velkms:7.593360269573
+velkmh:27336
+onumepoch:11820
+onumnow:178357.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:07:05+00:00
+nowjuliandate:2460552.6378779
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4298
+1 53177U 22083AX  24242.37991612  .00001657  00000+0  12211-3 0  9998
+2 53177  53.2166 120.9737 0001299  83.1861 276.9279 15.08851727118203

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:03+00:00
+validtle:1
+satid:47170
+launchyear:2020
+epoch:24242.38586281
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1887
+meananomly:269.5492
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3643296626
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001371
+argumentofperigree:90.5654
+nickname:STARLINK-1887
+idesg:20088BA 
+cosparid:2020-088BA
+altkm:548.11392335487
+velkms:7.5891241933164
+velkmh:27321
+onumepoch:20813
+onumnow:313537.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:15:39+00:00
+nowjuliandate:2460552.6396245
+nowepochdate:24243.1396180556
+TLE:
+STARLINK-1887
+1 47170U 20088BA  24242.38586281 -.00000602  00000+0 -21508-4 0  9991
+2 47170  53.0535 283.4525 0001371  90.5654 269.5492 15.06395528208137

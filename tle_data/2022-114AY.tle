@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53864
+launchyear:2022
+epoch:24242.38309093
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4779
+meananomly:265.4071
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8917475258
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001466
+argumentofperigree:94.7089
+nickname:STARLINK-4779
+idesg:22114AY 
+cosparid:2022-114AY
+altkm:540.73329597236
+velkms:7.5931275193359
+velkmh:27335
+onumepoch:10844
+onumnow:163628.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:11:39+00:00
+nowjuliandate:2460552.6378198
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4779
+1 53864U 22114AY  24242.38309093  .00006152  00000+0  40430-3 0  9992
+2 53864  53.2155 265.5358 0001466  94.7089 265.4071 15.08836959108443

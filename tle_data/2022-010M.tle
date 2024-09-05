@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51467
+launchyear:2022
+epoch:24242.32658871
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3178
+meananomly:260.0236
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9415065456
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001502
+argumentofperigree:100.0925
+nickname:STARLINK-3178
+idesg:22010M  
+cosparid:2022-010M
+altkm:540.88195988886
+velkms:7.5929916482055
+velkmh:27335
+onumepoch:14317
+onumnow:216028.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:50:17+00:00
+nowjuliandate:2460552.6379667
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3178
+1 51467U 22010M   24242.32658871 -.00002553  00000+0 -14242-3 0  9994
+2 51467  53.2164 261.2204 0001502 100.0925 260.0236 15.08820680143171

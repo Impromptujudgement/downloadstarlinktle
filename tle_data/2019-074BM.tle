@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44772
+launchyear:2019
+epoch:24243.15205382
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1068
+meananomly:265.1231
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2808499355
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001317
+argumentofperigree:94.9909
+nickname:STARLINK-1068
+idesg:19074BM 
+cosparid:2019-074BM
+altkm:548.10055642803
+velkms:7.589093198228
+velkmh:27321
+onumepoch:26475
+onumnow:398831.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:38:57+00:00
+nowjuliandate:2460553.0296751
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1068
+1 44772U 19074BM  24243.15205382  .00001565  00000+0  12388-3 0  9997
+2 44772  53.0540 185.0122 0001317  94.9909 265.1231 15.06422766264757

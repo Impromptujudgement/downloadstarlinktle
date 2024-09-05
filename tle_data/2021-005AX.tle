@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47394
+launchyear:2021
+epoch:24242.63422271
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2115
+meananomly:269.9519
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3630546761
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001392
+argumentofperigree:90.163
+nickname:STARLINK-2115
+idesg:21005AX 
+cosparid:2021-005AX
+altkm:548.10597489294
+velkms:7.589132203683
+velkmh:27321
+onumepoch:20018
+onumnow:301557.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:13:17+00:00
+nowjuliandate:2460552.6395816
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2115
+1 47394U 21005AX  24242.63422271  .00010557  00000+0  72661-3 0  9998
+2 47394  53.0534   7.5046 0001392  90.1630 269.9519 15.06395944200183

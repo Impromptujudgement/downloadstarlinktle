@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52660
+launchyear:2022
+epoch:24242.40979609
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4081
+meananomly:323.4860
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7995555569
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2172
+eccentricity:7.42E-5
+argumentofperigree:36.6183
+nickname:STARLINK-4081
+idesg:22053E  
+cosparid:2022-053E
+altkm:540.14741766255
+velkms:7.5937199189547
+velkmh:27337
+onumepoch:12698
+onumnow:191606.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:50:06+00:00
+nowjuliandate:2460552.637901
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4081
+1 52660U 22053E   24242.40979609  .00004250  00000+0  28473-3 0  9996
+2 52660  53.2172 135.8444 0000742  36.6183 323.4860 15.08867121126981

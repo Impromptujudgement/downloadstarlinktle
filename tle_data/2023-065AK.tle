@@ -1,0 +1,38 @@
+date:2024-08-29T09:51:30+00:00
+validtle:1
+satid:56536
+launchyear:2023
+epoch:24242.08032355
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-6312
+meananomly:93.0902
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1894509529
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9991
+eccentricity:0.0001404
+argumentofperigree:266.978
+nickname:STARLINK-6312
+idesg:23065AK 
+cosparid:2023-065AK
+altkm:558.88280702903
+velkms:7.5837952208081
+velkmh:27302
+onumepoch:7181
+onumnow:107902.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:55:40+00:00
+nowjuliandate:2460551.9107692
+nowepochdate:24242.4107638889
+TLE:
+STARLINK-6312
+1 56536U 23065AK  24242.08032355  .00002391  00000+0  19195-3 0  9993
+2 56536  42.9991  13.4397 0001404 266.9780  93.0902 15.02545471 71819

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48431
+launchyear:2021
+epoch:24242.42454758
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2700
+meananomly:282.2789
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3615099818
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.000149
+argumentofperigree:77.8367
+nickname:STARLINK-2700
+idesg:21040D  
+cosparid:2021-040D
+altkm:547.88407376741
+velkms:7.5893744518127
+velkmh:27322
+onumepoch:18350
+onumnow:276434.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:11:21+00:00
+nowjuliandate:2460552.6380237
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2700
+1 48431U 21040D   24242.42454758  .00031078  00000+0  20963-2 0  9990
+2 48431  53.0523 133.2790 0001490  77.8367 282.2789 15.06396448183508

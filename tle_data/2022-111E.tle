@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53777
+launchyear:2022
+epoch:24242.74104581
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4664
+meananomly:261.7091
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8973961489
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001491
+argumentofperigree:98.407
+nickname:STARLINK-4664
+idesg:22111E  
+cosparid:2022-111E
+altkm:540.8064991562
+velkms:7.5930502911007
+velkmh:27335
+onumepoch:10880
+onumnow:164167.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:47:06+00:00
+nowjuliandate:2460552.6378249
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4664
+1 53777U 22111E   24242.74104581  .00000708  00000+0  62605-4 0  9997
+2 53777  53.2157 254.5201 0001491  98.4070 261.7091 15.08835111108802

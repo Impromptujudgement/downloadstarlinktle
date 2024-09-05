@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46029
+launchyear:2020
+epoch:24242.32273989
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1526
+meananomly:22.0853
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2734362434
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:7.86E-5
+argumentofperigree:338.0102
+nickname:STARLINK-1526
+idesg:20055C  
+cosparid:2020-055C
+altkm:547.5111344817
+velkms:7.5897348783153
+velkmh:27323
+onumepoch:22488
+onumnow:338775.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:44:45+00:00
+nowjuliandate:2460553.0282936
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1526
+1 46029U 20055C   24242.32273989  .00012612  00000+0  86350-3 0  9996
+2 46029  53.0541 108.7331 0000786 338.0102  22.0853 15.06425185224883

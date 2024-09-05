@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:53+00:00
+validtle:1
+satid:45217
+launchyear:2020
+epoch:24242.60471392
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1271
+meananomly:261.0363
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3722033301
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0548
+eccentricity:0.0002151
+argumentofperigree:99.087
+nickname:STARLINK-1271
+idesg:20012AR 
+cosparid:2020-012AR
+altkm:548.34673610286
+velkms:7.5888734607056
+velkmh:27320
+onumepoch:25115
+onumnow:378344.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:30:47+00:00
+nowjuliandate:2460553.0283952
+nowepochdate:24243.5283912037
+TLE:
+STARLINK-1271
+1 45217U 20012AR  24242.60471392  .00005779  00000+0  40665-3 0  9991
+2 45217  53.0548   7.4664 0002151  99.0870 261.0363 15.06392959251159

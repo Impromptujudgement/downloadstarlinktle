@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50157
+launchyear:2021
+epoch:24242.29895805
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3313
+meananomly:267.2682
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8694771468
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2146
+eccentricity:0.0001423
+argumentofperigree:92.8473
+nickname:STARLINK-3313
+idesg:21125B  
+cosparid:2021-125B
+altkm:540.67663811896
+velkms:7.5931774920597
+velkmh:27335
+onumepoch:14922
+onumnow:225160.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:10:30+00:00
+nowjuliandate:2460552.6379853
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3313
+1 50157U 21125B   24242.29895805  .00000725  00000+0  63649-4 0  9994
+2 50157  53.2146 241.3468 0001423  92.8473 267.2682 15.08844245149224

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47988
+launchyear:2021
+epoch:22228.63243056
+epochday:228
+tleage:745
+tleclassification:C
+active:0
+name:STARLINK-2306
+meananomly:118.8249
+meanmotion:15.9419
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6668.7123032266
+altitudeatperigee:287
+altitudeatapogee:294
+inclination:53.0243
+eccentricity:0.0005004
+argumentofperigree:16.8807
+nickname:STARLINK-2306
+idesg:21024M  
+cosparid:2021-024M
+altkm:294.55729778199
+velkms:7.73458450878
+velkmh:27845
+onumepoch:1
+onumnow:32130.98
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-16T15:10:42+00:00
+nowjuliandate:2460552.6380558
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2306
+1 47988C 21024M   22228.63243056  .01378518  00000-0  33442-2 0  2286
+2 47988  53.0243 287.6294 0005004  16.8807 118.8249 15.94189644    17

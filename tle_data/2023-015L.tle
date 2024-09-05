@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55459
+launchyear:2023
+epoch:24242.21435458
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5669
+meananomly:90.7532
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1956561515
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001251
+argumentofperigree:269.3167
+nickname:STARLINK-5669
+idesg:23015L  
+cosparid:2023-015L
+altkm:558.84837020439
+velkms:7.5838362321016
+velkmh:27302
+onumepoch:8689
+onumnow:130569.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:08:40+00:00
+nowjuliandate:2460552.6377549
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5669
+1 55459U 23015L   24242.21435458  .00001362  00000+0  11584-3 0  9998
+2 55459  43.0034 115.2942 0001251 269.3167  90.7532 15.02543455 86892

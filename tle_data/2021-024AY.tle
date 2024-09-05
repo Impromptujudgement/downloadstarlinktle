@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48023
+launchyear:2021
+epoch:24242.47524906
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2292
+meananomly:260.5768
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.413303686
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0524
+eccentricity:9.4E-5
+argumentofperigree:99.5327
+nickname:STARLINK-2292
+idesg:21024AY 
+cosparid:2021-024AY
+altkm:548.26181610826
+velkms:7.5889889550497
+velkmh:27320
+onumepoch:19011
+onumnow:286387.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:24:22+00:00
+nowjuliandate:2460552.6380974
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2292
+1 48023U 21024AY  24242.47524906 -.00005933  00000+0 -37999-3 0  9998
+2 48023  53.0524 313.0558 0000940  99.5327 260.5768 15.06379549190116

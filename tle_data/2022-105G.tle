@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53654
+launchyear:2022
+epoch:24242.41819715
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4420
+meananomly:270.3530
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1750070319
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.657
+eccentricity:0.0002268
+argumentofperigree:89.7954
+nickname:STARLINK-4420
+idesg:22105G  
+cosparid:2022-105G
+altkm:566.08619372157
+velkms:7.5781050187492
+velkmh:27281
+onumepoch:10990
+onumnow:164998.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:12+00:00
+nowjuliandate:2460552.6378349
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4420
+1 53654U 22105G   24242.41819715  .00000594  00000+0  50848-4 0  9999
+2 53654  97.6570 122.2098 0002268  89.7954 270.3530 15.01251536109901

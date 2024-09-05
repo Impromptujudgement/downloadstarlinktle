@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50202
+launchyear:2021
+epoch:24242.64304533
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3256
+meananomly:265.6252
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9123919543
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001355
+argumentofperigree:94.4895
+nickname:STARLINK-3256
+idesg:21125AY 
+cosparid:2021-125AY
+altkm:540.74421433232
+velkms:7.5931268437761
+velkmh:27335
+onumepoch:15215
+onumnow:229573.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:25:59+00:00
+nowjuliandate:2460552.6379853
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3256
+1 50202U 21125AY  24242.64304533  .00001500  00000+0  11234-3 0  9991
+2 50202  53.2155 219.7991 0001355  94.4895 265.6252 15.08830205152157

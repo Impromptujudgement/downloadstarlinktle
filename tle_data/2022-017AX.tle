@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51813
+launchyear:2022
+epoch:24242.47285091
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3552
+meananomly:269.8350
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9013514146
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001458
+argumentofperigree:90.2809
+nickname:STARLINK-3552
+idesg:22017AX 
+cosparid:2022-017AX
+altkm:540.66473947465
+velkms:7.593208002104
+velkmh:27336
+onumepoch:14007
+onumnow:211352.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:20:54+00:00
+nowjuliandate:2460552.6379569
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3552
+1 51813U 22017AX  24242.47285091 -.00000980  00000+0 -43491-4 0  9993
+2 51813  53.2168 310.5934 0001458  90.2809 269.8350 15.08833817140075

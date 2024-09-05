@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48685
+launchyear:2021
+epoch:24241.20544502
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2751
+meananomly:267.4010
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3096865977
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001077
+argumentofperigree:92.7103
+nickname:STARLINK-2751
+idesg:21044AZ 
+cosparid:2021-044AZ
+altkm:548.08549394915
+velkms:7.5891254638728
+velkmh:27321
+onumepoch:18023
+onumnow:271529.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:55:50+00:00
+nowjuliandate:2460552.6380118
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2751
+1 48685U 21044AZ  24241.20544502  .00006144  00000+0  43084-3 0  9993
+2 48685  53.0527  58.7995 0001077  92.7103 267.4010 15.06413357180234

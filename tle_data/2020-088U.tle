@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47140
+launchyear:2020
+epoch:22025.52555365
+epochday:25
+tleage:948
+tleclassification:C
+active:0
+name:STARLINK-1853
+meananomly:313.6007
+meanmotion:16.0363
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6642.5051033557
+altitudeatperigee:263
+altitudeatapogee:265
+inclination:53.0362
+eccentricity:0.0001371
+argumentofperigree:2.0234
+nickname:STARLINK-1853
+idesg:20088U  
+cosparid:2020-088U
+altkm:274.52115635494
+velkms:7.7426858130162
+velkmh:27874
+onumepoch:1
+onumnow:35578.44
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-01-25T12:36:48+00:00
+nowjuliandate:2460552.6396009
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1853
+1 47140C 20088U   22025.52555365  .02712305  00000-0  35374-2 0   255
+2 47140  53.0362 124.9006 0001371   2.0234 313.6007 16.03633467    12

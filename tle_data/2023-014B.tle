@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55392
+launchyear:2023
+epoch:24241.65819575
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5085
+meananomly:89.1415
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.163758586
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0008
+eccentricity:0.0003229
+argumentofperigree:270.9374
+nickname:STARLINK-5085
+idesg:23014B  
+cosparid:2023-014B
+altkm:574.41771106756
+velkms:7.5739138993591
+velkmh:27266
+onumepoch:8896
+onumnow:133314.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:47:48+00:00
+nowjuliandate:2460552.6377625
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5085
+1 55392U 23014B   24241.65819575  .00001197  00000+0  10807-3 0  9999
+2 55392  70.0008  11.3452 0003229 270.9374  89.1415 14.98340091 88963

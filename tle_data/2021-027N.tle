@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48104
+launchyear:2021
+epoch:24242.45267409
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2439
+meananomly:260.9427
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3553526669
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001255
+argumentofperigree:99.1704
+nickname:STARLINK-2439
+idesg:21027N  
+cosparid:2021-027N
+altkm:548.2342387618
+velkms:7.5889874833264
+velkmh:27320
+onumepoch:18824
+onumnow:283574.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:51:51+00:00
+nowjuliandate:2460552.6380472
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2439
+1 48104U 21027N   24242.45267409  .00035828  00000+0  24121-2 0  9997
+2 48104  53.0532 138.1505 0001255  99.1704 260.9427 15.06398457188244

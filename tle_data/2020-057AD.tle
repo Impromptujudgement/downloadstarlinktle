@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46144
+launchyear:2020
+epoch:24242.4287104
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1606
+meananomly:264.0711
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3434916759
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001164
+argumentofperigree:96.0411
+nickname:STARLINK-1606
+idesg:20057AD 
+cosparid:2020-057AD
+altkm:548.1688410081
+velkms:7.5890526401002
+velkmh:27321
+onumepoch:21060
+onumnow:317256.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:17:21+00:00
+nowjuliandate:2460553.0282887
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1606
+1 46144U 20057AD  24242.42871040  .00003109  00000+0  22749-3 0  9992
+2 46144  53.0535 278.2587 0001164  96.0411 264.0711 15.06402327210604

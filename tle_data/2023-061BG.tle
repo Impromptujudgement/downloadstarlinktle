@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56428
+launchyear:2023
+epoch:24241.92732692
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6238
+meananomly:83.1381
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2030833246
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001085
+argumentofperigree:276.9338
+nickname:STARLINK-6238
+idesg:23061BG 
+cosparid:2023-061BG
+altkm:558.75440176691
+velkms:7.5839429580592
+velkmh:27302
+onumepoch:7315
+onumnow:109929.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:15:21+00:00
+nowjuliandate:2460552.6377006
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6238
+1 56428U 23061BG  24241.92732692  .00001096  00000+0  96165-4 0  9996
+2 56428  43.0030 322.1046 0001085 276.9338  83.1381 15.02541042 73151

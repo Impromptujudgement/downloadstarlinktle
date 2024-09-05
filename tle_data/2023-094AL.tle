@@ -1,0 +1,38 @@
+date:2024-08-29T06:00:37+00:00
+validtle:1
+satid:57252
+launchyear:2023
+epoch:24241.50079393
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5511
+meananomly:100.0305
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1944772858
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001197
+argumentofperigree:260.0402
+nickname:STARLINK-5511
+idesg:23094AL 
+cosparid:2023-094AL
+altkm:558.98020808529
+velkms:7.583691534085
+velkmh:27301
+onumepoch:6330
+onumnow:95122.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:01:09+00:00
+nowjuliandate:2460551.7504286
+nowepochdate:24242.2504282407
+TLE:
+STARLINK-5511
+1 57252U 23094AL  24241.50079393  .00001607  00000+0  13397-3 0  9997
+2 57252  43.0018 170.3837 0001197 260.0402 100.0305 15.02543838 63300

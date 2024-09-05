@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54169
+launchyear:2022
+epoch:24242.01140427
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5282
+meananomly:278.5302
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8707364607
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.00014
+argumentofperigree:81.5849
+nickname:STARLINK-5282
+idesg:22141N  
+cosparid:2022-141N
+altkm:540.48766623948
+velkms:7.5933855355086
+velkmh:27336
+onumepoch:10167
+onumnow:153421.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:16:25+00:00
+nowjuliandate:2460552.6377924
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5282
+1 54169U 22141N   24242.01140427  .00003195  00000+0  21873-3 0  9999
+2 54169  53.2179 347.1840 0001400  81.5849 278.5302 15.08843833101676

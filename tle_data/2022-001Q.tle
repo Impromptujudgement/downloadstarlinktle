@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50817
+launchyear:2022
+epoch:24241.83987921
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3341
+meananomly:276.2692
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8351794019
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001425
+argumentofperigree:83.8463
+nickname:STARLINK-3341
+idesg:22001Q  
+cosparid:2022-001Q
+altkm:540.48807274482
+velkms:7.5933656192266
+velkmh:27336
+onumepoch:14619
+onumnow:220597.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:09:26+00:00
+nowjuliandate:2460552.6379776
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3341
+1 50817U 22001Q   24241.83987921  .00007627  00000+0  49658-3 0  9992
+2 50817  53.2174 153.4043 0001425  83.8463 276.2692 15.08855466146192

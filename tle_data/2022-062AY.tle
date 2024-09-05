@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52876
+launchyear:2022
+epoch:24242.61407605
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4200
+meananomly:255.3499
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9560104642
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2191
+eccentricity:0.0001567
+argumentofperigree:104.7666
+nickname:STARLINK-4200
+idesg:22062AY 
+cosparid:2022-062AY
+altkm:540.99091732149
+velkms:7.592880041877
+velkmh:27334
+onumepoch:12245
+onumnow:184762.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:44:16+00:00
+nowjuliandate:2460552.6378956
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4200
+1 52876U 22062AY  24242.61407605 -.00005062  00000+0 -30034-3 0  9990
+2 52876  53.2191 354.9340 0001567 104.7666 255.3499 15.08815935122454

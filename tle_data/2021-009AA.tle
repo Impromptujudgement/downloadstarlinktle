@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47572
+launchyear:2021
+epoch:24242.02187679
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1971
+meananomly:283.3490
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3228070872
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001166
+argumentofperigree:76.7629
+nickname:STARLINK-1971
+idesg:21009AA 
+cosparid:2021-009AA
+altkm:547.87851532392
+velkms:7.5893593833093
+velkmh:27322
+onumepoch:19749
+onumnow:297517.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:31:30+00:00
+nowjuliandate:2460552.6394956
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1971
+1 47572U 21009AA  24242.02187679  .00013066  00000+0  89419-3 0  9990
+2 47572  53.0540 355.0887 0001166  76.7629 283.3490 15.06409076197498

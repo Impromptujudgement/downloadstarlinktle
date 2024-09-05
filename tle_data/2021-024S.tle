@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:47993
+launchyear:2021
+epoch:24242.41397426
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2273
+meananomly:274.1667
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3935870857
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001372
+argumentofperigree:85.9479
+nickname:STARLINK-2273
+idesg:21024S  
+cosparid:2021-024S
+altkm:548.06676306203
+velkms:7.5891918515054
+velkmh:27321
+onumepoch:19060
+onumnow:287128.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:56:07+00:00
+nowjuliandate:2460552.6380552
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2273
+1 47993U 21024S   24242.41397426 -.00000447  00000+0 -11137-4 0  9994
+2 47993  53.0544 278.3257 0001372  85.9479 274.1667 15.06385982190600

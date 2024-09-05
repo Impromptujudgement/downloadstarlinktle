@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48689
+launchyear:2021
+epoch:24242.77562844
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2617
+meananomly:274.4919
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3075933322
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.000119
+argumentofperigree:85.6206
+nickname:STARLINK-2617
+idesg:21044BD 
+cosparid:2021-044BD
+altkm:547.98524412202
+velkms:7.589234143313
+velkmh:27321
+onumepoch:18130
+onumnow:273118.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:36:54+00:00
+nowjuliandate:2460552.6380113
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2617
+1 48689U 21044BD  24242.77562844  .00002069  00000+0  15771-3 0  9993
+2 48689  53.0544  51.6696 0001190  85.6206 274.4919 15.06414040181303

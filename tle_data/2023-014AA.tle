@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55415
+launchyear:2023
+epoch:24242.75619758
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5618
+meananomly:89.7395
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.197400832
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9999
+eccentricity:0.0003381
+argumentofperigree:270.3376
+nickname:STARLINK-5618
+idesg:23014AA 
+cosparid:2023-014AA
+altkm:574.47429866603
+velkms:7.5738705458838
+velkmh:27266
+onumepoch:8720
+onumnow:130660.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:08:55+00:00
+nowjuliandate:2460552.6377656
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5618
+1 55415U 23014AA  24242.75619758 -.00000089  00000+0  32912-6 0  9992
+2 55415  69.9999  48.4938 0003381 270.3376  89.7395 14.98329212 87201

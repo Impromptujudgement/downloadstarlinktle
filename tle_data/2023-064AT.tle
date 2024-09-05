@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56489
+launchyear:2023
+epoch:24242.25557549
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5923
+meananomly:90.1482
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1939435074
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9999
+eccentricity:0.0003053
+argumentofperigree:269.9327
+nickname:STARLINK-5923
+idesg:23064AT 
+cosparid:2023-064AT
+altkm:574.48686574155
+velkms:7.5738549716558
+velkmh:27266
+onumepoch:7309
+onumnow:109526.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:08:02+00:00
+nowjuliandate:2460552.6376964
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5923
+1 56489U 23064AT  24242.25557549  .00000091  00000+0  15438-4 0  9997
+2 56489  69.9999  69.9700 0003053 269.9327  90.1482 14.98330330 73092

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45197
+launchyear:2020
+epoch:24242.68396199
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1269
+meananomly:263.0857
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3664934631
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001692
+argumentofperigree:97.0324
+nickname:STARLINK-1269
+idesg:20012V  
+cosparid:2020-012V
+altkm:548.24966125334
+velkms:7.5889766793747
+velkmh:27320
+onumepoch:25085
+onumnow:377891.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:24:54+00:00
+nowjuliandate:2460553.0283719
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1269
+1 45197U 20012V   24242.68396199 -.00001272  00000+0 -66517-4 0  9998
+2 45197  53.0527  27.1104 0001692  97.0324 263.0857 15.06394822250859

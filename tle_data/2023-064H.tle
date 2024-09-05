@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56455
+launchyear:2023
+epoch:24242.35617352
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5987
+meananomly:87.3227
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1875020096
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70
+eccentricity:0.0002988
+argumentofperigree:272.759
+nickname:STARLINK-5987
+idesg:23064H  
+cosparid:2023-064H
+altkm:574.37789433412
+velkms:7.5739702047074
+velkmh:27266
+onumepoch:7212
+onumnow:108071.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:32:53+00:00
+nowjuliandate:2460552.6376935
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5987
+1 56455U 23064H   24242.35617352 -.00000015  00000+0  65009-5 0  9997
+2 56455  70.0000 109.6643 0002988 272.7590  87.3227 14.98332413 72121

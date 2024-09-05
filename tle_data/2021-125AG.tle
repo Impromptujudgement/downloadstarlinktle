@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:50186
+launchyear:2021
+epoch:24242.21064047
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3274
+meananomly:264.5628
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8802883144
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001403
+argumentofperigree:95.5524
+nickname:STARLINK-3274
+idesg:21125AG 
+cosparid:2021-125AG
+altkm:540.73270611789
+velkms:7.5931218917795
+velkmh:27335
+onumepoch:15182
+onumnow:229086.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:19+00:00
+nowjuliandate:2460552.6379864
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3274
+1 50186U 21125AG  24242.21064047  .00000394  00000+0  42854-4 0  9991
+2 50186  53.2166 241.7373 0001403  95.5524 264.5628 15.08840708151821

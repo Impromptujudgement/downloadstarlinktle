@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53732
+launchyear:2022
+epoch:24241.69134694
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4661
+meananomly:275.0449
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8827458207
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001391
+argumentofperigree:85.0701
+nickname:STARLINK-4661
+idesg:22107AJ 
+cosparid:2022-107AJ
+altkm:540.5584259376
+velkms:7.593314467848
+velkmh:27336
+onumepoch:11031
+onumnow:166461.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:35:32+00:00
+nowjuliandate:2460552.6378317
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4661
+1 53732U 22107AJ  24241.69134694  .00000465  00000+0  47326-4 0  9997
+2 53732  53.2151 239.1553 0001391  85.0701 275.0449 15.08839904110316

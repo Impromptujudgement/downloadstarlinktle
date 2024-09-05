@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48388
+launchyear:2021
+epoch:24241.55056072
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2594
+meananomly:286.7100
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2686184268
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.056
+eccentricity:0.0001519
+argumentofperigree:73.4056
+nickname:STARLINK-2594
+idesg:21038AM 
+cosparid:2021-038AM
+altkm:547.70857474144
+velkms:7.5895159361261
+velkmh:27322
+onumepoch:18311
+onumnow:275865.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:12:48+00:00
+nowjuliandate:2460552.6380354
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2594
+1 48388U 21038AM  24241.55056072  .00035081  00000+0  23606-2 0  9993
+2 48388  53.0560 332.2044 0001519  73.4056 286.7100 15.06426757183112

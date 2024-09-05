@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53057
+launchyear:2022
+epoch:24241.73839072
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4252
+meananomly:192.8594
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1314161461
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6557
+eccentricity:0.0002387
+argumentofperigree:167.269
+nickname:STARLINK-4252
+idesg:22077Q  
+cosparid:2022-077Q
+altkm:567.66767619721
+velkms:7.576354861977
+velkmh:27275
+onumepoch:11720
+onumnow:175969.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:43:17+00:00
+nowjuliandate:2460552.6378814
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4252
+1 53057U 22077Q   24241.73839072  .00000988  00000+0  81499-4 0  9999
+2 53057  97.6557  61.5232 0002387 167.2690 192.8594 15.01265678117201

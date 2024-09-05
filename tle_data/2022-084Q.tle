@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53203
+launchyear:2022
+epoch:24241.87848021
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4409
+meananomly:135.3227
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1482889619
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6556
+eccentricity:0.0003658
+argumentofperigree:224.7702
+nickname:STARLINK-4409
+idesg:22084Q  
+cosparid:2022-084Q
+altkm:567.87519867798
+velkms:7.5761375538752
+velkmh:27274
+onumepoch:11600
+onumnow:174165.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:05:01+00:00
+nowjuliandate:2460552.6378698
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4409
+1 53203U 22084Q   24241.87848021  .00001536  00000+0  12418-3 0  9993
+2 53203  97.6556 301.6651 0003658 224.7702 135.3227 15.01260204116003

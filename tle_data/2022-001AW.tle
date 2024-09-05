@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50847
+launchyear:2022
+epoch:24242.47655601
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3319
+meananomly:272.9549
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8680405515
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001261
+argumentofperigree:87.1587
+nickname:STARLINK-3319
+idesg:22001AW 
+cosparid:2022-001AW
+altkm:540.58336519477
+velkms:7.5932790504158
+velkmh:27336
+onumepoch:14734
+onumnow:222321.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:26:14+00:00
+nowjuliandate:2460552.6379784
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3319
+1 50847U 22001AW  24242.47655601  .00000268  00000+0  34924-4 0  9998
+2 50847  53.2153 160.5576 0001261  87.1587 272.9549 15.08844715147341

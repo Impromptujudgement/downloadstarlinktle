@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53928
+launchyear:2022
+epoch:24242.3923253
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5009
+meananomly:269.7499
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8521860908
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001537
+argumentofperigree:90.3669
+nickname:STARLINK-5009
+idesg:22119AU 
+cosparid:2022-119AU
+altkm:540.61719553312
+velkms:7.5932332479578
+velkmh:27336
+onumepoch:10741
+onumnow:162076.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:24:57+00:00
+nowjuliandate:2460552.6378144
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5009
+1 53928U 22119AU  24242.39232530  .00000241  00000+0  33255-4 0  9991
+2 53928  53.2155 285.8255 0001537  90.3669 269.7499 15.08849902107419

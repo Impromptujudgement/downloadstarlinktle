@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49427
+launchyear:2021
+epoch:24241.66603845
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3131
+meananomly:269.5564
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8665183726
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2144
+eccentricity:0.0001474
+argumentofperigree:90.5597
+nickname:STARLINK-3131
+idesg:21104V  
+cosparid:2021-104V
+altkm:540.63464661401
+velkms:7.5932219474338
+velkmh:27336
+onumepoch:15439
+onumnow:232972.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:59:06+00:00
+nowjuliandate:2460552.6379943
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3131
+1 49427U 21104V   24241.66603845  .00001489  00000+0  11158-3 0  9995
+2 49427  53.2144 214.1971 0001474  90.5597 269.5564 15.08845213154399

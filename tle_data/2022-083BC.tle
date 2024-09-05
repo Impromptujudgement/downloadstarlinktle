@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53182
+launchyear:2022
+epoch:24242.37622492
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4278
+meananomly:290.3802
+meanmotion:15.0889
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7308094039
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.22
+eccentricity:0.0001572
+argumentofperigree:69.736
+nickname:STARLINK-4278
+idesg:22083BC 
+cosparid:2022-083BC
+altkm:540.11294481907
+velkms:7.5937201057013
+velkmh:27337
+onumepoch:11820
+onumnow:178362.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:01:46+00:00
+nowjuliandate:2460552.6378769
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4278
+1 53182U 22083BC  24242.37622492 -.00008575  00000+0 -52059-3 0  9993
+2 53182  53.2200 120.9838 0001572  69.7360 290.3802 15.08889613118205

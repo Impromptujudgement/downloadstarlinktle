@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56137
+launchyear:2023
+epoch:24241.86473225
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5090
+meananomly:92.2355
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1905066975
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0008
+eccentricity:0.0001426
+argumentofperigree:267.8324
+nickname:STARLINK-5090
+idesg:23046AW 
+cosparid:2023-046AW
+altkm:558.87014204413
+velkms:7.5838096353161
+velkmh:27302
+onumepoch:7830
+onumnow:117668.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:45:13+00:00
+nowjuliandate:2460552.6377174
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5090
+1 56137U 23046AW  24241.86473225  .00003140  00000+0  24737-3 0  9990
+2 56137  43.0008 296.7769 0001426 267.8324  92.2355 15.02545128 78307

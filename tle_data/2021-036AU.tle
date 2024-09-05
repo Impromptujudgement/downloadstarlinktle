@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48318
+launchyear:2021
+epoch:24241.28377034
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2509
+meananomly:279.0090
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3312629554
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0518
+eccentricity:7.85E-5
+argumentofperigree:81.0988
+nickname:STARLINK-2509
+idesg:21036AU 
+cosparid:2021-036AU
+altkm:547.98799169936
+velkms:7.5892440727369
+velkmh:27321
+onumepoch:18386
+onumnow:276995.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:48:38+00:00
+nowjuliandate:2460552.6380433
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2509
+1 48318U 21036AU  24241.28377034  .00008967  00000+0  61998-3 0  9998
+2 48318  53.0518  88.3965 0000785  81.0988 279.0090 15.06406317183867

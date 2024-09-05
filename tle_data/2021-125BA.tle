@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50204
+launchyear:2021
+epoch:24241.65775933
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3254
+meananomly:268.7060
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8767304361
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001349
+argumentofperigree:91.4087
+nickname:STARLINK-3254
+idesg:21125BA 
+cosparid:2021-125BA
+altkm:540.6581473669
+velkms:7.5932017531211
+velkmh:27336
+onumepoch:15254
+onumnow:230178.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:47:10+00:00
+nowjuliandate:2460552.6379852
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3254
+1 50204U 21125BA  24241.65775933  .00001084  00000+0  86199-4 0  9999
+2 50204  53.2157 224.2332 0001349  91.4087 268.7060 15.08841872152540

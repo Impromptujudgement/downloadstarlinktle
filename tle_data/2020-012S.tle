@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45194
+launchyear:2020
+epoch:24242.11632012
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1240
+meananomly:279.1623
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3690005316
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0565
+eccentricity:0.0002347
+argumentofperigree:80.9631
+nickname:STARLINK-1240
+idesg:20012S  
+cosparid:2020-012S
+altkm:547.85288186716
+velkms:7.5894127191013
+velkmh:27322
+onumepoch:25069
+onumnow:377659.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:47:30+00:00
+nowjuliandate:2460553.028372
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1240
+1 45194U 20012S   24242.11632012  .00002497  00000+0  18653-3 0  9995
+2 45194  53.0565  29.6587 0002347  80.9631 279.1623 15.06394004250693

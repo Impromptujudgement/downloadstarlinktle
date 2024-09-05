@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48476
+launchyear:2021
+epoch:24241.84310718
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2723
+meananomly:267.9098
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4075876045
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.000145
+argumentofperigree:92.2057
+nickname:STARLINK-2723
+idesg:21040BA 
+cosparid:2021-040BA
+altkm:548.18630235532
+velkms:7.5890685527291
+velkmh:27321
+onumepoch:18240
+onumnow:274783.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:14:04+00:00
+nowjuliandate:2460552.6380257
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2723
+1 48476U 21040BA  24241.84310718  .00023634  00000+0  16010-2 0  9998
+2 48476  53.0531 175.8867 0001450  92.2057 267.9098 15.06381414182404

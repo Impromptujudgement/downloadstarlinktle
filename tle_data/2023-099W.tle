@@ -1,0 +1,38 @@
+date:2024-08-29T04:42:51+00:00
+validtle:1
+satid:57348
+launchyear:2023
+epoch:24241.75171739
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6372
+meananomly:94.1957
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2009225784
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001155
+argumentofperigree:265.8753
+nickname:STARLINK-6372
+idesg:23099W  
+cosparid:2023-099W
+altkm:558.90066499532
+velkms:7.5837819609835
+velkmh:27302
+onumepoch:6293
+onumnow:94561.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:02:28+00:00
+nowjuliandate:2460551.6964282
+nowepochdate:24242.1964236111
+TLE:
+STARLINK-6372
+1 57348U 23099W   24241.75171739  .00000807  00000+0  74799-4 0  9997
+2 57348  43.0019  40.1858 0001155 265.8753  94.1957 15.02541744 62938

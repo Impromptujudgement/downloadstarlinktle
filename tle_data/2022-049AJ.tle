@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52483
+launchyear:2022
+epoch:24242.70469102
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3875
+meananomly:265.4122
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9037355806
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2181
+eccentricity:5.74E-5
+argumentofperigree:94.6935
+nickname:STARLINK-3875
+idesg:22049AJ 
+cosparid:2022-049AJ
+altkm:540.69599908861
+velkms:7.5931750078262
+velkmh:27335
+onumepoch:12846
+onumnow:193831.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:54:45+00:00
+nowjuliandate:2460552.6379224
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3875
+1 52483U 22049AJ  24242.70469102 -.00000468  00000+0 -11355-4 0  9990
+2 52483  53.2181  29.5231 0000574  94.6935 265.4122 15.08833037128469

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52285
+launchyear:2022
+epoch:24241.85275909
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3775
+meananomly:272.9081
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8546405155
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001421
+argumentofperigree:87.2074
+nickname:STARLINK-3775
+idesg:22041AA 
+cosparid:2022-041AA
+altkm:540.56533076599
+velkms:7.5932915019616
+velkmh:27336
+onumepoch:13015
+onumnow:196396.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:27:58+00:00
+nowjuliandate:2460552.6379361
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3775
+1 52285U 22041AA  24241.85275909  .00001445  00000+0  10882-3 0  9994
+2 52285  53.2176  93.3482 0001421  87.2074 272.9081 15.08849099130155

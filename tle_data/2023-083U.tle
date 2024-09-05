@@ -1,0 +1,38 @@
+date:2024-08-29T07:32:04+00:00
+validtle:1
+satid:56894
+launchyear:2023
+epoch:24241.68000081
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6144
+meananomly:96.7890
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2016582169
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.001
+eccentricity:0.0001188
+argumentofperigree:263.2817
+nickname:STARLINK-6144
+idesg:23083U  
+cosparid:2023-083U
+altkm:558.94010127987
+velkms:7.5837392710189
+velkmh:27301
+onumepoch:6785
+onumnow:101956.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:19:12+00:00
+nowjuliandate:2460551.8139424
+nowepochdate:24242.3139351852
+TLE:
+STARLINK-6144
+1 56894U 23083U   24241.68000081  .00001306  00000+0  11172-3 0  9998
+2 56894  43.0010 233.6416 0001188 263.2817  96.7890 15.02541505 67857

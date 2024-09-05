@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48382
+launchyear:2021
+epoch:24242.54344294
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2585
+meananomly:269.7192
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3987729089
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0566
+eccentricity:0.0001312
+argumentofperigree:90.3947
+nickname:STARLINK-2585
+idesg:21038AF 
+cosparid:2021-038AF
+altkm:548.14566706649
+velkms:7.5891082491038
+velkmh:27321
+onumepoch:18378
+onumnow:276852.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:02:33+00:00
+nowjuliandate:2460552.6380361
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2585
+1 48382U 21038AF  24242.54344294 -.00003823  00000+0 -23800-3 0  9991
+2 48382  53.0566 332.7418 0001312  90.3947 269.7192 15.06384290183780

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53788
+launchyear:2022
+epoch:22312.99701389
+epochday:312
+tleage:661
+tleclassification:C
+active:0
+name:STARLINK-4744
+meananomly:162.9982
+meanmotion:15.9232
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6673.938409744
+altitudeatperigee:287
+altitudeatapogee:304
+inclination:53.1996
+eccentricity:0.0012567
+argumentofperigree:61.5784
+nickname:STARLINK-4744
+idesg:22111R  
+cosparid:2022-111R
+altkm:314.71958647374
+velkms:7.7143611463912
+velkmh:27772
+onumepoch:1
+onumnow:30749.13
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-11-08T23:55:42+00:00
+nowjuliandate:2460552.6378238
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4744
+1 53788C 22111R   22312.99701389  .00188558  00000-0  53468-3 0  3127
+2 53788  53.1996 330.5665 0012567  61.5784 162.9982 15.92317487    11

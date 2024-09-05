@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52139
+launchyear:2022
+epoch:24242.76081059
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3730
+meananomly:269.9559
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8968856938
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2178
+eccentricity:0.0001268
+argumentofperigree:90.1578
+nickname:STARLINK-3730
+idesg:22029BD 
+cosparid:2022-029BD
+altkm:540.65811800624
+velkms:7.5932128223066
+velkmh:27336
+onumepoch:13671
+onumnow:206278.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:15:34+00:00
+nowjuliandate:2460552.6379388
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3730
+1 52139U 22029BD  24242.76081059 -.00000216  00000+0  45233-5 0  9996
+2 52139  53.2178  59.2708 0001268  90.1578 269.9559 15.08835278136716

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52366
+launchyear:2022
+epoch:24242.49675637
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3808
+meananomly:271.3954
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8611571307
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001289
+argumentofperigree:88.7186
+nickname:STARLINK-3808
+idesg:22045AM 
+cosparid:2022-045AM
+altkm:540.59968170739
+velkms:7.5932573775018
+velkmh:27336
+onumepoch:13180
+onumnow:198875.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:55:20+00:00
+nowjuliandate:2460552.6379285
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3808
+1 52366U 22045AM  24242.49675637 -.00000568  00000+0 -17580-4 0  9991
+2 52366  53.2148 170.4568 0001289  88.7186 271.3954 15.08846967131804

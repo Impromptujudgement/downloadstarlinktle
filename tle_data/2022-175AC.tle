@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54784
+launchyear:2022
+epoch:24242.68487947
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5442
+meananomly:259.9237
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9010151862
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2178
+eccentricity:0.0001181
+argumentofperigree:100.1888
+nickname:STARLINK-5442
+idesg:22175AC 
+cosparid:2022-175AC
+altkm:540.80449365578
+velkms:7.5930544735839
+velkmh:27335
+onumepoch:9367
+onumnow:141339.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:26:14+00:00
+nowjuliandate:2460552.6377908
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5442
+1 54784U 22175AC  24242.68487947 -.00000269  00000+0  11723-5 0  9998
+2 54784  53.2178  24.3645 0001181 100.1888 259.9237 15.08833927 93675

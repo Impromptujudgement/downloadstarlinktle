@@ -1,0 +1,38 @@
+date:2024-08-29T07:50:06+00:00
+validtle:1
+satid:56922
+launchyear:2023
+epoch:24240.68309402
+epochday:240
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5937
+meananomly:96.7752
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2032587699
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.0001189
+argumentofperigree:263.2955
+nickname:STARLINK-5937
+idesg:23083AY 
+cosparid:2023-083AY
+altkm:558.9415968078
+velkms:7.5837385093067
+velkmh:27301
+onumepoch:6773
+onumnow:101791.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:23:39+00:00
+nowjuliandate:2460551.8264601
+nowepochdate:24242.3264583333
+TLE:
+STARLINK-5937
+1 56922U 23083AY  24240.68309402 -.00000118  00000+0  63449-5 0  9995
+2 56922  43.0011 226.0586 0001189 263.2955  96.7752 15.02540985 67733

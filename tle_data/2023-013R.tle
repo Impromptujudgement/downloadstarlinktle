@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55346
+launchyear:2023
+epoch:24241.30748603
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5631
+meananomly:83.0610
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2068323155
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001226
+argumentofperigree:277.0093
+nickname:STARLINK-5631
+idesg:23013R  
+cosparid:2023-013R
+altkm:558.7452637207
+velkms:7.5839549863179
+velkmh:27302
+onumepoch:8814
+onumnow:132461.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:22:47+00:00
+nowjuliandate:2460552.6377665
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5631
+1 55346U 23013R   24241.30748603  .00000710  00000+0  67650-4 0  9991
+2 55346  43.0022  94.4760 0001226 277.0093  83.0610 15.02539824 88143

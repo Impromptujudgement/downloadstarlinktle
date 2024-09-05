@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55777
+launchyear:2023
+epoch:24242.5615399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5814
+meananomly:86.6664
+meanmotion:14.9837
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.0753270952
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0032
+eccentricity:0.0002489
+argumentofperigree:273.421
+nickname:STARLINK-5814
+idesg:23028AN 
+cosparid:2023-028AN
+altkm:574.26221388214
+velkms:7.5740352180352
+velkmh:27267
+onumepoch:8308
+onumnow:124493.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:28:37+00:00
+nowjuliandate:2460552.6377377
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5814
+1 55777U 23028AN  24242.56153990 -.00008903  00000+0 -73862-3 0  9998
+2 55777  70.0032 189.0554 0002489 273.4210  86.6664 14.98368688 83085

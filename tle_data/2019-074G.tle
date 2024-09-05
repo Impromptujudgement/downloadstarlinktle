@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44719
+launchyear:2019
+epoch:24242.77427192
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1013
+meananomly:265.0923
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3935012684
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001459
+argumentofperigree:95.0232
+nickname:STARLINK-1013
+idesg:19074G  
+cosparid:2019-074G
+altkm:548.22193312183
+velkms:7.5890218194284
+velkmh:27320
+onumepoch:26593
+onumnow:400604.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:34:57+00:00
+nowjuliandate:2460553.0296711
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1013
+1 44719U 19074G   24242.77427192  .00014973  00000+0  10223-2 0  9992
+2 44719  53.0521 166.7104 0001459  95.0232 265.0923 15.06386010265930

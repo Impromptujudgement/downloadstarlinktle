@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48303
+launchyear:2021
+epoch:24242.78865663
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2530
+meananomly:94.3309
+meanmotion:15.0610
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6926.2775086034
+altitudeatperigee:546
+altitudeatapogee:551
+inclination:53.0712
+eccentricity:0.0003409
+argumentofperigree:265.7291
+nickname:STARLINK-2530
+idesg:21036AD 
+cosparid:2021-036AD
+altkm:549.20036930821
+velkms:7.5884333319092
+velkmh:27318
+onumepoch:18481
+onumnow:278347.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:55:40+00:00
+nowjuliandate:2460552.6380453
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2530
+1 48303U 21036AD  24242.78865663  .00122502  00000+0  81673-2 0  9991
+2 48303  53.0712  72.1811 0003409 265.7291  94.3309 15.06097627184819

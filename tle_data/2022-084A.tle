@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53189
+launchyear:2022
+epoch:24241.43994179
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4391
+meananomly:267.8674
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1370876694
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6548
+eccentricity:0.0001834
+argumentofperigree:92.276
+nickname:STARLINK-4391
+idesg:22084A  
+cosparid:2022-084A
+altkm:566.10531534229
+velkms:7.5780634628123
+velkmh:27281
+onumepoch:11623
+onumnow:174517.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:33:31+00:00
+nowjuliandate:2460552.6378742
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4391
+1 53189U 22084A   24241.43994179  .00001878  00000+0  15074-3 0  9994
+2 53189  97.6548 301.2350 0001834  92.2760 267.8674 15.01263838116233

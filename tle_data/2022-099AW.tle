@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53509
+launchyear:2022
+epoch:24242.58233737
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4402
+meananomly:109.7699
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1154218964
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6551
+eccentricity:0.0001454
+argumentofperigree:250.3369
+nickname:STARLINK-4402
+idesg:22099AW 
+cosparid:2022-099AW
+altkm:566.37759160267
+velkms:7.5777543911572
+velkmh:27280
+onumepoch:11264
+onumnow:169111.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:58:34+00:00
+nowjuliandate:2460552.6378537
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4402
+1 53509U 22099AW  24242.58233737  .00002074  00000+0  16597-3 0  9999
+2 53509  97.6551   2.3597 0001454 250.3369 109.7699 15.01270867112647

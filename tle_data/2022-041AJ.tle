@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52293
+launchyear:2022
+epoch:24241.82151822
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3771
+meananomly:273.6074
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8627893435
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001188
+argumentofperigree:86.5054
+nickname:STARLINK-3771
+idesg:22041AJ 
+cosparid:2022-041AJ
+altkm:540.57142098981
+velkms:7.5932892810796
+velkmh:27336
+onumepoch:13028
+onumnow:196592.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:42:59+00:00
+nowjuliandate:2460552.6379349
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3771
+1 52293U 22041AJ  24241.82151822  .00002519  00000+0  17625-3 0  9992
+2 52293  53.2159  83.4991 0001188  86.5054 273.6074 15.08846433130283

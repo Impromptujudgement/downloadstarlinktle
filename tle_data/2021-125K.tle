@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50165
+launchyear:2021
+epoch:24241.75063866
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3298
+meananomly:254.5994
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8725306784
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001659
+argumentofperigree:105.5181
+nickname:STARLINK-3298
+idesg:21125K  
+cosparid:2021-125K
+altkm:540.93791372007
+velkms:7.5928924839852
+velkmh:27334
+onumepoch:15227
+onumnow:229770.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:00:55+00:00
+nowjuliandate:2460552.6379829
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3298
+1 50165U 21125K   24241.75063866  .00000599  00000+0  55695-4 0  9998
+2 50165  53.2176 243.8029 0001659 105.5181 254.5994 15.08843246152279

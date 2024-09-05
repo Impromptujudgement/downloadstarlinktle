@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54865
+launchyear:2022
+epoch:24241.7977479
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5411
+meananomly:92.8269
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1856865956
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0008
+eccentricity:0.0001186
+argumentofperigree:267.2438
+nickname:STARLINK-5411
+idesg:22177AX 
+cosparid:2022-177AX
+altkm:558.86726344137
+velkms:7.583810153481
+velkmh:27302
+onumepoch:9318
+onumnow:140027.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:08:45+00:00
+nowjuliandate:2460552.6377822
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5411
+1 54865U 22177AX  24241.79774790  .00001888  00000+0  15473-3 0  9997
+2 54865  43.0008 271.7727 0001186 267.2438  92.8269 15.02546694 93185

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45773
+launchyear:2020
+epoch:24243.13457201
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1482
+meananomly:269.1598
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.362585751
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0524
+eccentricity:0.0001227
+argumentofperigree:90.9531
+nickname:STARLINK-1482
+idesg:20038AV 
+cosparid:2020-038AV
+altkm:548.11703154336
+velkms:7.5891198347292
+velkmh:27321
+onumepoch:23383
+onumnow:352246.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:13:47+00:00
+nowjuliandate:2460553.028308
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1482
+1 45773U 20038AV  24243.13457201  .00024748  00000+0  16747-2 0  9998
+2 45773  53.0524 175.0921 0001227  90.9531 269.1598 15.06396097233836

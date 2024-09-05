@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52299
+launchyear:2022
+epoch:24242.26216082
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3759
+meananomly:273.7503
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.887596651
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2136
+eccentricity:0.0001308
+argumentofperigree:86.3639
+nickname:STARLINK-3759
+idesg:22041AQ 
+cosparid:2022-041AQ
+altkm:540.58852198002
+velkms:7.5932841002553
+velkmh:27336
+onumepoch:13157
+onumnow:198531.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:17:31+00:00
+nowjuliandate:2460552.6379343
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3759
+1 52299U 22041AQ  24242.26216082 -.00000327  00000+0 -24311-5 0  9996
+2 52299  53.2136  81.5083 0001308  86.3639 273.7503 15.08838317131579

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50805
+launchyear:2022
+epoch:24241.01648353
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3333
+meananomly:258.3094
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8872726507
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.000169
+argumentofperigree:101.8088
+nickname:STARLINK-3333
+idesg:22001C  
+cosparid:2022-001C
+altkm:540.88463395324
+velkms:7.5929590160608
+velkmh:27335
+onumepoch:14620
+onumnow:220622.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T00:23:44+00:00
+nowjuliandate:2460552.637978
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3333
+1 50805U 22001C   24241.01648353 -.00000002  00000+0  17946-4 0  9999
+2 50805  53.2163 147.1004 0001690 101.8088 258.3094 15.08838423146205

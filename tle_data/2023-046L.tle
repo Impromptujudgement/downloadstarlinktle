@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56103
+launchyear:2023
+epoch:24242.48497798
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6096
+meananomly:122.0063
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.212960603
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:42.9984
+eccentricity:7.21E-5
+argumentofperigree:238.0709
+nickname:STARLINK-6096
+idesg:23046L  
+cosparid:2023-046L
+altkm:559.11869787171
+velkms:7.5835502872478
+velkmh:27301
+onumepoch:7878
+onumnow:118379.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:38:22+00:00
+nowjuliandate:2460552.637715
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6096
+1 56103U 23046L   24242.48497798  .00000150  00000+0  26194-4 0  9991
+2 56103  42.9984 306.6750 0000721 238.0709 122.0063 15.02537833 78780

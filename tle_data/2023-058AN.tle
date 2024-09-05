@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56353
+launchyear:2023
+epoch:24241.93186861
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5874
+meananomly:284.3740
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1304760306
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6543
+eccentricity:0.0004855
+argumentofperigree:75.8023
+nickname:STARLINK-5874
+idesg:23058AN 
+cosparid:2023-058AN
+altkm:565.215883078
+velkms:7.5790309577081
+velkmh:27285
+onumepoch:7445
+onumnow:111787.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:21:53+00:00
+nowjuliandate:2460552.6377085
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5874
+1 56353U 23058AN  24241.93186861  .00001024  00000+0  84296-4 0  9994
+2 56353  97.6543 241.8169 0004855  75.8023 284.3740 15.01265983 74454

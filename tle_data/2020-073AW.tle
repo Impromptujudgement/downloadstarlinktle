@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:12+00:00
+validtle:1
+satid:46714
+launchyear:2020
+epoch:24241.68737773
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1816
+meananomly:268.4721
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3300370215
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001558
+argumentofperigree:91.6447
+nickname:STARLINK-1816
+idesg:20073AW 
+cosparid:2020-073AW
+altkm:548.10092229666
+velkms:7.5891196881221
+velkmh:27321
+onumepoch:21302
+onumnow:320916.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:29:49+00:00
+nowjuliandate:2460552.6404222
+nowepochdate:24243.1404166667
+TLE:
+STARLINK-1816
+1 46714U 20073AW  24241.68737773  .00001447  00000+0  11600-3 0  9991
+2 46714  53.0531 226.5852 0001558  91.6447 268.4721 15.06406717213026

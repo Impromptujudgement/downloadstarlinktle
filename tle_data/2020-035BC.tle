@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45707
+launchyear:2020
+epoch:24242.64434538
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1412
+meananomly:255.1652
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3377910626
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.046
+eccentricity:0.0002441
+argumentofperigree:104.9607
+nickname:STARLINK-1412
+idesg:20035BC 
+cosparid:2020-035BC
+altkm:548.51218573832
+velkms:7.5886734066554
+velkmh:27319
+onumepoch:23519
+onumnow:354304.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:27:51+00:00
+nowjuliandate:2460553.0283205
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1412
+1 45707U 20035BC  24242.64434538  .00027013  00000+0  18252-2 0  9996
+2 45707  53.0460  17.2896 0002441 104.9607 255.1652 15.06404187235196

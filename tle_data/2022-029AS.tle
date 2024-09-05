@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52128
+launchyear:2022
+epoch:22103.38350897
+epochday:103
+tleage:870
+tleclassification:C
+active:0
+name:STARLINK-3719
+meananomly:213.4020
+meanmotion:16.0310
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6643.9805026352
+altitudeatperigee:263
+altitudeatapogee:269
+inclination:53.212
+eccentricity:0.0004862
+argumentofperigree:298.6222
+nickname:STARLINK-3719
+idesg:22029AS 
+cosparid:2022-029AS
+altkm:269.22344691543
+velkms:7.7474126935615
+velkmh:27891
+onumepoch:1
+onumnow:34318.42
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-13T09:12:15+00:00
+nowjuliandate:2460552.6379405
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3719
+1 52128C 22029AS  22103.38350897  .01782988  00000-0  25336-2 0  1035
+2 52128  53.2120  16.3701 0004862 298.6222 213.4020 16.03099329    17

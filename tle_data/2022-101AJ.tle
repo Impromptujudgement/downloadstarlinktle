@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53559
+launchyear:2022
+epoch:24241.18530582
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4508
+meananomly:275.5618
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8913960155
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2182
+eccentricity:0.0001379
+argumentofperigree:84.5531
+nickname:STARLINK-4508
+idesg:22101AJ 
+cosparid:2022-101AJ
+altkm:540.55955812048
+velkms:7.5933179626794
+velkmh:27336
+onumepoch:11199
+onumnow:169004.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:26:50+00:00
+nowjuliandate:2460552.6378499
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4508
+1 53559U 22101AJ  24241.18530582  .00000674  00000+0  60443-4 0  9995
+2 53559  53.2182  51.3421 0001379  84.5531 275.5618 15.08837074111990

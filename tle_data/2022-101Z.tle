@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53550
+launchyear:2022
+epoch:24241.73362027
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4518
+meananomly:272.4919
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8620496515
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.214
+eccentricity:0.0001529
+argumentofperigree:87.6248
+nickname:STARLINK-4518
+idesg:22101Z  
+cosparid:2022-101Z
+altkm:540.57626609939
+velkms:7.5932835594386
+velkmh:27336
+onumepoch:11273
+onumnow:170113.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:36:25+00:00
+nowjuliandate:2460552.6378446
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4518
+1 53550U 22101Z   24241.73362027  .00001726  00000+0  12647-3 0  9995
+2 53550  53.2140  48.8813 0001529  87.6248 272.4919 15.08846675112737

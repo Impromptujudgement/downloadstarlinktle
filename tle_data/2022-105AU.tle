@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53690
+launchyear:2022
+epoch:24241.92755988
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4570
+meananomly:286.7720
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1392730583
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6544
+eccentricity:0.0003808
+argumentofperigree:73.3922
+nickname:STARLINK-4570
+idesg:22105AU 
+cosparid:2022-105AU
+altkm:565.29792779467
+velkms:7.5789461694633
+velkmh:27284
+onumepoch:10955
+onumnow:164481.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:15:41+00:00
+nowjuliandate:2460552.6378359
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4570
+1 53690U 22105AU  24241.92755988  .00000232  00000+0  22651-4 0  9995
+2 53690  97.6544 121.6612 0003808  73.3922 286.7720 15.01263129109556

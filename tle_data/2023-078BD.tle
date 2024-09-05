@@ -1,0 +1,38 @@
+date:2024-08-29T08:40:53+00:00
+validtle:1
+satid:56818
+launchyear:2023
+epoch:24241.90367636
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6028
+meananomly:86.2099
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1670767157
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9997
+eccentricity:0.0003057
+argumentofperigree:273.8711
+nickname:STARLINK-6028
+idesg:23078BD 
+cosparid:2023-078BD
+altkm:574.31403075873
+velkms:7.5740286789398
+velkmh:27267
+onumepoch:6982
+onumnow:104615.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:41:18+00:00
+nowjuliandate:2460551.8617343
+nowepochdate:24242..361724537
+TLE:
+STARLINK-6028
+1 56818U 23078BD  24241.90367636  .00000046  00000+0  11672-4 0  9991
+2 56818  69.9997 310.6557 0003057 273.8711  86.2099 14.98339018 69825

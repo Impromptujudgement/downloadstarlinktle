@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47762
+launchyear:2021
+epoch:24242.61945742
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2180
+meananomly:271.5438
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3210110997
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0517
+eccentricity:0.0001442
+argumentofperigree:88.5717
+nickname:STARLINK-2180
+idesg:21017AS 
+cosparid:2021-017AS
+altkm:548.0360486767
+velkms:7.5891858219059
+velkmh:27321
+onumepoch:19292
+onumnow:290622.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:52:01+00:00
+nowjuliandate:2460552.6393797
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2180
+1 47762U 21017AS  24242.61945742  .00004200  00000+0  30064-3 0  9990
+2 47762  53.0517 207.4155 0001442  88.5717 271.5438 15.06409662192922

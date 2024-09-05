@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45209
+launchyear:2020
+epoch:22283.72201389
+epochday:283
+tleage:690
+tleclassification:C
+active:0
+name:STARLINK-1218
+meananomly:162.9411
+meanmotion:15.9024
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6679.7584022057
+altitudeatperigee:298
+altitudeatapogee:305
+inclination:53.0372
+eccentricity:0.0005545
+argumentofperigree:68.7166
+nickname:STARLINK-1218
+idesg:20012AH 
+cosparid:2020-012AH
+altkm:317.90758732659
+velkms:7.7150674264364
+velkmh:27774
+onumepoch:1
+onumnow:31181.47
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-10-10T17:19:42+00:00
+nowjuliandate:2460553.028407
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1218
+1 45209C 20012AH  22283.72201389  .00229250  00000-0  72669-3 0  2833
+2 45209  53.0372 346.2735 0005545  68.7166 162.9411 15.90236890    13

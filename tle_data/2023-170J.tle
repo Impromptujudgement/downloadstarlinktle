@@ -1,0 +1,38 @@
+date:2024-08-28T16:43:28+00:00
+validtle:1
+satid:58214
+launchyear:2023
+epoch:24240.03629623
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30805
+meananomly:86.9763
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2251587364
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0049
+eccentricity:0.0001343
+argumentofperigree:273.0926
+nickname:STARLINK-30805
+idesg:23170J  
+cosparid:2023-170J
+altkm:558.81750795828
+velkms:7.5838860349874
+velkmh:27302
+onumepoch:4609
+onumnow:69276.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T00:52:16+00:00
+nowjuliandate:2460551.1968532
+nowepochdate:24241.6968518518
+TLE:
+STARLINK-30805
+1 58214U 23170J   24240.03629623  .00004165  00000+0  32322-3 0  9996
+2 58214  43.0049 356.8742 0001343 273.0926  86.9763 15.02533870 46099

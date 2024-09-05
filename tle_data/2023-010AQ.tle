@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55307
+launchyear:2023
+epoch:24242.41298459
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5288
+meananomly:92.7766
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1750705487
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0011
+eccentricity:0.0003284
+argumentofperigree:267.3017
+nickname:STARLINK-5288
+idesg:23010AQ 
+cosparid:2023-010AQ
+altkm:574.57327698063
+velkms:7.5737505473639
+velkmh:27266
+onumepoch:8997
+onumnow:134816.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:54:42+00:00
+nowjuliandate:2460552.6377765
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5288
+1 55307U 23010AQ  24242.41298459  .00003727  00000+0  31993-3 0  9998
+2 55307  70.0011 329.7106 0003284 267.3017  92.7766 14.98336433 89976

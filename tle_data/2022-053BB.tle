@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52705
+launchyear:2022
+epoch:24241.93693582
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3844
+meananomly:273.1347
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8341218363
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.000142
+argumentofperigree:86.9808
+nickname:STARLINK-3844
+idesg:22053BB 
+cosparid:2022-053BB
+altkm:540.54081943877
+velkms:7.5933071617962
+velkmh:27336
+onumepoch:12711
+onumnow:191808.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:29:11+00:00
+nowjuliandate:2460552.6379018
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3844
+1 52705U 22053BB  24241.93693582  .00004145  00000+0  27822-3 0  9996
+2 52705  53.2162 117.9710 0001420  86.9808 273.1347 15.08855812127114

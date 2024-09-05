@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53007
+launchyear:2022
+epoch:24242.24238172
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4215
+meananomly:272.1297
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8796464288
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001397
+argumentofperigree:87.9855
+nickname:STARLINK-4215
+idesg:22076X  
+cosparid:2022-076X
+altkm:540.60422727106
+velkms:7.5932625145912
+velkmh:27336
+onumepoch:11916
+onumnow:179807.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:49:02+00:00
+nowjuliandate:2460552.6378868
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4215
+1 53007U 22076X   24242.24238172  .00000090  00000+0  23717-4 0  9997
+2 53007  53.2170  76.5983 0001397  87.9855 272.1297 15.08840918119167

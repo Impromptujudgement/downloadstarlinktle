@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56472
+launchyear:2023
+epoch:24242.28935269
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5038
+meananomly:90.0772
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1708927244
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9988
+eccentricity:0.000296
+argumentofperigree:270.0048
+nickname:STARLINK-5038
+idesg:23064AA 
+cosparid:2023-064AA
+altkm:574.46098475353
+velkms:7.5738706293057
+velkmh:27266
+onumepoch:7260
+onumnow:108792.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:56:40+00:00
+nowjuliandate:2460552.6376974
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5038
+1 56472U 23064AA  24242.28935269  .00001082  00000+0  98427-4 0  9991
+2 56472  69.9988  89.9606 0002960 270.0048  90.0772 14.98337784 72605

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49409
+launchyear:2021
+epoch:24242.64764133
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3075
+meananomly:266.2521
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8805817479
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2139
+eccentricity:0.0001248
+argumentofperigree:93.8613
+nickname:STARLINK-3075
+idesg:21104B  
+cosparid:2021-104B
+altkm:540.69715900657
+velkms:7.5931610559778
+velkmh:27335
+onumepoch:15563
+onumnow:234828.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:32:36+00:00
+nowjuliandate:2460552.6379971
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3075
+1 49409U 21104B   24242.64764133 -.00000186  00000+0  63937-5 0  9990
+2 49409  53.2139 209.7788 0001248  93.8613 266.2521 15.08840612155636

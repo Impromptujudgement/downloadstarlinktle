@@ -1,0 +1,38 @@
+date:2024-08-28T23:00:38+00:00
+validtle:1
+satid:57459
+launchyear:2023
+epoch:24241.42412673
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30185
+meananomly:92.2343
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2075063957
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9983
+eccentricity:8.89E-5
+argumentofperigree:267.8398
+nickname:STARLINK-30185
+idesg:23107C  
+cosparid:2023-107C
+altkm:558.87223352056
+velkms:7.5838166148902
+velkmh:27302
+onumepoch:6113
+onumnow:91873.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:10:45+00:00
+nowjuliandate:2460551.4587801
+nowepochdate:24242.9587731481
+TLE:
+STARLINK-30185
+1 57459U 23107C   24241.42412673  .00001407  00000+0  11920-3 0  9992
+2 57459  42.9983 132.6082 0000889 267.8398  92.2343 15.02539605 61137

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49418
+launchyear:2021
+epoch:24242.62556191
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3111
+meananomly:263.0823
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8797228437
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001392
+argumentofperigree:97.0327
+nickname:STARLINK-3111
+idesg:21104L  
+cosparid:2021-104L
+altkm:540.75597593037
+velkms:7.5930960491743
+velkmh:27335
+onumepoch:15563
+onumnow:234828.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:00:49+00:00
+nowjuliandate:2460552.6379951
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3111
+1 49418U 21104L   24242.62556191  .00000637  00000+0  58105-4 0  9991
+2 49418  53.2149 209.8782 0001392  97.0327 263.0823 15.08840893155631

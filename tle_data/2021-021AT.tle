@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:01+00:00
+validtle:1
+satid:47901
+launchyear:2021
+epoch:24241.31325255
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2361
+meananomly:268.3939
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.304917755
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001823
+argumentofperigree:91.7258
+nickname:STARLINK-2361
+idesg:21021AT 
+cosparid:2021-021AT
+altkm:548.08255120282
+velkms:7.5891260809003
+velkmh:27321
+onumepoch:19216
+onumnow:289500.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:31:05+00:00
+nowjuliandate:2460552.6382126
+nowepochdate:24243.1382060185
+TLE:
+STARLINK-2361
+1 47901U 21021AT  24241.31325255  .00001925  00000+0  14804-3 0  9992
+2 47901  53.0536 248.3537 0001823  91.7258 268.3939 15.06414913192166

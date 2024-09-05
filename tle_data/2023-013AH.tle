@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55362
+launchyear:2023
+epoch:24242.23176791
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5574
+meananomly:94.8270
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1965610774
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001125
+argumentofperigree:265.2443
+nickname:STARLINK-5574
+idesg:23013AH 
+cosparid:2023-013AH
+altkm:558.90338507702
+velkms:7.5837766116779
+velkmh:27302
+onumepoch:8843
+onumnow:132883.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:33:45+00:00
+nowjuliandate:2460552.6377712
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5574
+1 55362U 23013AH  24242.23176791  .00000356  00000+0  41404-4 0  9990
+2 55362  43.0022  76.3587 0001125 265.2443  94.8270 15.02543161 88436

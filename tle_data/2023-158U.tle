@@ -1,0 +1,38 @@
+date:2024-08-28T18:20:31+00:00
+validtle:1
+satid:58069
+launchyear:2023
+epoch:24241.47511233
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30480
+meananomly:95.0180
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1756940056
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:42.998
+eccentricity:0.0001037
+argumentofperigree:265.0552
+nickname:STARLINK-30480
+idesg:23158U  
+cosparid:2023-158U
+altkm:487.87634641996
+velkms:7.6229784733471
+velkmh:27443
+onumepoch:4990
+onumnow:76147.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:24:10+00:00
+nowjuliandate:2460551.2642538
+nowepochdate:24241.7642476852
+TLE:
+STARLINK-30480
+1 58069U 23158U   24241.47511233  .00001892  00000+0  82118-4 0  9999
+2 58069  42.9980 154.3809 0001037 265.0552  95.0180 15.25915864 49909

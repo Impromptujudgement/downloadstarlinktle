@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49155
+launchyear:2021
+epoch:24242.65161199
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3060
+meananomly:91.0414
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1829066919
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0002963
+argumentofperigree:269.0406
+nickname:STARLINK-3060
+idesg:21082AB 
+cosparid:2021-082AB
+altkm:574.50768905656
+velkms:7.5738262767543
+velkmh:27266
+onumepoch:16460
+onumnow:246633.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:38:19+00:00
+nowjuliandate:2460552.6380066
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3060
+1 49155U 21082AB  24242.65161199  .00000111  00000+0  17077-4 0  9997
+2 49155  69.9993 218.9491 0002963 269.0406  91.0414 14.98333899164605

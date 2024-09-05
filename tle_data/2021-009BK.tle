@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47605
+launchyear:2021
+epoch:22173.02157953
+epochday:173
+tleage:800
+tleclassification:C
+active:0
+name:STARLINK-2023
+meananomly:317.4823
+meanmotion:15.9473
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6667.1951515614
+altitudeatperigee:284
+altitudeatapogee:294
+inclination:53.0384
+eccentricity:0.0006979
+argumentofperigree:5.9435
+nickname:STARLINK-2023
+idesg:21009BK 
+cosparid:2021-009BK
+altkm:294.2566703965
+velkms:7.7329571787288
+velkmh:27839
+onumepoch:1
+onumnow:33028.82
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-06-22T00:31:04+00:00
+nowjuliandate:2460552.6394704
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2023
+1 47605C 21009BK  22173.02157953  .00247885  00000-0  61940-3 0  1732
+2 47605  53.0384 250.7373 0006979   5.9435 317.4823 15.94733823    15

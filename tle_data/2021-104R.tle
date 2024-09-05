@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49423
+launchyear:2021
+epoch:24242.61822622
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3149
+meananomly:261.6051
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8825165756
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.000143
+argumentofperigree:98.5103
+nickname:STARLINK-3149
+idesg:21104R  
+cosparid:2021-104R
+altkm:540.78740769889
+velkms:7.5930630911226
+velkmh:27335
+onumepoch:15561
+onumnow:234798.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:50:15+00:00
+nowjuliandate:2460552.6379943
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3149
+1 49423U 21104R   24242.61822622  .00000723  00000+0  63500-4 0  9992
+2 49423  53.2167 210.1061 0001430  98.5103 261.6051 15.08839979155611

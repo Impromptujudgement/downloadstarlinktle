@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51149
+launchyear:2022
+epoch:24242.37993549
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3360
+meananomly:256.8313
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8684348509
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001508
+argumentofperigree:103.2848
+nickname:STARLINK-3360
+idesg:22005AX 
+cosparid:2022-005AX
+altkm:540.86658684321
+velkms:7.5929685022115
+velkmh:27335
+onumepoch:14557
+onumnow:219651.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:07:06+00:00
+nowjuliandate:2460552.6379738
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3360
+1 51149U 22005AX  24242.37993549  .00001290  00000+0  99106-4 0  9992
+2 51149  53.2169 290.8004 0001508 103.2848 256.8313 15.08844586145570

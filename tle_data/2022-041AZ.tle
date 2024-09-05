@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52308
+launchyear:2022
+epoch:23274.2967956
+epochday:274
+tleage:334
+tleclassification:U
+active:0
+name:STARLINK-3745
+meananomly:217.7027
+meanmotion:15.0970
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6915.2633754646
+altitudeatperigee:537
+altitudeatapogee:538
+inclination:53.2154
+eccentricity:5.87E-5
+argumentofperigree:142.4007
+nickname:STARLINK-3745
+idesg:22041AZ 
+cosparid:2022-041AZ
+altkm:538.34506804893
+velkms:7.594308995777
+velkmh:27340
+onumepoch:8144
+onumnow:137576.31
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-10-01T07:07:23+00:00
+nowjuliandate:2460552.6379334
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3745
+1 52308U 22041AZ  23274.29679560  .00043064  00000+0  26447-2 0  9990
+2 52308  53.2154 126.2174 0000587 142.4007 217.7027 15.09697265 81444

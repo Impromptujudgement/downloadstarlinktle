@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56101
+launchyear:2023
+epoch:24241.88999998
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6095
+meananomly:85.2401
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1856681278
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001158
+argumentofperigree:274.8309
+nickname:STARLINK-6095
+idesg:23046J  
+cosparid:2023-046J
+altkm:558.76009918639
+velkms:7.583927240357
+velkmh:27302
+onumepoch:7869
+onumnow:118254.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:21:36+00:00
+nowjuliandate:2460552.6377152
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6095
+1 56101U 23046J   24241.88999998 -.00000477  00000+0 -20266-4 0  9999
+2 56101  43.0015 309.9521 0001158 274.8309  85.2401 15.02546700 78695

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53831
+launchyear:2022
+epoch:24242.42546463
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4649
+meananomly:261.7536
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9103562369
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001362
+argumentofperigree:98.361
+nickname:STARLINK-4649
+idesg:22114P  
+cosparid:2022-114P
+altkm:540.80583390264
+velkms:7.5930581177877
+velkmh:27335
+onumepoch:10816
+onumnow:163205.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:12:40+00:00
+nowjuliandate:2460552.6378176
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4649
+1 53831U 22114P   24242.42546463 -.00001995  00000+0 -10729-3 0  9995
+2 53831  53.2156 285.7636 0001362  98.3610 261.7536 15.08830871108167

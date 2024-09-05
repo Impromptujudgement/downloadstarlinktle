@@ -1,0 +1,38 @@
+date:2024-08-29T05:57:37+00:00
+validtle:1
+satid:57256
+launchyear:2023
+epoch:24241.07862566
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5512
+meananomly:97.5122
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2355101089
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0014
+eccentricity:0.0001034
+argumentofperigree:262.5603
+nickname:STARLINK-5512
+idesg:23094AQ 
+cosparid:2023-094AQ
+altkm:558.97032746816
+velkms:7.5837246948837
+velkmh:27301
+onumepoch:6324
+onumnow:95037.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:53:13+00:00
+nowjuliandate:2460551.7483511
+nowepochdate:24242.2483449074
+TLE:
+STARLINK-5512
+1 57256U 23094AQ  24241.07862566  .00002298  00000+0  18514-3 0  9998
+2 57256  43.0014 172.3971 0001034 262.5603  97.5122 15.02530507 63240

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48312
+launchyear:2021
+epoch:24242.2393397
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2061
+meananomly:277.9410
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3203399033
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0556
+eccentricity:0.0001261
+argumentofperigree:82.1722
+nickname:STARLINK-2061
+idesg:21036AN 
+cosparid:2021-036AN
+altkm:547.94202639563
+velkms:7.5892884573902
+velkmh:27321
+onumepoch:18479
+onumnow:278383.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:44:39+00:00
+nowjuliandate:2460552.6380435
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2061
+1 48312U 21036AN  24242.23933970  .00003381  00000+0  24567-3 0  9991
+2 48312  53.0556  74.1076 0001261  82.1722 277.9410 15.06409881184792

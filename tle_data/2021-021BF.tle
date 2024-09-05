@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:58+00:00
+validtle:1
+satid:47913
+launchyear:2021
+epoch:24241.7795793
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2374
+meananomly:267.9520
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3422381529
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001304
+argumentofperigree:92.1618
+nickname:STARLINK-2374
+idesg:21021BF 
+cosparid:2021-021BF
+altkm:548.11651972394
+velkms:7.5891092715208
+velkmh:27321
+onumepoch:19196
+onumnow:289189.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:42:36+00:00
+nowjuliandate:2460552.6381734
+nowepochdate:24243.1381712963
+TLE:
+STARLINK-2374
+1 47913U 21021BF  24241.77957930  .00001989  00000+0  15236-3 0  9996
+2 47913  53.0525 266.6473 0001304  92.1618 267.9520 15.06402736191966

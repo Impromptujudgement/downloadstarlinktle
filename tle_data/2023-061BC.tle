@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56424
+launchyear:2023
+epoch:24241.53623254
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6242
+meananomly:85.7502
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2138132086
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:9.84E-5
+argumentofperigree:274.3227
+nickname:STARLINK-6242
+idesg:23061BC 
+cosparid:2023-061BC
+altkm:558.8044202909
+velkms:7.5838941513945
+velkmh:27302
+onumepoch:7309
+onumnow:109844.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:52:10+00:00
+nowjuliandate:2460552.6377013
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6242
+1 56424U 23061BC  24241.53623254  .00000233  00000+0  32310-4 0  9996
+2 56424  43.0026 324.3315 0000984 274.3227  85.7502 15.02537556 73092

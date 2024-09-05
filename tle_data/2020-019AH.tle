@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45391
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1289
+meananomly:348.3043
+meanmotion:15.7668
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6717.9835723127
+altitudeatperigee:339
+altitudeatapogee:340
+inclination:53.0521
+eccentricity:8.13E-5
+argumentofperigree:110.5047
+nickname:STARLINK-1289
+idesg:20019AH 
+cosparid:2020-019AH
+altkm:345.62634382281
+velkms:7.7082341256395
+velkmh:27750
+onumepoch:24605
+onumnow:387947.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283589
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1289
+1 45391U 20019AH  24243.25001157  .00664396  00000+0  37614-2 0  9996
+2 45391  53.0521 110.2275 0000813 110.5047 348.3043 15.76683599246059

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55274
+launchyear:2023
+epoch:24242.56759827
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5236
+meananomly:87.8669
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2031187246
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0003
+eccentricity:0.0002953
+argumentofperigree:272.2152
+nickname:STARLINK-5236
+idesg:23010F  
+cosparid:2023-010F
+altkm:574.41412714995
+velkms:7.5739392218834
+velkmh:27266
+onumepoch:8950
+onumnow:134108.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:37:20+00:00
+nowjuliandate:2460552.6377745
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5236
+1 55274U 23010F   24242.56759827 -.00000257  00000+0 -13756-4 0  9993
+2 55274  70.0003 349.3221 0002953 272.2152  87.8669 14.98327363 89501

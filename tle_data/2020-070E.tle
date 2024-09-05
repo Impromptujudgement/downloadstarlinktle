@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46536
+launchyear:2020
+epoch:22037.38824254
+epochday:37
+tleage:936
+tleclassification:C
+active:0
+name:STARLINK-1668
+meananomly:219.6254
+meanmotion:15.9613
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6663.3200599496
+altitudeatperigee:277
+altitudeatapogee:293
+inclination:53.0459
+eccentricity:0.0011609
+argumentofperigree:102.6123
+nickname:STARLINK-1668
+idesg:20070E  
+cosparid:2020-070E
+altkm:300.11152183522
+velkms:7.7240956225191
+velkmh:27807
+onumepoch:1
+onumnow:35228.72
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-02-06T09:19:04+00:00
+nowjuliandate:2460553.0282282
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1668
+1 46536C 20070E   22037.38824254  .00295508  00000-0  67972-3 0   379
+2 46536  53.0459 318.5016 0011609 102.6123 219.6254 15.96125165    19

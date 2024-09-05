@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52371
+launchyear:2022
+epoch:24242.0929102
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3798
+meananomly:265.9813
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8543593111
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001335
+argumentofperigree:94.1332
+nickname:STARLINK-3798
+idesg:22045AS 
+cosparid:2022-045AS
+altkm:540.67939243592
+velkms:7.5931661916203
+velkmh:27335
+onumepoch:13173
+onumnow:198776.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:13:47+00:00
+nowjuliandate:2460552.637928
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3798
+1 52371U 22045AS  24242.09291020  .00002047  00000+0  14662-3 0  9992
+2 52371  53.2154 172.2778 0001335  94.1332 265.9813 15.08849191131733

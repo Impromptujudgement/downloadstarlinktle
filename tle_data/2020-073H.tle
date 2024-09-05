@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:15+00:00
+validtle:1
+satid:46677
+launchyear:2020
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1766
+meananomly:132.3025
+meanmotion:15.8471
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6695.2884466164
+altitudeatperigee:315
+altitudeatapogee:319
+inclination:53.0387
+eccentricity:0.0003121
+argumentofperigree:141.6989
+nickname:STARLINK-1766
+idesg:20073H  
+cosparid:2020-073H
+altkm:336.94432933924
+velkms:7.7053007641655
+velkmh:27739
+onumepoch:21441
+onumnow:339780.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6397664
+nowepochdate:24243.1397569444
+TLE:
+STARLINK-1766
+1 46677U 20073H   24242.91667824  .00409971  00000+0  16574-2 0  9993
+2 46677  53.0387 169.0995 0003121 141.6989 132.3025 15.84707153214411

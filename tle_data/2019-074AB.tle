@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:47+00:00
+validtle:1
+satid:44738
+launchyear:2019
+epoch:23274.19965678
+epochday:274
+tleage:334
+tleclassification:U
+active:0
+name:STARLINK-1033
+meananomly:192.2535
+meanmotion:15.9607
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6663.4636117565
+altitudeatperigee:282
+altitudeatapogee:289
+inclination:53.0416
+eccentricity:0.0005202
+argumentofperigree:167.8619
+nickname:STARLINK-1033
+idesg:19074AB 
+cosparid:2019-074AB
+altkm:289.62613059228
+velkms:7.7331136542912
+velkmh:27839
+onumepoch:21543
+onumnow:359313.35
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-10-01T04:47:30+00:00
+nowjuliandate:2460553.0297161
+nowepochdate:24243.5297106481
+TLE:
+STARLINK-1033
+1 44738U 19074AB  23274.19965678  .00472502  10236-3  11263-2 0  9996
+2 44738  53.0416 170.6326 0005202 167.8619 192.2535 15.96073587215432

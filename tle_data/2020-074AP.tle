@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46776
+launchyear:2020
+epoch:23032.08451389
+epochday:32
+tleage:576
+tleclassification:C
+active:0
+name:STARLINK-1946
+meananomly:303.3643
+meanmotion:15.9385
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6669.664418254
+altitudeatperigee:288
+altitudeatapogee:295
+inclination:53.0342
+eccentricity:0.0005216
+argumentofperigree:210.2859
+nickname:STARLINK-1946
+idesg:20074AP 
+cosparid:2020-074AP
+altkm:290.15679669282
+velkms:7.7377700964647
+velkmh:27856
+onumepoch:1
+onumnow:19318.32
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-01T02:01:42+00:00
+nowjuliandate:2460552.6397175
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1946
+1 46776C 20074AP  23032.08451389  .00462368  00000-0  11991-2 0   321
+2 46776  53.0342 256.2772 0005216 210.2859 303.3643 15.93848293    16

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45230
+launchyear:2020
+epoch:24242.58075482
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1227
+meananomly:283.0118
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3299082984
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.054
+eccentricity:8.11E-5
+argumentofperigree:77.0961
+nickname:STARLINK-1227
+idesg:20012BE 
+cosparid:2020-012BE
+altkm:547.94555450728
+velkms:7.5892898227893
+velkmh:27321
+onumepoch:25144
+onumnow:378785.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:56:17+00:00
+nowjuliandate:2460553.0283794
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1227
+1 45230U 20012BE  24242.58075482  .00021773  00000+0  14758-2 0  9998
+2 45230  53.0540 347.5773 0000811  77.0961 283.0118 15.06406759251441

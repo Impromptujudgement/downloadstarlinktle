@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53201
+launchyear:2022
+epoch:24242.41008734
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4405
+meananomly:162.4159
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.134627953
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6527
+eccentricity:0.0004375
+argumentofperigree:197.6914
+nickname:STARLINK-4405
+idesg:22084N  
+cosparid:2022-084N
+altkm:568.95089429464
+velkms:7.5749561110616
+velkmh:27270
+onumepoch:11608
+onumnow:174277.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:50:32+00:00
+nowjuliandate:2460552.6378702
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4405
+1 53201U 22084N   24242.41008734  .00000143  00000+0  15760-4 0  9998
+2 53201  97.6527 302.1954 0004375 197.6914 162.4159 15.01264636116087

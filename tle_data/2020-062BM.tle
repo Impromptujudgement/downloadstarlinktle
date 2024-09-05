@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46384
+launchyear:2020
+epoch:24242.03799581
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1771
+meananomly:278.5248
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3514357759
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001253
+argumentofperigree:81.5883
+nickname:STARLINK-1771
+idesg:20062BM 
+cosparid:2020-062BM
+altkm:547.96479933297
+velkms:7.5892805085814
+velkmh:27321
+onumepoch:22025
+onumnow:331806.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:54:43+00:00
+nowjuliandate:2460553.0282432
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1771
+1 46384U 20062BM  24242.03799581  .00011379  00000+0  78155-3 0  9990
+2 46384  53.0525   0.0130 0001253  81.5883 278.5248 15.06399735220250

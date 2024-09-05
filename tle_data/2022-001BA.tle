@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50851
+launchyear:2022
+epoch:24241.50775179
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3314
+meananomly:270.0251
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8640700505
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.000123
+argumentofperigree:90.0882
+nickname:STARLINK-3314
+idesg:22001BA 
+cosparid:2022-001BA
+altkm:540.62418453485
+velkms:7.59323208681
+velkmh:27336
+onumepoch:14600
+onumnow:220314.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:11:10+00:00
+nowjuliandate:2460552.6379781
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3314
+1 50851U 22001BA  24241.50775179  .00001941  00000+0  13996-3 0  9993
+2 50851  53.2172 164.8226 0001230  90.0882 270.0251 15.08846014146008

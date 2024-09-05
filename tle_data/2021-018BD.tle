@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:33+00:00
+validtle:1
+satid:47838
+launchyear:2021
+epoch:24242.19142806
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2429
+meananomly:262.4183
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3548745485
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.0001365
+argumentofperigree:97.6961
+nickname:STARLINK-2429
+idesg:21018BD 
+cosparid:2021-018BD
+altkm:548.22157853706
+velkms:7.5890010906329
+velkmh:27320
+onumepoch:19223
+onumnow:289589.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:35:39+00:00
+nowjuliandate:2460552.6392769
+nowepochdate:24243.1392708333
+TLE:
+STARLINK-2429
+1 47838U 21018BD  24242.19142806  .00001111  00000+0  93469-4 0  9995
+2 47838  53.0522 234.3221 0001365  97.6961 262.4183 15.06398613192234

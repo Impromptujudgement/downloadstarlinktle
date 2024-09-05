@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45569
+launchyear:2020
+epoch:24242.77979007
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1366
+meananomly:276.6019
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3013441931
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001503
+argumentofperigree:83.5142
+nickname:STARLINK-1366
+idesg:20025AQ 
+cosparid:2020-025AQ
+altkm:547.92412110675
+velkms:7.5892976883517
+velkmh:27321
+onumepoch:24142
+onumnow:363690.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:42:54+00:00
+nowjuliandate:2460553.0283397
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1366
+1 45569U 20025AQ  24242.77979007  .00002518  00000+0  18781-3 0  9991
+2 45569  53.0563  66.6853 0001503  83.5142 276.6019 15.06416079241422

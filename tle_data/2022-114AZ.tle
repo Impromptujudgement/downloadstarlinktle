@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53865
+launchyear:2022
+epoch:24242.33896132
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4785
+meananomly:267.2714
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8875446887
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001672
+argumentofperigree:92.847
+nickname:STARLINK-4785
+idesg:22114AZ 
+cosparid:2022-114AZ
+altkm:540.70326960068
+velkms:7.5931581648018
+velkmh:27335
+onumepoch:10843
+onumnow:163614.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:08:06+00:00
+nowjuliandate:2460552.6378201
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4785
+1 53865U 22114AZ  24242.33896132 -.00000342  00000+0 -33685-5 0  9996
+2 53865  53.2181 265.9605 0001672  92.8470 267.2714 15.08838334108436

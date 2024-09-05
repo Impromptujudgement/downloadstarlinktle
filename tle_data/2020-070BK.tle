@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46589
+launchyear:2020
+epoch:24242.40842959
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1749
+meananomly:324.2345
+meanmotion:15.0634
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.5243144737
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0527
+eccentricity:0.0002559
+argumentofperigree:35.8815
+nickname:STARLINK-1749
+idesg:20070BK 
+cosparid:2020-070BK
+altkm:546.82836253234
+velkms:7.5906200757971
+velkmh:27326
+onumepoch:21578
+onumnow:325055.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:48:08+00:00
+nowjuliandate:2460553.0282281
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1749
+1 46589U 20070BK  24242.40842959  .00057946  00000+0  38830-2 0  9990
+2 46589  53.0527 138.3424 0002559  35.8815 324.2345 15.06343330215786

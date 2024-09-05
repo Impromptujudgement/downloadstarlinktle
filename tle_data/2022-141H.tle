@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54164
+launchyear:2022
+epoch:24241.6103582
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5278
+meananomly:267.8385
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8280882182
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001313
+argumentofperigree:92.2758
+nickname:STARLINK-5278
+idesg:22141H  
+cosparid:2022-141H
+altkm:540.62297383493
+velkms:7.5932137123166
+velkmh:27336
+onumepoch:10160
+onumnow:153323.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:38:55+00:00
+nowjuliandate:2460552.6377932
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5278
+1 54164U 22141H   24241.61035820 -.00000279  00000+0  58036-6 0  9994
+2 54164  53.2184 349.6484 0001313  92.2758 267.8385 15.08857786101606

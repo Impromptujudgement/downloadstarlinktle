@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54873
+launchyear:2022
+epoch:24241.36558916
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5091
+meananomly:97.3157
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.216303311
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001451
+argumentofperigree:262.7521
+nickname:STARLINK-5091
+idesg:22177BF 
+cosparid:2022-177BF
+altkm:558.98565593871
+velkms:7.5836974778235
+velkmh:27301
+onumepoch:9312
+onumnow:139942.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:46:27+00:00
+nowjuliandate:2460552.637781
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5091
+1 54873U 22177BF  24241.36558916  .00001678  00000+0  13924-3 0  9995
+2 54873  43.0021 273.6869 0001451 262.7521  97.3157 15.02536747 93123

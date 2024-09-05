@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49765
+launchyear:2021
+epoch:24241.96502293
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3227
+meananomly:283.0372
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8021444214
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001313
+argumentofperigree:77.0767
+nickname:STARLINK-3227
+idesg:21115AT 
+cosparid:2021-115AT
+altkm:540.35756754726
+velkms:7.5934907330439
+velkmh:27337
+onumepoch:15259
+onumnow:230255.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:09:38+00:00
+nowjuliandate:2460552.6379914
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3227
+1 49765U 21115AT  24241.96502293 -.00003820  00000+0 -22190-3 0  9991
+2 49765  53.2155 122.8573 0001313  77.0767 283.0372 15.08866274152598

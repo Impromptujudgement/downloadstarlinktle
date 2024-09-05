@@ -1,0 +1,38 @@
+date:2024-08-28T21:57:07+00:00
+validtle:1
+satid:57644
+launchyear:2023
+epoch:24240.74686132
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30247
+meananomly:91.6075
+meanmotion:15.0251
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2955845369
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001383
+argumentofperigree:268.4609
+nickname:STARLINK-30247
+idesg:23122N  
+cosparid:2023-122N
+altkm:558.96369671827
+velkms:7.5837646829653
+velkmh:27302
+onumepoch:5810
+onumnow:87313.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:55:29+00:00
+nowjuliandate:2460551.414665
+nowepochdate:24241.9146643519
+TLE:
+STARLINK-30247
+1 57644U 23122N   24240.74686132 -.00002059  00000+0 -13751-3 0  9992
+2 57644  43.0022 251.6674 0001383 268.4609  91.6075 15.02510990 58104

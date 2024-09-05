@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48390
+launchyear:2021
+epoch:24242.5296247
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2586
+meananomly:298.9439
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3754980789
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001463
+argumentofperigree:61.1697
+nickname:STARLINK-2586
+idesg:21038AP 
+cosparid:2021-038AP
+altkm:547.62719081951
+velkms:7.5896635235711
+velkmh:27323
+onumepoch:18391
+onumnow:277049.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:42:40+00:00
+nowjuliandate:2460552.6380353
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2586
+1 48390U 21038AP  24242.52962470  .00026789  00000+0  18109-2 0  9999
+2 48390  53.0527 322.8058 0001463  61.1697 298.9439 15.06391884183911

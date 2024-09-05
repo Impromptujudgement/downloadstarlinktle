@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52565
+launchyear:2022
+epoch:24241.90335755
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3911
+meananomly:269.5769
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8387525096
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2141
+eccentricity:0.0001542
+argumentofperigree:90.54
+nickname:STARLINK-3911
+idesg:22051AJ 
+cosparid:2022-051AJ
+altkm:540.60684695209
+velkms:7.5932372468498
+velkmh:27336
+onumepoch:12744
+onumnow:192307.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:40:50+00:00
+nowjuliandate:2460552.6379162
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3911
+1 52565U 22051AJ  24241.90335755  .00002853  00000+0  19718-3 0  9999
+2 52565  53.2141 103.1225 0001542  90.5400 269.5769 15.08854297127446

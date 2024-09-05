@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54823
+launchyear:2022
+epoch:24241.81414347
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5106
+meananomly:75.9812
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2029355812
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0012
+eccentricity:0.0001189
+argumentofperigree:284.0898
+nickname:STARLINK-5106
+idesg:22177D  
+cosparid:2022-177D
+altkm:558.64420524534
+velkms:7.5840632891092
+velkmh:27303
+onumepoch:9303
+onumnow:139801.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:32:22+00:00
+nowjuliandate:2460552.6377808
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5106
+1 54823U 22177D   24241.81414347  .00001047  00000+0  92557-4 0  9999
+2 54823  43.0012 284.9100 0001189 284.0898  75.9812 15.02541090 93030

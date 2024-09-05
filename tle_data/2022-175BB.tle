@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54807
+launchyear:2022
+epoch:24241.67605341
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5410
+meananomly:216.1819
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.7938032124
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2192
+eccentricity:6.94E-5
+argumentofperigree:143.922
+nickname:STARLINK-5410
+idesg:22175BB 
+cosparid:2022-175BB
+altkm:540.94192011045
+velkms:7.5928449756145
+velkmh:27334
+onumepoch:9373
+onumnow:141448.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:13:31+00:00
+nowjuliandate:2460552.6377879
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5410
+1 54807U 22175BB  24241.67605341 -.00014224  00000+0 -87670-3 0  9991
+2 54807  53.2192  13.7764 0000694 143.9220 216.1819 15.08869003 93736

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48697
+launchyear:2021
+epoch:23282.52438705
+epochday:282
+tleage:326
+tleclassification:U
+active:0
+name:STARLINK-2715
+meananomly:312.4385
+meanmotion:15.0718
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6922.9578203175
+altitudeatperigee:544
+altitudeatapogee:545
+inclination:53.0536
+eccentricity:7.11E-5
+argumentofperigree:47.6664
+nickname:STARLINK-2715
+idesg:21044BM 
+cosparid:2021-044BM
+altkm:545.36800754702
+velkms:7.5908172188314
+velkmh:27327
+onumepoch:13116
+onumnow:212160.05
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-10-09T12:35:07+00:00
+nowjuliandate:2460552.6380101
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2715
+1 48697U 21044BM  23282.52438705  .00045985  00000+0  30216-2 0  9990
+2 48697  53.0536  91.7992 0000711  47.6664 312.4385 15.07181060131164

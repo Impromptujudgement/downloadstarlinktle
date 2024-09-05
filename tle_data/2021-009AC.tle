@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47574
+launchyear:2021
+epoch:24242.67889375
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1976
+meananomly:297.7990
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3353759676
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0576
+eccentricity:5.4E-5
+argumentofperigree:62.3054
+nickname:STARLINK-1976
+idesg:21009AC 
+cosparid:2021-009AC
+altkm:547.90341754312
+velkms:7.5893389740234
+velkmh:27322
+onumepoch:19715
+onumnow:296994.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:17:36+00:00
+nowjuliandate:2460552.6394948
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1976
+1 47574U 21009AC  24242.67889375  .00018028  00000+0  12259-2 0  9995
+2 47574  53.0576  22.1311 0000540  62.3054 297.7990 15.06404975197151

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48569
+launchyear:2021
+epoch:24242.38309573
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2219
+meananomly:256.9995
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2769392794
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0551
+eccentricity:4.81E-5
+argumentofperigree:103.1048
+nickname:STARLINK-2219
+idesg:21041S  
+cosparid:2021-041S
+altkm:548.09405940741
+velkms:7.5890981775546
+velkmh:27321
+onumepoch:18160
+onumnow:273577.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:11:39+00:00
+nowjuliandate:2460552.6380161
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2219
+1 48569U 21041S   24242.38309573  .00026224  00000+0  17717-2 0  9992
+2 48569  53.0551 113.4649 0000481 103.1048 256.9995 15.06424042181600

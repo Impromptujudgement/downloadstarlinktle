@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55750
+launchyear:2023
+epoch:24242.2029523
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5573
+meananomly:90.2835
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1798390278
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0003033
+argumentofperigree:269.7977
+nickname:STARLINK-5573
+idesg:23028K  
+cosparid:2023-028K
+altkm:574.47764895518
+velkms:7.5738573396394
+velkmh:27266
+onumepoch:8253
+onumnow:123671.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:52:15+00:00
+nowjuliandate:2460552.6377345
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5573
+1 55750U 23028K   24242.20295230  .00000492  00000+0  49029-4 0  9996
+2 55750  69.9993 210.0917 0003033 269.7977  90.2835 14.98334891 82530

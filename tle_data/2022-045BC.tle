@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52381
+launchyear:2022
+epoch:24242.5225257
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3803
+meananomly:278.1658
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8845339329
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001763
+argumentofperigree:81.9534
+nickname:STARLINK-3803
+idesg:22045BC 
+cosparid:2022-045BC
+altkm:540.47186295473
+velkms:7.5934104312803
+velkmh:27336
+onumepoch:13181
+onumnow:198889.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:32:26+00:00
+nowjuliandate:2460552.6379264
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3803
+1 52381U 22045BC  24242.52252570  .00000109  00000+0  24920-4 0  9994
+2 52381  53.2169 170.3462 0001763  81.9534 278.1658 15.08839319131815

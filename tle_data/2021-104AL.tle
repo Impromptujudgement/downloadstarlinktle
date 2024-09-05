@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49442
+launchyear:2021
+epoch:24242.14163971
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3098
+meananomly:266.8238
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8815506899
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001455
+argumentofperigree:93.2921
+nickname:STARLINK-3098
+idesg:21104AL 
+cosparid:2021-104AL
+altkm:540.69775561081
+velkms:7.5931609324365
+velkmh:27335
+onumepoch:15582
+onumnow:235122.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:23:58+00:00
+nowjuliandate:2460552.6379987
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3098
+1 49442U 21104AL  24242.14163971  .00000237  00000+0  32996-4 0  9991
+2 49442  53.2164 192.0520 0001455  93.2921 266.8238 15.08840295155824

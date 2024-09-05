@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50828
+launchyear:2022
+epoch:24242.06897656
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3290
+meananomly:267.7672
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8145997365
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2159
+eccentricity:0.0001156
+argumentofperigree:92.3452
+nickname:STARLINK-3290
+idesg:22001AB 
+cosparid:2022-001AB
+altkm:540.60610255674
+velkms:7.5932248379969
+velkmh:27336
+onumepoch:14750
+onumnow:222571.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:39:20+00:00
+nowjuliandate:2460552.6379816
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3290
+1 50828U 22001AB  24242.06897656  .00007319  00000+0  47714-3 0  9994
+2 50828  53.2159 152.2709 0001156  92.3452 267.7672 15.08862199147507

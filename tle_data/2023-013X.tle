@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55352
+launchyear:2023
+epoch:24242.2891085
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5547
+meananomly:82.7883
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1716634094
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001592
+argumentofperigree:277.2778
+nickname:STARLINK-5547
+idesg:23013X  
+cosparid:2023-013X
+altkm:558.67441555501
+velkms:7.5840132344206
+velkmh:27302
+onumepoch:8829
+onumnow:132673.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:56:19+00:00
+nowjuliandate:2460552.6377659
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5547
+1 55352U 23013X   24242.28910850 -.00002597  00000+0 -17717-3 0  9996
+2 55352  43.0034  88.9448 0001592 277.2778  82.7883 15.02551250 88293

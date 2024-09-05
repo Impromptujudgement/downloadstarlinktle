@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52107
+launchyear:2022
+epoch:24241.22257017
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3658
+meananomly:274.1656
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9232063463
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.00018
+argumentofperigree:85.9541
+nickname:STARLINK-3658
+idesg:22029V  
+cosparid:2022-029V
+altkm:540.59321215851
+velkms:7.59329845333
+velkmh:27336
+onumepoch:13647
+onumnow:205938.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:20:30+00:00
+nowjuliandate:2460552.6379366
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3658
+1 52107U 22029V   24241.22257017 -.00000808  00000+0 -32711-4 0  9994
+2 52107  53.2158  66.1743 0001800  85.9541 274.1656 15.08826667136470

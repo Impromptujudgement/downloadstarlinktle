@@ -1,0 +1,38 @@
+date:2024-08-29T09:09:51+00:00
+validtle:1
+satid:56700
+launchyear:2023
+epoch:24241.23932944
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30053
+meananomly:92.1975
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2282152037
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001501
+argumentofperigree:267.8696
+nickname:STARLINK-30053
+idesg:23067N  
+cosparid:2023-067N
+altkm:558.90936664461
+velkms:7.5837873287277
+velkmh:27302
+onumepoch:7165
+onumnow:107673.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:44:38+00:00
+nowjuliandate:2460551.8818443
+nowepochdate:24242.3818402778
+TLE:
+STARLINK-30053
+1 56700U 23067N   24241.23932944  .00002047  00000+0  16658-3 0  9996
+2 56700  43.0023  69.0059 0001501 267.8696  92.1975 15.02532877 71654

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53557
+launchyear:2022
+epoch:24242.18626814
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4502
+meananomly:262.5198
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8537510538
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.211
+eccentricity:0.0001843
+argumentofperigree:97.6003
+nickname:STARLINK-4502
+idesg:22101AG 
+cosparid:2022-101AG
+altkm:540.77968595642
+velkms:7.5930558110662
+velkmh:27335
+onumepoch:11214
+onumnow:169216.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:28:14+00:00
+nowjuliandate:2460552.63785
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4502
+1 53557U 22101AG  24242.18626814  .00006286  00000+0  41256-3 0  9993
+2 53557  53.2110  46.8461 0001843  97.6003 262.5198 15.08849390112148

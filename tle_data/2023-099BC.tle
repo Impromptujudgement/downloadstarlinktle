@@ -1,0 +1,38 @@
+date:2024-08-29T04:58:48+00:00
+validtle:1
+satid:57378
+launchyear:2023
+epoch:24241.05674484
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6364
+meananomly:85.5329
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2113077185
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001065
+argumentofperigree:274.5392
+nickname:STARLINK-6364
+idesg:23099BC 
+cosparid:2023-099BC
+altkm:558.79495829503
+velkms:7.5839031248266
+velkmh:27302
+onumepoch:6327
+onumnow:95093.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:21:43+00:00
+nowjuliandate:2460551.7075012
+nowepochdate:24242.9008.2075
+TLE:
+STARLINK-6364
+1 57378U 23099BC  24241.05674484  .00000995  00000+0  88683-4 0  9993
+2 57378  43.0026   5.3887 0001065 274.5392  85.5329 15.02538370 63276

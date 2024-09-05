@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55787
+launchyear:2023
+epoch:24242.18162938
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5811
+meananomly:92.9514
+meanmotion:14.9835
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.135367556
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0009
+eccentricity:0.0002678
+argumentofperigree:267.1338
+nickname:STARLINK-5811
+idesg:23028AY 
+cosparid:2023-028AY
+altkm:574.51859438707
+velkms:7.5737885263543
+velkmh:27266
+onumepoch:8350
+onumnow:125126.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:21:33+00:00
+nowjuliandate:2460552.6377354
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5811
+1 55787U 23028AY  24242.18162938 -.00000102  00000+0 -73272-6 0  9990
+2 55787  70.0009 170.2645 0002678 267.1338  92.9514 14.98349272 83503

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45696
+launchyear:2020
+epoch:24242.18174629
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1422
+meananomly:278.6725
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3118166426
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001794
+argumentofperigree:81.4467
+nickname:STARLINK-1422
+idesg:20035AR 
+cosparid:2020-035AR
+altkm:547.86649982237
+velkms:7.5893665381003
+velkmh:27322
+onumepoch:23483
+onumnow:353771.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:21:43+00:00
+nowjuliandate:2460553.0283231
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1422
+1 45696U 20035AR  24242.18174629  .00000124  00000+0  27244-4 0  9991
+2 45696  53.0516  39.3698 0001794  81.4467 278.6725 15.06412662234831

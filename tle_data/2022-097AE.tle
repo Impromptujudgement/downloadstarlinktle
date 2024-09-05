@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53416
+launchyear:2022
+epoch:24242.33252784
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4480
+meananomly:266.8697
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8347025804
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001475
+argumentofperigree:93.2464
+nickname:STARLINK-4480
+idesg:22097AE 
+cosparid:2022-097AE
+altkm:540.65087079862
+velkms:7.5931867236378
+velkmh:27335
+onumepoch:11402
+onumnow:172051.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:58:50+00:00
+nowjuliandate:2460552.6378618
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4480
+1 53416U 22097AE  24242.33252784  .00000618  00000+0  56922-4 0  9999
+2 53416  53.2164  96.1423 0001475  93.2464 266.8697 15.08855622114026

@@ -1,0 +1,38 @@
+date:2024-08-28T18:09:15+00:00
+validtle:1
+satid:58087
+launchyear:2023
+epoch:24240.71355377
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30557
+meananomly:86.6327
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2189596278
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001252
+argumentofperigree:273.4372
+nickname:STARLINK-30557
+idesg:23160N  
+cosparid:2023-160N
+altkm:558.80908405848
+velkms:7.5838918602279
+velkmh:27302
+onumepoch:4883
+onumnow:73384.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:07:31+00:00
+nowjuliandate:2460551.2564237
+nowepochdate:24241.7564236111
+TLE:
+STARLINK-30557
+1 58087U 23160N   24240.71355377  .00000945  00000+0  85003-4 0  9997
+2 58087  43.0018 237.5535 0001252 273.4372  86.6327 15.02535884 48830

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51865
+launchyear:2022
+epoch:24241.56019746
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3503
+meananomly:272.7992
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8638224675
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001354
+argumentofperigree:87.3155
+nickname:STARLINK-3503
+idesg:22022P  
+cosparid:2022-022P
+altkm:540.5786424638
+velkms:7.5932819232374
+velkmh:27336
+onumepoch:13885
+onumnow:209527.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:26:41+00:00
+nowjuliandate:2460552.6379493
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3503
+1 51865U 22022P   24241.56019746  .00001582  00000+0  11742-3 0  9997
+2 51865  53.2177 354.6607 0001354  87.3155 272.7992 15.08846095138854

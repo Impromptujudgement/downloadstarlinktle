@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48387
+launchyear:2021
+epoch:24242.41674152
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2600
+meananomly:217.7449
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3230277547
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0558
+eccentricity:0.0001159
+argumentofperigree:142.3622
+nickname:STARLINK-2600
+idesg:21038AL 
+cosparid:2021-038AL
+altkm:548.69997280055
+velkms:7.5884596328528
+velkmh:27318
+onumepoch:18383
+onumnow:276934.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:00:06+00:00
+nowjuliandate:2460552.6380355
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2600
+1 48387U 21038AL  24242.41674152  .00010075  00000+0  69410-3 0  9993
+2 48387  53.0558 328.2842 0001159 142.3622 217.7449 15.06409004183839

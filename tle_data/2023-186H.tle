@@ -1,0 +1,38 @@
+date:2024-08-28T14:32:22+00:00
+validtle:1
+satid:58480
+launchyear:2023
+epoch:24240.65616583
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30984
+meananomly:82.7344
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2194767327
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001028
+argumentofperigree:277.3381
+nickname:STARLINK-30984
+idesg:23186H  
+cosparid:2023-186H
+altkm:558.77053009924
+velkms:7.5839342696593
+velkmh:27302
+onumepoch:4176
+onumnow:62760.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T15:44:53+00:00
+nowjuliandate:2460551.1058138
+nowepochdate:24241.6058101852
+TLE:
+STARLINK-30984
+1 58480U 23186H   24240.65616583  .00000008  00000+0  15684-4 0  9992
+2 58480  43.0030 224.6221 0001028 277.3381  82.7344 15.02535716 41769

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51988
+launchyear:2022
+epoch:24242.08735957
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3640
+meananomly:269.5910
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.88246767
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001739
+argumentofperigree:90.5282
+nickname:STARLINK-3640
+idesg:22025AJ 
+cosparid:2022-025AJ
+altkm:540.65155215494
+velkms:7.5932121316543
+velkmh:27336
+onumepoch:13799
+onumnow:208220.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:05:48+00:00
+nowjuliandate:2460552.6379471
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3640
+1 51988U 22025AJ  24242.08735957  .00000236  00000+0  32945-4 0  9997
+2 51988  53.2164  22.2926 0001739  90.5282 269.5910 15.08839995137991

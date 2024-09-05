@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52612
+launchyear:2022
+epoch:24242.36336416
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4002
+meananomly:283.6395
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8812052941
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001467
+argumentofperigree:76.4761
+nickname:STARLINK-4002
+idesg:22052Q  
+cosparid:2022-052Q
+altkm:540.40215383767
+velkms:7.5934850994721
+velkmh:27337
+onumepoch:12709
+onumnow:191770.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:43:15+00:00
+nowjuliandate:2460552.637906
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4002
+1 52612U 22052Q   24242.36336416  .00001186  00000+0  92594-4 0  9991
+2 52612  53.2148 261.0566 0001467  76.4761 283.6395 15.08840408127099

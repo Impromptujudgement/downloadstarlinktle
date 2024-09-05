@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54060
+launchyear:2022
+epoch:24242.43922539
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5169
+meananomly:271.9852
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8944465147
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001237
+argumentofperigree:88.1282
+nickname:STARLINK-5169
+idesg:22136K  
+cosparid:2022-136K
+altkm:540.62503917494
+velkms:7.5932477822271
+velkmh:27336
+onumepoch:10362
+onumnow:156356.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:32:29+00:00
+nowjuliandate:2460552.6377992
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5169
+1 54060U 22136K   24242.43922539 -.00000734  00000+0 -28052-4 0  9996
+2 54060  53.2149 295.3715 0001237  88.1282 271.9852 15.08836076103625

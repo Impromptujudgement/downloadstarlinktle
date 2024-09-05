@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55379
+launchyear:2023
+epoch:24242.33978608
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5569
+meananomly:89.4767
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1807741632
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:0.0001319
+argumentofperigree:270.5924
+nickname:STARLINK-5569
+idesg:23013BA 
+cosparid:2023-013BA
+altkm:558.81366203135
+velkms:7.583866045691
+velkmh:27302
+onumepoch:8815
+onumnow:132461.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:09:18+00:00
+nowjuliandate:2460552.6377695
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5569
+1 55379U 23013BA  24242.33978608  .00001375  00000+0  11683-3 0  9993
+2 55379  43.0027 101.4492 0001319 270.5924  89.4767 15.02548290 88150

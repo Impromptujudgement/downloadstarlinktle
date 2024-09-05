@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46333
+launchyear:2020
+epoch:24242.62037689
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1723
+meananomly:261.3496
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3771837658
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0552
+eccentricity:0.0002446
+argumentofperigree:98.777
+nickname:STARLINK-1723
+idesg:20062J  
+cosparid:2020-062J
+altkm:548.37453518086
+velkms:7.5888457314764
+velkmh:27320
+onumepoch:22034
+onumnow:331931.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:53:21+00:00
+nowjuliandate:2460553.0282429
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1723
+1 46333U 20062J   24242.62037689  .00021117  00000+0  14326-2 0  9993
+2 46333  53.0552 357.4025 0002446  98.7770 261.3496 15.06391334220348

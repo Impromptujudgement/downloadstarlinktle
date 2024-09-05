@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50819
+launchyear:2022
+epoch:24241.49763465
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3327
+meananomly:260.0958
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8250805837
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001366
+argumentofperigree:100.0188
+nickname:STARLINK-3327
+idesg:22001S  
+cosparid:2022-001S
+altkm:540.74805568649
+velkms:7.5930748179907
+velkmh:27335
+onumepoch:14614
+onumnow:220527.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:56:36+00:00
+nowjuliandate:2460552.6379776
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3327
+1 50819U 22001S   24241.49763465  .00005128  00000+0  33985-3 0  9991
+2 50819  53.2165 154.9392 0001366 100.0188 260.0958 15.08858770146149

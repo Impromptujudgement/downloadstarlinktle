@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51773
+launchyear:2022
+epoch:24241.93190694
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3624
+meananomly:277.0442
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8638346938
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001182
+argumentofperigree:83.0685
+nickname:STARLINK-3624
+idesg:22017F  
+cosparid:2022-017F
+altkm:540.52405248068
+velkms:7.5933418301104
+velkmh:27336
+onumepoch:13840
+onumnow:208842.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:21:57+00:00
+nowjuliandate:2460552.6379556
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3624
+1 51773U 22017F   24241.93190694  .00001959  00000+0  14108-3 0  9999
+2 51773  53.2174 322.9649 0001182  83.0685 277.0442 15.08846091138408

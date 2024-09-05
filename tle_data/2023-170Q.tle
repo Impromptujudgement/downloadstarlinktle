@@ -1,0 +1,38 @@
+date:2024-08-28T16:37:14+00:00
+validtle:1
+satid:58220
+launchyear:2023
+epoch:24240.61461973
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30792
+meananomly:104.1052
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1907344675
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:9.87E-5
+argumentofperigree:255.968
+nickname:STARLINK-30792
+idesg:23170Q  
+cosparid:2023-170Q
+altkm:558.99876582268
+velkms:7.5836692169539
+velkmh:27301
+onumepoch:4620
+onumnow:69433.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T14:45:03+00:00
+nowjuliandate:2460551.1925233
+nowepochdate:24241.6925231481
+TLE:
+STARLINK-30792
+1 58220U 23170Q   24240.61461973  .00001284  00000+0  11006-3 0  9994
+2 58220  43.0027 353.4678 0000987 255.9680 104.1052 15.02545054 46206

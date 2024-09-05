@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45212
+launchyear:2020
+epoch:24242.06288139
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1231
+meananomly:275.4893
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.333107987
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0552
+eccentricity:0.0001702
+argumentofperigree:84.629
+nickname:STARLINK-1231
+idesg:20012AL 
+cosparid:2020-012AL
+altkm:547.96273455736
+velkms:7.5892727516442
+velkmh:27321
+onumepoch:25102
+onumnow:378160.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:30:33+00:00
+nowjuliandate:2460553.028407
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1231
+1 45212U 20012AL  24242.06288139  .00017886  00000+0  12164-2 0  9995
+2 45212  53.0552   9.9020 0001702  84.6290 275.4893 15.06405715251027

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52657
+launchyear:2022
+epoch:24241.98761368
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4084
+meananomly:281.3304
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8653660409
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001132
+argumentofperigree:78.7815
+nickname:STARLINK-4084
+idesg:22053B  
+cosparid:2022-053B
+altkm:540.47193224723
+velkms:7.5933998592191
+velkmh:27336
+onumepoch:12721
+onumnow:191957.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:42:10+00:00
+nowjuliandate:2460552.6379019
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4084
+1 52657U 22053B   24241.98761368  .00001657  00000+0  12215-3 0  9990
+2 52657  53.2167 138.0638 0001132  78.7815 281.3304 15.08845590127212

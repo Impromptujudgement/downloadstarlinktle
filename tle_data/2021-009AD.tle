@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47575
+launchyear:2021
+epoch:24242.6678357
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1977
+meananomly:258.9459
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3292003219
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0505
+eccentricity:0.0003319
+argumentofperigree:101.1903
+nickname:STARLINK-1977
+idesg:21009AD 
+cosparid:2021-009AD
+altkm:548.512314493
+velkms:7.5886685698965
+velkmh:27319
+onumepoch:19715
+onumnow:296995.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:01:41+00:00
+nowjuliandate:2460552.6394942
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1977
+1 47575U 21009AD  24242.66783570  .00010539  00000+0  72520-3 0  9992
+2 47575  53.0505  22.1792 0003319 101.1903 258.9459 15.06406990197157

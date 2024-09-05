@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47393
+launchyear:2021
+epoch:24242.56974377
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2114
+meananomly:262.5710
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3701467959
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0566
+eccentricity:0.0001491
+argumentofperigree:97.5448
+nickname:STARLINK-2114
+idesg:21005AW 
+cosparid:2021-005AW
+altkm:548.24613126902
+velkms:7.5889825441902
+velkmh:27320
+onumepoch:19983
+onumnow:301031.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:40:26+00:00
+nowjuliandate:2460552.6395831
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2114
+1 47393U 21005AW  24242.56974377  .00005571  00000+0  39265-3 0  9991
+2 47393  53.0566 347.9856 0001491  97.5448 262.5710 15.06393630199836

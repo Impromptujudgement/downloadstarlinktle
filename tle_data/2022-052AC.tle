@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52624
+launchyear:2022
+epoch:24242.32843305
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4009
+meananomly:271.7756
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.875850137
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001406
+argumentofperigree:88.3397
+nickname:STARLINK-4009
+idesg:22052AC 
+cosparid:2022-052AC
+altkm:540.60612494497
+velkms:7.593258353434
+velkmh:27336
+onumepoch:12722
+onumnow:191967.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:52:57+00:00
+nowjuliandate:2460552.6379109
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4009
+1 52624U 22052AC  24242.32843305  .00000579  00000+0  54482-4 0  9999
+2 52624  53.2162 251.1971 0001406  88.3397 271.7756 15.08842160127229

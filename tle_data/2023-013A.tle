@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55331
+launchyear:2023
+epoch:24242.26592035
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5492
+meananomly:91.0466
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1978168935
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:0.0001279
+argumentofperigree:269.023
+nickname:STARLINK-5492
+idesg:23013A  
+cosparid:2023-013A
+altkm:558.85527663648
+velkms:7.583829863183
+velkmh:27302
+onumepoch:8828
+onumnow:132657.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:22:56+00:00
+nowjuliandate:2460552.6377724
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5492
+1 55331U 23013A   24242.26592035  .00001280  00000+0  10978-3 0  9990
+2 55331  43.0029  89.6326 0001279 269.0230  91.0466 15.02542753 88288

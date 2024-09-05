@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45590
+launchyear:2020
+epoch:24241.86015342
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1365
+meananomly:298.1521
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3240483421
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0545
+eccentricity:4.13E-5
+argumentofperigree:61.951
+nickname:STARLINK-1365
+idesg:20025BM 
+cosparid:2020-025BM
+altkm:547.93121504791
+velkms:7.5893023282306
+velkmh:27321
+onumepoch:24102
+onumnow:363099.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:38:37+00:00
+nowjuliandate:2460553.0283334
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1365
+1 45590U 20025BM  24241.86015342  .00012700  00000+0  86972-3 0  9998
+2 45590  53.0545  90.8131 0000413  61.9510 298.1521 15.06408671241024

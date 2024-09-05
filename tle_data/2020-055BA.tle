@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46075
+launchyear:2020
+epoch:24242.24072694
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1551
+meananomly:267.2952
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3422534772
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0574
+eccentricity:0.0002201
+argumentofperigree:92.8289
+nickname:STARLINK-1551
+idesg:20055BA 
+cosparid:2020-055BA
+altkm:548.15692767995
+velkms:7.5890650149719
+velkmh:27321
+onumepoch:22528
+onumnow:339373.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:46:39+00:00
+nowjuliandate:2460553.0282954
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1551
+1 46075U 20055BA  24242.24072694  .00002003  00000+0  15332-3 0  9993
+2 46075  53.0574  79.1036 0002201  92.8289 267.2952 15.06402731225288

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47387
+launchyear:2021
+epoch:24242.58334491
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2108
+meananomly:6.6213
+meanmotion:15.5573
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6778.1587003087
+altitudeatperigee:399
+altitudeatapogee:401
+inclination:53.0576
+eccentricity:0.0001145
+argumentofperigree:75.331
+nickname:STARLINK-2108
+idesg:21005AQ 
+cosparid:2021-005AQ
+altkm:405.61010748184
+velkms:7.6741726787598
+velkmh:27627
+onumepoch:19912
+onumnow:309786.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:00:01+00:00
+nowjuliandate:2460552.6395873
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2108
+1 47387U 21005AQ  24242.58334491  .01174610  00000+0  15290-1 0  9995
+2 47387  53.0576  38.6007 0001145  75.3310   6.6213 15.55734049199124

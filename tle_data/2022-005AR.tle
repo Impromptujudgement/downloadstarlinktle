@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51143
+launchyear:2022
+epoch:24242.40844896
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3184
+meananomly:272.8911
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.900630052
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001413
+argumentofperigree:87.2243
+nickname:STARLINK-3184
+idesg:22005AR 
+cosparid:2022-005AR
+altkm:540.61184109713
+velkms:7.5932656504008
+velkmh:27336
+onumepoch:14557
+onumnow:219649.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:48:10+00:00
+nowjuliandate:2460552.6379739
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3184
+1 51143U 22005AR  24242.40844896 -.00000383  00000+0 -59882-5 0  9992
+2 51143  53.2172 290.8569 0001413  87.2243 272.8911 15.08834053145579

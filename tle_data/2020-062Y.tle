@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46347
+launchyear:2020
+epoch:24242.50473328
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1547
+meananomly:279.5553
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3785047321
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001252
+argumentofperigree:80.5577
+nickname:STARLINK-1547
+idesg:20062Y  
+cosparid:2020-062Y
+altkm:547.97658152734
+velkms:7.5892823992541
+velkmh:27321
+onumepoch:22094
+onumnow:332837.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:06:49+00:00
+nowjuliandate:2460553.0282325
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1547
+1 46347U 20062Y   24242.50473328  .00001841  00000+0  14249-3 0  9996
+2 46347  53.0526 312.9159 0001252  80.5577 279.5553 15.06390903220948

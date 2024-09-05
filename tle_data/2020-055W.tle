@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46047
+launchyear:2020
+epoch:24241.8924077
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1524
+meananomly:267.6493
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3044059324
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0546
+eccentricity:0.0001973
+argumentofperigree:92.4722
+nickname:STARLINK-1524
+idesg:20055W  
+cosparid:2020-055W
+altkm:548.10283296324
+velkms:7.589103582863
+velkmh:27321
+onumepoch:22495
+onumnow:338884.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:25:04+00:00
+nowjuliandate:2460553.0282901
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1524
+1 46047U 20055W   24241.89240770  .00018568  00000+0  12616-2 0  9998
+2 46047  53.0546 100.6677 0001973  92.4722 267.6493 15.06415080224958

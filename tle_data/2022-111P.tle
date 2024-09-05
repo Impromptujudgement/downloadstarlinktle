@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53786
+launchyear:2022
+epoch:24241.30030689
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4631
+meananomly:274.6365
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8637124306
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000146
+argumentofperigree:85.4794
+nickname:STARLINK-4631
+idesg:22111P  
+cosparid:2022-111P
+altkm:540.54240626235
+velkms:7.5933216237049
+velkmh:27336
+onumepoch:10954
+onumnow:165306.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:12:27+00:00
+nowjuliandate:2460552.6378243
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4631
+1 53786U 22111P   24241.30030689  .00001181  00000+0  92239-4 0  9997
+2 53786  53.2154 250.5909 0001460  85.4794 274.6365 15.08846131109548

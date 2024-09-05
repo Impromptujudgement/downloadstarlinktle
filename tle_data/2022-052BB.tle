@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52647
+launchyear:2022
+epoch:24242.30634102
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3846
+meananomly:260.2369
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9013055653
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.000154
+argumentofperigree:99.8797
+nickname:STARLINK-3846
+idesg:22052BB 
+cosparid:2022-052BB
+altkm:540.84242228523
+velkms:7.5930130160809
+velkmh:27335
+onumepoch:12736
+onumnow:192177.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:21:08+00:00
+nowjuliandate:2460552.6379077
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3846
+1 52647U 22052BB  24242.30634102 -.00000085  00000+0  12749-4 0  9998
+2 52647  53.2165 241.4206 0001540  99.8797 260.2369 15.08833832127364

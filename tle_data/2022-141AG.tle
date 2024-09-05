@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54187
+launchyear:2022
+epoch:24242.43464287
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5240
+meananomly:252.3986
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9014186603
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001662
+argumentofperigree:107.7187
+nickname:STARLINK-5240
+idesg:22141AG 
+cosparid:2022-141AG
+altkm:541.00945642599
+velkms:7.592829805693
+velkmh:27334
+onumepoch:10196
+onumnow:153851.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:53+00:00
+nowjuliandate:2460552.6377965
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5240
+1 54187U 22141AG  24242.43464287 -.00000907  00000+0 -38898-4 0  9994
+2 54187  53.2154 345.5605 0001662 107.7187 252.3986 15.08833795101962

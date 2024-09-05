@@ -1,0 +1,38 @@
+date:2024-08-29T09:41:23+00:00
+validtle:1
+satid:56550
+launchyear:2023
+epoch:24241.6503923
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6255
+meananomly:102.3280
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2100765202
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.0001128
+argumentofperigree:257.7436
+nickname:STARLINK-6255
+idesg:23065AZ 
+cosparid:2023-065AZ
+altkm:559.01841114029
+velkms:7.583658294035
+velkmh:27301
+onumepoch:7253
+onumnow:108990.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:36:34+00:00
+nowjuliandate:2460551.9037421
+nowepochdate:24242.4037384259
+TLE:
+STARLINK-6255
+1 56550U 23065AZ  24241.65039230  .00003055  00000+0  24113-3 0  9994
+2 56550  43.0034  15.3725 0001128 257.7436 102.3280 15.02538770 72537

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45701
+launchyear:2020
+epoch:24242.09512998
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1403
+meananomly:270.7244
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3362831604
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001144
+argumentofperigree:89.3876
+nickname:STARLINK-1403
+idesg:20035AW 
+cosparid:2020-035AW
+altkm:548.06826905428
+velkms:7.5891588738948
+velkmh:27321
+onumepoch:23510
+onumnow:354177.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:16:59+00:00
+nowjuliandate:2460553.028322
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1403
+1 45701U 20035AW  24242.09512998  .00008991  00000+0  62165-3 0  9993
+2 45701  53.0527  19.7559 0001144  89.3876 270.7244 15.06404679235107

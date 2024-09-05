@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53912
+launchyear:2022
+epoch:24242.43554654
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5059
+meananomly:272.8570
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9406812459
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001308
+argumentofperigree:87.2572
+nickname:STARLINK-5059
+idesg:22119AC 
+cosparid:2022-119AC
+altkm:540.65595119493
+velkms:7.5932391809529
+velkmh:27336
+onumepoch:10728
+onumnow:161876.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:27:11+00:00
+nowjuliandate:2460552.6378157
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5059
+1 53912U 22119AC  24242.43554654 -.00004345  00000+0 -25521-3 0  9990
+2 53912  53.2161 295.3723 0001308  87.2572 272.8570 15.08820950107281

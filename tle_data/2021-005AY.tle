@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47395
+launchyear:2021
+epoch:24241.52703779
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2117
+meananomly:274.8844
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3483739847
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0537
+eccentricity:0.0002394
+argumentofperigree:85.2419
+nickname:STARLINK-2117
+idesg:21005AY 
+cosparid:2021-005AY
+altkm:547.949614253
+velkms:7.5892954707633
+velkmh:27321
+onumepoch:19947
+onumnow:300506.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:38:56+00:00
+nowjuliandate:2460552.6395804
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2117
+1 47395U 21005AY  24241.52703779  .00009903  00000+0  68278-3 0  9993
+2 47395  53.0537   7.3055 0002394  85.2419 274.8844 15.06400734199477

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51117
+launchyear:2022
+epoch:24242.77458823
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3391
+meananomly:271.7681
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8847264989
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001279
+argumentofperigree:88.3458
+nickname:STARLINK-3391
+idesg:22005P  
+cosparid:2022-005P
+altkm:540.6177235431
+velkms:7.5932504870304
+velkmh:27336
+onumepoch:14591
+onumnow:220158.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:35:24+00:00
+nowjuliandate:2460552.6379709
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3391
+1 51117U 22005P   24242.77458823 -.00000336  00000+0 -30098-5 0  9990
+2 51117  53.2154 269.0962 0001279  88.3458 271.7681 15.08839256145915

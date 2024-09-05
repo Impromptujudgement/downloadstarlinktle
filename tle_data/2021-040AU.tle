@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48470
+launchyear:2021
+epoch:24242.03849834
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2675
+meananomly:243.0772
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3113415965
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001387
+argumentofperigree:117.0359
+nickname:STARLINK-2675
+idesg:21040AU 
+cosparid:2021-040AU
+altkm:548.48828346097
+velkms:7.5886851296843
+velkmh:27319
+onumepoch:18371
+onumnow:276759.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:55:26+00:00
+nowjuliandate:2460552.6380269
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2675
+1 48470U 21040AU  24242.03849834  .00007376  00000+0  51335-3 0  9995
+2 48470  53.0528 175.3577 0001387 117.0359 243.0772 15.06412817183718

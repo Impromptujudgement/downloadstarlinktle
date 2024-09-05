@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52564
+launchyear:2022
+epoch:24242.35005419
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3959
+meananomly:268.8797
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8599895185
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2133
+eccentricity:0.0001084
+argumentofperigree:91.2319
+nickname:STARLINK-3959
+idesg:22051AH 
+cosparid:2022-051AH
+altkm:540.63470227493
+velkms:7.5932183109276
+velkmh:27336
+onumepoch:12730
+onumnow:192088.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:24:05+00:00
+nowjuliandate:2460552.6379168
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3959
+1 52564U 22051AH  24242.35005419 -.00001922  00000+0 -10269-3 0  9999
+2 52564  53.2133 116.1300 0001084  91.2319 268.8797 15.08847349127300

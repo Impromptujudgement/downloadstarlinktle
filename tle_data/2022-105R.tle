@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53663
+launchyear:2022
+epoch:24242.21083033
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4457
+meananomly:276.6659
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1557791194
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.656
+eccentricity:0.0003076
+argumentofperigree:83.4916
+nickname:STARLINK-4457
+idesg:22105R  
+cosparid:2022-105R
+altkm:565.82909199359
+velkms:7.5783752292512
+velkmh:27282
+onumepoch:10987
+onumnow:164957.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:36+00:00
+nowjuliandate:2460552.6378339
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4457
+1 53663U 22105R   24242.21083033  .00000404  00000+0  36016-4 0  9994
+2 53663  97.6560 122.0055 0003076  83.4916 276.6659 15.01257774109875

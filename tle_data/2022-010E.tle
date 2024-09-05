@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51460
+launchyear:2022
+epoch:24241.87759698
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3167
+meananomly:264.4402
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8642014834
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001238
+argumentofperigree:95.6732
+nickname:STARLINK-3167
+idesg:22010E  
+cosparid:2022-010E
+altkm:540.70740970887
+velkms:7.5931408389138
+velkmh:27335
+onumepoch:14261
+onumnow:215193.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:03:44+00:00
+nowjuliandate:2460552.6379686
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3167
+1 51460U 22010E   24241.87759698  .00000166  00000+0  28515-4 0  9990
+2 51460  53.2149 263.2368 0001238  95.6732 264.4402 15.08845971142612

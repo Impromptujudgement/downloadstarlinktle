@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52677
+launchyear:2022
+epoch:24242.41441865
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4028
+meananomly:267.7578
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8814070297
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001379
+argumentofperigree:92.3572
+nickname:STARLINK-4028
+idesg:22053X  
+cosparid:2022-053X
+altkm:540.67917677234
+velkms:7.5931812394594
+velkmh:27335
+onumepoch:12661
+onumnow:191045.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:56:46+00:00
+nowjuliandate:2460552.6378987
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4028
+1 52677U 22053X   24242.41441865 -.00000554  00000+0 -16730-4 0  9992
+2 52677  53.2166 125.8258 0001379  92.3572 267.7578 15.08840342126614

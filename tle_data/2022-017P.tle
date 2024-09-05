@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51781
+launchyear:2022
+epoch:24242.50137158
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3580
+meananomly:256.6021
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9202475147
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001556
+argumentofperigree:103.5145
+nickname:STARLINK-3580
+idesg:22017P  
+cosparid:2022-017P
+altkm:540.93009749792
+velkms:7.5929271896317
+velkmh:27335
+onumepoch:13995
+onumnow:211170.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:01:59+00:00
+nowjuliandate:2460552.6379552
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3580
+1 51781U 22017P   24242.50137158 -.00001478  00000+0 -74814-4 0  9997
+2 51781  53.2163 320.3977 0001556 103.5145 256.6021 15.08827635139955

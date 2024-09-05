@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49760
+launchyear:2021
+epoch:24241.96040011
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3199
+meananomly:272.3846
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.837419853
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.0001515
+argumentofperigree:87.732
+nickname:STARLINK-3199
+idesg:21115AN 
+cosparid:2021-115AN
+altkm:540.55442824147
+velkms:7.593294035404
+velkmh:27336
+onumepoch:15259
+onumnow:230253.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:02:59+00:00
+nowjuliandate:2460552.6379928
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3199
+1 49760U 21115AN  24241.96040011  .00009752  00000+0  62972-3 0  9991
+2 49760  53.2179 122.8643 0001515  87.7320 272.3846 15.08854733152598

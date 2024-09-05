@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47991
+launchyear:2021
+epoch:24242.18682113
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2279
+meananomly:280.1589
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.376506426
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0514
+eccentricity:0.0002399
+argumentofperigree:79.967
+nickname:STARLINK-2279
+idesg:21024Q  
+cosparid:2021-024Q
+altkm:547.82563623503
+velkms:7.5894466697321
+velkmh:27322
+onumepoch:19105
+onumnow:287810.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:29:01+00:00
+nowjuliandate:2460552.6380558
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2279
+1 47991U 21024Q   24242.18682113 -.00000883  00000+0 -40383-4 0  9995
+2 47991  53.0514 244.3578 0002399  79.9670 280.1589 15.06391555191053

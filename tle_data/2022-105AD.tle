@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53675
+launchyear:2022
+epoch:24242.38486482
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4617
+meananomly:271.5085
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1814584918
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6524
+eccentricity:0.0001386
+argumentofperigree:88.6298
+nickname:STARLINK-4617
+idesg:22105AD 
+cosparid:2022-105AD
+altkm:566.07691962632
+velkms:7.5781186602825
+velkmh:27281
+onumepoch:10990
+onumnow:164998.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:14:12+00:00
+nowjuliandate:2460552.6378377
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4617
+1 53675U 22105AD  24242.38486482  .00001898  00000+0  15239-3 0  9991
+2 53675  97.6524 122.1842 0001386  88.6298 271.5085 15.01249443109900

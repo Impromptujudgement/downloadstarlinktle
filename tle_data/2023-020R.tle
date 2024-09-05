@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55584
+launchyear:2023
+epoch:24241.50331116
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5736
+meananomly:92.8522
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.195431459
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:0.0001446
+argumentofperigree:267.2155
+nickname:STARLINK-5736
+idesg:23020R  
+cosparid:2023-020R
+altkm:558.886626624
+velkms:7.5837943076995
+velkmh:27302
+onumepoch:8495
+onumnow:127665.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:04:46+00:00
+nowjuliandate:2460552.6377478
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5736
+1 55584U 23020R   24241.50331116  .00002213  00000+0  17881-3 0  9992
+2 55584  43.0029 157.6639 0001446 267.2155  92.8522 15.02543528 84956

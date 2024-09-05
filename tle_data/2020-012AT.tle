@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:53+00:00
+validtle:1
+satid:45219
+launchyear:2020
+epoch:24242.00574462
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1187
+meananomly:275.7355
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3240238235
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:0.0001035
+argumentofperigree:84.3752
+nickname:STARLINK-1187
+idesg:20012AT 
+cosparid:2020-012AT
+altkm:547.99466738333
+velkms:7.5892328026309
+velkmh:27321
+onumepoch:25135
+onumnow:378658.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:08:16+00:00
+nowjuliandate:2460553.0283951
+nowepochdate:24243.5283912037
+TLE:
+STARLINK-1187
+1 45219U 20012AT  24242.00574462  .00021308  00000+0  14447-2 0  9993
+2 45219  53.0554 350.1642 0001035  84.3752 275.7355 15.06408679251350

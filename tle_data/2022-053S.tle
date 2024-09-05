@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52672
+launchyear:2022
+epoch:24242.44294061
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4073
+meananomly:274.1159
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8769260581
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001525
+argumentofperigree:86.0007
+nickname:STARLINK-4073
+idesg:22053S  
+cosparid:2022-053S
+altkm:540.56170930294
+velkms:7.5933076786817
+velkmh:27336
+onumepoch:12649
+onumnow:190863.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:37:50+00:00
+nowjuliandate:2460552.6378996
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4073
+1 52672U 22053S   24242.44294061  .00000243  00000+0  33375-4 0  9991
+2 52672  53.2168 135.6980 0001525  86.0007 274.1159 15.08841808126499

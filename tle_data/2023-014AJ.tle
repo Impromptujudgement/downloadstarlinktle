@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55423
+launchyear:2023
+epoch:24242.20110158
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5068
+meananomly:93.5586
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1764219262
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0005
+eccentricity:0.0003436
+argumentofperigree:266.518
+nickname:STARLINK-5068
+idesg:23014AJ 
+cosparid:2023-014AJ
+altkm:574.61232009868
+velkms:7.5737087410933
+velkmh:27265
+onumepoch:8711
+onumnow:130534.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:49:35+00:00
+nowjuliandate:2460552.6377651
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5068
+1 55423U 23014AJ  24242.20110158  .00005947  00000+0  50567-3 0  9991
+2 55423  70.0005  50.1666 0003436 266.5180  93.5586 14.98335996 87111

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48118
+launchyear:2021
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2458
+meananomly:203.5590
+meanmotion:15.2047
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6882.5616456168
+altitudeatperigee:503
+altitudeatapogee:505
+inclination:53.0527
+eccentricity:0.0001424
+argumentofperigree:100.3759
+nickname:STARLINK-2458
+idesg:21027AC 
+cosparid:2021-027AC
+altkm:519.19989768645
+velkms:7.6031289411815
+velkmh:27371
+onumepoch:18838
+onumnow:286429.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6380544
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2458
+1 48118U 21027AC  24242.91667824  .01367656  00000+0  56893-1 0  9996
+2 48118  53.0527 130.8006 0001424 100.3759 203.5590 15.20469775188388

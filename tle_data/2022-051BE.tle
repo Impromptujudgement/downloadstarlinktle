@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52588
+launchyear:2022
+epoch:24242.31183884
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3917
+meananomly:271.3071
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8666131267
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2213
+eccentricity:0.0001208
+argumentofperigree:88.806
+nickname:STARLINK-3917
+idesg:22051BE 
+cosparid:2022-051BE
+altkm:540.60846486485
+velkms:7.5932507286965
+velkmh:27336
+onumepoch:12751
+onumnow:192405.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:29:03+00:00
+nowjuliandate:2460552.6379137
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3917
+1 52588U 22051BE  24242.31183884  .00000475  00000+0  47898-4 0  9993
+2 52588  53.2213 101.2892 0001208  88.8060 271.3071 15.08845182127519

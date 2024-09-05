@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45383
+launchyear:2020
+epoch:24242.96594247
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1266
+meananomly:269.5287
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3569188119
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001262
+argumentofperigree:90.5846
+nickname:STARLINK-1266
+idesg:20019Z  
+cosparid:2020-019Z
+altkm:548.10627097239
+velkms:7.5891285249421
+velkmh:27321
+onumepoch:24609
+onumnow:370717.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:10:57+00:00
+nowjuliandate:2460553.0283443
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1266
+1 45383U 20019Z   24242.96594247  .00033229  00000+0  22393-2 0  9994
+2 45383  53.0540 125.8501 0001262  90.5846 269.5287 15.06397946246097

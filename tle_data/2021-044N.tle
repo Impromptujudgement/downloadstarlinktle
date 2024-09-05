@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48650
+launchyear:2021
+epoch:24242.31029997
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2672
+meananomly:317.0378
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2850640108
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0607
+eccentricity:4.86E-5
+argumentofperigree:43.0649
+nickname:STARLINK-2672
+idesg:21044N  
+cosparid:2021-044N
+altkm:547.78154367099
+velkms:7.5894449861678
+velkmh:27322
+onumepoch:18053
+onumnow:271966.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:26:50+00:00
+nowjuliandate:2460552.6380085
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2672
+1 48650U 21044N   24242.31029997  .00016896  00000+0  11498-2 0  9992
+2 48650  53.0607 103.7906 0000486  43.0649 317.0378 15.06421391180534

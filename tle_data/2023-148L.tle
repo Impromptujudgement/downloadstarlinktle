@@ -1,0 +1,38 @@
+date:2024-08-28T19:27:03+00:00
+validtle:1
+satid:57945
+launchyear:2023
+epoch:24240.87317328
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30705
+meananomly:284.1227
+meanmotion:15.3020
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3403758687
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1637
+eccentricity:9.39E-5
+argumentofperigree:75.9878
+nickname:STARLINK-30705
+idesg:23148L  
+cosparid:2023-148L
+altkm:475.94647765912
+velkms:7.6291216723937
+velkmh:27465
+onumepoch:5286
+onumnow:80900.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:57:22+00:00
+nowjuliandate:2460551.3104535
+nowepochdate:24241.8104513889
+TLE:
+STARLINK-30705
+1 57945U 23148L   24240.87317328  .00003348  00000+0  12510-3 0  9998
+2 57945  53.1637 100.0280 0000939  75.9878 284.1227 15.30204601 52862

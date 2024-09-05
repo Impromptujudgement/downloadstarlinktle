@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46551
+launchyear:2020
+epoch:21063.32451932
+epochday:63
+tleage:1275
+tleclassification:C
+active:0
+name:STARLINK-1702
+meananomly:318.8267
+meanmotion:16.0851
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6629.0654151815
+altitudeatperigee:248
+altitudeatapogee:254
+inclination:52.9834
+eccentricity:0.0005108
+argumentofperigree:129.4854
+nickname:STARLINK-1702
+idesg:20070V  
+cosparid:2020-070V
+altkm:254.8493796989
+velkms:7.7621411764211
+velkmh:27944
+onumepoch:1
+onumnow:51170.08
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-04T07:47:18+00:00
+nowjuliandate:2460553.0292818
+nowepochdate:24243.5292708333
+TLE:
+STARLINK-1702
+1 46551C 20070V   21063.32451932  .02255611  00000-0  22044-2 0   639
+2 46551  52.9834  59.9119 0005108 129.4854 318.8267 16.08512719    11

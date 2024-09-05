@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56495
+launchyear:2023
+epoch:24242.77296192
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5529
+meananomly:92.1488
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1999242488
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9979
+eccentricity:0.0003209
+argumentofperigree:267.9303
+nickname:STARLINK-5529
+idesg:23064AZ 
+cosparid:2023-064AZ
+altkm:574.57092192426
+velkms:7.5737666372826
+velkmh:27266
+onumepoch:7317
+onumnow:109638.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:33:04+00:00
+nowjuliandate:2460552.6376962
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-5529
+1 56495U 23064AZ  24242.77296192  .00000417  00000+0  42752-4 0  9996
+2 56495  69.9979  68.5641 0003209 267.9303  92.1488 14.98328396 73177

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48642
+launchyear:2021
+epoch:24241.8864209
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2646
+meananomly:274.9342
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3229266155
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001742
+argumentofperigree:85.1846
+nickname:STARLINK-2646
+idesg:21044E  
+cosparid:2021-044E
+altkm:547.96133796064
+velkms:7.5892687152691
+velkmh:27321
+onumepoch:17963
+onumnow:270615.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:16:27+00:00
+nowjuliandate:2460552.638009
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2646
+1 48642U 21044E   24241.88642090  .00007983  00000+0  55410-3 0  9999
+2 48642  53.0532 105.7016 0001742  85.1846 274.9342 15.06409037179632

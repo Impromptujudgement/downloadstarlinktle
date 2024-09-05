@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48694
+launchyear:2021
+epoch:24242.78252401
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2748
+meananomly:273.2309
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2713797825
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001465
+argumentofperigree:86.8847
+nickname:STARLINK-2748
+idesg:21044BJ 
+cosparid:2021-044BJ
+altkm:547.95637019713
+velkms:7.5892459771211
+velkmh:27321
+onumepoch:18109
+onumnow:272804.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:46:50+00:00
+nowjuliandate:2460552.6380106
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2748
+1 48694U 21044BJ  24242.78252401  .00007902  00000+0  54841-3 0  9997
+2 48694  53.0536  66.6631 0001465  86.8847 273.2309 15.06425856181097

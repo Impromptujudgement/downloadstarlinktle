@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48094
+launchyear:2021
+epoch:24242.453125
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2412
+meananomly:311.2757
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4175700666
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.000174
+argumentofperigree:48.8382
+nickname:STARLINK-2412
+idesg:21027C  
+cosparid:2021-027C
+altkm:547.36472272539
+velkms:7.58997407573
+velkmh:27324
+onumepoch:18803
+onumnow:283254.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:52:30+00:00
+nowjuliandate:2460552.6380492
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2412
+1 48094U 21027C   24242.45312500  .00030780  00000+0  20775-2 0  9991
+2 48094  53.0532 153.1388 0001740  48.8382 311.2757 15.06378157188038

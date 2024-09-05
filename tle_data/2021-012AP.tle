@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47657
+launchyear:2021
+epoch:24241.79148936
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2041
+meananomly:297.0248
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2595467338
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0586
+eccentricity:0.0002045
+argumentofperigree:63.0949
+nickname:STARLINK-2041
+idesg:21012AP 
+cosparid:2021-012AP
+altkm:547.35885181151
+velkms:7.5898941273855
+velkmh:27324
+onumepoch:19589
+onumnow:295114.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:59:45+00:00
+nowjuliandate:2460552.639438
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2041
+1 47657U 21012AP  24241.79148936 -.00009195  00000+0 -59868-3 0  9999
+2 47657  53.0586  56.1170 0002045  63.0949 297.0248 15.06429717195896

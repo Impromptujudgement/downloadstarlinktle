@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53088
+launchyear:2022
+epoch:24242.76595547
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4333
+meananomly:304.0145
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1468217564
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6564
+eccentricity:0.0002866
+argumentofperigree:56.1352
+nickname:STARLINK-4333
+idesg:22077AX 
+cosparid:2022-077AX
+altkm:564.95468751078
+velkms:7.579325065808
+velkmh:27286
+onumepoch:11794
+onumnow:177064.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:22:59+00:00
+nowjuliandate:2460552.6378833
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4333
+1 53088U 22077AX  24242.76595547  .00000116  00000+0  13641-4 0  9990
+2 53088  97.6564  62.5510 0002866  56.1352 304.0145 15.01260680117944

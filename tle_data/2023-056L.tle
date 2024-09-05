@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56296
+launchyear:2023
+epoch:24242.4946114
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30089
+meananomly:97.3399
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2051271088
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0033
+eccentricity:0.0001371
+argumentofperigree:262.7288
+nickname:STARLINK-30089
+idesg:23056L  
+cosparid:2023-056L
+altkm:558.9679295123
+velkms:7.5837107554174
+velkmh:27301
+onumepoch:7605
+onumnow:114277.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:52:14+00:00
+nowjuliandate:2460552.6377117
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-30089
+1 56296U 23056L   24242.49461140  .00001294  00000+0  11082-3 0  9997
+2 56296  43.0033 319.0307 0001371 262.7288  97.3399 15.02540378 76056

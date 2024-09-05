@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46557
+launchyear:2020
+epoch:24242.94694987
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1679
+meananomly:274.1054
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4239573901
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001358
+argumentofperigree:86.009
+nickname:STARLINK-1679
+idesg:20070AB 
+cosparid:2020-070AB
+altkm:548.0987962178
+velkms:7.5891733625543
+velkmh:27321
+onumepoch:21582
+onumnow:325114.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:43:36+00:00
+nowjuliandate:2460553.028232
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1679
+1 46557U 20070AB  24242.94694987  .00029201  00000+0  19724-2 0  9994
+2 46557  53.0540 140.3040 0001358  86.0090 274.1054 15.06376073215827

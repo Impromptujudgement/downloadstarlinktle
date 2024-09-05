@@ -1,0 +1,38 @@
+date:2024-08-28T23:05:29+00:00
+validtle:1
+satid:57447
+launchyear:2023
+epoch:24241.21963676
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30178
+meananomly:90.6468
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1695580908
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001317
+argumentofperigree:269.4223
+nickname:STARLINK-30178
+idesg:23105T  
+cosparid:2023-105T
+altkm:558.82109316169
+velkms:7.5838518125312
+velkmh:27302
+onumepoch:6155
+onumnow:92508.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:16:17+00:00
+nowjuliandate:2460551.4621527
+nowepochdate:24242.9621412037
+TLE:
+STARLINK-30178
+1 57447U 23105T   24241.21963676  .00004684  00000+0  36145-3 0  9994
+2 57447  43.0025  56.0928 0001317 269.4223  90.6468 15.02551934 61558

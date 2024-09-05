@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53712
+launchyear:2022
+epoch:24242.23358634
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4683
+meananomly:267.5605
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8839776312
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2146
+eccentricity:0.00013
+argumentofperigree:92.5536
+nickname:STARLINK-4683
+idesg:22107N  
+cosparid:2022-107N
+altkm:540.68247463536
+velkms:7.5931790281233
+velkmh:27335
+onumepoch:10988
+onumnow:165804.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:36:22+00:00
+nowjuliandate:2460552.637828
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4683
+1 53712U 22107N   24242.23358634  .00000430  00000+0  45129-4 0  9999
+2 53712  53.2146 231.1877 0001300  92.5536 267.5605 15.08839501109881

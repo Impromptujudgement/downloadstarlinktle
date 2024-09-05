@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53661
+launchyear:2022
+epoch:24242.21107774
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4472
+meananomly:277.8921
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.179784748
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6556
+eccentricity:0.0004083
+argumentofperigree:82.2767
+nickname:STARLINK-4472
+idesg:22105P  
+cosparid:2022-105P
+altkm:565.71226162069
+velkms:7.5785158767902
+velkmh:27283
+onumepoch:10987
+onumnow:164956.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:03:57+00:00
+nowjuliandate:2460552.6378343
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4472
+1 53661U 22105P   24242.21107774  .00002302  00000+0  18382-3 0  9995
+2 53661  97.6556 122.0090 0004083  82.2767 277.8921 15.01249986109878

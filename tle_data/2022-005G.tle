@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51110
+launchyear:2022
+epoch:24241.82515612
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3344
+meananomly:263.5548
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8614719582
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001301
+argumentofperigree:96.5593
+nickname:STARLINK-3344
+idesg:22005G  
+cosparid:2022-005G
+altkm:540.72281893715
+velkms:7.5931224366096
+velkmh:27335
+onumepoch:14466
+onumnow:218287.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:48:13+00:00
+nowjuliandate:2460552.6379722
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3344
+1 51110U 22005G   24241.82515612  .00000413  00000+0  44043-4 0  9996
+2 51110  53.2156 273.4516 0001301  96.5593 263.5548 15.08846864144666

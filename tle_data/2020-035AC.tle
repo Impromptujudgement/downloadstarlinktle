@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45683
+launchyear:2020
+epoch:24242.719878
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1399
+meananomly:269.3388
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2701140331
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0511
+eccentricity:0.0001972
+argumentofperigree:90.7827
+nickname:STARLINK-1399
+idesg:20035AC 
+cosparid:2020-035AC
+altkm:548.02789070064
+velkms:7.5891669336257
+velkmh:27321
+onumepoch:23492
+onumnow:353901.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:16:37+00:00
+nowjuliandate:2460553.0283265
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1399
+1 45683U 20035AC  24242.71987800  .00002137  00000+0  16222-3 0  9998
+2 45683  53.0511  36.9514 0001972  90.7827 269.3388 15.06426269234923

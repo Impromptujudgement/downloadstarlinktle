@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52693
+launchyear:2022
+epoch:24241.96177778
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3946
+meananomly:267.1343
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.841237488
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001835
+argumentofperigree:92.9859
+nickname:STARLINK-3946
+idesg:22053AP 
+cosparid:2022-053AP
+altkm:540.66524536459
+velkms:7.5931745295962
+velkmh:27335
+onumepoch:12655
+onumnow:190963.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:04:58+00:00
+nowjuliandate:2460552.6379032
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3946
+1 52693U 22053AP  24241.96177778  .00003059  00000+0  21011-3 0  9996
+2 52693  53.2165 127.8595 0001835  92.9859 267.1343 15.08853484126556

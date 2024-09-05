@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:11+00:00
+validtle:1
+satid:46717
+launchyear:2020
+epoch:24241.70212379
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1820
+meananomly:267.3237
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3366540062
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0521
+eccentricity:0.0001976
+argumentofperigree:92.7979
+nickname:STARLINK-1820
+idesg:20073AZ 
+cosparid:2020-073AZ
+altkm:548.14265800265
+velkms:7.5890775848826
+velkmh:27321
+onumepoch:21302
+onumnow:320915.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:51:03+00:00
+nowjuliandate:2460552.6404104
+nowepochdate:24243.1404050926
+TLE:
+STARLINK-1820
+1 46717U 20073AZ  24241.70212379  .00001665  00000+0  13062-3 0  9993
+2 46717  53.0521 226.5193 0001976  92.7979 267.3237 15.06404558213023

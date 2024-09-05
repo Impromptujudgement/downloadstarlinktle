@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52878
+launchyear:2022
+epoch:24242.60302961
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4171
+meananomly:259.4927
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8997894813
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001532
+argumentofperigree:100.6238
+nickname:STARLINK-4171
+idesg:22062BA 
+cosparid:2022-062BA
+altkm:540.8537154314
+velkms:7.592999795057
+velkmh:27335
+onumepoch:12245
+onumnow:184764.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:28:22+00:00
+nowjuliandate:2460552.6378957
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4171
+1 52878U 22062BA  24242.60302961 -.00000578  00000+0 -18196-4 0  9993
+2 52878  53.2184 354.9796 0001532 100.6238 259.4927 15.08834328122453

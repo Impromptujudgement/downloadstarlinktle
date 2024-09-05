@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48667
+launchyear:2021
+epoch:24242.32596528
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2735
+meananomly:269.6834
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2703438907
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0565
+eccentricity:0.000141
+argumentofperigree:90.4316
+nickname:STARLINK-2735
+idesg:21044AF 
+cosparid:2021-044AF
+altkm:548.01820733915
+velkms:7.5891776681331
+velkmh:27321
+onumepoch:18068
+onumnow:272193.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:49:23+00:00
+nowjuliandate:2460552.6380142
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2735
+1 48667U 21044AF  24242.32596528  .00022950  00000+0  15535-2 0  9994
+2 48667  53.0565  93.7200 0001410  90.4316 269.6834 15.06426194180686

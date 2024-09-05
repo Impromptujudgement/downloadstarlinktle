@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53750
+launchyear:2022
+epoch:24241.30676446
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4612
+meananomly:266.3885
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8719010209
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001402
+argumentofperigree:93.7267
+nickname:STARLINK-4612
+idesg:22107BC 
+cosparid:2022-107BC
+altkm:540.69337641896
+velkms:7.5931604533732
+velkmh:27335
+onumepoch:11030
+onumnow:166453.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:21:44+00:00
+nowjuliandate:2460552.6378295
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4612
+1 53750U 22107BC  24241.30676446  .00000450  00000+0  46332-4 0  9991
+2 53750  53.2159 251.0056 0001402  93.7267 266.3885 15.08843452110300

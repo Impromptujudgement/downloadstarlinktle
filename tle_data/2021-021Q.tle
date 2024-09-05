@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72330
+launchyear:2021
+epoch:21083.38444962
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2330
+meananomly:357.2852
+meanmotion:15.8517
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.9751596208
+altitudeatperigee:315
+altitudeatapogee:316
+inclination:53.0505
+eccentricity:5.84E-5
+argumentofperigree:54.8703
+nickname:STARLINK-2330
+idesg:21021Q  
+cosparid:2021-021Q
+altkm:318.85963299579
+velkms:7.7222356459969
+velkmh:27800
+onumepoch:1
+onumnow:50103.46
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:13:36+00:00
+nowjuliandate:2460552.6397568
+nowepochdate:24243.1397453704
+TLE:
+STARLINK-2330
+1 72330C 21021Q   21083.38444962 -.01027015  00000-0 -44543-2 0   839
+2 72330  53.0505 168.5821 0000584  54.8703 357.2852 15.85173530    11

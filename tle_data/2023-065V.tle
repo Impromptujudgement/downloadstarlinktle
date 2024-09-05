@@ -1,0 +1,38 @@
+date:2024-08-29T09:22:02+00:00
+validtle:1
+satid:56522
+launchyear:2023
+epoch:24242.05726792
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-6327
+meananomly:97.0159
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1599518255
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.0001257
+argumentofperigree:263.054
+nickname:STARLINK-6327
+idesg:23065V  
+cosparid:2023-065V
+altkm:558.9075028678
+velkms:7.5837521582814
+velkmh:27302
+onumepoch:7196
+onumnow:108128.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:22:28+00:00
+nowjuliandate:2460551.8903051
+nowepochdate:24242.3903009259
+TLE:
+STARLINK-6327
+1 56522U 23065V   24242.05726792  .00000689  00000+0  66051-4 0  9992
+2 56522  43.0011   0.2493 0001257 263.0540  97.0159 15.02555055 71961

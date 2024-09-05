@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46580
+launchyear:2020
+epoch:24243.202308
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1708
+meananomly:257.3332
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.379246435
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001547
+argumentofperigree:102.7829
+nickname:STARLINK-1708
+idesg:20070BA 
+cosparid:2020-070BA
+altkm:548.35631743153
+velkms:7.5888668149647
+velkmh:27320
+onumepoch:21585
+onumnow:325159.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:51:19+00:00
+nowjuliandate:2460553.0282286
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1708
+1 46580U 20070BA  24243.20230800  .00018811  00000+0  12787-2 0  9997
+2 46580  53.0534 139.7870 0001547 102.7829 257.3332 15.06390661215859

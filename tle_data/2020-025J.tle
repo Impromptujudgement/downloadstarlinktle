@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45539
+launchyear:2020
+epoch:22220.84631944
+epochday:220
+tleage:753
+tleclassification:C
+active:0
+name:STARLINK-1367
+meananomly:284.0979
+meanmotion:15.9176
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6675.5045539467
+altitudeatperigee:294
+altitudeatapogee:301
+inclination:53.0383
+eccentricity:0.0005245
+argumentofperigree:214.7262
+nickname:STARLINK-1367
+idesg:20025J  
+cosparid:2020-025J
+altkm:298.51597590258
+velkms:7.7334794915798
+velkmh:27841
+onumepoch:1
+onumnow:32212.10
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-08T20:18:42+00:00
+nowjuliandate:2460553.0283316
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1367
+1 45539C 20025J   22220.84631944  .00393955  00000-0  11450-2 0  2206
+2 45539  53.0383 349.6580 0005245 214.7262 284.0979 15.91757158    14

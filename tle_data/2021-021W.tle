@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72337
+launchyear:2021
+epoch:21083.38086115
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2337
+meananomly:339.0454
+meanmotion:15.8569
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6692.5144747101
+altitudeatperigee:314
+altitudeatapogee:315
+inclination:53.0506
+eccentricity:8.33E-5
+argumentofperigree:68.2694
+nickname:STARLINK-2337
+idesg:21021W  
+cosparid:2021-021W
+altkm:316.63077042016
+velkms:7.7232569656014
+velkmh:27804
+onumepoch:1
+onumnow:50119.13
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:08:26+00:00
+nowjuliandate:2460552.6396927
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-2337
+1 72337C 21021W   21083.38086115 -.01041420  00000-0 -44091-2 0   832
+2 72337  53.0506 168.5659 0000833  68.2694 339.0454 15.85692520    14

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53172
+launchyear:2022
+epoch:24242.4332578
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4299
+meananomly:295.3408
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.821314932
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001497
+argumentofperigree:64.7739
+nickname:STARLINK-4299
+idesg:22083AS 
+cosparid:2022-083AS
+altkm:540.1384836401
+velkms:7.5937416372701
+velkmh:27337
+onumepoch:11793
+onumnow:177950.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:23:53+00:00
+nowjuliandate:2460552.6378786
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4299
+1 53172U 22083AS  24242.43325780  .00001073  00000+0  85442-4 0  9996
+2 53172  53.2161 140.6535 0001497  64.7739 295.3408 15.08860002117931

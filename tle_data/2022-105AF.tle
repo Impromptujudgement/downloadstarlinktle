@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53677
+launchyear:2022
+epoch:24241.92570407
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4579
+meananomly:288.1725
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1487019988
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6543
+eccentricity:0.0004365
+argumentofperigree:71.9975
+nickname:STARLINK-4579
+idesg:22105AF 
+cosparid:2022-105AF
+altkm:565.12537512446
+velkms:7.579139719399
+velkmh:27285
+onumepoch:10955
+onumnow:164481.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:13:01+00:00
+nowjuliandate:2460552.6378377
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4579
+1 53677U 22105AF  24241.92570407  .00001081  00000+0  88779-4 0  9997
+2 53677  97.6543 121.7136 0004365  71.9975 288.1725 15.01260070109556

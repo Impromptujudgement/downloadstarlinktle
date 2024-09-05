@@ -1,0 +1,38 @@
+date:2024-08-29T05:14:57+00:00
+validtle:1
+satid:57356
+launchyear:2023
+epoch:24241.14490536
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6355
+meananomly:84.0508
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2153029606
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001473
+argumentofperigree:276.0166
+nickname:STARLINK-6355
+idesg:23099AE 
+cosparid:2023-099AE
+altkm:558.75065931003
+velkms:7.5839537074601
+velkmh:27302
+onumepoch:6224
+onumnow:93534.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:28:40+00:00
+nowjuliandate:2460551.7187252
+nowepochdate:24242.2187152778
+TLE:
+STARLINK-6355
+1 57356U 23099AE  24241.14490536  .00002563  00000+0  20475-3 0  9990
+2 57356  43.0025  31.2038 0001473 276.0166  84.0508 15.02537072 62243

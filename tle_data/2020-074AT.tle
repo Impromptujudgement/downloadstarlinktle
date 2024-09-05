@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46780
+launchyear:2020
+epoch:24242.4512893
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1832
+meananomly:280.5451
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3492597277
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001336
+argumentofperigree:79.5688
+nickname:STARLINK-1832
+idesg:20074AT 
+cosparid:2020-074AT
+altkm:547.92204614591
+velkms:7.5893261556705
+velkmh:27322
+onumepoch:21255
+onumnow:320195.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:49:51+00:00
+nowjuliandate:2460552.6397143
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1832
+1 46780U 20074AT  24242.45128930  .00006032  00000+0  42351-3 0  9992
+2 46780  53.0534 293.1601 0001336  79.5688 280.5451 15.06400445212554

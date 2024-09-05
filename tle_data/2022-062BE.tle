@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52882
+launchyear:2022
+epoch:24242.59193134
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4181
+meananomly:269.9424
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8917994882
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2208
+eccentricity:0.0001864
+argumentofperigree:90.1781
+nickname:STARLINK-4181
+idesg:22062BE 
+cosparid:2022-062BE
+altkm:540.65410564208
+velkms:7.5932144405259
+velkmh:27336
+onumepoch:12246
+onumnow:184780.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:12:23+00:00
+nowjuliandate:2460552.6378951
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4181
+1 52882U 22062BE  24242.59193134 -.00000099  00000+0  11881-4 0  9997
+2 52882  53.2208 354.6066 0001864  90.1781 269.9424 15.08836942122469

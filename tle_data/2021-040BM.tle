@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48487
+launchyear:2021
+epoch:24242.12231607
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2494
+meananomly:261.4381
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3189055664
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0515
+eccentricity:0.0001613
+argumentofperigree:98.6791
+nickname:STARLINK-2494
+idesg:21040BM 
+cosparid:2021-040BM
+altkm:548.22716570389
+velkms:7.5889753055552
+velkmh:27320
+onumepoch:18359
+onumnow:276577.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:56:08+00:00
+nowjuliandate:2460552.6380239
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2494
+1 48487U 21040BM  24242.12231607  .00009078  00000+0  62739-3 0  9997
+2 48487  53.0515 184.6299 0001613  98.6791 261.4381 15.06410349183596

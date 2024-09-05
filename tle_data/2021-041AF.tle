@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48582
+launchyear:2021
+epoch:24241.84635457
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2236
+meananomly:3.0725
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3030237053
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.071
+eccentricity:6.14E-5
+argumentofperigree:357.0261
+nickname:STARLINK-2236
+idesg:21041AF 
+cosparid:2021-041AF
+altkm:547.62228731589
+velkms:7.589629279628
+velkmh:27323
+onumepoch:18161
+onumnow:273599.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:18:45+00:00
+nowjuliandate:2460552.6380203
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2236
+1 48582U 21041AF  24241.84635457  .00010702  00000+0  73598-3 0  9994
+2 48582  53.0710  81.0393 0000614 357.0261   3.0725 15.06415531181619

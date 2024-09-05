@@ -1,0 +1,38 @@
+date:2024-08-29T05:36:06+00:00
+validtle:1
+satid:57239
+launchyear:2023
+epoch:24241.53371798
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6330
+meananomly:96.0216
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2062105613
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001161
+argumentofperigree:264.0494
+nickname:STARLINK-6330
+idesg:23094X  
+cosparid:2023-094X
+altkm:558.93184866936
+velkms:7.5837507698396
+velkmh:27302
+onumepoch:6334
+onumnow:95181.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:48:33+00:00
+nowjuliandate:2460551.7334065
+nowepochdate:24242.2334027778
+TLE:
+STARLINK-6330
+1 57239U 23094X   24241.53371798  .00000677  00000+0  65184-4 0  9997
+2 57239  43.0022 182.7774 0001161 264.0494  96.0216 15.02540026 63348

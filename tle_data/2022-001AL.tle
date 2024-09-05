@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50837
+launchyear:2022
+epoch:24241.46083491
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3318
+meananomly:269.5889
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8613099596
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001353
+argumentofperigree:90.5258
+nickname:STARLINK-3318
+idesg:22001AL 
+cosparid:2022-001AL
+altkm:540.62863198276
+velkms:7.5932256955979
+velkmh:27336
+onumepoch:14613
+onumnow:220511.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:03:36+00:00
+nowjuliandate:2460552.637981
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3318
+1 50837U 22001AL  24241.46083491  .00001669  00000+0  12290-3 0  9994
+2 50837  53.2181 155.1084 0001353  90.5258 269.5889 15.08846917146131

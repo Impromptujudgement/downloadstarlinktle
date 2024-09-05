@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53652
+launchyear:2022
+epoch:24241.95716625
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4374
+meananomly:270.7866
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1032652186
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6583
+eccentricity:0.0001818
+argumentofperigree:89.3566
+nickname:STARLINK-4374
+idesg:22105E  
+cosparid:2022-105E
+altkm:566.00669607665
+velkms:7.5781526854002
+velkmh:27281
+onumepoch:10955
+onumnow:164482.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:58:19+00:00
+nowjuliandate:2460552.6378349
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4374
+1 53652U 22105E   24241.95716625  .00003267  00000+0  25874-3 0  9991
+2 53652  97.6583 121.7501 0001818  89.3566 270.7866 15.01274811109559

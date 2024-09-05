@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45755
+launchyear:2020
+epoch:24243.14745488
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1478
+meananomly:257.8433
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2700496729
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001512
+argumentofperigree:102.2725
+nickname:STARLINK-1478
+idesg:20038AB 
+cosparid:2020-038AB
+altkm:548.23269931382
+velkms:7.5889425336259
+velkmh:27320
+onumepoch:23370
+onumnow:352057.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:32:20+00:00
+nowjuliandate:2460553.0283117
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1478
+1 45755U 20038AB  24243.14745488  .00011953  00000+0  81942-3 0  9990
+2 45755  53.0534 195.0275 0001512 102.2725 257.8433 15.06426290233707

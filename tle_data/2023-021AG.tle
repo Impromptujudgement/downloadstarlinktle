@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55658
+launchyear:2023
+epoch:24241.50544191
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5307
+meananomly:88.0846
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1810203255
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0009
+eccentricity:0.0002746
+argumentofperigree:271.9998
+nickname:STARLINK-5307
+idesg:23021AG 
+cosparid:2023-021AG
+altkm:574.40460995403
+velkms:7.5739375679301
+velkmh:27266
+onumepoch:8518
+onumnow:127652.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:07:50+00:00
+nowjuliandate:2460552.6377463
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5307
+1 55658U 23021AG  24241.50544191  .00001006  00000+0  92094-4 0  9993
+2 55658  70.0009 151.7237 0002746 271.9998  88.0846 14.98334509 85189

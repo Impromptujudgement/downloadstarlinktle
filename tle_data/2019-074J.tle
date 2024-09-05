@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44721
+launchyear:2019
+epoch:24243.08024533
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1015
+meananomly:265.4533
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2934431439
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0556
+eccentricity:0.0001934
+argumentofperigree:94.6677
+nickname:STARLINK-1015
+idesg:19074J  
+cosparid:2019-074J
+altkm:548.142095704
+velkms:7.5890545778318
+velkmh:27321
+onumepoch:26501
+onumnow:399222.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:55:33+00:00
+nowjuliandate:2460553.0296696
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1015
+1 44721U 19074J   24243.08024533  .00003874  00000+0  27869-3 0  9995
+2 44721  53.0556 165.6791 0001934  94.6677 265.4533 15.06418657265010

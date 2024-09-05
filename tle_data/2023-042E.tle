@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55990
+launchyear:2023
+epoch:24242.18586816
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5946
+meananomly:110.2995
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2079527046
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:42.9998
+eccentricity:3.14E-5
+argumentofperigree:249.7814
+nickname:STARLINK-5946
+idesg:23042E  
+cosparid:2023-042E
+altkm:558.92431690542
+velkms:7.5837599483766
+velkmh:27302
+onumepoch:7938
+onumnow:119285.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:27:39+00:00
+nowjuliandate:2460552.6377224
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5946
+1 55990U 23042E   24242.18586816 -.00000032  00000+0  12654-4 0  9993
+2 55990  42.9998 205.7507 0000314 249.7814 110.2995 15.02539460 79389

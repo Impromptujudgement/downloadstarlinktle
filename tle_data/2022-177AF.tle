@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54849
+launchyear:2022
+epoch:24242.41676052
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5434
+meananomly:88.4201
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1861175111
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0017
+eccentricity:0.0001032
+argumentofperigree:271.6523
+nickname:STARLINK-5434
+idesg:22177AF 
+cosparid:2022-177AF
+altkm:558.8074675796
+velkms:7.5838757263363
+velkmh:27302
+onumepoch:9215
+onumnow:138470.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:00:08+00:00
+nowjuliandate:2460552.6377841
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5434
+1 54849U 22177AF  24242.41676052  .00000758  00000+0  71188-4 0  9992
+2 54849  43.0017 280.8236 0001032 271.6523  88.4201 15.02546554 92155

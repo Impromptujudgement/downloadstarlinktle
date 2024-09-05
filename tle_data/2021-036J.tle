@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48284
+launchyear:2021
+epoch:24241.81638263
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2564
+meananomly:276.2547
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3452110567
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001462
+argumentofperigree:83.8609
+nickname:STARLINK-2564
+idesg:21036J  
+cosparid:2021-036J
+altkm:547.97697672845
+velkms:7.5892637653698
+velkmh:27321
+onumepoch:18422
+onumnow:277529.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:35:35+00:00
+nowjuliandate:2460552.6380394
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2564
+1 48284U 21036J   24241.81638263 -.00000150  00000+0  88446-5 0  9999
+2 48284  53.0529  66.0051 0001462  83.8609 276.2547 15.06401766184223

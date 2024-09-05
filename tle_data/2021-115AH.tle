@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49755
+launchyear:2021
+epoch:24242.39100813
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3210
+meananomly:280.8887
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9023784397
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001479
+argumentofperigree:79.2271
+nickname:STARLINK-3210
+idesg:21115AH 
+cosparid:2021-115AH
+altkm:540.46949547253
+velkms:7.5934227998393
+velkmh:27336
+onumepoch:15251
+onumnow:230123.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:23:03+00:00
+nowjuliandate:2460552.637993
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3210
+1 49755U 21115AH  24242.39100813  .00007530  00000+0  49075-3 0  9991
+2 49755  53.2159 130.9830 0001479  79.2271 280.8887 15.08833481152516

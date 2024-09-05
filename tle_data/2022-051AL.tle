@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52567
+launchyear:2022
+epoch:24241.89599534
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3929
+meananomly:273.6646
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.836236968
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001493
+argumentofperigree:86.4517
+nickname:STARLINK-3929
+idesg:22051AL 
+cosparid:2022-051AL
+altkm:540.53052697261
+velkms:7.5933196135546
+velkmh:27336
+onumepoch:12737
+onumnow:192201.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:30:14+00:00
+nowjuliandate:2460552.6379159
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3929
+1 52567U 22051AL  24241.89599534  .00003768  00000+0  25462-3 0  9995
+2 52567  53.2150 103.1547 0001493  86.4517 273.6646 15.08855120127371

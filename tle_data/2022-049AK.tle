@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52484
+launchyear:2022
+epoch:24241.75064014
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3887
+meananomly:268.8936
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8767579454
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2188
+eccentricity:0.0001108
+argumentofperigree:91.2183
+nickname:STARLINK-3887
+idesg:22049AK 
+cosparid:2022-049AK
+altkm:540.65219442007
+velkms:7.5932083005349
+velkmh:27336
+onumepoch:12802
+onumnow:193182.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:00:55+00:00
+nowjuliandate:2460552.6379225
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3887
+1 52484U 22049AK  24241.75064014  .00000401  00000+0  43283-4 0  9998
+2 52484  53.2188  43.8073 0001108  91.2183 268.8936 15.08841863128020

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53085
+launchyear:2022
+epoch:24242.76619684
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4324
+meananomly:300.4294
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1253007774
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.656
+eccentricity:0.0003015
+argumentofperigree:59.7228
+nickname:STARLINK-4324
+idesg:22077AU 
+cosparid:2022-077AU
+altkm:564.98619610479
+velkms:7.5792789267639
+velkmh:27285
+onumepoch:11794
+onumnow:177065.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:23:19+00:00
+nowjuliandate:2460552.6378835
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4324
+1 53085U 22077AU  24242.76619684 -.00000485  00000+0 -33157-4 0  9991
+2 53085  97.6560  62.5551 0003015  59.7228 300.4294 15.01267662117942

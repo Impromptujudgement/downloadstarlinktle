@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52496
+launchyear:2022
+epoch:24242.69962088
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3871
+meananomly:269.8848
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8842924613
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001642
+argumentofperigree:90.2332
+nickname:STARLINK-3871
+idesg:22049AX 
+cosparid:2022-049AX
+altkm:540.6470810737
+velkms:7.5932180368002
+velkmh:27336
+onumepoch:12837
+onumnow:193696.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:47:27+00:00
+nowjuliandate:2460552.637921
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3871
+1 52496U 22049AX  24242.69962088 -.00002626  00000+0 -14698-3 0  9993
+2 52496  53.2166  24.5457 0001642  90.2332 269.8848 15.08839398128370

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49735
+launchyear:2021
+epoch:24242.0321432
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3113
+meananomly:268.5686
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8467209537
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001997
+argumentofperigree:91.5535
+nickname:STARLINK-3113
+idesg:21115M  
+cosparid:2021-115M
+altkm:540.64184627487
+velkms:7.5932032073259
+velkmh:27336
+onumepoch:15231
+onumnow:229829.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:46:17+00:00
+nowjuliandate:2460552.6379898
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3113
+1 49735U 21115M   24242.03214320  .00003847  00000+0  25959-3 0  9991
+2 49735  53.2168 142.4269 0001997  91.5535 268.5686 15.08851690152313

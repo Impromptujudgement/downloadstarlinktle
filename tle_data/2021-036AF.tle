@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48305
+launchyear:2021
+epoch:24242.78492492
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2519
+meananomly:258.6443
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3090062096
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0574
+eccentricity:0.0001098
+argumentofperigree:101.467
+nickname:STARLINK-2519
+idesg:21036AF 
+cosparid:2021-036AF
+altkm:548.20121424241
+velkms:7.5889983232928
+velkmh:27320
+onumepoch:18481
+onumnow:278405.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:50:18+00:00
+nowjuliandate:2460552.6380447
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2519
+1 48305U 21036AF  24242.78492492  .00007649  00000+0  53163-3 0  9997
+2 48305  53.0574  72.2377 0001098 101.4670 258.6443 15.06413579184816

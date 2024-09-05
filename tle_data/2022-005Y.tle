@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51126
+launchyear:2022
+epoch:24242.41400719
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3386
+meananomly:260.1858
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9032312376
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001458
+argumentofperigree:99.9298
+nickname:STARLINK-3386
+idesg:22005Y  
+cosparid:2022-005Y
+altkm:540.83552057008
+velkms:7.5930216431491
+velkmh:27335
+onumepoch:14572
+onumnow:219876.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:56:10+00:00
+nowjuliandate:2460552.6379701
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3386
+1 51126U 22005Y   24242.41400719 -.00000470  00000+0 -11442-4 0  9992
+2 51126  53.2157 280.8412 0001458  99.9298 260.1858 15.08833202145720

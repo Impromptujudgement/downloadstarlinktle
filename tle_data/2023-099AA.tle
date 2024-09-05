@@ -1,0 +1,38 @@
+date:2024-08-29T05:17:44+00:00
+validtle:1
+satid:57352
+launchyear:2023
+epoch:24241.68672115
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6297
+meananomly:91.9352
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.203966707
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0046
+eccentricity:0.0001252
+argumentofperigree:268.1347
+nickname:STARLINK-6297
+idesg:23099AA 
+cosparid:2023-099AA
+altkm:558.87473226167
+velkms:7.5838119567445
+velkmh:27302
+onumepoch:6306
+onumnow:94758.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:28:53+00:00
+nowjuliandate:2460551.7206496
+nowepochdate:24242.2206481481
+TLE:
+STARLINK-6297
+1 57352U 23099AA  24241.68672115  .00001138  00000+0  99327-4 0  9990
+2 57352  43.0046  28.3888 0001252 268.1347  91.9352 15.02540755 63067

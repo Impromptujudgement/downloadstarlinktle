@@ -1,0 +1,38 @@
+date:2024-08-29T06:43:57+00:00
+validtle:1
+satid:57134
+launchyear:2023
+epoch:24241.78035136
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6133
+meananomly:83.3319
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2166942172
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0026
+eccentricity:0.0001003
+argumentofperigree:276.7409
+nickname:STARLINK-6133
+idesg:23090AK 
+cosparid:2023-090AK
+altkm:558.77709192071
+velkms:7.583925582984
+velkmh:27302
+onumepoch:6644
+onumnow:99836.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:43:42+00:00
+nowjuliandate:2460551.7805277
+nowepochdate:24242.2805208333
+TLE:
+STARLINK-6133
+1 57134U 23090AK  24241.78035136  .00000626  00000+0  61389-4 0  9994
+2 57134  43.0026  53.6433 0001003 276.7409  83.3319 15.02536620 66447

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45700
+launchyear:2020
+epoch:24242.66276859
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1400
+meananomly:282.1782
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.332317259
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0551
+eccentricity:4.3E-5
+argumentofperigree:77.9255
+nickname:STARLINK-1400
+idesg:20035AV 
+cosparid:2020-035AV
+altkm:548.01167987308
+velkms:7.5892186991114
+velkmh:27321
+onumepoch:23519
+onumnow:354304.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:54:23+00:00
+nowjuliandate:2460553.0283224
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1400
+1 45700U 20035AV  24242.66276859  .00012728  00000+0  87170-3 0  9994
+2 45700  53.0551  17.2047 0000430  77.9255 282.1782 15.06405973235190

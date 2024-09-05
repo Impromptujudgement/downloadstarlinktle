@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:45+00:00
+validtle:1
+satid:44755
+launchyear:2019
+epoch:22082.83128548
+epochday:82
+tleage:891
+tleclassification:C
+active:0
+name:STARLINK-1050
+meananomly:67.5141
+meanmotion:15.9743
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6659.6979747097
+altitudeatperigee:277
+altitudeatapogee:286
+inclination:53.04
+eccentricity:0.000631
+argumentofperigree:344.3207
+nickname:STARLINK-1050
+idesg:19074AU 
+cosparid:2019-074AU
+altkm:283.33022577277
+velkms:7.7435249185342
+velkmh:27877
+onumepoch:1
+onumnow:34524.54
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-03-23T19:57:03+00:00
+nowjuliandate:2460553.0296879
+nowepochdate:24243.09.5296875
+TLE:
+STARLINK-1050
+1 44755C 19074AU  22082.83128548  .00382469  00000-0  81880-3 0   822
+2 44755  53.0400 208.7825 0006310 344.3207  67.5141 15.97427496    13

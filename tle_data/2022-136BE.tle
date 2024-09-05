@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54103
+launchyear:2022
+epoch:24242.45028399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5200
+meananomly:284.8978
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8542523312
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.00015
+argumentofperigree:75.218
+nickname:STARLINK-5200
+idesg:22136BE 
+cosparid:2022-136BE
+altkm:540.34802662664
+velkms:7.5935297354716
+velkmh:27337
+onumepoch:10361
+onumnow:156342.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:48:25+00:00
+nowjuliandate:2460552.6378
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5200
+1 54103U 22136BE  24242.45028399  .00001181  00000+0  92279-4 0  9994
+2 54103  53.2174 295.4518 0001500  75.2180 284.8978 15.08849226103612

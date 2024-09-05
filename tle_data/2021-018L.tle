@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:30+00:00
+validtle:1
+satid:47797
+launchyear:2021
+epoch:24242.1817611
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2377
+meananomly:274.1377
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3853639594
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001515
+argumentofperigree:85.9785
+nickname:STARLINK-2377
+idesg:21018L  
+cosparid:2021-018L
+altkm:548.05172609849
+velkms:7.5892038286305
+velkmh:27321
+onumepoch:19215
+onumnow:289467.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:21:44+00:00
+nowjuliandate:2460552.6392411
+nowepochdate:24243.1392361111
+TLE:
+STARLINK-2377
+1 47797U 21018L   24242.18176110  .00001906  00000+0  14683-3 0  9995
+2 47797  53.0527 239.3669 0001515  85.9785 274.1377 15.06388665192157

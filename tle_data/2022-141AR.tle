@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54196
+launchyear:2022
+epoch:24242.43926528
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5237
+meananomly:276.1925
+meanmotion:15.0879
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6918.0408683173
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.000181
+argumentofperigree:83.9273
+nickname:STARLINK-5237
+idesg:22141AR 
+cosparid:2022-141AR
+altkm:540.66629078591
+velkms:7.5932826946538
+velkmh:27336
+onumepoch:10210
+onumnow:154057.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:32:33+00:00
+nowjuliandate:2460552.6377954
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5237
+1 54196U 22141AR  24242.43926528  .00015548  00000+0  99421-3 0  9998
+2 54196  53.2163 335.6024 0001810  83.9273 276.1925 15.08788174102107

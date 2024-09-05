@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53847
+launchyear:2022
+epoch:24242.41901599
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4777
+meananomly:272.2443
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8843597066
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001364
+argumentofperigree:87.8705
+nickname:STARLINK-4777
+idesg:22114AF 
+cosparid:2022-114AF
+altkm:540.6077170237
+velkms:7.5932612659938
+velkmh:27336
+onumepoch:10830
+onumnow:163417.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:03:23+00:00
+nowjuliandate:2460552.6378221
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4777
+1 53847U 22114AF  24242.41901599 -.00000079  00000+0  13149-4 0  9997
+2 53847  53.2153 275.7364 0001364  87.8705 272.2443 15.08839376108307

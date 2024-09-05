@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45220
+launchyear:2020
+epoch:21352.14864036
+epochday:352
+tleage:986
+tleclassification:C
+active:0
+name:STARLINK-1188
+meananomly:61.4043
+meanmotion:15.9157
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6676.0156476337
+altitudeatperigee:296
+altitudeatapogee:300
+inclination:53.0481
+eccentricity:0.0002935
+argumentofperigree:42.0628
+nickname:STARLINK-1188
+idesg:20012AU 
+cosparid:2020-012AU
+altkm:302.98347964858
+velkms:7.7329557888984
+velkmh:27839
+onumepoch:1
+onumnow:46034.40
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-12-18T03:34:03+00:00
+nowjuliandate:2460553.0298048
+nowepochdate:24243.5298032407
+TLE:
+STARLINK-1188
+1 45220C 20012AU  21352.14864036  .00919127  00000-0  26273-2 0  3527
+2 45220  53.0481  32.9786 0002935  42.0628  61.4043 15.91574372    15

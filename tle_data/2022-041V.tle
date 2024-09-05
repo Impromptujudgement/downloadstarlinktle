@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52280
+launchyear:2022
+epoch:24242.31276029
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3764
+meananomly:278.4519
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8583909296
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001266
+argumentofperigree:81.6617
+nickname:STARLINK-3764
+idesg:22041V  
+cosparid:2022-041V
+altkm:540.49003861698
+velkms:7.5933761718999
+velkmh:27336
+onumepoch:13144
+onumnow:198335.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:30:22+00:00
+nowjuliandate:2460552.6379305
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3764
+1 52280U 22041V   24242.31276029  .00002664  00000+0  18536-3 0  9993
+2 52280  53.2161  91.2834 0001266  81.6617 278.4519 15.08847872131447

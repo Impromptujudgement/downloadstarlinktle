@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50844
+launchyear:2022
+epoch:24242.05606971
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3326
+meananomly:264.0565
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8417204237
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001359
+argumentofperigree:96.0582
+nickname:STARLINK-3326
+idesg:22001AT 
+cosparid:2022-001AT
+altkm:540.69938703392
+velkms:7.5931373314892
+velkmh:27335
+onumepoch:14736
+onumnow:222358.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:20:44+00:00
+nowjuliandate:2460552.6379786
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3326
+1 50844U 22001AT  24242.05606971  .00001840  00000+0  13364-3 0  9996
+2 50844  53.2154 162.4333 0001359  96.0582 264.0565 15.08853326147363

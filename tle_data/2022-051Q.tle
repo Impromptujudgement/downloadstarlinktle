@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52547
+launchyear:2022
+epoch:24242.76863927
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3869
+meananomly:259.8224
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9295702903
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001144
+argumentofperigree:100.2897
+nickname:STARLINK-3869
+idesg:22051Q  
+cosparid:2022-051Q
+altkm:540.82998998133
+velkms:7.5930421347786
+velkmh:27335
+onumepoch:12736
+onumnow:192169.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:26:50+00:00
+nowjuliandate:2460552.6379123
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3869
+1 52547U 22051Q   24242.76863927 -.00001238  00000+0 -59745-4 0  9994
+2 52547  53.2183 114.2502 0001144 100.2897 259.8224 15.08824585127366

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47560
+launchyear:2021
+epoch:24242.55632719
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1959
+meananomly:272.2497
+meanmotion:15.0636
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4631459649
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001346
+argumentofperigree:87.8647
+nickname:STARLINK-1959
+idesg:21009N  
+cosparid:2021-009N
+altkm:548.16894917725
+velkms:7.5891179359219
+velkmh:27321
+onumepoch:19771
+onumnow:297831.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:21:07+00:00
+nowjuliandate:2460552.6394601
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1959
+1 47560U 21009N   24242.55632719  .00003157  00000+0  23097-3 0  9995
+2 47560  53.0563 342.6787 0001346  87.8647 272.2497 15.06363287197716

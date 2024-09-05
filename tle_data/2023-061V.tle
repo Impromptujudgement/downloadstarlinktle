@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56393
+launchyear:2023
+epoch:24242.56828604
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6303
+meananomly:91.7735
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2058689044
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0055
+eccentricity:0.0001271
+argumentofperigree:268.2962
+nickname:STARLINK-6303
+idesg:23061V  
+cosparid:2023-061V
+altkm:558.87469379973
+velkms:7.5838130357439
+velkmh:27302
+onumepoch:7324
+onumnow:110054.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:38:20+00:00
+nowjuliandate:2460552.6376997
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6303
+1 56393U 23061V   24242.56828604  .00000641  00000+0  62525-4 0  9995
+2 56393  43.0055 344.3200 0001271 268.2962  91.7735 15.02540137 73243

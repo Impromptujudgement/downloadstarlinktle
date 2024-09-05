@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54856
+launchyear:2022
+epoch:24242.38606732
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5086
+meananomly:93.2421
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2236936032
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0004
+eccentricity:0.0001569
+argumentofperigree:266.8242
+nickname:STARLINK-5086
+idesg:22177AN 
+cosparid:2022-177AN
+altkm:558.92628023496
+velkms:7.5837663829828
+velkmh:27302
+onumepoch:9229
+onumnow:138680.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:15:56+00:00
+nowjuliandate:2460552.6377831
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5086
+1 54856U 22177AN  24242.38606732  .00000556  00000+0  56226-4 0  9996
+2 54856  43.0004 268.4468 0001569 266.8242  93.2421 15.02534346 92296

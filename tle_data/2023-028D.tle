@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55744
+launchyear:2023
+epoch:24241.62314963
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5601
+meananomly:90.0696
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1657779133
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9995
+eccentricity:0.0002965
+argumentofperigree:270.0123
+nickname:STARLINK-5601
+idesg:23028D  
+cosparid:2023-028D
+altkm:574.45566020993
+velkms:7.5738736479241
+velkmh:27266
+onumepoch:8244
+onumnow:123545.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:57:20+00:00
+nowjuliandate:2460552.637735
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5601
+1 55744U 23028D   24241.62314963 -.00000609  00000+0 -43261-4 0  9993
+2 55744  69.9995 211.6822 0002965 270.0123  90.0696 14.98339438 82443

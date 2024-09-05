@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:56+00:00
+validtle:1
+satid:45102
+launchyear:2020
+epoch:24035.90404275
+epochday:35
+tleage:208
+tleclassification:U
+active:0
+name:STARLINK-1195
+meananomly:331.7333
+meanmotion:16.0599
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6636.0044623533
+altitudeatperigee:253
+altitudeatapogee:263
+inclination:53.0373
+eccentricity:0.000779
+argumentofperigree:107.9819
+nickname:STARLINK-1195
+idesg:20006BL 
+cosparid:2020-006BL
+altkm:259.53738446072
+velkms:7.7604559239667
+velkmh:27938
+onumepoch:22290
+onumnow:361309.69
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-02-04T21:41:49+00:00
+nowjuliandate:2460553.0284331
+nowepochdate:24243.5284259259
+TLE:
+STARLINK-1195
+1 45102U 20006BL  24035.90404275  .00590618  18069-3  78858-3 0  9990
+2 45102  53.0373  26.0260 0007790 107.9819 331.7333 16.05990427222900

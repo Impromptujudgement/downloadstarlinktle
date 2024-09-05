@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55666
+launchyear:2023
+epoch:23094.25048611
+epochday:94
+tleage:514
+tleclassification:C
+active:0
+name:STARLINK-5457
+meananomly:7.4763
+meanmotion:16.0006
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6652.3890874214
+altitudeatperigee:269
+altitudeatapogee:279
+inclination:69.9886
+eccentricity:0.0007604
+argumentofperigree:204.3294
+nickname:STARLINK-5457
+idesg:23021AQ 
+cosparid:2023-021AQ
+altkm:279.96722687708
+velkms:7.7412148012945
+velkmh:27868
+onumepoch:1
+onumnow:18398.90
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-04-04T06:00:42+00:00
+nowjuliandate:2460552.6377457
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5457
+1 55666C 23021AQ  23094.25048611  .02140240  00000-0  36640-2 0   941
+2 55666  69.9886  19.4556 0007604 204.3294   7.4763 16.00060826    14

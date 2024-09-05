@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53796
+launchyear:2022
+epoch:24241.31917258
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4721
+meananomly:305.4000
+meanmotion:15.1316
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6904.7058726345
+altitudeatperigee:523
+altitudeatapogee:531
+inclination:53.2123
+eccentricity:0.0005892
+argumentofperigree:54.7545
+nickname:STARLINK-4721
+idesg:22111Z  
+cosparid:2022-111Z
+altkm:525.11240437663
+velkms:7.6030655932121
+velkmh:27371
+onumepoch:10971
+onumnow:166035.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:39:37+00:00
+nowjuliandate:2460552.6378227
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4721
+1 53796U 22111Z   24241.31917258  .00075983  00000+0  42064-2 0  9995
+2 53796  53.2123 239.7997 0005892  54.7545 305.4000 15.13161147109718

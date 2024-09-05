@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55600
+launchyear:2023
+epoch:24241.4592898
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5755
+meananomly:82.1511
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1661231007
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001393
+argumentofperigree:277.9173
+nickname:STARLINK-5755
+idesg:23020AH 
+cosparid:2023-020AH
+altkm:558.67529823584
+velkms:7.5840092498049
+velkmh:27302
+onumepoch:8509
+onumnow:127877.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:01:23+00:00
+nowjuliandate:2460552.637753
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5755
+1 55600U 23020AH  24241.45928980 -.00002325  00000+0 -15702-3 0  9992
+2 55600  43.0015 145.2200 0001393 277.9173  82.1511 15.02553050 85093

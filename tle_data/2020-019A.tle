@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45360
+launchyear:2020
+epoch:24242.95580944
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1279
+meananomly:278.5911
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3713114499
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001274
+argumentofperigree:81.5222
+nickname:STARLINK-1279
+idesg:20019A  
+cosparid:2020-019A
+altkm:547.98165259068
+velkms:7.589272911683
+velkmh:27321
+onumepoch:24622
+onumnow:370912.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:56:22+00:00
+nowjuliandate:2460553.028362
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1279
+1 45360U 20019A   24242.95580944  .00021381  00000+0  14502-2 0  9996
+2 45360  53.0538 115.8921 0001274  81.5222 278.5911 15.06393250246228

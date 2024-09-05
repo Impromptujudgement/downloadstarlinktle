@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53074
+launchyear:2022
+epoch:24242.79002319
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4310
+meananomly:264.0574
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1447411618
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6579
+eccentricity:0.0001057
+argumentofperigree:96.0771
+nickname:STARLINK-4310
+idesg:22077AH 
+cosparid:2022-077AH
+altkm:566.14130358653
+velkms:7.5780283452687
+velkmh:27281
+onumepoch:11794
+onumnow:177063.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:57:38+00:00
+nowjuliandate:2460552.6378847
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4310
+1 53074U 22077AH  24242.79002319  .00000425  00000+0  37661-4 0  9999
+2 53074  97.6579  62.5652 0001057  96.0771 264.0574 15.01261355117942

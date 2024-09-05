@@ -1,0 +1,38 @@
+date:2024-08-29T09:08:07+00:00
+validtle:1
+satid:56702
+launchyear:2023
+epoch:24241.80442907
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30117
+meananomly:87.4233
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1714079394
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0048
+eccentricity:0.000113
+argumentofperigree:272.648
+nickname:STARLINK-30117
+idesg:23067Q  
+cosparid:2023-067Q
+altkm:558.7776120114
+velkms:7.5839003325935
+velkmh:27302
+onumepoch:7173
+onumnow:107786.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:18:23+00:00
+nowjuliandate:2460551.8806466
+nowepochdate:24242.3806365741
+TLE:
+STARLINK-30117
+1 56702U 23067Q   24241.80442907  .00002247  00000+0  18127-3 0  9991
+2 56702  43.0048  66.3005 0001130 272.6480  87.4233 15.02551333 71738

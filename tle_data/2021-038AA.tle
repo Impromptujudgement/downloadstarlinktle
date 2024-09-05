@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48377
+launchyear:2021
+epoch:24242.5398259
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2499
+meananomly:291.5517
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4480571026
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0561
+eccentricity:0.0001462
+argumentofperigree:68.5627
+nickname:STARLINK-2499
+idesg:21038AA 
+cosparid:2021-038AA
+altkm:547.81852709836
+velkms:7.5894935723277
+velkmh:27322
+onumepoch:18377
+onumnow:276834.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:57:21+00:00
+nowjuliandate:2460552.6380376
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2499
+1 48377U 21038AA  24242.53982590  .00018261  00000+0  12427-2 0  9993
+2 48377  53.0561 333.2577 0001462  68.5627 291.5517 15.06368210183776

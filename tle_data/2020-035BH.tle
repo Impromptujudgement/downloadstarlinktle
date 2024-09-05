@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45712
+launchyear:2020
+epoch:24242.09881489
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1434
+meananomly:271.8187
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2914970006
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001703
+argumentofperigree:88.2997
+nickname:STARLINK-1434
+idesg:20035BH 
+cosparid:2020-035BH
+altkm:547.99637737864
+velkms:7.5892131471663
+velkmh:27321
+onumepoch:23511
+onumnow:354195.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:22:18+00:00
+nowjuliandate:2460553.0283188
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1434
+1 45712U 20035BH  24242.09881489  .00020085  00000+0  13627-2 0  9995
+2 45712  53.0545  19.7417 0001703  88.2997 271.8187 15.06419292235111

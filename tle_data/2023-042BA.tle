@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56034
+launchyear:2023
+epoch:24242.13839552
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5782
+meananomly:94.7442
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2118956158
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0011
+eccentricity:0.0001164
+argumentofperigree:265.3268
+nickname:STARLINK-5782
+idesg:23042BA 
+cosparid:2023-042BA
+altkm:558.9197055804
+velkms:7.5837671365467
+velkmh:27302
+onumepoch:7953
+onumnow:119511.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:19:17+00:00
+nowjuliandate:2460552.6377231
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5782
+1 56034U 23042BA  24242.13839552  .00000366  00000+0  42184-4 0  9996
+2 56034  43.0011 192.3758 0001164 265.3268  94.7442 15.02538179 79533

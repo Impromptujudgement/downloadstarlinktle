@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:06+00:00
+validtle:1
+satid:47156
+launchyear:2020
+epoch:22109.26686811
+epochday:109
+tleage:864
+tleclassification:C
+active:0
+name:STARLINK-1870
+meananomly:40.2067
+meanmotion:15.9214
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6674.428139681
+altitudeatperigee:294
+altitudeatapogee:299
+inclination:53.0389
+eccentricity:0.0003314
+argumentofperigree:174.9809
+nickname:STARLINK-1870
+idesg:20088AL 
+cosparid:2020-088AL
+altkm:302.83736937953
+velkms:7.7270039694463
+velkmh:27817
+onumepoch:1
+onumnow:33990.21
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-19T06:24:17+00:00
+nowjuliandate:2460552.6396548
+nowepochdate:24243.1396527778
+TLE:
+STARLINK-1870
+1 47156C 20088AL  22109.26686811  .01721208  00000-0  45814-2 0  1091
+2 47156  53.0389  48.6890 0003314 174.9809  40.2067 15.92142238    14

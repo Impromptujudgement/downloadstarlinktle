@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45402
+launchyear:2020
+epoch:23268.47395494
+epochday:268
+tleage:340
+tleclassification:U
+active:0
+name:STARLINK-1257
+meananomly:221.9666
+meanmotion:15.0712
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6923.1521794948
+altitudeatperigee:544
+altitudeatapogee:546
+inclination:53.0533
+eccentricity:0.0001715
+argumentofperigree:138.1455
+nickname:STARLINK-1257
+idesg:20019AU 
+cosparid:2020-019AU
+altkm:546.77731621494
+velkms:7.589378946844
+velkmh:27322
+onumepoch:19488
+onumnow:308402.29
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-09-25T11:22:30+00:00
+nowjuliandate:2460553.0283556
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1257
+1 45402U 20019AU  23268.47395494  .00048231  00000+0  31727-2 0  9992
+2 45402  53.0533 199.8530 0001715 138.1455 221.9666 15.07117592194882

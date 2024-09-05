@@ -1,0 +1,38 @@
+date:2024-08-29T04:34:18+00:00
+validtle:1
+satid:57412
+launchyear:2023
+epoch:24241.18670869
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30182
+meananomly:306.1166
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1859666907
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:42.994
+eccentricity:2.83E-5
+argumentofperigree:53.9702
+nickname:STARLINK-30182
+idesg:23102J  
+cosparid:2023-102J
+altkm:558.71043338273
+velkms:7.5839816708406
+velkmh:27302
+onumepoch:6222
+onumnow:93503.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:28:52+00:00
+nowjuliandate:2460551.6904873
+nowepochdate:24242.1904861111
+TLE:
+STARLINK-30182
+1 57412U 23102J   24241.18670869  .00000749  00000+0  70488-4 0  9995
+2 57412  42.9940  43.5703 0000283  53.9702 306.1166 15.02546603 62227

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51758
+launchyear:2022
+epoch:24242.44155981
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3458
+meananomly:264.1631
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8926889622
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001369
+argumentofperigree:95.9517
+nickname:STARLINK-3458
+idesg:22016AW 
+cosparid:2022-016AW
+altkm:540.74950877171
+velkms:7.5931102457016
+velkmh:27335
+onumepoch:14072
+onumnow:212334.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:35:51+00:00
+nowjuliandate:2460552.6379627
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3458
+1 51758U 22016AW  24242.44155981 -.00000280  00000+0  48353-6 0  9997
+2 51758  53.2172 290.6585 0001369  95.9517 264.1631 15.08836651140728

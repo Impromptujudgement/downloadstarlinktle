@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52536
+launchyear:2022
+epoch:24242.3624407
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3964
+meananomly:286.5344
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8573853169
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001444
+argumentofperigree:73.5807
+nickname:STARLINK-3964
+idesg:22051D  
+cosparid:2022-051D
+altkm:540.33344350985
+velkms:7.5935474528509
+velkmh:27337
+onumepoch:12737
+onumnow:192193.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:41:55+00:00
+nowjuliandate:2460552.6379135
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3964
+1 52536U 22051D   24242.36244070  .00002172  00000+0  15446-3 0  9995
+2 52536  53.2156 111.0597 0001444  73.5807 286.5344 15.08848201127371

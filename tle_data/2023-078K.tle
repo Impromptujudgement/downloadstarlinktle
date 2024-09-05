@@ -1,0 +1,38 @@
+date:2024-08-29T08:35:01+00:00
+validtle:1
+satid:56776
+launchyear:2023
+epoch:24241.87426586
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6274
+meananomly:92.9998
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.170905094
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9988
+eccentricity:0.0002929
+argumentofperigree:267.0826
+nickname:STARLINK-6274
+idesg:23078K  
+cosparid:2023-078K
+altkm:574.56475995084
+velkms:7.5737575611421
+velkmh:27266
+onumepoch:6987
+onumnow:104690.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:58:57+00:00
+nowjuliandate:2460551.8576567
+nowepochdate:24242..357650463
+TLE:
+STARLINK-6274
+1 56776U 23078K   24241.87426586 -.00000607  00000+0 -43098-4 0  9992
+2 56776  69.9988 291.0904 0002929 267.0826  92.9998 14.98337780 69876

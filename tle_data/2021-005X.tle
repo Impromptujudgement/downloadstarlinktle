@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:55+00:00
+validtle:1
+satid:47370
+launchyear:2021
+epoch:24242.06518226
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2086
+meananomly:273.3232
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3301810687
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0565
+eccentricity:0.000144
+argumentofperigree:86.7922
+nickname:STARLINK-2086
+idesg:21005X  
+cosparid:2021-005X
+altkm:548.01483042954
+velkms:7.5892140804311
+velkmh:27321
+onumepoch:19956
+onumnow:300632.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:33:52+00:00
+nowjuliandate:2460552.6395327
+nowepochdate:24243..139525463
+TLE:
+STARLINK-2086
+1 47370U 21005X   24242.06518226  .00012437  00000+0  85223-3 0  9992
+2 47370  53.0565   4.8881 0001440  86.7922 273.3232 15.06406670199566

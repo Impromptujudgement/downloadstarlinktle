@@ -1,0 +1,38 @@
+date:2024-08-28T23:12:29+00:00
+validtle:1
+satid:57437
+launchyear:2023
+epoch:24241.17647574
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30237
+meananomly:92.4356
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2263437711
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0042
+eccentricity:0.0001462
+argumentofperigree:267.6319
+nickname:STARLINK-30237
+idesg:23105H  
+cosparid:2023-105H
+altkm:558.91087454636
+velkms:7.5837846614882
+velkmh:27302
+onumepoch:6154
+onumnow:92492.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:14:08+00:00
+nowjuliandate:2460551.4670075
+nowepochdate:24242.9670023148
+TLE:
+STARLINK-30237
+1 57437U 23105H   24241.17647574  .00000223  00000+0  31622-4 0  9995
+2 57437  43.0042  56.6292 0001462 267.6319  92.4356 15.02533485 61549

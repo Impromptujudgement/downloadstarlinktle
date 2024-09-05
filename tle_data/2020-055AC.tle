@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:46053
+launchyear:2020
+epoch:24242.30891209
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1543
+meananomly:279.3844
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3093770518
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001679
+argumentofperigree:80.7335
+nickname:STARLINK-1543
+idesg:20055AC 
+cosparid:2020-055AC
+altkm:547.8619505164
+velkms:7.5893701885442
+velkmh:27322
+onumepoch:22502
+onumnow:338991.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:24:50+00:00
+nowjuliandate:2460553.0282992
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1543
+1 46053U 20055AC  24242.30891209 -.00000831  00000+0 -36842-4 0  9996
+2 46053  53.0533  98.7973 0001679  80.7335 279.3844 15.06413458225026

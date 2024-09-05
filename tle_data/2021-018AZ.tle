@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:34+00:00
+validtle:1
+satid:47834
+launchyear:2021
+epoch:24241.6864439
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2424
+meananomly:267.3161
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3337730568
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001421
+argumentofperigree:92.7991
+nickname:STARLINK-2424
+idesg:21018AZ 
+cosparid:2021-018AZ
+altkm:548.12191050391
+velkms:7.5890987382559
+velkmh:27321
+onumepoch:19254
+onumnow:290065.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:28:29+00:00
+nowjuliandate:2460552.6392852
+nowepochdate:24243.1392824074
+TLE:
+STARLINK-2424
+1 47834U 21018AZ  24241.68644390  .00000354  00000+0  42633-4 0  9994
+2 47834  53.0528 236.5939 0001421  92.7991 267.3161 15.06405498192542

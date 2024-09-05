@@ -1,0 +1,38 @@
+date:2024-08-28T17:52:38+00:00
+validtle:1
+satid:58110
+launchyear:2023
+epoch:24241.17317586
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30596
+meananomly:318.0193
+meanmotion:15.3031
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.0152856946
+altitudeatperigee:474
+altitudeatapogee:475
+inclination:53.1589
+eccentricity:7.63E-5
+argumentofperigree:42.0866
+nickname:STARLINK-30596
+idesg:23161P  
+cosparid:2023-161P
+altkm:475.38920383279
+velkms:7.629561324652
+velkmh:27466
+onumepoch:4878
+onumnow:74657.44
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:09:22+00:00
+nowjuliandate:2460551.2448883
+nowepochdate:24241.7448842593
+TLE:
+STARLINK-30596
+1 58110U 23161P   24241.17317586 -.00025412  00000+0 -84580-3 0  9992
+2 58110  53.1589 239.5390 0000763  42.0866 318.0193 15.30313486 48787

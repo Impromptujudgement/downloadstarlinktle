@@ -1,0 +1,38 @@
+date:2024-08-29T04:30:06+00:00
+validtle:1
+satid:57418
+launchyear:2023
+epoch:24241.16672742
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30221
+meananomly:95.4527
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.232669095
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0034
+eccentricity:0.000124
+argumentofperigree:264.6174
+nickname:STARLINK-30221
+idesg:23102Q  
+cosparid:2023-102Q
+altkm:558.95570382411
+velkms:7.5837391255289
+velkmh:27301
+onumepoch:6222
+onumnow:93502.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:00:05+00:00
+nowjuliandate:2460551.6875779
+nowepochdate:24242.1875694444
+TLE:
+STARLINK-30221
+1 57418U 23102Q   24241.16672742  .00001798  00000+0  14815-3 0  9997
+2 57418  43.0034  43.4184 0001240 264.6174  95.4527 15.02531430 62220

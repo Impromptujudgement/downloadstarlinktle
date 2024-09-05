@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48329
+launchyear:2021
+epoch:24241.84033935
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2510
+meananomly:276.8012
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2670032955
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.0002308
+argumentofperigree:83.3239
+nickname:STARLINK-2510
+idesg:21036BF 
+cosparid:2021-036BF
+altkm:547.8200975926
+velkms:7.5893928748129
+velkmh:27322
+onumepoch:18454
+onumnow:278015.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:10:05+00:00
+nowjuliandate:2460552.6380416
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2510
+1 48329U 21036BF  24241.84033935  .00004995  00000+0  35374-3 0  9997
+2 48329  53.0535  85.9031 0002308  83.3239 276.8012 15.06427284184543

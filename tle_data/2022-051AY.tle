@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52582
+launchyear:2022
+epoch:24241.87392204
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3886
+meananomly:273.1146
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.862480629
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001417
+argumentofperigree:87.0008
+nickname:STARLINK-3886
+idesg:22051AY 
+cosparid:2022-051AY
+altkm:540.56965878496
+velkms:7.5932910458217
+velkmh:27336
+onumepoch:12737
+onumnow:192200.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:58:27+00:00
+nowjuliandate:2460552.6379144
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3886
+1 52582U 22051AY  24241.87392204  .00001534  00000+0  11446-3 0  9991
+2 52582  53.2164 103.2538 0001417  87.0008 273.1146 15.08846534127371

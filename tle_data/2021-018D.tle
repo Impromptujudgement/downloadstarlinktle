@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:31+00:00
+validtle:1
+satid:47790
+launchyear:2021
+epoch:24241.22847564
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2319
+meananomly:271.8481
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2982334205
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.0001485
+argumentofperigree:88.2678
+nickname:STARLINK-2319
+idesg:21018D  
+cosparid:2021-018D
+altkm:548.0070837007
+velkms:7.5892051006589
+velkmh:27321
+onumepoch:19285
+onumnow:290541.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:29:00+00:00
+nowjuliandate:2460552.6392583
+nowepochdate:24243.1392476852
+TLE:
+STARLINK-2319
+1 47790U 21018D   24241.22847564  .00006216  00000+0  43564-3 0  9999
+2 47790  53.0522 208.6460 0001485  88.2678 271.8481 15.06417094192852

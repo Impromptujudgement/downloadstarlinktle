@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52859
+launchyear:2022
+epoch:24242.59843748
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4196
+meananomly:271.3234
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9044294344
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2215
+eccentricity:0.0002449
+argumentofperigree:88.8039
+nickname:STARLINK-4196
+idesg:22062AF 
+cosparid:2022-062AF
+altkm:540.62654792855
+velkms:7.5932515947364
+velkmh:27336
+onumepoch:12231
+onumnow:184553.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:21:45+00:00
+nowjuliandate:2460552.6378978
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4196
+1 52859U 22062AF  24242.59843748 -.00001185  00000+0 -56321-4 0  9990
+2 52859  53.2215   5.0025 0002449  88.8039 271.3234 15.08832810122313

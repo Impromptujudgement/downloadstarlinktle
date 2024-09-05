@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49455
+launchyear:2021
+epoch:24242.58231271
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3145
+meananomly:271.3387
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.860830077
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001366
+argumentofperigree:88.7761
+nickname:STARLINK-3145
+idesg:21104AZ 
+cosparid:2021-104AZ
+altkm:540.59906848052
+velkms:7.5932578713941
+velkmh:27336
+onumepoch:15574
+onumnow:234996.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:58:32+00:00
+nowjuliandate:2460552.6379971
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3145
+1 49455U 21104AZ  24242.58231271  .00001183  00000+0  92391-4 0  9998
+2 49455  53.2153 200.0733 0001366  88.7761 271.3387 15.08847074155743

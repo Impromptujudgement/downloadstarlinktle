@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52337
+launchyear:2022
+epoch:24241.57860527
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3797
+meananomly:264.5168
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8911637131
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001362
+argumentofperigree:95.598
+nickname:STARLINK-3797
+idesg:22045G  
+cosparid:2022-045G
+altkm:540.74159876822
+velkms:7.5931180895448
+velkmh:27335
+onumepoch:13138
+onumnow:198254.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:53:11+00:00
+nowjuliandate:2460552.6379258
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3797
+1 52337U 22045G   24241.57860527  .00000241  00000+0  33207-4 0  9991
+2 52337  53.2163 194.5819 0001362  95.5980 264.5168 15.08837150131383

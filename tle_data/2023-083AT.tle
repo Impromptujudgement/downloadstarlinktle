@@ -1,0 +1,38 @@
+date:2024-08-29T07:54:03+00:00
+validtle:1
+satid:56917
+launchyear:2023
+epoch:24241.63709068
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5971
+meananomly:91.6782
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1940709928
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0012
+eccentricity:0.0001171
+argumentofperigree:268.3926
+nickname:STARLINK-5971
+idesg:23083AT 
+cosparid:2023-083AT
+altkm:558.85891100099
+velkms:7.5838238499339
+velkmh:27302
+onumepoch:6787
+onumnow:101988.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:17:25+00:00
+nowjuliandate:2460551.8292039
+nowepochdate:24242.3292013889
+TLE:
+STARLINK-5971
+1 56917U 23083AT  24241.63709068  .00001758  00000+0  14516-3 0  9996
+2 56917  43.0012 221.1764 0001171 268.3926  91.6782 15.02543970 67876

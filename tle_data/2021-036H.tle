@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48283
+launchyear:2021
+epoch:24242.21814766
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2516
+meananomly:267.5652
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3196564478
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001238
+argumentofperigree:92.5479
+nickname:STARLINK-2516
+idesg:21036H  
+cosparid:2021-036H
+altkm:548.09801961216
+velkms:7.5891171926145
+velkmh:27321
+onumepoch:18487
+onumnow:278503.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:14:08+00:00
+nowjuliandate:2460552.6380394
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2516
+1 48283U 21036H   24242.21814766  .00014325  00000+0  97837-3 0  9997
+2 48283  53.0520  64.2025 0001238  92.5479 267.5652 15.06410104184874

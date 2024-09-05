@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53861
+launchyear:2022
+epoch:24242.76955524
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4781
+meananomly:258.7603
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8330337056
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001649
+argumentofperigree:101.3574
+nickname:STARLINK-4781
+idesg:22114AV 
+cosparid:2022-114AV
+altkm:540.81588591128
+velkms:7.5930047470671
+velkmh:27335
+onumepoch:10849
+onumnow:163700.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:28:10+00:00
+nowjuliandate:2460552.63782
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4781
+1 53861U 22114AV  24242.76955524  .00000880  00000+0  73326-4 0  9990
+2 53861  53.2166 264.3978 0001649 101.3574 258.7603 15.08856168108499

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52847
+launchyear:2022
+epoch:24242.63430895
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4206
+meananomly:262.6636
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9206509915
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0002215
+argumentofperigree:97.4608
+nickname:STARLINK-4206
+idesg:22062T  
+cosparid:2022-062T
+altkm:540.87695977286
+velkms:7.5929857144433
+velkmh:27335
+onumepoch:12218
+onumnow:184356.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:13:24+00:00
+nowjuliandate:2460552.6378931
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4206
+1 52847U 22062T   24242.63430895 -.00007344  00000+0 -44390-3 0  9992
+2 52847  53.2166  14.8371 0002215  97.4608 262.6636 15.08827503122183

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45699
+launchyear:2020
+epoch:24242.66643947
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1398
+meananomly:269.5603
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2814812802
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.055
+eccentricity:0.0001282
+argumentofperigree:90.5533
+nickname:STARLINK-1398
+idesg:20035AU 
+cosparid:2020-035AU
+altkm:548.03057010088
+velkms:7.5891702132529
+velkmh:27321
+onumepoch:23519
+onumnow:354308.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:59:40+00:00
+nowjuliandate:2460553.0283225
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1398
+1 45699U 20035AU  24242.66643947  .00011809  00000+0  80982-3 0  9990
+2 45699  53.0550  17.1890 0001282  90.5533 269.5603 15.06422560235199

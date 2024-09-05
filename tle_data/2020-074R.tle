@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:08+00:00
+validtle:1
+satid:46754
+launchyear:2020
+epoch:24242.42456241
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1923
+meananomly:264.1553
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.365451406
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001415
+argumentofperigree:95.9598
+nickname:STARLINK-1923
+idesg:20074R  
+cosparid:2020-074R
+altkm:548.20738259043
+velkms:7.5890224244686
+velkmh:27320
+onumepoch:21270
+onumnow:320421.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:11:22+00:00
+nowjuliandate:2460552.6396818
+nowepochdate:24243.1396759259
+TLE:
+STARLINK-1923
+1 46754U 20074R   24242.42456241  .00000667  00000+0  63658-4 0  9991
+2 46754  53.0537 303.2786 0001415  95.9598 264.1553 15.06395162212702

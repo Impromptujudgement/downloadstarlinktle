@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48449
+launchyear:2021
+epoch:24241.07734403
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2655
+meananomly:262.4413
+meanmotion:15.0645
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.190823495
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001112
+argumentofperigree:97.6702
+nickname:STARLINK-2655
+idesg:21040X  
+cosparid:2021-040X
+altkm:548.03409354349
+velkms:7.589116789096
+velkmh:27321
+onumepoch:18243
+onumnow:274853.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:51:23+00:00
+nowjuliandate:2460552.638021
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2655
+1 48449U 21040X   24241.07734403  .00032462  00000+0  21851-2 0  9992
+2 48449  53.0523 169.3257 0001112  97.6702 262.4413 15.06452141182437

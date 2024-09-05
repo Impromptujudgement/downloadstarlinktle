@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53014
+launchyear:2022
+epoch:24242.76218942
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4183
+meananomly:273.3014
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9024823649
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001902
+argumentofperigree:86.8196
+nickname:STARLINK-4183
+idesg:22076AE 
+cosparid:2022-076AE
+altkm:540.58720514327
+velkms:7.593293696851
+velkmh:27336
+onumepoch:11937
+onumnow:180115.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:17:33+00:00
+nowjuliandate:2460552.6378915
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4183
+1 53014U 22076AE  24242.76218942 -.00001199  00000+0 -57233-4 0  9998
+2 53014  53.2160  64.2647 0001902  86.8196 273.3014 15.08833447119375

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55965
+launchyear:2023
+epoch:24241.68995925
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5894
+meananomly:91.7280
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1892399446
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0002985
+argumentofperigree:268.3537
+nickname:STARLINK-5894
+idesg:23037BD 
+cosparid:2023-037BD
+altkm:574.53916423594
+velkms:7.5737954271882
+velkmh:27266
+onumepoch:8089
+onumnow:121221.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:33:32+00:00
+nowjuliandate:2460552.6377296
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5894
+1 55965U 23037BD  24241.68995925  .00000128  00000+0  18517-4 0  9997
+2 55965  69.9992 231.2328 0002985 268.3537  91.7280 14.98331851 80890

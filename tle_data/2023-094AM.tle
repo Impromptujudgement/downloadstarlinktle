@@ -1,0 +1,38 @@
+date:2024-08-29T05:59:52+00:00
+validtle:1
+satid:57253
+launchyear:2023
+epoch:24241.11525204
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5516
+meananomly:80.5615
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2058658264
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001124
+argumentofperigree:279.51
+nickname:STARLINK-5516
+idesg:23094AM 
+cosparid:2023-094AM
+altkm:558.71920211785
+velkms:7.5839829370143
+velkmh:27302
+onumepoch:6324
+onumnow:95037.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:45:58+00:00
+nowjuliandate:2460551.7499141
+nowepochdate:24242.2499074074
+TLE:
+STARLINK-5516
+1 57253U 23094AM  24241.11525204  .00002064  00000+0  16777-3 0  9995
+2 57253  43.0025 172.6522 0001124 279.5100  80.5615 15.02540138 63244

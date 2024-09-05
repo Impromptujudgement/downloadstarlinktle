@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48560
+launchyear:2021
+epoch:22033.43103587
+epochday:33
+tleage:940
+tleclassification:C
+active:0
+name:STARLINK-2173
+meananomly:147.8566
+meanmotion:16.0731
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6632.3802010061
+altitudeatperigee:249
+altitudeatapogee:259
+inclination:53.0381
+eccentricity:0.0007566
+argumentofperigree:193.6674
+nickname:STARLINK-2173
+idesg:21041H  
+cosparid:2021-041H
+altkm:262.47875644683
+velkms:7.74749501251
+velkmh:27891
+onumepoch:1
+onumnow:35532.85
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-02-02T10:20:41+00:00
+nowjuliandate:2460552.6380163
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2173
+1 48560C 21041H   22033.43103587  .00664783  00000-0  77500-3 0   337
+2 48560  53.0381 327.0806 0007566 193.6674 147.8566 16.07306996    16

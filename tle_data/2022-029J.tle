@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52096
+launchyear:2022
+epoch:24242.76448736
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3717
+meananomly:269.9802
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8888620864
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2071
+eccentricity:0.0002244
+argumentofperigree:90.1447
+nickname:STARLINK-3717
+idesg:22029J  
+cosparid:2022-029J
+altkm:540.64905195812
+velkms:7.5932183751143
+velkmh:27336
+onumepoch:13670
+onumnow:206263.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:20:52+00:00
+nowjuliandate:2460552.637938
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3717
+1 52096U 22029J   24242.76448736  .00000363  00000+0  40921-4 0  9997
+2 52096  53.2071  59.2511 0002244  90.1447 269.9802 15.08837903136709

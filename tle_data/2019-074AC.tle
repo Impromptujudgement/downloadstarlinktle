@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:47+00:00
+validtle:1
+satid:44739
+launchyear:2019
+epoch:23053.48777735
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1052
+meananomly:353.6918
+meanmotion:15.2957
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6855.2284192928
+altitudeatperigee:475
+altitudeatapogee:479
+inclination:52.9632
+eccentricity:0.0003008
+argumentofperigree:6.4118
+nickname:STARLINK-1052
+idesg:19074AC 
+cosparid:2019-074AC
+altkm:475.92014390976
+velkms:7.6301990021795
+velkmh:27469
+onumepoch:18144
+onumnow:295728.18
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T11:42:24+00:00
+nowjuliandate:2460553.0297145
+nowepochdate:24243.5297106481
+TLE:
+STARLINK-1052
+1 44739U 19074AC  23053.48777735  .00017966  00000+0  62913-3 0  9991
+2 44739  52.9632 117.6572 0003008   6.4118 353.6918 15.29572479181440

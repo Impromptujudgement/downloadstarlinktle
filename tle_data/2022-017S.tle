@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51784
+launchyear:2022
+epoch:24242.51884033
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3632
+meananomly:260.3800
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8777482822
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2193
+eccentricity:0.0001691
+argumentofperigree:99.7383
+nickname:STARLINK-3632
+idesg:22017S  
+cosparid:2022-017S
+altkm:540.8340337706
+velkms:7.593009320853
+velkmh:27335
+onumepoch:13981
+onumnow:210960.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:27:08+00:00
+nowjuliandate:2460552.6379548
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3632
+1 51784U 22017S   24242.51884033  .00000763  00000+0  66013-4 0  9998
+2 51784  53.2193 330.3552 0001691  99.7383 260.3800 15.08841539139812

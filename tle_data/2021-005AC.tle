@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47375
+launchyear:2021
+epoch:24241.74082834
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2094
+meananomly:284.3367
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3630914546
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0551
+eccentricity:0.0001108
+argumentofperigree:75.7745
+nickname:STARLINK-2094
+idesg:21005AC 
+cosparid:2021-005AC
+altkm:547.91533206633
+velkms:7.5893410727592
+velkmh:27322
+onumepoch:19894
+onumnow:299703.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:46:48+00:00
+nowjuliandate:2460552.6395958
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-2094
+1 47375U 21005AC  24241.74082834  .00001608  00000+0  12680-3 0  9997
+2 47375  53.0551  46.3480 0001108  75.7745 284.3367 15.06395932198944

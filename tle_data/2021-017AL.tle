@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:43+00:00
+validtle:1
+satid:47756
+launchyear:2021
+epoch:24242.14720243
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2174
+meananomly:261.8014
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3796969737
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0547
+eccentricity:0.000134
+argumentofperigree:98.3127
+nickname:STARLINK-2174
+idesg:21017AL 
+cosparid:2021-017AL
+altkm:548.254271757
+velkms:7.5889788473522
+velkmh:27320
+onumepoch:19306
+onumnow:290838.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:31:58+00:00
+nowjuliandate:2460552.6393873
+nowepochdate:24243.1393865741
+TLE:
+STARLINK-2174
+1 47756U 21017AL  24242.14720243  .00001362  00000+0  11037-3 0  9993
+2 47756  53.0547 194.5200 0001340  98.3127 261.8014 15.06390514193069

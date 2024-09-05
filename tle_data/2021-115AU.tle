@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49766
+launchyear:2021
+epoch:24242.37718851
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3190
+meananomly:286.0078
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8266547009
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001577
+argumentofperigree:74.1088
+nickname:STARLINK-3190
+idesg:21115AU 
+cosparid:2021-115AU
+altkm:540.286303611
+velkms:7.5935823535171
+velkmh:27337
+onumepoch:15265
+onumnow:230338.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:03:09+00:00
+nowjuliandate:2460552.6379912
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3190
+1 49766U 21115AU  24242.37718851  .00001505  00000+0  11261-3 0  9990
+2 49766  53.2167 121.0043 0001577  74.1088 286.0078 15.08858255152654

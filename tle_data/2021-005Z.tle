@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:55+00:00
+validtle:1
+satid:47372
+launchyear:2021
+epoch:24241.71367895
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2089
+meananomly:270.0605
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3403900505
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.048
+eccentricity:0.0002247
+argumentofperigree:90.0641
+nickname:STARLINK-2089
+idesg:21005Z  
+cosparid:2021-005Z
+altkm:548.08051068857
+velkms:7.5891477081496
+velkmh:27321
+onumepoch:19900
+onumnow:299793.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:07:42+00:00
+nowjuliandate:2460552.6395256
+nowepochdate:24243..139525463
+TLE:
+STARLINK-2089
+1 47372U 21005Z   24241.71367895  .00004459  00000+0  31802-3 0  9998
+2 47372  53.0480  41.7868 0002247  90.0641 270.0605 15.06403339199007

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52460
+launchyear:2022
+epoch:24241.72855358
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3865
+meananomly:278.4699
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8733284485
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001195
+argumentofperigree:81.6429
+nickname:STARLINK-3865
+idesg:22049K  
+cosparid:2022-049K
+altkm:540.51205153131
+velkms:7.5933601970486
+velkmh:27336
+onumepoch:12801
+onumnow:193168.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:29:07+00:00
+nowjuliandate:2460552.6379189
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3865
+1 52460U 22049K   24241.72855358  .00000853  00000+0  71694-4 0  9996
+2 52460  53.2173  43.8548 0001195  81.6429 278.4699 15.08842985128015

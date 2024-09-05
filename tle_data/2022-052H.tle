@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52605
+launchyear:2022
+epoch:24241.79526973
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4000
+meananomly:274.0776
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8686090763
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001353
+argumentofperigree:86.0371
+nickname:STARLINK-4000
+idesg:22052H  
+cosparid:2022-052H
+altkm:540.56242083864
+velkms:7.5933023435324
+velkmh:27336
+onumepoch:12656
+onumnow:190979.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:05:11+00:00
+nowjuliandate:2460552.6379066
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4000
+1 52605U 22052H   24241.79526973  .00001467  00000+0  11025-3 0  9999
+2 52605  53.2159 268.3831 0001353  86.0371 274.0776 15.08844529126562

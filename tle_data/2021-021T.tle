@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72333
+launchyear:2021
+epoch:21083.38426622
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2333
+meananomly:359.5668
+meanmotion:15.8504
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6694.3643728537
+altitudeatperigee:316
+altitudeatapogee:316
+inclination:53.0502
+eccentricity:3.49E-5
+argumentofperigree:47.2186
+nickname:STARLINK-2333
+idesg:21021T  
+cosparid:2021-021T
+altkm:318.69894986619
+velkms:7.721858345587
+velkmh:27799
+onumepoch:1
+onumnow:50099.09
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:13:21+00:00
+nowjuliandate:2460552.6396817
+nowepochdate:24243.1396759259
+TLE:
+STARLINK-2333
+1 72333C 21021T   21083.38426622 -.01031578  00000-0 -45047-2 0   834
+2 72333  53.0502 168.5916 0000349  47.2186 359.5668 15.85035288    13

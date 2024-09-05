@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54846
+launchyear:2022
+epoch:24242.42010702
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5360
+meananomly:81.8755
+meanmotion:15.0248
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.3850845186
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0091
+eccentricity:0.0001065
+argumentofperigree:278.1967
+nickname:STARLINK-5360
+idesg:22177AC 
+cosparid:2022-177AC
+altkm:558.92259033452
+velkms:7.5838583786004
+velkmh:27302
+onumepoch:9215
+onumnow:138464.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:04:57+00:00
+nowjuliandate:2460552.6377846
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5360
+1 54846U 22177AC  24242.42010702  .00012774  00000+0  96034-3 0  9991
+2 54846  43.0091 280.8518 0001065 278.1967  81.8755 15.02481914 92156

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:36+00:00
+validtle:1
+satid:47815
+launchyear:2021
+epoch:24242.20478257
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2396
+meananomly:234.5281
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3472951561
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0536
+eccentricity:0.0001926
+argumentofperigree:125.5887
+nickname:STARLINK-2396
+idesg:21018AE 
+cosparid:2021-018AE
+altkm:548.86348532497
+velkms:7.5882937930283
+velkmh:27318
+onumepoch:19230
+onumnow:289695.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:54:53+00:00
+nowjuliandate:2460552.6393147
+nowepochdate:24243.1393055556
+TLE:
+STARLINK-2396
+1 47815U 21018AE  24242.20478257 -.00000957  00000+0 -45353-4 0  9992
+2 47815  53.0536 229.2738 0001926 125.5887 234.5281 15.06401086192307

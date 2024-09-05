@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45067
+launchyear:2020
+epoch:24242.30983719
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1150
+meananomly:265.5573
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3678174892
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001448
+argumentofperigree:94.5582
+nickname:STARLINK-1150
+idesg:20006Z  
+cosparid:2020-006Z
+altkm:548.18772070306
+velkms:7.5890452571005
+velkmh:27321
+onumepoch:25273
+onumnow:380729.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:26:10+00:00
+nowjuliandate:2460553.0284139
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1150
+1 45067U 20006Z   24242.30983719  .00000330  00000+0  41022-4 0  9992
+2 45067  53.0544 248.7921 0001448  94.5582 265.5573 15.06394390252730

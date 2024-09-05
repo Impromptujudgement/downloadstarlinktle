@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47722
+launchyear:2021
+epoch:24242.55222471
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2068
+meananomly:264.7281
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3653870437
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.00016
+argumentofperigree:95.3891
+nickname:STARLINK-2068
+idesg:21017A  
+cosparid:2021-017A
+altkm:548.20926356212
+velkms:7.5890203286241
+velkmh:27320
+onumepoch:19333
+onumnow:291240.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:15:12+00:00
+nowjuliandate:2460552.6393991
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2068
+1 47722U 21017A   24242.55222471  .00016736  00000+0  11399-2 0  9992
+2 47722  53.0526 177.9471 0001600  95.3891 264.7281 15.06395183193333

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45760
+launchyear:2020
+epoch:24242.60931935
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1494
+meananomly:267.8922
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3051813284
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001419
+argumentofperigree:92.2229
+nickname:STARLINK-1494
+idesg:20038AG 
+cosparid:2020-038AG
+altkm:548.08326587825
+velkms:7.589125441593
+velkmh:27321
+onumepoch:23251
+onumnow:350270.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:37:25+00:00
+nowjuliandate:2460553.0283103
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1494
+1 45760U 20038AG  24242.60931935  .00009221  00000+0  63689-3 0  9993
+2 45760  53.0516 197.4453 0001419  92.2229 267.8922 15.06414827232515

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45206
+launchyear:2020
+epoch:24242.56232671
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1209
+meananomly:265.9202
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3351798179
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0562
+eccentricity:0.0001481
+argumentofperigree:94.1956
+nickname:STARLINK-1209
+idesg:20012AE 
+cosparid:2020-012AE
+altkm:548.15058658236
+velkms:7.5890680938414
+velkmh:27321
+onumepoch:25047
+onumnow:377323.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:29:45+00:00
+nowjuliandate:2460553.0284105
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1209
+1 45206U 20012AE  24242.56232671  .00027498  00000+0  18575-2 0  9995
+2 45206  53.0562 347.6592 0001481  94.1956 265.9202 15.06405039250471

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:44+00:00
+validtle:1
+satid:47643
+launchyear:2021
+epoch:24242.70375506
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2022
+meananomly:264.5569
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2923796607
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001626
+argumentofperigree:95.5606
+nickname:STARLINK-2022
+idesg:21012Z  
+cosparid:2021-012Z
+altkm:548.1413481344
+velkms:7.5890548148689
+velkmh:27321
+onumepoch:19579
+onumnow:294948.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:53:24+00:00
+nowjuliandate:2460552.6393998
+nowepochdate:24243.1393981481
+TLE:
+STARLINK-2022
+1 47643U 21012Z   24242.70375506 -.00009422  00000+0 -61415-3 0  9995
+2 47643  53.0533  32.0176 0001626  95.5606 264.5569 15.06419004195798

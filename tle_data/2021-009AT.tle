@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47589
+launchyear:2021
+epoch:24242.63280393
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1994
+meananomly:273.6198
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2161746447
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0553
+eccentricity:0.0001356
+argumentofperigree:86.4946
+nickname:STARLINK-1994
+idesg:21009AT 
+cosparid:2021-009AT
+altkm:547.89921877124
+velkms:7.5892784071542
+velkmh:27321
+onumepoch:19744
+onumnow:297439.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:11:14+00:00
+nowjuliandate:2460552.639483
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1994
+1 47589U 21009AT  24242.63280393  .00029916  00000+0  20164-2 0  9994
+2 47589  53.0553   2.3458 0001356  86.4946 273.6198 15.06443869197447

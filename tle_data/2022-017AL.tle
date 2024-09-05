@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51802
+launchyear:2022
+epoch:24242.42685565
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3557
+meananomly:262.1411
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9536170832
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001476
+argumentofperigree:97.9749
+nickname:STARLINK-3557
+idesg:22017AL 
+cosparid:2022-017AL
+altkm:540.85380026005
+velkms:7.5930291772771
+velkmh:27335
+onumepoch:13979
+onumnow:210928.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:14:40+00:00
+nowjuliandate:2460552.6379584
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3557
+1 51802U 22017AL  24242.42685565 -.00004111  00000+0 -24048-3 0  9992
+2 51802  53.2177 330.7683 0001476  97.9749 262.1411 15.08816718139797

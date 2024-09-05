@@ -1,0 +1,38 @@
+date:2024-08-29T07:18:06+00:00
+validtle:1
+satid:57083
+launchyear:2023
+epoch:24241.7041155
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6253
+meananomly:78.2857
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2181470347
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:9.94E-5
+argumentofperigree:281.7874
+nickname:STARLINK-6253
+idesg:23088AM 
+cosparid:2023-088AM
+altkm:558.7193060176
+velkms:7.5839895169977
+velkmh:27302
+onumepoch:6658
+onumnow:100047.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:53:56+00:00
+nowjuliandate:2460551.8042446
+nowepochdate:24242.3042361111
+TLE:
+STARLINK-6253
+1 57083U 23088AM  24241.70411550  .00000011  00000+0  15872-4 0  9998
+2 57083  43.0023 246.4515 0000994 281.7874  78.2857 15.02536148 66580

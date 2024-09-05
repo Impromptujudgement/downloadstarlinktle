@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53044
+launchyear:2022
+epoch:24242.75854621
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4349
+meananomly:266.1508
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1438411125
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6562
+eccentricity:0.0001404
+argumentofperigree:93.9877
+nickname:STARLINK-4349
+idesg:22077B  
+cosparid:2022-077B
+altkm:566.12997436386
+velkms:7.5780402236754
+velkmh:27281
+onumepoch:11794
+onumnow:177064.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:12:18+00:00
+nowjuliandate:2460552.6378832
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4349
+1 53044U 22077B   24242.75854621 -.00000056  00000+0  20201-6 0  9998
+2 53044  97.6562  62.5421 0001404  93.9877 266.1508 15.01261647117948

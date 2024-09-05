@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53043
+launchyear:2022
+epoch:24241.76246575
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4362
+meananomly:275.8514
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1398155529
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6559
+eccentricity:0.0002313
+argumentofperigree:84.2974
+nickname:STARLINK-4362
+idesg:22077A  
+cosparid:2022-077A
+altkm:565.89704623087
+velkms:7.5782923311408
+velkmh:27282
+onumepoch:11721
+onumnow:175983.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:17:57+00:00
+nowjuliandate:2460552.6378856
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4362
+1 53043U 22077A   24241.76246575  .00000006  00000+0  50735-5 0  9998
+2 53043  97.6559  61.5619 0002313  84.2974 275.8514 15.01262953117217

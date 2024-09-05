@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52881
+launchyear:2022
+epoch:24242.74735157
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4192
+meananomly:124.7250
+meanmotion:16.1334
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6615.8318452945
+altitudeatperigee:235
+altitudeatapogee:240
+inclination:53.2068
+eccentricity:0.0003521
+argumentofperigree:319.4288
+nickname:STARLINK-4192
+idesg:22062BD 
+cosparid:2022-062BD
+altkm:245.48347751665
+velkms:7.7653364972772
+velkmh:27955
+onumepoch:12267
+onumnow:197914.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:56:11+00:00
+nowjuliandate:2460552.637895
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4192
+1 52881U 22062BD  24242.74735157  .02705530  13762-1  28076-2 0  9996
+2 52881  53.2068 340.2867 0003521 319.4288 124.7250 16.13341365122678

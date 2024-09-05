@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54854
+launchyear:2022
+epoch:24241.80551843
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5419
+meananomly:85.0045
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1824085618
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0008
+eccentricity:7.25E-5
+argumentofperigree:275.0715
+nickname:STARLINK-5419
+idesg:22177AL 
+cosparid:2022-177AL
+altkm:558.77956312433
+velkms:7.5839041954336
+velkmh:27302
+onumepoch:9318
+onumnow:140027.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:19:57+00:00
+nowjuliandate:2460552.6377834
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5419
+1 54854U 22177AL  24241.80551843  .00002912  00000+0  23047-3 0  9994
+2 54854  43.0008 271.8291 0000725 275.0715  85.0045 15.02547759 93182

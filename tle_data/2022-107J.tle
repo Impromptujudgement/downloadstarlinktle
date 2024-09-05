@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53708
+launchyear:2022
+epoch:24242.19498259
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4694
+meananomly:260.0265
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8651123446
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001521
+argumentofperigree:100.0899
+nickname:STARLINK-4694
+idesg:22107J  
+cosparid:2022-107J
+altkm:540.80769731009
+velkms:7.5930312979835
+velkmh:27335
+onumepoch:11015
+onumnow:166213.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:40:46+00:00
+nowjuliandate:2460552.6378283
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4694
+1 53708U 22107J   24242.19498259  .00000614  00000+0  56643-4 0  9994
+2 53708  53.2155 211.6756 0001521 100.0899 260.0265 15.08845673110156

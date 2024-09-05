@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73413
+launchyear:2022
+epoch:23051.42756944
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3413
+meananomly:330.1452
+meanmotion:15.9952
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.9013036486
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.0061521
+argumentofperigree:161.9595
+nickname:STARLINK-3413
+idesg:22010W  
+cosparid:2022-010W
+altkm:246.50195158858
+velkms:7.7844100929918
+velkmh:28024
+onumepoch:1
+onumnow:19075.38
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:15:42+00:00
+nowjuliandate:2460552.6379655
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3413
+1 73413C 22010W   23051.42756944 -.01053332  00000-0 -18042-2 0   510
+2 73413  69.9999 143.3334 0061521 161.9595 330.1452 15.99515394    13

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:06+00:00
+validtle:1
+satid:47153
+launchyear:2020
+epoch:24242.4241247
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1867
+meananomly:321.3033
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3257738405
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001455
+argumentofperigree:38.806
+nickname:STARLINK-1867
+idesg:20088AH 
+cosparid:2020-088AH
+altkm:547.28143135668
+velkms:7.5900151516849
+velkmh:27324
+onumepoch:20802
+onumnow:313373.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:10:44+00:00
+nowjuliandate:2460552.6396619
+nowepochdate:24243.1396527778
+TLE:
+STARLINK-1867
+1 47153U 20088AH  24242.42412470 -.00003352  00000+0 -20622-3 0  9995
+2 47153  53.0536 288.5131 0001455  38.8060 321.3033 15.06408108208022

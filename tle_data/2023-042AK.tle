@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56019
+launchyear:2023
+epoch:24242.5883139
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5949
+meananomly:84.0699
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1876503398
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0094
+eccentricity:0.0001008
+argumentofperigree:276.0029
+nickname:STARLINK-5949
+idesg:23042AK 
+cosparid:2023-042AK
+altkm:558.75734072253
+velkms:7.5839313365699
+velkmh:27302
+onumepoch:7959
+onumnow:119595.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:07:10+00:00
+nowjuliandate:2460552.6377259
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5949
+1 56019U 23042AK  24242.58831390  .00001621  00000+0  13504-3 0  9998
+2 56019  43.0094 190.5960 0001008 276.0029  84.0699 15.02546056 79598

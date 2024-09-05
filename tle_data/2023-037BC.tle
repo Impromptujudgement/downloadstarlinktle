@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55964
+launchyear:2023
+epoch:24241.68200452
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5895
+meananomly:89.4611
+meanmotion:14.9672
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6955.1862346069
+altitudeatperigee:575
+altitudeatapogee:579
+inclination:69.9993
+eccentricity:0.0003011
+argumentofperigree:270.6202
+nickname:STARLINK-5895
+idesg:23037BC 
+cosparid:2023-037BC
+altkm:579.45216685537
+velkms:7.5711626222609
+velkmh:27256
+onumepoch:8090
+onumnow:121106.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:22:05+00:00
+nowjuliandate:2460552.6377299
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5895
+1 55964U 23037BC  24241.68200452  .00000140  00000+0  20216-4 0  9993
+2 55964  69.9993 230.7507 0003011 270.6202  89.4611 14.96717413 80903

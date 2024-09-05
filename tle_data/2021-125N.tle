@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50168
+launchyear:2021
+epoch:24241.71204472
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3296
+meananomly:268.1441
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8604082694
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001494
+argumentofperigree:91.9722
+nickname:STARLINK-3296
+idesg:21125N  
+cosparid:2021-125N
+altkm:540.65419466286
+velkms:7.5931971524336
+velkmh:27336
+onumepoch:15236
+onumnow:229907.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:05:21+00:00
+nowjuliandate:2460552.6379824
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3296
+1 50168U 21125N   24241.71204472  .00001032  00000+0  82924-4 0  9995
+2 50168  53.2151 234.0666 0001494  91.9722 268.1441 15.08847212152365

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55954
+launchyear:2023
+epoch:24242.23655846
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5892
+meananomly:92.3517
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1923261736
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9992
+eccentricity:0.0002979
+argumentofperigree:267.7301
+nickname:STARLINK-5892
+idesg:23037AS 
+cosparid:2023-037AS
+altkm:574.56464568947
+velkms:7.5737693417853
+velkmh:27266
+onumepoch:8131
+onumnow:121842.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:40:39+00:00
+nowjuliandate:2460552.6377305
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5892
+1 55954U 23037AS  24242.23655846  .00000861  00000+0  79920-4 0  9991
+2 55954  69.9992 229.9280 0002979 267.7301  92.3517 14.98330853 81313

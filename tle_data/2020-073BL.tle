@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:18+00:00
+validtle:1
+satid:46728
+launchyear:2020
+epoch:22090.26898088
+epochday:90
+tleage:883
+tleclassification:C
+active:0
+name:STARLINK-1831
+meananomly:15.5197
+meanmotion:16.0166
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6647.9652996748
+altitudeatperigee:268
+altitudeatapogee:272
+inclination:53.0322
+eccentricity:0.0003364
+argumentofperigree:36.9647
+nickname:STARLINK-1831
+idesg:20073BL 
+cosparid:2020-073BL
+altkm:271.1231785054
+velkms:7.7510051337616
+velkmh:27904
+onumepoch:1
+onumnow:34497.65
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-03-31T06:27:20+00:00
+nowjuliandate:2460552.6398023
+nowepochdate:24243.1397916667
+TLE:
+STARLINK-1831
+1 46728C 20073BL  22090.26898088  .00445974  00000-0  74762-3 0   905
+2 46728  53.0322 130.7822 0003364  36.9647  15.5197 16.01658196    10

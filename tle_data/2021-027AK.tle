@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48125
+launchyear:2021
+epoch:24242.48265371
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2466
+meananomly:284.8086
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3421308833
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001557
+argumentofperigree:75.3076
+nickname:STARLINK-2466
+idesg:21027AK 
+cosparid:2021-027AK
+altkm:547.80860024628
+velkms:7.5894465409509
+velkmh:27322
+onumepoch:18803
+onumnow:283258.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:35:01+00:00
+nowjuliandate:2460552.6380528
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2466
+1 48125U 21027AK  24242.48265371  .00026084  00000+0  17634-2 0  9994
+2 48125  53.0527 153.2583 0001557  75.3076 284.8086 15.06402771188036

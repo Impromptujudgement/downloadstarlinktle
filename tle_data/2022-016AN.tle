@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51750
+launchyear:2022
+epoch:24241.43052069
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3505
+meananomly:276.0627
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.870815932
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001429
+argumentofperigree:84.0528
+nickname:STARLINK-3505
+idesg:22016AN 
+cosparid:2022-016AN
+altkm:540.52677990214
+velkms:7.5933426599358
+velkmh:27336
+onumepoch:13942
+onumnow:210386.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:19:57+00:00
+nowjuliandate:2460552.6379633
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3505
+1 51750U 22016AN  24241.43052069  .00001110  00000+0  87795-4 0  9993
+2 51750  53.2158 295.2572 0001429  84.0528 276.0627 15.08843807139422

@@ -1,0 +1,38 @@
+date:2024-08-29T07:57:59+00:00
+validtle:1
+satid:56912
+launchyear:2023
+epoch:24241.64042127
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5805
+meananomly:85.4418
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2055457154
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0033
+eccentricity:0.0001054
+argumentofperigree:274.6304
+nickname:STARLINK-5805
+idesg:23083AN 
+cosparid:2023-083AN
+altkm:558.78870963878
+velkms:7.583906812317
+velkmh:27302
+onumepoch:6707
+onumnow:100785.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:22:12+00:00
+nowjuliandate:2460551.8319401
+nowepochdate:24242.3319328704
+TLE:
+STARLINK-5805
+1 56912U 23083AN  24241.64042127  .00001344  00000+0  11455-3 0  9998
+2 56912  43.0033 221.1961 0001054 274.6304  85.4418 15.02540242 67071

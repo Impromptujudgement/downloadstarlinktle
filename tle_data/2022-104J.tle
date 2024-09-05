@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53596
+launchyear:2022
+epoch:24241.67580796
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4668
+meananomly:311.9806
+meanmotion:15.2233
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6876.9606389423
+altitudeatperigee:495
+altitudeatapogee:503
+inclination:53.2132
+eccentricity:0.0005418
+argumentofperigree:48.1654
+nickname:STARLINK-4668
+idesg:22104J  
+cosparid:2022-104J
+altkm:497.23487228214
+velkms:7.6185689498676
+velkmh:27427
+onumepoch:11151
+onumnow:169777.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:13:10+00:00
+nowjuliandate:2460552.63784
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4668
+1 53596U 22104J   24241.67580796  .00064239  00000+0  27407-2 0  9993
+2 53596  53.2132 219.3810 0005418  48.1654 311.9806 15.22327695111515

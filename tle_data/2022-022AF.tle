@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51881
+launchyear:2022
+epoch:24242.4296028
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3504
+meananomly:276.8533
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8997925379
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001542
+argumentofperigree:83.2634
+nickname:STARLINK-3504
+idesg:22022AF 
+cosparid:2022-022AF
+altkm:540.53306968162
+velkms:7.5933516253859
+velkmh:27336
+onumepoch:13917
+onumnow:209995.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:18:38+00:00
+nowjuliandate:2460552.6379531
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3504
+1 51881U 22022AF  24242.42960280 -.00001159  00000+0 -54738-4 0  9994
+2 51881  53.2174 340.7578 0001542  83.2634 276.8533 15.08834327139175

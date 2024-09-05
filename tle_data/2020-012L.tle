@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45188
+launchyear:2020
+epoch:24242.00476487
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1228
+meananomly:282.1682
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3339508174
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001184
+argumentofperigree:77.9439
+nickname:STARLINK-1228
+idesg:20012L  
+cosparid:2020-012L
+altkm:547.90325936675
+velkms:7.589338367797
+velkmh:27322
+onumepoch:25129
+onumnow:378567.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:06:52+00:00
+nowjuliandate:2460553.0283755
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1228
+1 45188U 20012L   24242.00476487  .00020390  00000+0  13836-2 0  9997
+2 45188  53.0539 349.8446 0001184  77.9439 282.1682 15.06405440251291

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48553
+launchyear:2021
+epoch:24241.36945267
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2063
+meananomly:56.5295
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2566198933
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0524
+eccentricity:2.05E-5
+argumentofperigree:303.5675
+nickname:STARLINK-2063
+idesg:21041A  
+cosparid:2021-041A
+altkm:547.92020961197
+velkms:7.5892775217024
+velkmh:27321
+onumepoch:18105
+onumnow:272765.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:52:01+00:00
+nowjuliandate:2460552.6380205
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2063
+1 48553U 21041A   24241.36945267  .00015205  00000+0  10366-2 0  9998
+2 48553  53.0524 118.0142 0000205 303.5675  56.5295 15.06430672181050

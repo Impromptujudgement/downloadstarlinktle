@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:01+00:00
+validtle:1
+satid:45077
+launchyear:2020
+epoch:22095.38496383
+epochday:95
+tleage:878
+tleclassification:C
+active:0
+name:STARLINK-1182
+meananomly:137.6637
+meanmotion:15.9757
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6659.3030010114
+altitudeatperigee:276
+altitudeatapogee:286
+inclination:53.0448
+eccentricity:0.0007864
+argumentofperigree:333.6139
+nickname:STARLINK-1182
+idesg:20006AK 
+cosparid:2020-006AK
+altkm:290.42147440988
+velkms:7.7371718338943
+velkmh:27854
+onumepoch:1
+onumnow:34334.06
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-05T09:14:21+00:00
+nowjuliandate:2460553.0284871
+nowepochdate:24243.5284837963
+TLE:
+STARLINK-1182
+1 45077C 20006AK  22095.38496383  .02287721  00000-0  43710-2 0   956
+2 45077  53.0448 136.9989 0007864 333.6139 137.6637 15.97569617    17

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50806
+launchyear:2022
+epoch:24241.47647881
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3335
+meananomly:258.8315
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.868294248
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001518
+argumentofperigree:101.2848
+nickname:STARLINK-3335
+idesg:22001D  
+cosparid:2022-001D
+altkm:540.83231383084
+velkms:7.5930060307303
+velkmh:27335
+onumepoch:14627
+onumnow:220721.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:26:08+00:00
+nowjuliandate:2460552.637978
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3335
+1 50806U 22001D   24241.47647881  .00001442  00000+0  10866-3 0  9996
+2 50806  53.2180 145.0354 0001518 101.2848 258.8315 15.08844632146274

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47578
+launchyear:2021
+epoch:24242.60333285
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1980
+meananomly:255.9529
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3756911666
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0505
+eccentricity:0.0002258
+argumentofperigree:104.1711
+nickname:STARLINK-1980
+idesg:21009AG 
+cosparid:2021-009AG
+altkm:548.4972398182
+velkms:7.5887105003246
+velkmh:27319
+onumepoch:19743
+onumnow:297415.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:28:48+00:00
+nowjuliandate:2460552.6394912
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1980
+1 47578U 21009AG  24242.60333285  .00007151  00000+0  49859-3 0  9998
+2 47578  53.0505   2.4708 0002258 104.1711 255.9529 15.06391821197431

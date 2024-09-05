@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:39+00:00
+validtle:1
+satid:47727
+launchyear:2021
+epoch:24241.90390833
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2129
+meananomly:273.4142
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3354771074
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001361
+argumentofperigree:86.7003
+nickname:STARLINK-2129
+idesg:21017F  
+cosparid:2021-017F
+altkm:548.02144570421
+velkms:7.5892097281359
+velkmh:27321
+onumepoch:19428
+onumnow:292682.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:41:38+00:00
+nowjuliandate:2460552.639347
+nowepochdate:24243.1393402778
+TLE:
+STARLINK-2129
+1 47727U 21017F   24241.90390833  .00004418  00000+0  31529-3 0  9995
+2 47727  53.0533 105.6164 0001361  86.7003 273.4142 15.06404942194288

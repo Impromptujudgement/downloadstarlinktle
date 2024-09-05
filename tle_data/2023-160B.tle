@@ -1,0 +1,38 @@
+date:2024-08-28T18:16:55+00:00
+validtle:1
+satid:58076
+launchyear:2023
+epoch:24240.68247013
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30500
+meananomly:77.4952
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2058442804
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.000111
+argumentofperigree:282.5766
+nickname:STARLINK-30500
+idesg:23160B  
+cosparid:2023-160B
+altkm:558.68044342306
+velkms:7.5840252771951
+velkmh:27302
+onumepoch:4883
+onumnow:73385.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:22:45+00:00
+nowjuliandate:2460551.2617494
+nowepochdate:24241.7617476852
+TLE:
+STARLINK-30500
+1 58076U 23160B   24240.68247013  .00000121  00000+0  24027-4 0  9993
+2 58076  43.0036 237.3198 0001110 282.5766  77.4952 15.02540145 48830

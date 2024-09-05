@@ -1,0 +1,38 @@
+date:2024-08-29T09:50:47+00:00
+validtle:1
+satid:56537
+launchyear:2023
+epoch:24241.67701903
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6311
+meananomly:91.1452
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1921718815
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0013
+eccentricity:8.43E-5
+argumentofperigree:268.9293
+nickname:STARLINK-6311
+idesg:23065AL 
+cosparid:2023-065AL
+altkm:558.84488121612
+velkms:7.5838381448322
+velkmh:27302
+onumepoch:7253
+onumnow:108990.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:14:54+00:00
+nowjuliandate:2460551.9102733
+nowepochdate:24242.4102662037
+TLE:
+STARLINK-6311
+1 56537U 23065AL  24241.67701903  .00001953  00000+0  15957-3 0  9995
+2 56537  43.0013  15.5728 0000843 268.9293  91.1452 15.02544587 72531

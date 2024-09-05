@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53564
+launchyear:2022
+epoch:24241.74558793
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4577
+meananomly:264.1596
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8773173023
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001251
+argumentofperigree:95.9539
+nickname:STARLINK-4577
+idesg:22101AP 
+cosparid:2022-101AP
+altkm:540.72587476802
+velkms:7.5931277606255
+velkmh:27335
+onumepoch:11221
+onumnow:169328.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:53:39+00:00
+nowjuliandate:2460552.6378488
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4577
+1 53564U 22101AP  24241.74558793  .00001407  00000+0  10644-3 0  9999
+2 53564  53.2173  38.8934 0001251  95.9539 264.1596 15.08841680112211

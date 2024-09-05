@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48296
+launchyear:2021
+epoch:24241.77215589
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2546
+meananomly:278.2438
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3258504612
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:9.83E-5
+argumentofperigree:81.8662
+nickname:STARLINK-2546
+idesg:21036W  
+cosparid:2021-036W
+altkm:547.97034102973
+velkms:7.589260450591
+velkmh:27321
+onumepoch:18422
+onumnow:277531.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:31:54+00:00
+nowjuliandate:2460552.638039
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2546
+1 48296U 21036W   24241.77215589  .00006307  00000+0  44181-3 0  9994
+2 48296  53.0538  66.2061 0000983  81.8662 278.2438 15.06408083184223

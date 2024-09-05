@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45384
+launchyear:2020
+epoch:24242.40954655
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1267
+meananomly:267.8400
+meanmotion:15.0558
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6927.8600109912
+altitudeatperigee:549
+altitudeatapogee:551
+inclination:53.0535
+eccentricity:0.0001247
+argumentofperigree:92.2731
+nickname:STARLINK-1267
+idesg:20019AA 
+cosparid:2020-019AA
+altkm:550.63435965638
+velkms:7.5877278598598
+velkmh:27316
+onumepoch:24600
+onumnow:370389.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:45+00:00
+nowjuliandate:2460553.0283616
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1267
+1 45384U 20019AA  24242.40954655  .00029588  00000+0  20413-2 0  9991
+2 45384  53.0535 128.8892 0001247  92.2731 267.8400 15.05581609246002

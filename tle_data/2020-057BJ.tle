@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46173
+launchyear:2020
+epoch:24242.45266091
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1640
+meananomly:288.6232
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3352595037
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0549
+eccentricity:0.0001266
+argumentofperigree:71.4895
+nickname:STARLINK-1640
+idesg:20057BJ 
+cosparid:2020-057BJ
+altkm:547.79752120347
+velkms:7.5894549222707
+velkmh:27322
+onumepoch:22207
+onumnow:334535.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:51:50+00:00
+nowjuliandate:2460553.0282821
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1640
+1 46173U 20057BJ  24242.45266091  .00000635  00000+0  61506-4 0  9997
+2 46173  53.0549 298.1519 0001266  71.4895 288.6232 15.06405013222072

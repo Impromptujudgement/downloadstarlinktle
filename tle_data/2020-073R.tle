@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:14+00:00
+validtle:1
+satid:46685
+launchyear:2020
+epoch:24242.20389971
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1781
+meananomly:260.7016
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3465595914
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0522
+eccentricity:0.0001323
+argumentofperigree:99.4122
+nickname:STARLINK-1781
+idesg:20073R  
+cosparid:2020-073R
+altkm:548.23657714032
+velkms:7.5889801143515
+velkmh:27320
+onumepoch:21336
+onumnow:321419.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:53:37+00:00
+nowjuliandate:2460552.6397511
+nowepochdate:24243.1397453704
+TLE:
+STARLINK-1781
+1 46685U 20073R   24242.20389971  .00000813  00000+0  73486-4 0  9997
+2 46685  53.0522 239.5372 0001323  99.4122 260.7016 15.06401326213360

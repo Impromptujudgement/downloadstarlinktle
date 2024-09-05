@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53870
+launchyear:2022
+epoch:24242.74560965
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4732
+meananomly:271.0056
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8754405535
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2145
+eccentricity:0.0001327
+argumentofperigree:89.1089
+nickname:STARLINK-4732
+idesg:22114BE 
+cosparid:2022-114BE
+altkm:540.61953541727
+velkms:7.5932434139978
+velkmh:27336
+onumepoch:10877
+onumnow:164121.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:53:41+00:00
+nowjuliandate:2460552.6378193
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4732
+1 53870U 22114BE  24242.74560965  .00000639  00000+0  58238-4 0  9996
+2 53870  53.2145 244.2710 0001327  89.1089 271.0056 15.08842294108770

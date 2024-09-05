@@ -1,0 +1,38 @@
+date:2024-08-29T06:43:27+00:00
+validtle:1
+satid:57135
+launchyear:2023
+epoch:24241.75593354
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6127
+meananomly:91.0125
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1579234642
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0059
+eccentricity:0.0001614
+argumentofperigree:269.0533
+nickname:STARLINK-6127
+idesg:23090AL 
+cosparid:2023-090AL
+altkm:558.81935492936
+velkms:7.5838473712907
+velkmh:27302
+onumepoch:6644
+onumnow:99837.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:08:33+00:00
+nowjuliandate:2460551.7801829
+nowepochdate:24242.2801736111
+TLE:
+STARLINK-6127
+1 57135U 23090AL  24241.75593354 -.00000570  00000+0 -27119-4 0  9996
+2 57135  43.0059  53.4577 0001614 269.0533  91.0125 15.02555714 66448

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45401
+launchyear:2020
+epoch:24242.38079879
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1256
+meananomly:277.2342
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3504734107
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001434
+argumentofperigree:82.881
+nickname:STARLINK-1256
+idesg:20019AT 
+cosparid:2020-019AT
+altkm:547.96750101186
+velkms:7.5892770229182
+velkmh:27321
+onumepoch:24595
+onumnow:370516.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:08:21+00:00
+nowjuliandate:2460553.0283558
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1256
+1 45401U 20019AT  24242.38079879  .00025930  00000+0  17533-2 0  9990
+2 45401  53.0530 118.4723 0001434  82.8810 277.2342 15.06400049245958

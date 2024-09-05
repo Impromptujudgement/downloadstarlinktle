@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55308
+launchyear:2023
+epoch:24242.39228091
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5292
+meananomly:97.1374
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2309723587
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0002
+eccentricity:0.0003003
+argumentofperigree:262.9444
+nickname:STARLINK-5292
+idesg:23010AR 
+cosparid:2023-010AR
+altkm:574.77774145956
+velkms:7.5735581848616
+velkmh:27265
+onumepoch:8997
+onumnow:134814.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:24:53+00:00
+nowjuliandate:2460552.6377766
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5292
+1 55308U 23010AR  24242.39228091  .00001042  00000+0  95151-4 0  9996
+2 55308  70.0002 329.6372 0003003 262.9444  97.1374 14.98318356 89973

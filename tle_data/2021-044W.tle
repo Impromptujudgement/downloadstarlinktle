@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48658
+launchyear:2021
+epoch:24241.88272808
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2647
+meananomly:276.2761
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3093985055
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0525
+eccentricity:0.0002541
+argumentofperigree:83.8517
+nickname:STARLINK-2647
+idesg:21044W  
+cosparid:2021-044W
+altkm:547.85936924181
+velkms:7.5893730283243
+velkmh:27322
+onumepoch:17963
+onumnow:270615.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:11:08+00:00
+nowjuliandate:2460552.6380078
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2647
+1 48658U 21044W   24241.88272808  .00028289  00000+0  19097-2 0  9994
+2 48658  53.0525 105.7104 0002541  83.8517 276.2761 15.06413451179632

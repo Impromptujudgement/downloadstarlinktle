@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55281
+launchyear:2023
+epoch:24242.42595061
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5298
+meananomly:92.2576
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.198390407
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0018
+eccentricity:0.0002968
+argumentofperigree:267.8243
+nickname:STARLINK-5298
+idesg:23010N  
+cosparid:2023-010N
+altkm:574.56719220148
+velkms:7.5737698670938
+velkmh:27266
+onumepoch:8900
+onumnow:133361.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:13:22+00:00
+nowjuliandate:2460552.6377738
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5298
+1 55281U 23010N   24242.42595061 -.00000069  00000+0  20152-5 0  9993
+2 55281  70.0018   9.4976 0002968 267.8243  92.2576 14.98328892 89003

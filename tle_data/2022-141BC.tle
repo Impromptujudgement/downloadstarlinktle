@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54207
+launchyear:2022
+epoch:24242.5459404
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5262
+meananomly:277.7388
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9211339412
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2173
+eccentricity:0.0001443
+argumentofperigree:82.3768
+nickname:STARLINK-5262
+idesg:22141BC 
+cosparid:2022-141BC
+altkm:540.54724006489
+velkms:7.5933477624034
+velkmh:27336
+onumepoch:10212
+onumnow:154090.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:06:09+00:00
+nowjuliandate:2460552.6377942
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5262
+1 54207U 22141BC  24242.54594040 -.00002680  00000+0 -15043-3 0  9996
+2 54207  53.2173 334.8451 0001443  82.3768 277.7388 15.08827345102126

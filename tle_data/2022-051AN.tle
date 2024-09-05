@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52569
+launchyear:2022
+epoch:24241.89231934
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3927
+meananomly:279.3333
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8548972674
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001438
+argumentofperigree:80.7822
+nickname:STARLINK-3927
+idesg:22051AN 
+cosparid:2022-051AN
+altkm:540.45395963129
+velkms:7.5934138479969
+velkmh:27336
+onumepoch:12737
+onumnow:192200.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:24:56+00:00
+nowjuliandate:2460552.6379158
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3927
+1 52569U 22051AN  24241.89231934  .00004244  00000+0  28452-3 0  9996
+2 52569  53.2160 103.1725 0001438  80.7822 279.3333 15.08849015127379

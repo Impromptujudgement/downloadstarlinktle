@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52576
+launchyear:2022
+epoch:24242.33484646
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3932
+meananomly:276.3788
+meanmotion:15.0893
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.6145267839
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2161
+eccentricity:0.0001055
+argumentofperigree:83.7325
+nickname:STARLINK-3932
+idesg:22051AS 
+cosparid:2022-051AS
+altkm:540.29381124138
+velkms:7.5934579567256
+velkmh:27336
+onumepoch:12751
+onumnow:192415.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:02:11+00:00
+nowjuliandate:2460552.6379153
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3932
+1 52576U 22051AS  24242.33484646 -.00016850  00000+0 -10406-2 0  9991
+2 52576  53.2161 101.1794 0001055  83.7325 276.3788 15.08927659127516

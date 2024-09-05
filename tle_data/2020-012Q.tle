@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45192
+launchyear:2020
+epoch:24242.12369689
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1237
+meananomly:278.1554
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3640415646
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.055
+eccentricity:0.0002095
+argumentofperigree:81.9673
+nickname:STARLINK-1237
+idesg:20012Q  
+cosparid:2020-012Q
+altkm:547.90067476172
+velkms:7.5893576498033
+velkmh:27322
+onumepoch:25080
+onumnow:377825.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:58:07+00:00
+nowjuliandate:2460553.0283721
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1237
+1 45192U 20012Q   24242.12369689  .00002292  00000+0  17278-3 0  9996
+2 45192  53.0550  29.6262 0002095  81.9673 278.1554 15.06395622250804

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52363
+launchyear:2022
+epoch:24241.13056163
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3830
+meananomly:267.4520
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8968245615
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001721
+argumentofperigree:92.6669
+nickname:STARLINK-3830
+idesg:22045AJ 
+cosparid:2022-045AJ
+altkm:540.71017572451
+velkms:7.5931556681911
+velkmh:27335
+onumepoch:13146
+onumnow:198381.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:08:01+00:00
+nowjuliandate:2460552.6379288
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3830
+1 52363U 22045AJ  24241.13056163 -.00000326  00000+0 -23805-5 0  9995
+2 52363  53.2157 186.5875 0001721  92.6669 267.4520 15.08835298131463

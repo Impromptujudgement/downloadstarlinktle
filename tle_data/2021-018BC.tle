@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:33+00:00
+validtle:1
+satid:47837
+launchyear:2021
+epoch:24242.64295586
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2427
+meananomly:268.5663
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3461090582
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001514
+argumentofperigree:91.55
+nickname:STARLINK-2427
+idesg:21018BC 
+cosparid:2021-018BC
+altkm:548.11451093839
+velkms:7.5891135886083
+velkmh:27321
+onumepoch:19258
+onumnow:290110.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:25:51+00:00
+nowjuliandate:2460552.6392778
+nowepochdate:24243.1392708333
+TLE:
+STARLINK-2427
+1 47837U 21018BC  24242.64295586  .00001154  00000+0  96321-4 0  9995
+2 47837  53.0537 212.3000 0001514  91.5500 268.5663 15.06401473192585

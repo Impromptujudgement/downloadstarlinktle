@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47569
+launchyear:2021
+epoch:22340.11645833
+epochday:340
+tleage:633
+tleclassification:C
+active:0
+name:STARLINK-1968
+meananomly:123.1286
+meanmotion:15.9485
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6666.8645131728
+altitudeatperigee:286
+altitudeatapogee:292
+inclination:53.0444
+eccentricity:0.000427
+argumentofperigree:191.9266
+nickname:STARLINK-1968
+idesg:21009X  
+cosparid:2021-009X
+altkm:301.21040245202
+velkms:7.7259188695995
+velkmh:27813
+onumepoch:1
+onumnow:30366.36
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-12-06T02:47:42+00:00
+nowjuliandate:2460552.639453
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-1968
+1 47569C 21009X   22340.11645833  .01920927  00000-0  43691-2 0  3400
+2 47569  53.0444 176.4278 0004270 191.9266 123.1286 15.94852459    11

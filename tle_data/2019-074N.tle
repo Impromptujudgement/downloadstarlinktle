@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44725
+launchyear:2019
+epoch:24242.56969283
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1020
+meananomly:273.5593
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3557694882
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001439
+argumentofperigree:86.556
+nickname:STARLINK-1020
+idesg:19074N  
+cosparid:2019-074N
+altkm:548.03598112177
+velkms:7.5892048982359
+velkmh:27321
+onumepoch:26449
+onumnow:398441.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:40:21+00:00
+nowjuliandate:2460553.0296653
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1020
+1 44725U 19074N   24242.56969283  .00000912  00000+0  80133-4 0  9995
+2 44725  53.0529 187.6257 0001439  86.5560 273.5593 15.06398321264498

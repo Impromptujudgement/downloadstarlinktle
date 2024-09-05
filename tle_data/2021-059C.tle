@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48881
+launchyear:2021
+epoch:24241.60196349
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3005
+meananomly:258.3990
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.13530607
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.661
+eccentricity:0.000154
+argumentofperigree:101.7407
+nickname:STARLINK-3005
+idesg:21059C  
+cosparid:2021-059C
+altkm:566.27089710758
+velkms:7.5778817198146
+velkmh:27280
+onumepoch:17507
+onumnow:262849.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:26:50+00:00
+nowjuliandate:2460552.6380069
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3005
+1 48881U 21059C   24241.60196349  .00001980  00000+0  15869-3 0  9996
+2 48881  97.6610   4.8181 0001540 101.7407 258.3990 15.01264416175078

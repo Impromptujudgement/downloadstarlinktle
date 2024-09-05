@@ -1,0 +1,38 @@
+date:2024-08-29T04:55:11+00:00
+validtle:1
+satid:57331
+launchyear:2023
+epoch:24241.1446597
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6234
+meananomly:94.7574
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.181125051
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0058
+eccentricity:0.0001436
+argumentofperigree:265.3104
+nickname:STARLINK-6234
+idesg:23099D  
+cosparid:2023-099D
+altkm:558.90534227406
+velkms:7.5837660606073
+velkmh:27302
+onumepoch:6209
+onumnow:93309.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:28:19+00:00
+nowjuliandate:2460551.7049976
+nowepochdate:24242.2049884259
+TLE:
+STARLINK-6234
+1 57331U 23099D   24241.14465970  .00002428  00000+0  19469-3 0  9998
+2 57331  43.0058  44.2314 0001436 265.3104  94.7574 15.02548176 62096

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52365
+launchyear:2022
+epoch:24242.51518929
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3874
+meananomly:263.2104
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9469779833
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001244
+argumentofperigree:96.903
+nickname:STARLINK-3874
+idesg:22045AL 
+cosparid:2022-045AL
+altkm:540.80918118838
+velkms:7.5930744987912
+velkmh:27335
+onumepoch:13180
+onumnow:198871.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:21:52+00:00
+nowjuliandate:2460552.6379286
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3874
+1 52365U 22045AL  24242.51518929 -.00003532  00000+0 -20403-3 0  9994
+2 52365  53.2171 170.3754 0001244  96.9030 263.2104 15.08818890131806

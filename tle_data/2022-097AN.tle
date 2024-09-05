@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53424
+launchyear:2022
+epoch:24241.32054797
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4532
+meananomly:275.4720
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8862670275
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001737
+argumentofperigree:84.647
+nickname:STARLINK-4532
+idesg:22097AN 
+cosparid:2022-097AN
+altkm:540.5321957147
+velkms:7.5933451781225
+velkmh:27336
+onumepoch:11435
+onumnow:172563.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:41:35+00:00
+nowjuliandate:2460552.6378609
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4532
+1 53424U 22097AN  24241.32054797  .00001476  00000+0  11084-3 0  9992
+2 53424  53.2165 100.7356 0001737  84.6470 275.4720 15.08838752114359

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48140
+launchyear:2021
+epoch:24242.4789983
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2483
+meananomly:272.2938
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3895720638
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001454
+argumentofperigree:87.8217
+nickname:STARLINK-2483
+idesg:21027BA 
+cosparid:2021-027BA
+altkm:548.09135795164
+velkms:7.5891627130165
+velkmh:27321
+onumepoch:18802
+onumnow:283240.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:29:45+00:00
+nowjuliandate:2460552.6380506
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2483
+1 48140U 21027BA  24242.47899830  .00026404  00000+0  17855-2 0  9994
+2 48140  53.0530 153.5844 0001454  87.8217 272.2938 15.06387292188027

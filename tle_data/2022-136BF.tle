@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54104
+launchyear:2022
+epoch:24242.42770779
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5203
+meananomly:269.5813
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8980196989
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001401
+argumentofperigree:90.534
+nickname:STARLINK-5203
+idesg:22136BF 
+cosparid:2022-136BF
+altkm:540.66541993292
+velkms:7.593205430835
+velkmh:27336
+onumepoch:10382
+onumnow:156657.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:15:54+00:00
+nowjuliandate:2460552.6378
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5203
+1 54104U 22136BF  24242.42770779  .00004148  00000+0  27858-3 0  9994
+2 54104  53.2154 280.3246 0001401  90.5340 269.5813 15.08834907103821

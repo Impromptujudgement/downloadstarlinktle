@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54008
+launchyear:2022
+epoch:24242.58181686
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5145
+meananomly:266.4530
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8770574917
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001289
+argumentofperigree:93.6609
+nickname:STARLINK-5145
+idesg:22125AW 
+cosparid:2022-125AW
+altkm:540.69259698614
+velkms:7.5931641321984
+velkmh:27335
+onumepoch:10555
+onumnow:159266.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:57:49+00:00
+nowjuliandate:2460552.6378075
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5145
+1 54008U 22125AW  24242.58181686  .00000154  00000+0  27749-4 0  9998
+2 54008  53.2160 184.7160 0001289  93.6609 266.4530 15.08841765105553

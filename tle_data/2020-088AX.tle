@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:04+00:00
+validtle:1
+satid:47167
+launchyear:2020
+epoch:24242.4006085
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1884
+meananomly:272.8147
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3054418369
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001458
+argumentofperigree:87.3009
+nickname:STARLINK-1884
+idesg:20088AX 
+cosparid:2020-088AX
+altkm:547.99812269258
+velkms:7.5892188586914
+velkmh:27321
+onumepoch:20814
+onumnow:313556.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:36:53+00:00
+nowjuliandate:2460552.6396318
+nowepochdate:24243.1396296296
+TLE:
+STARLINK-1884
+1 47167U 20088AX  24242.40060850  .00002112  00000+0  16058-3 0  9998
+2 47167  53.0546 283.3820 0001458  87.3009 272.8147 15.06414742208141

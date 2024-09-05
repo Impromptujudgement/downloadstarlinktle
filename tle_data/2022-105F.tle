@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53653
+launchyear:2022
+epoch:24242.24230204
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4390
+meananomly:186.1501
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.146334743
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6565
+eccentricity:9.17E-5
+argumentofperigree:173.9734
+nickname:STARLINK-4390
+idesg:22105F  
+cosparid:2022-105F
+altkm:566.69987106531
+velkms:7.5774194285059
+velkmh:27279
+onumepoch:10987
+onumnow:164956.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:48:55+00:00
+nowjuliandate:2460552.6378348
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4390
+1 53653U 22105F   24242.24230204 -.00000830  00000+0 -60033-4 0  9991
+2 53653  97.6565 121.9721 0000917 173.9734 186.1501 15.01260838109877

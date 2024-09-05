@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47646
+launchyear:2021
+epoch:24242.59184205
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2028
+meananomly:263.1102
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3438533281
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0578
+eccentricity:0.0001449
+argumentofperigree:97.0051
+nickname:STARLINK-2028
+idesg:21012AC 
+cosparid:2021-012AC
+altkm:548.20683447342
+velkms:7.5890112178722
+velkmh:27320
+onumepoch:19640
+onumnow:295865.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:12:15+00:00
+nowjuliandate:2460552.6394479
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-2028
+1 47646U 21012AC  24242.59184205  .00000836  00000+0  74990-4 0  9990
+2 47646  53.0578 347.7778 0001449  97.0051 263.1102 15.06402209196404

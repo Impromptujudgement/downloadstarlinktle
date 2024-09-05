@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45405
+launchyear:2020
+epoch:24242.38816698
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1263
+meananomly:278.4934
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4418812057
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001233
+argumentofperigree:81.6195
+nickname:STARLINK-1263
+idesg:20019AX 
+cosparid:2020-019AX
+altkm:548.05784810454
+velkms:7.5892280188619
+velkmh:27321
+onumepoch:24586
+onumnow:370373.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:18:58+00:00
+nowjuliandate:2460553.0283551
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1263
+1 45405U 20019AX  24242.38816698  .00028302  00000+0  19128-2 0  9990
+2 45405  53.0535 118.4421 0001233  81.6195 278.4934 15.06370225245864

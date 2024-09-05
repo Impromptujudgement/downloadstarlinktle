@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48325
+launchyear:2021
+epoch:24241.85509533
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2495
+meananomly:70.8366
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2686460097
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0836
+eccentricity:0.0002243
+argumentofperigree:289.2381
+nickname:STARLINK-2495
+idesg:21036BB 
+cosparid:2021-036BB
+altkm:547.50426781437
+velkms:7.5897397874167
+velkmh:27323
+onumepoch:18395
+onumnow:277126.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:31:20+00:00
+nowjuliandate:2460552.6380425
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2495
+1 48325U 21036BB  24241.85509533  .00021102  00000+0  14303-2 0  9993
+2 48325  53.0836  85.8389 0002243 289.2381  70.8366 15.06426748183953

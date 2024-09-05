@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53072
+launchyear:2022
+epoch:24241.91613835
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4344
+meananomly:288.6042
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1418529908
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6567
+eccentricity:0.0002617
+argumentofperigree:71.5467
+nickname:STARLINK-4344
+idesg:22077AF 
+cosparid:2022-077AF
+altkm:565.4831859743
+velkms:7.5787452985895
+velkmh:27283
+onumepoch:11723
+onumnow:176011.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:59:14+00:00
+nowjuliandate:2460552.637885
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4344
+1 53072U 22077AF  24241.91613835 -.00000633  00000+0 -44681-4 0  9994
+2 53072  97.6567  61.7326 0002617  71.5467 288.6042 15.01262292117234

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52492
+launchyear:2022
+epoch:24242.67524919
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3916
+meananomly:270.2622
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.898331474
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2099
+eccentricity:0.0001464
+argumentofperigree:89.8538
+nickname:STARLINK-3916
+idesg:22049AT 
+cosparid:2022-049AT
+altkm:540.65344325825
+velkms:7.5932187421369
+velkmh:27336
+onumepoch:12846
+onumnow:193831.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:12:22+00:00
+nowjuliandate:2460552.6379216
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3916
+1 52492U 22049AT  24242.67524919 -.00000178  00000+0  68803-5 0  9992
+2 52492  53.2099  29.6537 0001464  89.8538 270.2622 15.08834805128464

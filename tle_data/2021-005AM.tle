@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47384
+launchyear:2021
+epoch:24242.06797237
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2104
+meananomly:271.2141
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3588925849
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0589
+eccentricity:0.0001355
+argumentofperigree:88.9003
+nickname:STARLINK-2104
+idesg:21005AM 
+cosparid:2021-005AM
+altkm:548.08170840894
+velkms:7.5891565127709
+velkmh:27321
+onumepoch:20002
+onumnow:301325.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:37:53+00:00
+nowjuliandate:2460552.6395894
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2104
+1 47384U 21005AM  24242.06797237 -.00002260  00000+0 -13291-3 0  9999
+2 47384  53.0589  15.1235 0001355  88.9003 271.2141 15.06397302200025

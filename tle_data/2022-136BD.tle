@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54102
+launchyear:2022
+epoch:24242.47790145
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5179
+meananomly:263.8895
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8701954447
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001793
+argumentofperigree:96.2301
+nickname:STARLINK-5179
+idesg:22136BD 
+cosparid:2022-136BD
+altkm:540.76294896223
+velkms:7.5930831816573
+velkmh:27335
+onumepoch:10333
+onumnow:155918.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:28:11+00:00
+nowjuliandate:2460552.6378004
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5179
+1 54102U 22136BD  24242.47790145  .00000114  00000+0  25293-4 0  9997
+2 54102  53.2183 315.5562 0001793  96.2301 263.8895 15.08844010103336

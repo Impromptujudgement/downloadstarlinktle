@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45565
+launchyear:2020
+epoch:24242.21952729
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1357
+meananomly:267.7079
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3406076545
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0586
+eccentricity:0.0001574
+argumentofperigree:92.409
+nickname:STARLINK-1357
+idesg:20025AL 
+cosparid:2020-025AL
+altkm:548.12691508695
+velkms:7.5890969933177
+velkmh:27321
+onumepoch:24134
+onumnow:363575.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:16:07+00:00
+nowjuliandate:2460553.0283407
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1357
+1 45565U 20025AL  24242.21952729 -.00003424  00000+0 -21107-3 0  9993
+2 45565  53.0586  69.2000 0001574  92.4090 267.7079 15.06403268241349

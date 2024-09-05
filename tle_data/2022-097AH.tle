@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53419
+launchyear:2022
+epoch:24241.87621697
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4476
+meananomly:270.1552
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8637796753
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2182
+eccentricity:0.0001605
+argumentofperigree:89.9624
+nickname:STARLINK-4476
+idesg:22097AH 
+cosparid:2022-097AH
+altkm:540.62143928905
+velkms:7.5932349403768
+velkmh:27336
+onumepoch:11441
+onumnow:172646.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:01:45+00:00
+nowjuliandate:2460552.6378613
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4476
+1 53419U 22097AH  24241.87621697  .00000892  00000+0  74139-4 0  9997
+2 53419  53.2182  98.2409 0001605  89.9624 270.1552 15.08846109114412

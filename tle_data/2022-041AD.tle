@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52288
+launchyear:2022
+epoch:24242.28792243
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3776
+meananomly:273.0212
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8748017256
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.000125
+argumentofperigree:87.0923
+nickname:STARLINK-3776
+idesg:22041AD 
+cosparid:2022-041AD
+altkm:540.58963097208
+velkms:7.5932758776279
+velkmh:27336
+onumepoch:13157
+onumnow:198531.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:54:36+00:00
+nowjuliandate:2460552.6379359
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3776
+1 52288U 22041AD  24242.28792243  .00000612  00000+0  56525-4 0  9990
+2 52288  53.2164  81.3950 0001250  87.0923 273.0212 15.08842503131571

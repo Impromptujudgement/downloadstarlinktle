@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55632
+launchyear:2023
+epoch:24242.54880944
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5546
+meananomly:76.0513
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1840106807
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0035
+eccentricity:0.0002247
+argumentofperigree:284.0396
+nickname:STARLINK-5546
+idesg:23021E  
+cosparid:2023-021E
+altkm:574.09487666879
+velkms:7.5742766981488
+velkmh:27267
+onumepoch:8454
+onumnow:126677.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:10:17+00:00
+nowjuliandate:2460552.6377429
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5546
+1 55632U 23021E   24242.54880944  .00000571  00000+0  55666-4 0  9999
+2 55632  70.0035 169.2142 0002247 284.0396  76.0513 14.98333542 84545

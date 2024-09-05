@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:42+00:00
+validtle:1
+satid:46379
+launchyear:2020
+epoch:21289.17273291
+epochday:289
+tleage:1049
+tleclassification:C
+active:0
+name:STARLINK-1756
+meananomly:302.9179
+meanmotion:16.0497
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6638.817513762
+altitudeatperigee:257
+altitudeatapogee:264
+inclination:53.027
+eccentricity:0.0005051
+argumentofperigree:183.2879
+nickname:STARLINK-1756
+idesg:20062BG 
+cosparid:2020-062BG
+altkm:262.48386221199
+velkms:7.7559505045515
+velkmh:27921
+onumepoch:1
+onumnow:47432.59
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-10-16T04:08:44+00:00
+nowjuliandate:2460553.029676
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1756
+1 46379C 20062BG  21289.17273291  .00506472  00000-0  69217-3 0  2897
+2 46379  53.0270 214.9166 0005051 183.2879 302.9179 16.04969781    19

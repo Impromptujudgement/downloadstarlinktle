@@ -1,0 +1,38 @@
+date:2024-08-29T04:30:49+00:00
+validtle:1
+satid:57417
+launchyear:2023
+epoch:24241.16339128
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30043
+meananomly:87.1702
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2188734437
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.000147
+argumentofperigree:272.8972
+nickname:STARLINK-30043
+idesg:23102P  
+cosparid:2023-102P
+altkm:558.80978586474
+velkms:7.5838910466038
+velkmh:27302
+onumepoch:6222
+onumnow:93503.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:55:17+00:00
+nowjuliandate:2460551.6880741
+nowepochdate:24242.1880671296
+TLE:
+STARLINK-30043
+1 57417U 23102P   24241.16339128  .00001918  00000+0  15703-3 0  9995
+2 57417  43.0025  43.3905 0001470 272.8972  87.1702 15.02535912 62223

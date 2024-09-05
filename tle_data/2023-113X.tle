@@ -1,0 +1,38 @@
+date:2024-08-28T22:32:34+00:00
+validtle:1
+satid:57515
+launchyear:2023
+epoch:24241.5030173
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30081
+meananomly:82.7230
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1816052132
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0046
+eccentricity:0.0001274
+argumentofperigree:277.3468
+nickname:STARLINK-30081
+idesg:23113X  
+cosparid:2023-113X
+altkm:558.71111070172
+velkms:7.5839785562386
+velkmh:27302
+onumepoch:5969
+onumnow:89693.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:04:21+00:00
+nowjuliandate:2460551.4392897
+nowepochdate:24241.9392824074
+TLE:
+STARLINK-30081
+1 57515U 23113X   24241.50301730  .00001818  00000+0  14959-3 0  9993
+2 57515  43.0046 170.4492 0001274 277.3468  82.7230 15.02548020 59698

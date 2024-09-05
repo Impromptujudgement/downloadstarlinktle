@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53844
+launchyear:2022
+epoch:24241.42173193
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4745
+meananomly:258.1173
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8981083408
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001604
+argumentofperigree:101.9999
+nickname:STARLINK-4745
+idesg:22114AC 
+cosparid:2022-114AC
+altkm:540.88707086078
+velkms:7.5929622758594
+velkmh:27335
+onumepoch:10869
+onumnow:164020.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:07:18+00:00
+nowjuliandate:2460552.6378222
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4745
+1 53844U 22114AC  24241.42173193  .00002958  00000+0  20390-3 0  9997
+2 53844  53.2166 280.1760 0001604 101.9999 258.1173 15.08834878108695

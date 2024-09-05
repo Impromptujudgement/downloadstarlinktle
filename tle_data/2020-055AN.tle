@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46063
+launchyear:2020
+epoch:24242.29417368
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1577
+meananomly:269.7159
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3421707263
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0563
+eccentricity:0.0001891
+argumentofperigree:90.4047
+nickname:STARLINK-1577
+idesg:20055AN 
+cosparid:2020-055AN
+altkm:548.09120231712
+velkms:7.5891369703521
+velkmh:27321
+onumepoch:22501
+onumnow:338966.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:03:37+00:00
+nowjuliandate:2460553.0282973
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1577
+1 46063U 20055AN  24242.29417368  .00006136  00000+0  43046-3 0  9990
+2 46063  53.0563  98.8627 0001891  90.4047 269.7159 15.06402758225013

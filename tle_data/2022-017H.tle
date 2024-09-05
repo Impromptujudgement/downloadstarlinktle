@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51775
+launchyear:2022
+epoch:24242.39466889
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3620
+meananomly:248.7086
+meanmotion:15.0881
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9664765636
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001313
+argumentofperigree:111.4047
+nickname:STARLINK-3620
+idesg:22017H  
+cosparid:2022-017H
+altkm:541.05690945445
+velkms:7.5928133667523
+velkmh:27334
+onumepoch:13992
+onumnow:211124.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:28:19+00:00
+nowjuliandate:2460552.6379554
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3620
+1 51775U 22017H   24242.39466889 -.00003002  00000+0 -17076-3 0  9994
+2 51775  53.2186 320.9197 0001313 111.4047 248.7086 15.08812511139920

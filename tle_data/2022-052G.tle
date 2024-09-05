@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52604
+launchyear:2022
+epoch:24242.77552303
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4013
+meananomly:270.9325
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762474942
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001392
+argumentofperigree:89.1826
+nickname:STARLINK-4013
+idesg:22052G  
+cosparid:2022-052G
+altkm:540.6208302091
+velkms:7.593242435181
+velkmh:27336
+onumepoch:12715
+onumnow:191854.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:36:45+00:00
+nowjuliandate:2460552.6379068
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4013
+1 52604U 22052G   24242.77552303  .00000147  00000+0  27316-4 0  9998
+2 52604  53.2147 259.2038 0001392  89.1826 270.9325 15.08842030127154

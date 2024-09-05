@@ -1,0 +1,38 @@
+date:2024-08-29T09:16:18+00:00
+validtle:1
+satid:56691
+launchyear:2023
+epoch:24242.25002315
+epochday:242
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30087
+meananomly:326.0759
+meanmotion:15.8950
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6681.8124449288
+altitudeatperigee:282
+altitudeatapogee:325
+inclination:42.9853
+eccentricity:0.0032544
+argumentofperigree:7.1239
+nickname:STARLINK-30087
+idesg:23067D  
+cosparid:2023-067D
+altkm:289.49682086929
+velkms:7.7451454115599
+velkmh:27883
+onumepoch:7195
+onumnow:114366.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:00:02+00:00
+nowjuliandate:2460551.8863239
+nowepochdate:24242.3863194444
+TLE:
+STARLINK-30087
+1 56691U 23067D   24242.25002315  .00635797  16310-3  20116-2 0  9990
+2 56691  42.9853 337.9478 0032544   7.1239 326.0759 15.89503669 71957

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53434
+launchyear:2022
+epoch:24241.8550252
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4498
+meananomly:266.7200
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8598825383
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2137
+eccentricity:0.0001817
+argumentofperigree:93.4
+nickname:STARLINK-4498
+idesg:22097AY 
+cosparid:2022-097AY
+altkm:540.69203682884
+velkms:7.5931553418547
+velkmh:27335
+onumepoch:11458
+onumnow:172903.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:31:14+00:00
+nowjuliandate:2460552.6378598
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4498
+1 53434U 22097AY  24241.85502520  .00001264  00000+0  97480-4 0  9993
+2 53434  53.2137  88.0591 0001817  93.4000 266.7200 15.08847384114586

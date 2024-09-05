@@ -1,0 +1,38 @@
+date:2024-08-29T08:35:44+00:00
+validtle:1
+satid:56775
+launchyear:2023
+epoch:24241.78223513
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6292
+meananomly:89.2346
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.18620629
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9971
+eccentricity:0.0003151
+argumentofperigree:270.8452
+nickname:STARLINK-6292
+idesg:23078J  
+cosparid:2023-078J
+altkm:574.44422285922
+velkms:7.5738972258082
+velkmh:27266
+onumepoch:7009
+onumnow:105026.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:46:25+00:00
+nowjuliandate:2460551.858156
+nowepochdate:24242.3581481481
+TLE:
+STARLINK-6292
+1 56775U 23078J   24241.78223513  .00000205  00000+0  24964-4 0  9999
+2 56775  69.9971 271.2841 0003151 270.8452  89.2346 14.98332832 70097

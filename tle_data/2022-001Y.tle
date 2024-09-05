@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50825
+launchyear:2022
+epoch:24242.4691484
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3332
+meananomly:273.9183
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8318049743
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001359
+argumentofperigree:86.1965
+nickname:STARLINK-3332
+idesg:22001Y  
+cosparid:2022-001Y
+altkm:540.52807096733
+velkms:7.593319881929
+velkmh:27336
+onumepoch:14755
+onumnow:222639.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:15:34+00:00
+nowjuliandate:2460552.6379762
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3332
+1 50825U 22001Y   24242.46914840  .00001250  00000+0  96574-4 0  9997
+2 50825  53.2172 150.5802 0001359  86.1965 273.9183 15.08856570147556

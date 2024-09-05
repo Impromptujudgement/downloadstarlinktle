@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53830
+launchyear:2022
+epoch:24242.41071616
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4761
+meananomly:271.7773
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8634281686
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001493
+argumentofperigree:88.339
+nickname:STARLINK-4761
+idesg:22114N  
+cosparid:2022-114N
+altkm:540.59193284977
+velkms:7.593267124142
+velkmh:27336
+onumepoch:10816
+onumnow:163207.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:51:26+00:00
+nowjuliandate:2460552.637818
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4761
+1 53830U 22114N   24242.41071616  .00000542  00000+0  52146-4 0  9991
+2 53830  53.2172 285.6738 0001493  88.3390 271.7773 15.08846224108168

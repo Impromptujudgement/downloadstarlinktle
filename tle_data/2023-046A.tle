@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56093
+launchyear:2023
+epoch:24241.91220333
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6102
+meananomly:79.2542
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2112615485
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0033
+eccentricity:8.31E-5
+argumentofperigree:280.8207
+nickname:STARLINK-6102
+idesg:23046A  
+cosparid:2023-046A
+altkm:558.74502255014
+velkms:7.5839576640549
+velkmh:27302
+onumepoch:7930
+onumnow:119169.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:53:34+00:00
+nowjuliandate:2460552.6377195
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6102
+1 56093U 23046A   24241.91220333  .00000430  00000+0  46869-4 0  9997
+2 56093  43.0033 310.1189 0000831 280.8207  79.2542 15.02538385 79308

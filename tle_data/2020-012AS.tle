@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:53+00:00
+validtle:1
+satid:45218
+launchyear:2020
+epoch:21163.33627156
+epochday:163
+tleage:1175
+tleclassification:C
+active:0
+name:STARLINK-1105
+meananomly:82.8425
+meanmotion:16.1757
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6604.287058293
+altitudeatperigee:225
+altitudeatapogee:227
+inclination:53.0322
+eccentricity:0.0001565
+argumentofperigree:27.8577
+nickname:STARLINK-1105
+idesg:20012AS 
+cosparid:2020-012AS
+altkm:231.45320588371
+velkms:7.7740253375248
+velkmh:27986
+onumepoch:1
+onumnow:49832.00
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-06-12T08:04:14+00:00
+nowjuliandate:2460553.0298575
+nowepochdate:24243..529849537
+TLE:
+STARLINK-1105
+1 45218C 20012AS  21163.33627156  .00672230  00000-0  38622-3 0  1638
+2 45218  53.0322 144.5548 0001565  27.8577  82.8425 16.17573575    18

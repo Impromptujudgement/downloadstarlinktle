@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50200
+launchyear:2021
+epoch:24242.20511608
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3235
+meananomly:269.4753
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8741904072
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001456
+argumentofperigree:90.6406
+nickname:STARLINK-3235
+idesg:21125AW 
+cosparid:2021-125AW
+altkm:540.64373847379
+velkms:7.5932161725087
+velkmh:27336
+onumepoch:15210
+onumnow:229506.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:55:22+00:00
+nowjuliandate:2460552.6379855
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3235
+1 50200U 21125AW  24242.20511608  .00000734  00000+0  64175-4 0  9995
+2 50200  53.2153 221.7284 0001456  90.6406 269.4753 15.08842703152108

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54775
+launchyear:2022
+epoch:24242.69225052
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5465
+meananomly:263.2933
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.937872172
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001482
+argumentofperigree:96.8228
+nickname:STARLINK-5465
+idesg:22175T  
+cosparid:2022-175T
+altkm:540.81809234776
+velkms:7.59305973508
+velkmh:27335
+onumepoch:9367
+onumnow:141338.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:36:50+00:00
+nowjuliandate:2460552.6377858
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5465
+1 54775U 22175T   24242.69225052 -.00004542  00000+0 -26762-3 0  9992
+2 54775  53.2169  24.4154 0001482  96.8228 263.2933 15.08821869 93677

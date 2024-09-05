@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:32+00:00
+validtle:1
+satid:47842
+launchyear:2021
+epoch:24241.74818736
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2434
+meananomly:274.8071
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3145535228
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001315
+argumentofperigree:85.3068
+nickname:STARLINK-2434
+idesg:21018BH 
+cosparid:2021-018BH
+altkm:547.98020887813
+velkms:7.5892434641974
+velkmh:27321
+onumepoch:19241
+onumnow:289869.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:57:23+00:00
+nowjuliandate:2460552.6392697
+nowepochdate:24243.1392592593
+TLE:
+STARLINK-2434
+1 47842U 21018BH  24241.74818736  .00002687  00000+0  19912-3 0  9991
+2 47842  53.0521 246.3154 0001315  85.3068 274.8071 15.06411769192414

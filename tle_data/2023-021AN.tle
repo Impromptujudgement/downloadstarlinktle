@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55664
+launchyear:2023
+epoch:24242.11858102
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5480
+meananomly:88.1674
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2020827616
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0003142
+argumentofperigree:271.9126
+nickname:STARLINK-5480
+idesg:23021AN 
+cosparid:2023-021AN
+altkm:574.4196495869
+velkms:7.5739326405322
+velkmh:27266
+onumepoch:8546
+onumnow:128062.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:50:45+00:00
+nowjuliandate:2460552.6377461
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5480
+1 55664U 23021AN  24242.11858102 -.00001777  00000+0 -14121-3 0  9999
+2 55664  69.9993 130.3791 0003142 271.9126  88.1674 14.98327698 85469

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48880
+launchyear:2021
+epoch:24241.60862422
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3004
+meananomly:265.2122
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1107645016
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6601
+eccentricity:0.0001881
+argumentofperigree:94.9317
+nickname:STARLINK-3004
+idesg:21059B  
+cosparid:2021-059B
+altkm:566.14047283323
+velkms:7.5780107244087
+velkmh:27281
+onumepoch:17507
+onumnow:262850.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:36:25+00:00
+nowjuliandate:2460552.6380072
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3004
+1 48880U 21059B   24241.60862422  .00000761  00000+0  63812-4 0  9995
+2 48880  97.6601   4.8746 0001881  94.9317 265.2122 15.01272378175075

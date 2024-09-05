@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53221
+launchyear:2022
+epoch:24242.11732534
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4377
+meananomly:268.0015
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1360150108
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6579
+eccentricity:0.0001568
+argumentofperigree:92.1389
+nickname:STARLINK-4377
+idesg:22084AJ 
+cosparid:2022-084AJ
+altkm:566.09466484805
+velkms:7.5780745048603
+velkmh:27281
+onumepoch:11566
+onumnow:173651.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:48:57+00:00
+nowjuliandate:2460552.6378731
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4377
+1 53221U 22084AJ  24242.11732534  .00000699  00000+0  58989-4 0  9995
+2 53221  97.6579 301.9168 0001568  92.1389 268.0015 15.01264186115663

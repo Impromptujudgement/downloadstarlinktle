@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52839
+launchyear:2022
+epoch:24242.66006408
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4048
+meananomly:272.3169
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9042827164
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2167
+eccentricity:9.4E-5
+argumentofperigree:87.7931
+nickname:STARLINK-4048
+idesg:22062K  
+cosparid:2022-062K
+altkm:540.63837617616
+velkms:7.5932385343361
+velkmh:27336
+onumepoch:12218
+onumnow:184356.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:50:30+00:00
+nowjuliandate:2460552.6378939
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4048
+1 52839U 22062K   24242.66006408 -.00001745  00000+0 -91579-4 0  9996
+2 52839  53.2167  14.7184 0000940  87.7931 272.3169 15.08832858122188

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53030
+launchyear:2022
+epoch:24242.79164951
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4160
+meananomly:270.3816
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9085864477
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2199
+eccentricity:0.0001298
+argumentofperigree:89.7325
+nickname:STARLINK-4160
+idesg:22076AW 
+cosparid:2022-076AW
+altkm:540.6633849621
+velkms:7.5932134505631
+velkmh:27336
+onumepoch:11938
+onumnow:180129.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:59:59+00:00
+nowjuliandate:2460552.6378896
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4160
+1 53030U 22076AW  24242.79164951 -.00001720  00000+0 -90014-4 0  9993
+2 53030  53.2199  64.3246 0001298  89.7325 270.3816 15.08831450119385

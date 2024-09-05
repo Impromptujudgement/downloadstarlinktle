@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49148
+launchyear:2021
+epoch:24242.41818256
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3048
+meananomly:88.7495
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1853775246
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9984
+eccentricity:0.0002986
+argumentofperigree:271.3322
+nickname:STARLINK-3048
+idesg:21082U  
+cosparid:2021-082U
+altkm:574.42737748032
+velkms:7.5739151302575
+velkmh:27266
+onumepoch:16412
+onumnow:245917.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:11+00:00
+nowjuliandate:2460552.6380009
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3048
+1 49148U 21082U   24242.41818256  .00000700  00000+0  66466-4 0  9996
+2 49148  69.9984 239.5179 0002986 271.3322  88.7495 14.98333100164121

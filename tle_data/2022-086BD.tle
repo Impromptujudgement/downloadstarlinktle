@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53293
+launchyear:2022
+epoch:24242.47420219
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4148
+meananomly:287.7325
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8128514042
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001553
+argumentofperigree:72.3837
+nickname:STARLINK-4148
+idesg:22086BD 
+cosparid:2022-086BD
+altkm:540.24615754437
+velkms:7.5936188486494
+velkmh:27337
+onumepoch:11704
+onumnow:176607.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:22:51+00:00
+nowjuliandate:2460552.6378655
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4148
+1 53293U 22086BD  24242.47420219  .00002804  00000+0  19411-3 0  9995
+2 53293  53.2170 155.5507 0001553  72.3837 287.7325 15.08862771117046

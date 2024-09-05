@@ -1,0 +1,38 @@
+date:2024-08-28T22:42:31+00:00
+validtle:1
+satid:57501
+launchyear:2023
+epoch:24241.08084516
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30072
+meananomly:71.9313
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.185169497
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:42.9991
+eccentricity:5.1E-5
+argumentofperigree:288.1474
+nickname:STARLINK-30072
+idesg:23113G  
+cosparid:2023-113G
+altkm:558.71619024729
+velkms:7.5839749470878
+velkmh:27302
+onumepoch:5952
+onumnow:89444.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:56:25+00:00
+nowjuliandate:2460551.4461935
+nowepochdate:24241.9461921296
+TLE:
+STARLINK-30072
+1 57501U 23113G   24241.08084516 -.00001413  00000+0 -89509-4 0  9998
+2 57501  42.9991 172.4188 0000510 288.1474  71.9313 15.02546862 59529

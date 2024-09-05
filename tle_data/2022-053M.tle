@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52667
+launchyear:2022
+epoch:24242.44661557
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4076
+meananomly:273.0275
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8514372319
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.000132
+argumentofperigree:87.0868
+nickname:STARLINK-4076
+idesg:22053M  
+cosparid:2022-053M
+altkm:540.56356578145
+velkms:7.5932916842325
+velkmh:27336
+onumepoch:12692
+onumnow:191513.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:43:08+00:00
+nowjuliandate:2460552.6378997
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4076
+1 52667U 22053M   24242.44661557  .00001354  00000+0  10312-3 0  9992
+2 52667  53.2158 135.6823 0001320  87.0868 273.0275 15.08850147126928

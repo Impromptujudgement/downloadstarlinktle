@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46062
+launchyear:2020
+epoch:24242.29785677
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1574
+meananomly:274.6066
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3265952149
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0552
+eccentricity:0.0001201
+argumentofperigree:85.506
+nickname:STARLINK-1574
+idesg:20055AM 
+cosparid:2020-055AM
+altkm:548.00207656049
+velkms:7.5892260916392
+velkmh:27321
+onumepoch:22498
+onumnow:338922.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:08:55+00:00
+nowjuliandate:2460553.0282974
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1574
+1 46062U 20055AM  24242.29785677  .00007485  00000+0  52073-3 0  9998
+2 46062  53.0552  98.8473 0001201  85.5060 274.6066 15.06407840224988

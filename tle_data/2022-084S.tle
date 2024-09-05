@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53205
+launchyear:2022
+epoch:24242.40798966
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4397
+meananomly:156.9649
+meanmotion:15.0128
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1024946399
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.656
+eccentricity:0.0004483
+argumentofperigree:203.1374
+nickname:STARLINK-4397
+idesg:22084S  
+cosparid:2022-084S
+altkm:568.88750223414
+velkms:7.5750077590367
+velkmh:27270
+onumepoch:11608
+onumnow:174278.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:47:30+00:00
+nowjuliandate:2460552.6378694
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4397
+1 53205U 22084S   24242.40798966 -.00000495  00000+0 -33877-4 0  9995
+2 53205  97.6560 302.1862 0004483 203.1374 156.9649 15.01275061116085

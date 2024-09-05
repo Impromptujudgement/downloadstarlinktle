@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45667
+launchyear:2020
+epoch:24229.93544689
+epochday:229
+tleage:14
+tleclassification:U
+active:0
+name:STARLINK-1450
+meananomly:209.5650
+meanmotion:16.1496
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6611.4000814614
+altitudeatperigee:225
+altitudeatapogee:242
+inclination:53.0376
+eccentricity:0.0012722
+argumentofperigree:289.3156
+nickname:STARLINK-1450
+idesg:20035L  
+cosparid:2020-035L
+altkm:242.57566243292
+velkms:7.7613520285578
+velkmh:27941
+onumepoch:23342
+onumnow:377184.38
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-08-16T22:27:03+00:00
+nowjuliandate:2460553.0283154
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1450
+1 45667U 20035L   24229.93544689  .06022703  11534+0  64898-2 0  9995
+2 45667  53.0376  37.8283 0012722 289.3156 209.5650 16.14963823233427

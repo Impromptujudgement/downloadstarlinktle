@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48671
+launchyear:2021
+epoch:24240.88111648
+epochday:240
+tleage:3
+tleclassification:U
+active:1
+name:STARLINK-2745
+meananomly:283.7121
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.294708904
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001458
+argumentofperigree:76.403
+nickname:STARLINK-2745
+idesg:21044AK 
+cosparid:2021-044AK
+altkm:547.79743779319
+velkms:7.5894328452451
+velkmh:27322
+onumepoch:17961
+onumnow:270601.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T21:08:48+00:00
+nowjuliandate:2460552.6380128
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2745
+1 48671U 21044AK  24240.88111648  .00010886  00000+0  74822-3 0  9994
+2 48671  53.0528 100.5181 0001458  76.4030 283.7121 15.06418244179618

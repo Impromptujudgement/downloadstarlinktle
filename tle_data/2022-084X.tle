@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53210
+launchyear:2022
+epoch:24242.40984345
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4427
+meananomly:153.9323
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1309414648
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.654
+eccentricity:0.0004059
+argumentofperigree:206.1697
+nickname:STARLINK-4427
+idesg:22084X  
+cosparid:2022-084X
+altkm:568.58314477003
+velkms:7.5753554332182
+velkmh:27271
+onumepoch:11608
+onumnow:174277.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:50:10+00:00
+nowjuliandate:2460552.6378691
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4427
+1 53210U 22084X   24242.40984345  .00000475  00000+0  41615-4 0  9994
+2 53210  97.6540 302.1856 0004059 206.1697 153.9323 15.01265832116083

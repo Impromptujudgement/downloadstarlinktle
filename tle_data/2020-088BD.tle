@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:03+00:00
+validtle:1
+satid:47173
+launchyear:2020
+epoch:24242.3969201
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1890
+meananomly:258.7410
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3759394223
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001449
+argumentofperigree:101.3742
+nickname:STARLINK-1890
+idesg:20088BD 
+cosparid:2020-088BD
+altkm:548.31400066696
+velkms:7.5889113627036
+velkmh:27320
+onumepoch:20813
+onumnow:313536.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:31:34+00:00
+nowjuliandate:2460552.6396204
+nowepochdate:24243.1396180556
+TLE:
+STARLINK-1890
+1 47173U 20088BD  24242.39692010  .00015769  00000+0  10754-2 0  9990
+2 47173  53.0536 283.4003 0001449 101.3742 258.7410 15.06391740208139

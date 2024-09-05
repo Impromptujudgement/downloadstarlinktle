@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45228
+launchyear:2020
+epoch:24242.0241766
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1222
+meananomly:264.6147
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3346955732
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0554
+eccentricity:0.0001456
+argumentofperigree:95.5008
+nickname:STARLINK-1222
+idesg:20012BC 
+cosparid:2020-012BC
+altkm:548.17167372936
+velkms:7.5890447284931
+velkmh:27321
+onumepoch:25123
+onumnow:378476.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:34:49+00:00
+nowjuliandate:2460553.0283795
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1222
+1 45228U 20012BC  24242.02417660  .00009836  00000+0  67821-3 0  9998
+2 45228  53.0554 350.0747 0001456  95.5008 264.6147 15.06405197251235

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45411
+launchyear:2020
+epoch:24242.69778861
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1293
+meananomly:274.0354
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4531755984
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001591
+argumentofperigree:86.0817
+nickname:STARLINK-1293
+idesg:20019BD 
+cosparid:2020-019BD
+altkm:548.11772755949
+velkms:7.589168596571
+velkmh:27321
+onumepoch:24593
+onumnow:370473.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:44:49+00:00
+nowjuliandate:2460553.0283532
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1293
+1 45411U 20019BD  24242.69778861  .00013347  00000+0  91402-3 0  9999
+2 45411  53.0529 117.0503 0001591  86.0817 274.0354 15.06366540245938

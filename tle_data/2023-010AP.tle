@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55306
+launchyear:2023
+epoch:24242.54232923
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5295
+meananomly:87.9981
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1968534736
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9998
+eccentricity:0.0003178
+argumentofperigree:272.0814
+nickname:STARLINK-5295
+idesg:23010AP 
+cosparid:2023-010AP
+altkm:574.40716048482
+velkms:7.5739434035867
+velkmh:27266
+onumepoch:8999
+onumnow:134843.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:00:57+00:00
+nowjuliandate:2460552.6377767
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5295
+1 55306U 23010AP  24242.54232923 -.00000645  00000+0 -46302-4 0  9994
+2 55306  69.9998 329.3576 0003178 272.0814  87.9981 14.98329389 89992

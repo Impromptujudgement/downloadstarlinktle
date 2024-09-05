@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51807
+launchyear:2022
+epoch:24241.50039647
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3606
+meananomly:271.2178
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8369277483
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001792
+argumentofperigree:88.9019
+nickname:STARLINK-3606
+idesg:22017AR 
+cosparid:2022-017AR
+altkm:540.57100145139
+velkms:7.5932755802206
+velkmh:27336
+onumepoch:13984
+onumnow:211022.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:00:34+00:00
+nowjuliandate:2460552.6379576
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3606
+1 51807U 22017AR  24241.50039647  .00002519  00000+0  17626-3 0  9991
+2 51807  53.2154 324.9289 0001792  88.9019 271.2178 15.08854894139849

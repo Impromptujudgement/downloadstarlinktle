@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48604
+launchyear:2021
+epoch:24242.39324129
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2757
+meananomly:273.8497
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3436449184
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001466
+argumentofperigree:86.266
+nickname:STARLINK-2757
+idesg:21041BD 
+cosparid:2021-041BD
+altkm:548.01754707311
+velkms:7.5892184642983
+velkmh:27321
+onumepoch:18233
+onumnow:274673.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:26:16+00:00
+nowjuliandate:2460552.638017
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2757
+1 48604U 21041BD  24242.39324129  .00027849  00000+0  18810-2 0  9996
+2 48604  53.0528 123.4185 0001466  86.2660 273.8497 15.06402277182337

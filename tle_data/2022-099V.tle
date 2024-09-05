@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53484
+launchyear:2022
+epoch:24242.62122448
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4426
+meananomly:212.0607
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1326860731
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6591
+eccentricity:3.31E-5
+argumentofperigree:148.0638
+nickname:STARLINK-4426
+idesg:22099V  
+cosparid:2022-099V
+altkm:566.24791568617
+velkms:7.577905377769
+velkmh:27280
+onumepoch:11264
+onumnow:169110.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:54:34+00:00
+nowjuliandate:2460552.6378515
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4426
+1 53484U 22099V   24242.62122448  .00000762  00000+0  63916-4 0  9992
+2 53484  97.6591   2.4116 0000331 148.0638 212.0607 15.01265266112640

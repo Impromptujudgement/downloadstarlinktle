@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53608
+launchyear:2022
+epoch:24242.61960123
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4647
+meananomly:265.8125
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.867881609
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001313
+argumentofperigree:94.3017
+nickname:STARLINK-4647
+idesg:22104W  
+cosparid:2022-104W
+altkm:540.69451628456
+velkms:7.5931570015556
+velkmh:27335
+onumepoch:11096
+onumnow:167429.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:52:14+00:00
+nowjuliandate:2460552.6378386
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4647
+1 53608U 22104W   24242.61960123  .00000875  00000+0  73070-4 0  9993
+2 53608  53.2154 215.0973 0001313  94.3017 265.8125 15.08844767110969

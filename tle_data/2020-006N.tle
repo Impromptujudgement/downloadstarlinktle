@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:55+00:00
+validtle:1
+satid:45056
+launchyear:2020
+epoch:20333.1570169
+epochday:333
+tleage:1370
+tleclassification:C
+active:0
+name:STARLINK-1158
+meananomly:275.5591
+meanmotion:15.9354
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6670.5242107751
+altitudeatperigee:290
+altitudeatapogee:295
+inclination:52.9967
+eccentricity:0.0003884
+argumentofperigree:158.9302
+nickname:STARLINK-1158
+idesg:20006N  
+cosparid:2020-006N
+altkm:298.01456133001
+velkms:7.7353756483308
+velkmh:27847
+onumepoch:1
+onumnow:62329.30
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2020-11-28T03:46:06+00:00
+nowjuliandate:2460553.0298898
+nowepochdate:24243.5298842593
+TLE:
+STARLINK-1158
+1 45056C 20006N   20333.15701690  .00413378  00000-0  10933-2 0  3334
+2 45056  52.9967 281.8104 0003884 158.9302 275.5591 15.93540146    18

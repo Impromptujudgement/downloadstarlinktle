@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47585
+launchyear:2021
+epoch:24242.04674985
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1989
+meananomly:264.7384
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3490022799
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0553
+eccentricity:8.9E-5
+argumentofperigree:95.3706
+nickname:STARLINK-1989
+idesg:21009AP 
+cosparid:2021-009AP
+altkm:548.14776944421
+velkms:7.5890787363347
+velkmh:27321
+onumepoch:19735
+onumnow:297304.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:07:19+00:00
+nowjuliandate:2460552.6394865
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1989
+1 47585U 21009AP  24242.04674985  .00012046  00000+0  82620-3 0  9991
+2 47585  53.0553   4.9738 0000890  95.3706 264.7384 15.06400529197351

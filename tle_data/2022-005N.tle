@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51116
+launchyear:2022
+epoch:24242.34867558
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3243
+meananomly:280.1868
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8309308026
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001458
+argumentofperigree:79.9288
+nickname:STARLINK-3243
+idesg:22005N  
+cosparid:2022-005N
+altkm:540.41283019969
+velkms:7.5934458555944
+velkmh:27336
+onumepoch:14584
+onumnow:220061.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:22:06+00:00
+nowjuliandate:2460552.6379706
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3243
+1 51116U 22005N   24242.34867558  .00003405  00000+0  23184-3 0  9995
+2 51116  53.2148 271.0922 0001458  79.9288 280.1868 15.08856856145840

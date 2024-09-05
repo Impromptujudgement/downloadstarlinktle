@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51468
+launchyear:2022
+epoch:24242.86383755
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3174
+meananomly:274.9562
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8823515191
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2138
+eccentricity:0.000143
+argumentofperigree:85.1594
+nickname:STARLINK-3174
+idesg:22010N  
+cosparid:2022-010N
+altkm:540.55703794951
+velkms:7.5933157747479
+velkmh:27336
+onumepoch:14326
+onumnow:216158.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T20:43:56+00:00
+nowjuliandate:2460552.6379667
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3174
+1 51468U 22010N   24242.86383755  .00000789  00000+0  67656-4 0  9995
+2 51468  53.2138 258.7722 0001430  85.1594 274.9562 15.08840033143264

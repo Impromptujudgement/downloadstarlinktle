@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47650
+launchyear:2021
+epoch:24241.71225904
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2033
+meananomly:278.6409
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.371896842
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0551
+eccentricity:0.0001261
+argumentofperigree:81.4723
+nickname:STARLINK-2033
+idesg:21012AG 
+cosparid:2021-012AG
+altkm:547.98296351858
+velkms:7.5892717958026
+velkmh:27321
+onumepoch:19615
+onumnow:295500.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:05:39+00:00
+nowjuliandate:2460552.639444
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2033
+1 47650U 21012AG  24241.71225904 -.00000383  00000+0 -68009-5 0  9994
+2 47650  53.0551  36.4775 0001261  81.4723 278.6409 15.06393059196159

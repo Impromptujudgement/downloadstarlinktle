@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55348
+launchyear:2023
+epoch:24242.30132019
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5609
+meananomly:81.8005
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1965241417
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0037
+eccentricity:0.0001183
+argumentofperigree:278.2703
+nickname:STARLINK-5609
+idesg:23013T  
+cosparid:2023-013T
+altkm:558.72082459291
+velkms:7.5839760729251
+velkmh:27302
+onumepoch:8829
+onumnow:132672.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:13:54+00:00
+nowjuliandate:2460552.6377663
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5609
+1 55348U 23013T   24242.30132019  .00002132  00000+0  17280-3 0  9995
+2 55348  43.0037  89.0320 0001183 278.2703  81.8005 15.02543173 88298

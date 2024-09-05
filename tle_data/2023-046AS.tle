@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56133
+launchyear:2023
+epoch:24241.88471088
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5566
+meananomly:91.4604
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1779301274
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:0.0001342
+argumentofperigree:268.6084
+nickname:STARLINK-5566
+idesg:23046AS 
+cosparid:2023-046AS
+altkm:558.84288293392
+velkms:7.5838325663366
+velkmh:27302
+onumepoch:7884
+onumnow:118479.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:13:59+00:00
+nowjuliandate:2460552.6377179
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5566
+1 56133U 23046AS  24241.88471088  .00001771  00000+0  14606-3 0  9995
+2 56133  43.0025 296.9284 0001342 268.6084  91.4604 15.02549214 78842

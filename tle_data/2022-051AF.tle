@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52562
+launchyear:2022
+epoch:24241.89967946
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3957
+meananomly:269.0779
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8536196213
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0002255
+argumentofperigree:91.0472
+nickname:STARLINK-3957
+idesg:22051AF 
+cosparid:2022-051AF
+altkm:540.63926173812
+velkms:7.5932098207421
+velkmh:27336
+onumepoch:12737
+onumnow:192200.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:35:32+00:00
+nowjuliandate:2460552.6379168
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3957
+1 52562U 22051AF  24241.89967946  .00002378  00000+0  16743-3 0  9994
+2 52562  53.2154 103.1419 0002255  91.0472 269.0779 15.08849433127373

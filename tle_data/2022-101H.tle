@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53534
+launchyear:2022
+epoch:24241.75474471
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4488
+meananomly:275.5846
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8633578673
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.000137
+argumentofperigree:84.5302
+nickname:STARLINK-4488
+idesg:22101H  
+cosparid:2022-101H
+altkm:540.5316967501
+velkms:7.593333181223
+velkmh:27336
+onumepoch:11194
+onumnow:168921.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:06:50+00:00
+nowjuliandate:2460552.6378467
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4488
+1 53534U 22101H   24241.75474471  .00000946  00000+0  77515-4 0  9995
+2 53534  53.2177  58.5169 0001370  84.5302 275.5846 15.08846247111942

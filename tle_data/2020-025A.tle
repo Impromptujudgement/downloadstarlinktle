@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45531
+launchyear:2020
+epoch:24242.30984141
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1329
+meananomly:276.7838
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3145106154
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0551
+eccentricity:0.0001735
+argumentofperigree:83.3348
+nickname:STARLINK-1329
+idesg:20025A  
+cosparid:2020-025A
+altkm:547.91496269032
+velkms:7.589314919357
+velkmh:27322
+onumepoch:24048
+onumnow:362280.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:26:10+00:00
+nowjuliandate:2460553.0283441
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1329
+1 45531U 20025A   24242.30984141  .00005075  00000+0  35923-3 0  9992
+2 45531  53.0551  88.7935 0001735  83.3348 276.7838 15.06411783240489

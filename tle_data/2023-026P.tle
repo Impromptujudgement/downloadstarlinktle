@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55708
+launchyear:2023
+epoch:23216.93727916
+epochday:216
+tleage:392
+tleclassification:U
+active:0
+name:STARLINK-30058
+meananomly:98.7707
+meanmotion:15.9715
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6660.4615223481
+altitudeatperigee:270
+altitudeatapogee:295
+inclination:42.9953
+eccentricity:0.0018577
+argumentofperigree:261.1067
+nickname:STARLINK-30058
+idesg:23026P  
+cosparid:2023-026P
+altkm:284.00140028955
+velkms:7.7379006011605
+velkmh:27856
+onumepoch:2549
+onumnow:57101.41
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-08-04T22:29:41+00:00
+nowjuliandate:2460552.6377393
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-30058
+1 55708U 23026P   23216.93727916  .00845841  32651-3  18398-2 0  9997
+2 55708  42.9953  84.2839 0018577 261.1067  98.7707 15.97152813 25494

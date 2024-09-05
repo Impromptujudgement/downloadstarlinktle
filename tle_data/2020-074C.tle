@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46741
+launchyear:2020
+epoch:24242.42087656
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1865
+meananomly:280.0966
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3658314503
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001389
+argumentofperigree:80.018
+nickname:STARLINK-1865
+idesg:20074C  
+cosparid:2020-074C
+altkm:547.9393503264
+velkms:7.5893162582752
+velkmh:27322
+onumepoch:21270
+onumnow:320420.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:06:04+00:00
+nowjuliandate:2460552.6396971
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1865
+1 46741U 20074C   24242.42087656  .00001164  00000+0  97017-4 0  9996
+2 46741  53.0538 303.2927 0001389  80.0180 280.0966 15.06395038212705

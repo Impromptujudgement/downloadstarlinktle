@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54015
+launchyear:2022
+epoch:24242.54136237
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5055
+meananomly:261.3811
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8397947942
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001473
+argumentofperigree:98.7348
+nickname:STARLINK-5055
+idesg:22125BD 
+cosparid:2022-125BD
+altkm:540.75277678134
+velkms:7.5930776950462
+velkmh:27335
+onumepoch:10554
+onumnow:159253.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:59:34+00:00
+nowjuliandate:2460552.6378067
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5055
+1 54015U 22125BD  24242.54136237  .00004062  00000+0  27308-3 0  9996
+2 54015  53.2148 185.1706 0001473  98.7348 261.3811 15.08853956105549

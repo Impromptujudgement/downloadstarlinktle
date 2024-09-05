@@ -1,0 +1,38 @@
+date:2024-08-29T04:55:53+00:00
+validtle:1
+satid:57330
+launchyear:2023
+epoch:24241.14576542
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6212
+meananomly:94.1688
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1903774226
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:0.0001606
+argumentofperigree:265.8971
+nickname:STARLINK-6212
+idesg:23099C  
+cosparid:2023-099C
+altkm:558.91278702966
+velkms:7.5837629685537
+velkmh:27302
+onumepoch:6209
+onumnow:93305.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:29:54+00:00
+nowjuliandate:2460551.7054771
+nowepochdate:24242..205474537
+TLE:
+STARLINK-6212
+1 57330U 23099C   24241.14576542  .00003771  00000+0  29398-3 0  9999
+2 57330  43.0039  44.2416 0001606 265.8971  94.1688 15.02545170 62094

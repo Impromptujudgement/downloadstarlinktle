@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45779
+launchyear:2020
+epoch:24242.29661149
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1492
+meananomly:223.1059
+meanmotion:15.4644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6805.2759055654
+altitudeatperigee:425
+altitudeatapogee:429
+inclination:53.0224
+eccentricity:0.0002451
+argumentofperigree:137.0139
+nickname:STARLINK-1492
+idesg:20038BB 
+cosparid:2020-038BB
+altkm:429.24794087573
+velkms:7.6545248110842
+velkmh:27556
+onumepoch:23399
+onumnow:361871.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:07:07+00:00
+nowjuliandate:2460553.0283064
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1492
+1 45779U 20038BB  24242.29661149  .00102627  00000+0  20203-2 0  9993
+2 45779  53.0224  89.4305 0002451 137.0139 223.1059 15.46444542233992

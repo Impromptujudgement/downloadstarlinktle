@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:35+00:00
+validtle:1
+satid:47822
+launchyear:2021
+epoch:24241.73987099
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2407
+meananomly:270.9022
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3036366662
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0523
+eccentricity:0.0001452
+argumentofperigree:89.2133
+nickname:STARLINK-2407
+idesg:21018AM 
+cosparid:2021-018AM
+altkm:548.02982576848
+velkms:7.5891831406371
+velkmh:27321
+onumepoch:19236
+onumnow:289795.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:45:25+00:00
+nowjuliandate:2460552.6393035
+nowepochdate:24243.1392939815
+TLE:
+STARLINK-2407
+1 47822U 21018AM  24241.73987099  .00004358  00000+0  31114-3 0  9992
+2 47822  53.0523 246.3437 0001452  89.2133 270.9022 15.06415331192362

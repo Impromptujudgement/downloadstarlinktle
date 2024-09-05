@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52598
+launchyear:2022
+epoch:24242.21754079
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4019
+meananomly:261.4386
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8777391125
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001334
+argumentofperigree:98.6757
+nickname:STARLINK-4019
+idesg:22052A  
+cosparid:2022-052A
+altkm:540.77543148977
+velkms:7.5930736155228
+velkmh:27335
+onumepoch:12699
+onumnow:191621.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:13:16+00:00
+nowjuliandate:2460552.6379108
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4019
+1 52598U 22052A   24242.21754079  .00000609  00000+0  56370-4 0  9998
+2 52598  53.2154 266.7111 0001334  98.6757 261.4386 15.08841542126993

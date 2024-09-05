@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:13+00:00
+validtle:1
+satid:46690
+launchyear:2020
+epoch:24242.63557968
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1789
+meananomly:268.5903
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3358571476
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001444
+argumentofperigree:91.5252
+nickname:STARLINK-1789
+idesg:20073W  
+cosparid:2020-073W
+altkm:548.10248619152
+velkms:7.5891211566085
+velkmh:27321
+onumepoch:21378
+onumnow:322046.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:15:14+00:00
+nowjuliandate:2460552.6397429
+nowepochdate:24243.1397337963
+TLE:
+STARLINK-1789
+1 46690U 20073W   24242.63557968  .00002114  00000+0  16075-3 0  9999
+2 46690  53.0525 212.3330 0001444  91.5252 268.5903 15.06404818213789

@@ -1,0 +1,38 @@
+date:2024-08-29T08:00:27+00:00
+validtle:1
+satid:56909
+launchyear:2023
+epoch:24241.66372665
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5999
+meananomly:95.9116
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.194723524
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.0001059
+argumentofperigree:264.1605
+nickname:STARLINK-5999
+idesg:23083AK 
+cosparid:2023-083AK
+altkm:558.91146024853
+velkms:7.5837667864908
+velkmh:27302
+onumepoch:6798
+onumnow:102152.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:55:46+00:00
+nowjuliandate:2460551.8336479
+nowepochdate:24242.3336458333
+TLE:
+STARLINK-5999
+1 56909U 23083AK  24241.66372665  .00001428  00000+0  12070-3 0  9996
+2 56909  43.0016 221.3813 0001059 264.1605  95.9116 15.02543758 67985

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50161
+launchyear:2021
+epoch:24242.2290413
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3304
+meananomly:266.1041
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8856495933
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2145
+eccentricity:0.0001471
+argumentofperigree:94.012
+nickname:STARLINK-3304
+idesg:21125F  
+cosparid:2021-125F
+altkm:540.71502248302
+velkms:7.5931442305549
+velkmh:27335
+onumepoch:15181
+onumnow:229068.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:29:49+00:00
+nowjuliandate:2460552.637984
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3304
+1 50161U 21125F   24242.22904130  .00000098  00000+0  24277-4 0  9991
+2 50161  53.2145 241.6582 0001471  94.0120 266.1041 15.08838954151819

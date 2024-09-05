@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53707
+launchyear:2022
+epoch:24242.60716061
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4667
+meananomly:265.5901
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8697461264
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001371
+argumentofperigree:94.5248
+nickname:STARLINK-4667
+idesg:22107H  
+cosparid:2022-107H
+altkm:540.70309428762
+velkms:7.593148610501
+velkmh:27335
+onumepoch:11021
+onumnow:166297.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:34:19+00:00
+nowjuliandate:2460552.6378283
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4667
+1 53707U 22107H   24242.60716061  .00001186  00000+0  92609-4 0  9990
+2 53707  53.2164 209.9753 0001371  94.5248 265.5901 15.08844157110210

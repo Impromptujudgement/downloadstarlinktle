@@ -1,0 +1,38 @@
+date:2024-08-29T06:59:07+00:00
+validtle:1
+satid:57062
+launchyear:2023
+epoch:24241.74616787
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5536
+meananomly:90.8263
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1908883662
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001193
+argumentofperigree:269.2442
+nickname:STARLINK-5536
+idesg:23088Q  
+cosparid:2023-088Q
+altkm:558.84394842762
+velkms:7.5838384646909
+velkmh:27302
+onumepoch:6659
+onumnow:100062.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:54:29+00:00
+nowjuliandate:2460551.7910535
+nowepochdate:24242.2910532407
+TLE:
+STARLINK-5536
+1 57062U 23088Q   24241.74616787  .00001349  00000+0  11488-3 0  9991
+2 57062  43.0018 245.8937 0001193 269.2442  90.8263 15.02545004 66599

@@ -1,0 +1,38 @@
+date:2024-08-28T20:41:06+00:00
+validtle:1
+satid:57821
+launchyear:2023
+epoch:24241.1149561
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30415
+meananomly:84.9081
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2131514389
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:8.26E-5
+argumentofperigree:275.1667
+nickname:STARLINK-30415
+idesg:23138P  
+cosparid:2023-138P
+altkm:558.80344891432
+velkms:7.5838948520618
+velkmh:27302
+onumepoch:5468
+onumnow:82157.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:45:32+00:00
+nowjuliandate:2460551.3618819
+nowepochdate:24241.007.861875
+TLE:
+STARLINK-30415
+1 57821U 23138P   24241.11495610  .00000919  00000+0  83071-4 0  9991
+2 57821  43.0025  31.0575 0000826 275.1667  84.9081 15.02537771 54681

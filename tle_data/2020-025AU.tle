@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45573
+launchyear:2020
+epoch:24242.22781964
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1321
+meananomly:278.6048
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3223289744
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0548
+eccentricity:0.0001473
+argumentofperigree:81.5108
+nickname:STARLINK-1321
+idesg:20025AU 
+cosparid:2020-025AU
+altkm:547.91198853626
+velkms:7.5893224516365
+velkmh:27322
+onumepoch:24118
+onumnow:363335.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:28:04+00:00
+nowjuliandate:2460553.0283386
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1321
+1 45573U 20025AU  24242.22781964  .00001472  00000+0  11765-3 0  9992
+2 45573  53.0548  59.1641 0001473  81.5108 278.6048 15.06409232241188

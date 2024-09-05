@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56027
+launchyear:2023
+epoch:24242.16836376
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5777
+meananomly:93.4501
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2096025091
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0006
+eccentricity:0.0001218
+argumentofperigree:266.6202
+nickname:STARLINK-5777
+idesg:23042AT 
+cosparid:2023-042AT
+altkm:558.90143716344
+velkms:7.5837858479247
+velkmh:27302
+onumepoch:7953
+onumnow:119511.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:02:27+00:00
+nowjuliandate:2460552.6377239
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5777
+1 56027U 23042AT  24242.16836376  .00000625  00000+0  61294-4 0  9993
+2 56027  43.0006 192.6043 0001218 266.6202  93.4501 15.02538924 79531

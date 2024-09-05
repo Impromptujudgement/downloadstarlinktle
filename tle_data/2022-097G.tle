@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53394
+launchyear:2022
+epoch:24241.31681276
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4544
+meananomly:279.3812
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8653843804
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001411
+argumentofperigree:80.734
+nickname:STARLINK-4544
+idesg:22097G  
+cosparid:2022-097G
+altkm:540.46670571556
+velkms:7.5934056043361
+velkmh:27336
+onumepoch:11452
+onumnow:172820.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:36:13+00:00
+nowjuliandate:2460552.6378584
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4544
+1 53394U 22097G   24241.31681276  .00002174  00000+0  15463-3 0  9996
+2 53394  53.2164 100.3644 0001411  80.7340 279.3812 15.08845584114527

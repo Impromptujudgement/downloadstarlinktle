@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46033
+launchyear:2020
+epoch:24242.35591758
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1556
+meananomly:275.0698
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2867189949
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001832
+argumentofperigree:85.05
+nickname:STARLINK-1556
+idesg:20055G  
+cosparid:2020-055G
+altkm:547.91677605344
+velkms:7.5892977390507
+velkmh:27321
+onumepoch:22486
+onumnow:338743.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:32:31+00:00
+nowjuliandate:2460553.0282923
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1556
+1 46033U 20055G   24242.35591758  .00025444  00000+0  17199-2 0  9992
+2 46033  53.0529 108.5850 0001832  85.0500 275.0698 15.06420851224862

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49147
+launchyear:2021
+epoch:24241.68359569
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3071
+meananomly:90.6259
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1767064268
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9999
+eccentricity:0.0002843
+argumentofperigree:269.4575
+nickname:STARLINK-3071
+idesg:21082T  
+cosparid:2021-082T
+altkm:574.48563621362
+velkms:7.5738469322427
+velkmh:27266
+onumepoch:16338
+onumnow:244819.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:24:23+00:00
+nowjuliandate:2460552.6380009
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3071
+1 49147U 21082T   24241.68359569 -.00000233  00000+0 -11699-4 0  9991
+2 49147  69.9999 221.3878 0002843 269.4575  90.6259 14.98335904163382

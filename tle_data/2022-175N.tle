@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54770
+launchyear:2022
+epoch:24242.65504734
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5448
+meananomly:265.0172
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.954564654
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2192
+eccentricity:0.0001331
+argumentofperigree:95.0972
+nickname:STARLINK-5448
+idesg:22175N  
+cosparid:2022-175N
+altkm:540.79524463355
+velkms:7.5930939450846
+velkmh:27335
+onumepoch:9387
+onumnow:141639.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:43:16+00:00
+nowjuliandate:2460552.6377862
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5448
+1 54770U 22175N   24242.65504734 -.00002834  00000+0 -16014-3 0  9991
+2 54770  53.2192   9.9269 0001331  95.0972 265.0172 15.08816408 93873

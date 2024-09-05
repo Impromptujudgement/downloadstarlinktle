@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53970
+launchyear:2022
+epoch:24241.62920165
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4567
+meananomly:272.7189
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8591489602
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2149
+eccentricity:0.0001242
+argumentofperigree:87.3945
+nickname:STARLINK-4567
+idesg:22125G  
+cosparid:2022-125G
+altkm:540.57863960926
+velkms:7.5932793667328
+velkmh:27336
+onumepoch:10515
+onumnow:158678.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:06:03+00:00
+nowjuliandate:2460552.6378063
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4567
+1 53970U 22125G   24241.62920165  .00001005  00000+0  81200-4 0  9990
+2 53970  53.2149 204.3938 0001242  87.3945 272.7189 15.08847624105157

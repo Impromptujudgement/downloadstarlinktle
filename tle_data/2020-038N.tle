@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45742
+launchyear:2020
+epoch:24242.64065419
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1481
+meananomly:265.8401
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3424833408
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001475
+argumentofperigree:94.2756
+nickname:STARLINK-1481
+idesg:20038N  
+cosparid:2020-038N
+altkm:548.15868924881
+velkms:7.5890632098816
+velkmh:27321
+onumepoch:23222
+onumnow:349830.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:22:33+00:00
+nowjuliandate:2460553.0283025
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1481
+1 45742U 20038N   24242.64065419  .00001486  00000+0  11865-3 0  9996
+2 45742  53.0531 217.3096 0001475  94.2756 265.8401 15.06402656232221

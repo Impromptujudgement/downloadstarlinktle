@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47404
+launchyear:2021
+epoch:24242.1084907
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2128
+meananomly:243.1965
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3422136342
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0575
+eccentricity:8.93E-5
+argumentofperigree:116.9115
+nickname:STARLINK-2128
+idesg:21005BH 
+cosparid:2021-005BH
+altkm:548.36354877412
+velkms:7.5888386475426
+velkmh:27320
+onumepoch:20003
+onumnow:301341.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:36:14+00:00
+nowjuliandate:2460552.6395717
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2128
+1 47404U 21005BH  24242.10849070  .00015256  00000+0  10408-2 0  9993
+2 47404  53.0575  14.6929 0000893 116.9115 243.1965 15.06402744200039

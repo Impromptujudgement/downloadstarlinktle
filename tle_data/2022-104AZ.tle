@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53635
+launchyear:2022
+epoch:24242.59473741
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4587
+meananomly:269.8661
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8866674428
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001695
+argumentofperigree:90.2526
+nickname:STARLINK-4587
+idesg:22104AZ 
+cosparid:2022-104AZ
+altkm:540.64980813832
+velkms:7.5932163448595
+velkmh:27336
+onumepoch:11110
+onumnow:167640.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:16:25+00:00
+nowjuliandate:2460552.6378417
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4587
+1 53635U 22104AZ  24242.59473741  .00000118  00000+0  25493-4 0  9991
+2 53635  53.2156 204.9620 0001695  90.2526 269.8661 15.08838621111108

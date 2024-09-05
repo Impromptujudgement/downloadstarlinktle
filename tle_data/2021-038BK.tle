@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48410
+launchyear:2021
+epoch:24241.83527636
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2563
+meananomly:273.1059
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3256481825
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001647
+argumentofperigree:87.0118
+nickname:STARLINK-2563
+idesg:21038BK 
+cosparid:2021-038BK
+altkm:548.0059644706
+velkms:7.5892213144473
+velkmh:27321
+onumepoch:18386
+onumnow:276987.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:02:48+00:00
+nowjuliandate:2460552.638032
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2563
+1 48410U 21038BK  24241.83527636  .00005309  00000+0  37494-3 0  9990
+2 48410  53.0528 280.9255 0001647  87.0118 273.1059 15.06408149183867

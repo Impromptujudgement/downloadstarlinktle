@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51472
+launchyear:2022
+epoch:24241.79758623
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3415
+meananomly:268.6128
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8611235084
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001325
+argumentofperigree:91.5016
+nickname:STARLINK-3415
+idesg:22010S  
+cosparid:2022-010S
+altkm:540.64354961629
+velkms:7.5932092243546
+velkmh:27336
+onumepoch:14260
+onumnow:215179.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:08:31+00:00
+nowjuliandate:2460552.6379665
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3415
+1 51472U 22010S   24241.79758623  .00000770  00000+0  66441-4 0  9992
+2 51472  53.2147 263.5285 0001325  91.5016 268.6128 15.08846978142609

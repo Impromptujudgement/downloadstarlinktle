@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52698
+launchyear:2022
+epoch:24240.99164554
+epochday:240
+tleage:3
+tleclassification:U
+active:1
+name:STARLINK-4030
+meananomly:283.3072
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8872695941
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.000133
+argumentofperigree:76.8069
+nickname:STARLINK-4030
+idesg:22053AU 
+cosparid:2022-053AU
+altkm:540.43585773361
+velkms:7.5934514370813
+velkmh:27336
+onumepoch:12673
+onumnow:191247.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T23:47:58+00:00
+nowjuliandate:2460552.6379023
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4030
+1 52698U 22053AU  24240.99164554  .00002025  00000+0  14529-3 0  9999
+2 52698  53.2160 137.2074 0001330  76.8069 283.3072 15.08838424126733

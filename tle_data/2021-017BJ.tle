@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:40+00:00
+validtle:1
+satid:47778
+launchyear:2021
+epoch:24241.57955366
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2211
+meananomly:269.8148
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3264327789
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001416
+argumentofperigree:90.3003
+nickname:STARLINK-2211
+idesg:21017BJ 
+cosparid:2021-017BJ
+altkm:548.07177321082
+velkms:7.5891496502391
+velkmh:27321
+onumepoch:19362
+onumnow:291694.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:54:33+00:00
+nowjuliandate:2460552.639359
+nowepochdate:24243.1393518519
+TLE:
+STARLINK-2211
+1 47778U 21017BJ  24241.57955366  .00001285  00000+0  10510-3 0  9998
+2 47778  53.0538 197.0737 0001416  90.3003 269.8148 15.06407893193622

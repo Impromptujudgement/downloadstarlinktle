@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:56+00:00
+validtle:1
+satid:47366
+launchyear:2021
+epoch:24242.7470648
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2081
+meananomly:269.4343
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2756857866
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0553
+eccentricity:0.0001203
+argumentofperigree:90.6783
+nickname:STARLINK-2081
+idesg:21005T  
+cosparid:2021-005T
+altkm:548.0262157423
+velkms:7.5891718150596
+velkmh:27321
+onumepoch:19909
+onumnow:299917.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:55:46+00:00
+nowjuliandate:2460552.6395406
+nowepochdate:24243..139537037
+TLE:
+STARLINK-2081
+1 47366U 21005T   24242.74706480  .00009088  00000+0  62782-3 0  9996
+2 47366  53.0553  41.8301 0001203  90.6783 269.4343 15.06424451199096

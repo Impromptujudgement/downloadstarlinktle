@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51983
+launchyear:2022
+epoch:24242.66512482
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3655
+meananomly:286.0951
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.889247219
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2188
+eccentricity:0.0001393
+argumentofperigree:74.0195
+nickname:STARLINK-3655
+idesg:22025AD 
+cosparid:2022-025AD
+altkm:540.38276110556
+velkms:7.5935107832134
+velkmh:27337
+onumepoch:13808
+onumnow:208347.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:57:47+00:00
+nowjuliandate:2460552.6379475
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3655
+1 51983U 22025AD  24242.66512482 -.00002357  00000+0 -13004-3 0  9994
+2 51983  53.2188  19.7132 0001393  74.0195 286.0951 15.08837777138084

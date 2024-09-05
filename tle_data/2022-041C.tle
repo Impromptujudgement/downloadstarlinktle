@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52263
+launchyear:2022
+epoch:24241.31180245
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3786
+meananomly:274.6781
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8664022224
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001441
+argumentofperigree:85.4376
+nickname:STARLINK-3786
+idesg:22041C  
+cosparid:2022-041C
+altkm:540.54554829248
+velkms:7.5933196490754
+velkmh:27336
+onumepoch:13006
+onumnow:196267.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:29:00+00:00
+nowjuliandate:2460552.6379326
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3786
+1 52263U 22041C   24241.31180245  .00001658  00000+0  12225-3 0  9998
+2 52263  53.2165  95.7769 0001441  85.4376 274.6781 15.08845251130062

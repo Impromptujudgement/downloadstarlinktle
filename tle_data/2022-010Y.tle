@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73407
+launchyear:2022
+epoch:23051.42895833
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3407
+meananomly:338.1662
+meanmotion:15.9952
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.8936632212
+altitudeatperigee:235
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.0061788
+argumentofperigree:161.9585
+nickname:STARLINK-3407
+idesg:22010Y  
+cosparid:2022-010Y
+altkm:242.26470137562
+velkms:7.7876901457164
+velkmh:28036
+onumepoch:1
+onumnow:19075.39
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:17:42+00:00
+nowjuliandate:2460552.6379657
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3407
+1 73407C 22010Y   23051.42895833 -.01048891  00000-0 -17924-2 0   516
+2 73407  69.9999 143.3292 0061788 161.9585 338.1662 15.99518149    15

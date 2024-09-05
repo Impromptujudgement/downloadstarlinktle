@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55636
+launchyear:2023
+epoch:24242.53628885
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5218
+meananomly:89.0410
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.206628632
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0006
+eccentricity:0.0002993
+argumentofperigree:271.0406
+nickname:STARLINK-5218
+idesg:23021J  
+cosparid:2023-021J
+altkm:574.45925948912
+velkms:7.5738919544491
+velkmh:27266
+onumepoch:8454
+onumnow:126677.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:52:15+00:00
+nowjuliandate:2460552.6377429
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5218
+1 55636U 23021J   24242.53628885 -.00000590  00000+0 -41687-4 0  9997
+2 55636  70.0006 169.1736 0002993 271.0406  89.0410 14.98326228 84544

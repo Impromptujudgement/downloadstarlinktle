@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54825
+launchyear:2022
+epoch:24241.80415444
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4801
+meananomly:93.6899
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2061212996
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0007
+eccentricity:0.0001253
+argumentofperigree:266.38
+nickname:STARLINK-4801
+idesg:22177F  
+cosparid:2022-177F
+altkm:558.90306449149
+velkms:7.583782172417
+velkmh:27302
+onumepoch:9303
+onumnow:139801.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:17:59+00:00
+nowjuliandate:2460552.6377806
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-4801
+1 54825U 22177F   24241.80415444  .00000319  00000+0  38644-4 0  9997
+2 54825  43.0007 284.8360 0001253 266.3800  93.6899 15.02540055 93033

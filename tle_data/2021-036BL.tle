@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48334
+launchyear:2021
+epoch:24242.28634019
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2470
+meananomly:273.7208
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3247685767
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001728
+argumentofperigree:86.3979
+nickname:STARLINK-2470
+idesg:21036BL 
+cosparid:2021-036BL
+altkm:547.98940610934
+velkms:7.5892389736136
+velkmh:27321
+onumepoch:18461
+onumnow:278110.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:52:20+00:00
+nowjuliandate:2460552.6380404
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2470
+1 48334U 21036BL  24242.28634019  .00012382  00000+0  84847-3 0  9990
+2 48334  53.0544  83.8970 0001728  86.3979 273.7208 15.06408436184616

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54848
+launchyear:2022
+epoch:24242.75286316
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5432
+meananomly:97.7193
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2187164655
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:0.0001651
+argumentofperigree:262.3462
+nickname:STARLINK-5432
+idesg:22177AE 
+cosparid:2022-177AE
+altkm:559.01353471403
+velkms:7.5836683308424
+velkmh:27301
+onumepoch:9234
+onumnow:138749.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:04:07+00:00
+nowjuliandate:2460552.6377841
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5432
+1 54848U 22177AE  24242.75286316  .00000269  00000+0  34978-4 0  9991
+2 54848  42.9999 266.9006 0001651 262.3462  97.7193 15.02535963 92343

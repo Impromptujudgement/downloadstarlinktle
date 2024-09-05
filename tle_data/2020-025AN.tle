@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45567
+launchyear:2020
+epoch:24242.77610734
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1361
+meananomly:268.4705
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3362739659
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0534
+eccentricity:3.44E-5
+argumentofperigree:91.6323
+nickname:STARLINK-1361
+idesg:20025AN 
+cosparid:2020-025AN
+altkm:548.08463024055
+velkms:7.5891409452053
+velkmh:27321
+onumepoch:24143
+onumnow:363702.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:37:36+00:00
+nowjuliandate:2460553.0283404
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1361
+1 45567U 20025AN  24242.77610734  .00001482  00000+0  11831-3 0  9996
+2 45567  53.0534  66.7035 0000344  91.6323 268.4705 15.06404682241433

@@ -1,0 +1,38 @@
+date:2024-08-29T04:54:27+00:00
+validtle:1
+satid:57332
+launchyear:2023
+epoch:24241.14244144
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5831
+meananomly:74.9838
+meanmotion:15.0257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1286678265
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0038
+eccentricity:0.0001075
+argumentofperigree:285.0885
+nickname:STARLINK-5831
+idesg:23099E  
+cosparid:2023-099E
+altkm:558.57679760151
+velkms:7.5840964693048
+velkmh:27303
+onumepoch:6209
+onumnow:93310.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:25:07+00:00
+nowjuliandate:2460551.7044901
+nowepochdate:24242.2044791667
+TLE:
+STARLINK-5831
+1 57332U 23099E   24241.14244144 -.00008300  00000+0 -59962-3 0  9996
+2 57332  43.0038  44.2156 0001075 285.0885  74.9838 15.02565219 62093

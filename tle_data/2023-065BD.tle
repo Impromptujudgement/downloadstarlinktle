@@ -1,0 +1,38 @@
+date:2024-08-29T09:37:33+00:00
+validtle:1
+satid:56554
+launchyear:2023
+epoch:24241.63817624
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6295
+meananomly:87.9825
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2033480315
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0043
+eccentricity:0.0001188
+argumentofperigree:272.0882
+nickname:STARLINK-6295
+idesg:23065BD 
+cosparid:2023-065BD
+altkm:558.81572828881
+velkms:7.5838760918623
+velkmh:27302
+onumepoch:7175
+onumnow:107818.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:18:58+00:00
+nowjuliandate:2460551.9010864
+nowepochdate:24242.4010763889
+TLE:
+STARLINK-6295
+1 56554U 23065BD  24241.63817624  .00001099  00000+0  96432-4 0  9997
+2 56554  43.0043  15.2817 0001188 272.0882  87.9825 15.02540956 71758

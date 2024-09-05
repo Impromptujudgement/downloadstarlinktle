@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51106
+launchyear:2022
+epoch:24242.34772981
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3176
+meananomly:283.1096
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8314962633
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2137
+eccentricity:0.0001393
+argumentofperigree:77.0052
+nickname:STARLINK-3176
+idesg:22005C  
+cosparid:2022-005C
+altkm:540.3730655098
+velkms:7.5934897989643
+velkmh:27337
+onumepoch:14584
+onumnow:220061.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:20:44+00:00
+nowjuliandate:2460552.6379736
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3176
+1 51106U 22005C   24242.34772981  .00005379  00000+0  35562-3 0  9994
+2 51106  53.2137 271.1282 0001393  77.0052 283.1096 15.08856671145844

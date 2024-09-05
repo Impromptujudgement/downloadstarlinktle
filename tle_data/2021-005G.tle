@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47355
+launchyear:2021
+epoch:24242.60793844
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2047
+meananomly:274.9900
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3587945092
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0557
+eccentricity:0.0001888
+argumentofperigree:85.1305
+nickname:STARLINK-2047
+idesg:21005G  
+cosparid:2021-005G
+altkm:547.98753498764
+velkms:7.5892596252713
+velkmh:27321
+onumepoch:20043
+onumnow:301935.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:35:26+00:00
+nowjuliandate:2460552.6395603
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2047
+1 47355U 21005G   24242.60793844  .00021535  00000+0  14603-2 0  9998
+2 47355  53.0557 352.4587 0001888  85.1305 274.9900 15.06397334200433

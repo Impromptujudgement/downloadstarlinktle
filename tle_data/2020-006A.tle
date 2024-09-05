@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:11+00:00
+validtle:1
+satid:45044
+launchyear:2020
+epoch:24243.20183271
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1132
+meananomly:272.6147
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3453918829
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001508
+argumentofperigree:87.5014
+nickname:STARLINK-1132
+idesg:20006A  
+cosparid:2020-006A
+altkm:548.03996242611
+velkms:7.5891948636193
+velkmh:27321
+onumepoch:25320
+onumnow:381425.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:50:38+00:00
+nowjuliandate:2460553.0292962
+nowepochdate:24243.5292939815
+TLE:
+STARLINK-1132
+1 45044U 20006A   24243.20183271  .00000626  00000+0  60920-4 0  9998
+2 45044  53.0540 244.7892 0001508  87.5014 272.6147 15.06401707253203

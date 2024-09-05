@@ -1,0 +1,38 @@
+date:2024-08-28T17:35:52+00:00
+validtle:1
+satid:58132
+launchyear:2023
+epoch:24240.84573798
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30770
+meananomly:81.8488
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1873456208
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:0.000143
+argumentofperigree:278.2192
+nickname:STARLINK-30770
+idesg:23162Q  
+cosparid:2023-162Q
+altkm:558.68797255526
+velkms:7.5840069676852
+velkmh:27302
+onumepoch:4823
+onumnow:72481.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:17:52+00:00
+nowjuliandate:2460551.2332425
+nowepochdate:24241.7332407407
+TLE:
+STARLINK-30770
+1 58132U 23162Q   24240.84573798  .00001500  00000+0  12603-3 0  9996
+2 58132  43.0027 289.8280 0001430 278.2192  81.8488 15.02546155 48231

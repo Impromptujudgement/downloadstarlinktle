@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53805
+launchyear:2022
+epoch:24242.66885602
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4763
+meananomly:263.0361
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8843352537
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2148
+eccentricity:0.0001465
+argumentofperigree:97.0798
+nickname:STARLINK-4763
+idesg:22111AJ 
+cosparid:2022-111AJ
+altkm:540.76747746997
+velkms:7.5930859549397
+velkmh:27335
+onumepoch:10912
+onumnow:164651.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:03:09+00:00
+nowjuliandate:2460552.6378257
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4763
+1 53805U 22111AJ  24242.66885602 -.00000242  00000+0  28968-5 0  9999
+2 53805  53.2148 229.8156 0001465  97.0798 263.0361 15.08839384109128

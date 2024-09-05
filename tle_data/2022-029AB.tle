@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52113
+launchyear:2022
+epoch:24241.80032037
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3736
+meananomly:270.9609
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8746183301
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001277
+argumentofperigree:89.1529
+nickname:STARLINK-3736
+idesg:22029AB 
+cosparid:2022-029AB
+altkm:540.620269511
+velkms:7.5932421586438
+velkmh:27336
+onumepoch:13656
+onumnow:206067.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:12:28+00:00
+nowjuliandate:2460552.6379421
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3736
+1 52113U 22029AB  24241.80032037  .00000302  00000+0  37065-4 0  9992
+2 52113  53.2169  63.5825 0001277  89.1529 270.9609 15.08842563136566

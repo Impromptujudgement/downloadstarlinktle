@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:39+00:00
+validtle:1
+satid:47725
+launchyear:2021
+epoch:24242.16654622
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2125
+meananomly:261.3844
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3126349481
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001423
+argumentofperigree:98.7306
+nickname:STARLINK-2125
+idesg:21017D  
+cosparid:2021-017D
+altkm:548.20223874957
+velkms:7.5889991840623
+velkmh:27320
+onumepoch:19320
+onumnow:291053.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:59:50+00:00
+nowjuliandate:2460552.6393499
+nowepochdate:24243.1393402778
+TLE:
+STARLINK-2125
+1 47725U 21017D   24242.16654622  .00013199  00000+0  90300-3 0  9999
+2 47725  53.0520 184.4377 0001423  98.7306 261.3844 15.06412395193208

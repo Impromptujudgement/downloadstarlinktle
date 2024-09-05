@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53904
+launchyear:2022
+epoch:24242.43461917
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4787
+meananomly:271.3866
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9264311096
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000115
+argumentofperigree:88.7257
+nickname:STARLINK-4787
+idesg:22119U  
+cosparid:2022-119U
+altkm:540.66746245845
+velkms:7.5932187470107
+velkmh:27336
+onumepoch:10714
+onumnow:161666.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:51+00:00
+nowjuliandate:2460552.6378108
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4787
+1 53904U 22119U   24242.43461917 -.00003832  00000+0 -22292-3 0  9992
+2 53904  53.2154 305.3429 0001150  88.7257 271.3866 15.08825612107147

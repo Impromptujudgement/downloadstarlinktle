@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48668
+launchyear:2021
+epoch:24242.32227965
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2738
+meananomly:274.2611
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3003971694
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001836
+argumentofperigree:85.8588
+nickname:STARLINK-2738
+idesg:21044AG 
+cosparid:2021-044AG
+altkm:547.94815623248
+velkms:7.5892708394379
+velkmh:27321
+onumepoch:18074
+onumnow:272281.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:44:05+00:00
+nowjuliandate:2460552.6380137
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2738
+1 48668U 21044AG  24242.32227965  .00008688  00000+0  60119-3 0  9992
+2 48668  53.0535  93.7366 0001836  85.8588 274.2611 15.06416388180744

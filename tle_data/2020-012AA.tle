@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45202
+launchyear:2020
+epoch:23053.11053881
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1203
+meananomly:180.8050
+meanmotion:15.4121
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6820.6642345239
+altitudeatperigee:437
+altitudeatapogee:448
+inclination:52.9606
+eccentricity:0.0008085
+argumentofperigree:179.2966
+nickname:STARLINK-1203
+idesg:20012AA 
+cosparid:2020-012AA
+altkm:448.92348764672
+velkms:7.6410713160078
+velkmh:27508
+onumepoch:16789
+onumnow:277101.31
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T02:39:11+00:00
+nowjuliandate:2460553.0284107
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1203
+1 45202U 20012AA  23053.11053881  .00153088  00000+0  35646-2 0  9998
+2 45202  52.9606 310.7846 0008085 179.2966 180.8050 15.41214017167892

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46138
+launchyear:2020
+epoch:24242.41053533
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1590
+meananomly:59.1044
+meanmotion:15.2390
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6872.2273158952
+altitudeatperigee:491
+altitudeatapogee:497
+inclination:53.0558
+eccentricity:0.0003955
+argumentofperigree:300.9563
+nickname:STARLINK-1590
+idesg:20057X  
+cosparid:2020-057X
+altkm:493.58155292305
+velkms:7.620001037718
+velkmh:27432
+onumepoch:22226
+onumnow:338711.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:51:10+00:00
+nowjuliandate:2460553.0282782
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1590
+1 46138U 20057X   24242.41053533  .00098470  00000+0  39845-2 0  9992
+2 46138  53.0558 284.7872 0003955 300.9563  59.1044 15.23900746222260

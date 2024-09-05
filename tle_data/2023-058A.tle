@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56317
+launchyear:2023
+epoch:24242.72986771
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6038
+meananomly:284.0069
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1645854744
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6496
+eccentricity:0.0004788
+argumentofperigree:76.1688
+nickname:STARLINK-6038
+idesg:23058A  
+cosparid:2023-058A
+altkm:565.28226207259
+velkms:7.5789770792707
+velkmh:27284
+onumepoch:7407
+onumnow:111204.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:31:01+00:00
+nowjuliandate:2460552.6377101
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-6038
+1 56317U 23058A   24242.72986771  .00000495  00000+0  43105-4 0  9995
+2 56317  97.6496 242.4481 0004788  76.1688 284.0069 15.01254917 74075

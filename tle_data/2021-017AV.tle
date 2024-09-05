@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47765
+launchyear:2021
+epoch:22116.22838545
+epochday:116
+tleage:857
+tleclassification:C
+active:0
+name:STARLINK-2183
+meananomly:314.2211
+meanmotion:15.9191
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6675.0853889958
+altitudeatperigee:294
+altitudeatapogee:300
+inclination:53.0505
+eccentricity:0.0004172
+argumentofperigree:185.5436
+nickname:STARLINK-2183
+idesg:21017AV 
+cosparid:2021-017AV
+altkm:296.89210111685
+velkms:7.7349780497801
+velkmh:27846
+onumepoch:1
+onumnow:33872.29
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-26T05:28:53+00:00
+nowjuliandate:2460552.6393756
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2183
+1 47765C 21017AV  22116.22838545  .01477015  00000-0  40298-2 0  1160
+2 47765  53.0505  45.2502 0004172 185.5436 314.2211 15.91907093    12

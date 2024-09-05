@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51770
+launchyear:2022
+epoch:24241.54455441
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3612
+meananomly:262.3979
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8257163435
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2183
+eccentricity:0.0001435
+argumentofperigree:97.7176
+nickname:STARLINK-3612
+idesg:22017C  
+cosparid:2022-017C
+altkm:540.71768740489
+velkms:7.5931084880718
+velkmh:27335
+onumepoch:13835
+onumnow:208774.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:04:10+00:00
+nowjuliandate:2460552.637956
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3612
+1 51770U 22017C   24241.54455441  .00004457  00000+0  29780-3 0  9995
+2 51770  53.2183 324.7365 0001435  97.7176 262.3979 15.08858562138350

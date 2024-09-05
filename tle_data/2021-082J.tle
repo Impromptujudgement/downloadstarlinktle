@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49138
+launchyear:2021
+epoch:24242.2014468
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3058
+meananomly:90.5592
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1902759029
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9983
+eccentricity:0.0003186
+argumentofperigree:269.5202
+nickname:STARLINK-3058
+idesg:21082J  
+cosparid:2021-082J
+altkm:574.49926534926
+velkms:7.5738394649236
+velkmh:27266
+onumepoch:16247
+onumnow:243447.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:50:05+00:00
+nowjuliandate:2460552.6380023
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3058
+1 49138U 21082J   24242.20144680  .00000331  00000+0  35555-4 0  9990
+2 49138  69.9983 260.0847 0003186 269.5202  90.5592 14.98331516162473

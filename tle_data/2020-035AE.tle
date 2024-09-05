@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45685
+launchyear:2020
+epoch:24242.69169598
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1402
+meananomly:259.3330
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3199874487
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0525
+eccentricity:0.0002468
+argumentofperigree:100.7936
+nickname:STARLINK-1402
+idesg:20035AE 
+cosparid:2020-035AE
+altkm:548.37865813756
+velkms:7.5888099443796
+velkmh:27320
+onumepoch:23459
+onumnow:353401.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:36:03+00:00
+nowjuliandate:2460553.0283262
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1402
+1 45685U 20035AE  24242.69169598  .00003470  00000+0  25170-3 0  9996
+2 45685  53.0525  31.4970 0002468 100.7936 259.3330 15.06409996234597

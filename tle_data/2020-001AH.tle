@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:41+00:00
+validtle:1
+satid:44945
+launchyear:2020
+epoch:24243.05993539
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1109
+meananomly:262.5055
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3641641595
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001701
+argumentofperigree:97.6127
+nickname:STARLINK-1109
+idesg:20001AH 
+cosparid:2020-001AH
+altkm:548.2600975341
+velkms:7.5889639737035
+velkmh:27320
+onumepoch:25622
+onumnow:385975.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:26:18+00:00
+nowjuliandate:2460553.0296458
+nowepochdate:24243.5296412037
+TLE:
+STARLINK-1109
+1 44945U 20001AH  24243.05993539  .00019881  00000+0  13500-2 0  9994
+2 44945  53.0544 305.4246 0001701  97.6127 262.5055 15.06395582256220

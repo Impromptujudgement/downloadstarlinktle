@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46065
+launchyear:2020
+epoch:23321.97851948
+epochday:321
+tleage:287
+tleclassification:U
+active:0
+name:STARLINK-1515
+meananomly:275.4574
+meanmotion:15.9609
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6663.4286095407
+altitudeatperigee:280
+altitudeatapogee:290
+inclination:53.0419
+eccentricity:0.0007402
+argumentofperigree:188.4408
+nickname:STARLINK-1515
+idesg:20055AQ 
+cosparid:2020-055AQ
+altkm:290.84282598653
+velkms:7.7397188038642
+velkmh:27863
+onumepoch:18235
+onumnow:305746.61
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-11-17T23:29:04+00:00
+nowjuliandate:2460553.0282973
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1515
+1 46065U 20055AQ  23321.97851948  .00467691  10044-3  11125-2 0  9992
+2 46065  53.0419 238.8635 0007402 188.4408 275.4574 15.96086163182354

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52376
+launchyear:2022
+epoch:24242.53356325
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3767
+meananomly:288.8499
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762138717
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001851
+argumentofperigree:71.2694
+nickname:STARLINK-3767
+idesg:22045AX 
+cosparid:2022-045AX
+altkm:540.22302110876
+velkms:7.5936789314659
+velkmh:27337
+onumepoch:13181
+onumnow:198889.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:48:20+00:00
+nowjuliandate:2460552.637927
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3767
+1 52376U 22045AX  24242.53356325  .00000699  00000+0  62006-4 0  9993
+2 52376  53.2165 170.2943 0001851  71.2694 288.8499 15.08842041131812

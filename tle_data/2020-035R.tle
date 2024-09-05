@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45672
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1455
+meananomly:237.6622
+meanmotion:15.7822
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6713.6287386277
+altitudeatperigee:330
+altitudeatapogee:341
+inclination:53.0487
+eccentricity:0.0008619
+argumentofperigree:342.4503
+nickname:STARLINK-1455
+idesg:20035R  
+cosparid:2020-035R
+altkm:348.16486216788
+velkms:7.6980736219319
+velkmh:27713
+onumepoch:23517
+onumnow:371153.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.028314
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1455
+1 45672U 20035R   24243.25001157  .00230966  00000+0  12864-2 0  9998
+2 45672  53.0487 352.4325 0008619 342.4503 237.6622 15.78217935235176

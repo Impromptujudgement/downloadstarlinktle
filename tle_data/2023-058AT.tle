@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56358
+launchyear:2023
+epoch:24242.74281363
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5482
+meananomly:268.4217
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1648197356
+altitudeatperigee:562
+altitudeatapogee:565
+inclination:97.6529
+eccentricity:0.0002148
+argumentofperigree:91.7253
+nickname:STARLINK-5482
+idesg:23058AT 
+cosparid:2023-058AT
+altkm:566.12687163383
+velkms:7.5780550532836
+velkmh:27281
+onumepoch:7408
+onumnow:111218.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:49:39+00:00
+nowjuliandate:2460552.637708
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5482
+1 56358U 23058AT  24242.74281363 -.00000315  00000+0 -19904-4 0  9990
+2 56358  97.6529 242.5927 0002148  91.7253 268.4217 15.01254841 74080

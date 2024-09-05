@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:14+00:00
+validtle:1
+satid:46708
+launchyear:2020
+epoch:22154.1073347
+epochday:154
+tleage:819
+tleclassification:C
+active:0
+name:STARLINK-1809
+meananomly:96.9724
+meanmotion:16.0676
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6633.8811855395
+altitudeatperigee:253
+altitudeatapogee:259
+inclination:53.0338
+eccentricity:0.0004761
+argumentofperigree:15.2377
+nickname:STARLINK-1809
+idesg:20073AQ 
+cosparid:2020-073AQ
+altkm:261.41208411221
+velkms:7.756071581794
+velkmh:27922
+onumepoch:1
+onumnow:33581.85
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-06-03T02:34:34+00:00
+nowjuliandate:2460552.6404455
+nowepochdate:24243.1404398148
+TLE:
+STARLINK-1809
+1 46708C 20073AQ  22154.10733470  .03678453  00000-0  37095-2 0  1541
+2 46708  53.0338 175.7984 0004761  15.2377  96.9724 16.06761522    17

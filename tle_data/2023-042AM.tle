@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56021
+launchyear:2023
+epoch:24242.58165847
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5907
+meananomly:91.2786
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2019383136
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0004
+eccentricity:9.36E-5
+argumentofperigree:268.795
+nickname:STARLINK-5907
+idesg:23042AM 
+cosparid:2023-042AM
+altkm:558.85734599702
+velkms:7.5838298477643
+velkmh:27302
+onumepoch:7959
+onumnow:119595.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:57:35+00:00
+nowjuliandate:2460552.6377255
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5907
+1 56021U 23042AM  24242.58165847  .00001193  00000+0  10334-3 0  9990
+2 56021  43.0004 190.5442 0000936 268.7950  91.2786 15.02541414 79597

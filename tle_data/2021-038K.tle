@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48362
+launchyear:2021
+epoch:24242.55726887
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2578
+meananomly:260.2163
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3490176042
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.055
+eccentricity:0.0001524
+argumentofperigree:99.8998
+nickname:STARLINK-2578
+idesg:21038K  
+cosparid:2021-038K
+altkm:548.27067283235
+velkms:7.5889441082182
+velkmh:27320
+onumepoch:18364
+onumnow:276644.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:22:28+00:00
+nowjuliandate:2460552.6380312
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2578
+1 48362U 21038K   24242.55726887  .00027625  00000+0  18662-2 0  9995
+2 48362  53.0550 342.7671 0001524  99.8998 260.2163 15.06400524183646

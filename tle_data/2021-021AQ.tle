@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:02+00:00
+validtle:1
+satid:47898
+launchyear:2021
+epoch:24241.32706793
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2358
+meananomly:266.4279
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.301718099
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001178
+argumentofperigree:93.6844
+nickname:STARLINK-2358
+idesg:21021AQ 
+cosparid:2021-021AQ
+altkm:548.09470216729
+velkms:7.5891110202058
+velkmh:27321
+onumepoch:19198
+onumnow:289229.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:50:59+00:00
+nowjuliandate:2460552.6382222
+nowepochdate:24243.1382175926
+TLE:
+STARLINK-2358
+1 47898U 21021AQ  24241.32706793  .00003285  00000+0  23924-3 0  9992
+2 47898  53.0540 258.2052 0001178  93.6844 266.4279 15.06415957191987

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52105
+launchyear:2022
+epoch:24242.75072515
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3706
+meananomly:276.2086
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8868630655
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001319
+argumentofperigree:83.9057
+nickname:STARLINK-3706
+idesg:22029T  
+cosparid:2022-029T
+altkm:540.54867387595
+velkms:7.5933274233695
+velkmh:27336
+onumepoch:13670
+onumnow:206264.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:01:03+00:00
+nowjuliandate:2460552.6379372
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3706
+1 52105U 22029T   24242.75072515  .00000187  00000+0  29835-4 0  9990
+2 52105  53.2172  59.3138 0001319  83.9057 276.2086 15.08838557136708

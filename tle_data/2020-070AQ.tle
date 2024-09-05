@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46570
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1748
+meananomly:291.7056
+meanmotion:15.6300
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6757.1484818875
+altitudeatperigee:375
+altitudeatapogee:383
+inclination:53.0173
+eccentricity:0.0005811
+argumentofperigree:284.5096
+nickname:STARLINK-1748
+idesg:20070AQ 
+cosparid:2020-070AQ
+altkm:386.0479546179
+velkms:7.6791303411536
+velkmh:27645
+onumepoch:590
+onumnow:9229.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0282316
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1748
+1 46570U 20070AQ  24243.00001157  .00153075  00000+0  16298-2 0  9998
+2 46570  53.0173  22.2576 0005811 284.5096 291.7056 15.62995627  5902

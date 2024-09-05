@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48662
+launchyear:2021
+epoch:24241.87259821
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2726
+meananomly:266.6214
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2845828397
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0544
+eccentricity:0.0002988
+argumentofperigree:93.5117
+nickname:STARLINK-2726
+idesg:21044AA 
+cosparid:2021-044AA
+altkm:548.1492429713
+velkms:7.5890419043372
+velkmh:27321
+onumepoch:17977
+onumnow:270828.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:56:32+00:00
+nowjuliandate:2460552.6380148
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2726
+1 48662U 21044AA  24241.87259821  .00010375  00000+0  71397-3 0  9997
+2 48662  53.0544  95.7535 0002988  93.5117 266.6214 15.06421548179770

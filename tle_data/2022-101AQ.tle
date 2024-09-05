@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53565
+launchyear:2022
+epoch:24242.68128358
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4575
+meananomly:286.0333
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9154913828
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001386
+argumentofperigree:74.0812
+nickname:STARLINK-4575
+idesg:22101AQ 
+cosparid:2022-101AQ
+altkm:540.41120029397
+velkms:7.5934939469334
+velkmh:27337
+onumepoch:11235
+onumnow:169523.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:21:03+00:00
+nowjuliandate:2460552.6378488
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4575
+1 53565U 22101AQ  24242.68128358 -.00002344  00000+0 -12928-3 0  9994
+2 53565  53.2175  34.7804 0001386  74.0812 286.0333 15.08829191112356

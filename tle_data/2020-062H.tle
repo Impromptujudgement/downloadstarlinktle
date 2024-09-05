@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:40+00:00
+validtle:1
+satid:46332
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1721
+meananomly:309.1010
+meanmotion:15.6240
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6758.8608225815
+altitudeatperigee:373
+altitudeatapogee:388
+inclination:53.026
+eccentricity:0.0011343
+argumentofperigree:356.7374
+nickname:STARLINK-1721
+idesg:20062H  
+cosparid:2020-062H
+altkm:389.302377182
+velkms:7.6790224001452
+velkmh:27644
+onumepoch:589
+onumnow:9210.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0282429
+nowepochdate:24243.5282407407
+TLE:
+STARLINK-1721
+1 46332U 20062H   24243.00001157  .00290345  00000+0  30997-2 0  9999
+2 46332  53.0260 272.2555 0011343 356.7374 309.1010 15.62401693  5894

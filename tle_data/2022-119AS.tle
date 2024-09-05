@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53926
+launchyear:2022
+epoch:24242.38265777
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5014
+meananomly:271.1335
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8798084285
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001724
+argumentofperigree:88.9855
+nickname:STARLINK-5014
+idesg:22119AS 
+cosparid:2022-119AS
+altkm:540.61675493821
+velkms:7.5932488572166
+velkmh:27336
+onumepoch:10734
+onumnow:161969.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:11:02+00:00
+nowjuliandate:2460552.6378144
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5014
+1 53926U 22119AS  24242.38265777 -.00003679  00000+0 -21314-3 0  9999
+2 53926  53.2168 290.7563 0001724  88.9855 271.1335 15.08840865107343

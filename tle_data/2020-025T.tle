@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45548
+launchyear:2020
+epoch:24241.85545877
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1378
+meananomly:263.7615
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.282983023
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001931
+argumentofperigree:96.3594
+nickname:STARLINK-1378
+idesg:20025T  
+cosparid:2020-025T
+altkm:548.17065167243
+velkms:7.5890175764497
+velkmh:27320
+onumepoch:24101
+onumnow:363087.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:31:52+00:00
+nowjuliandate:2460553.0283291
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1378
+1 45548U 20025T   24241.85545877  .00006312  00000+0  44202-3 0  9993
+2 45548  53.0544  90.3213 0001931  96.3594 263.7615 15.06422070241012

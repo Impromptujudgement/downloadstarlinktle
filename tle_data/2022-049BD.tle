@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52502
+launchyear:2022
+epoch:24242.63937545
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3912
+meananomly:284.5241
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.910811675
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2108
+eccentricity:0.0001459
+argumentofperigree:75.5913
+nickname:STARLINK-3912
+idesg:22049BD 
+cosparid:2022-049BD
+altkm:540.41752206186
+velkms:7.5934844465616
+velkmh:27337
+onumepoch:12859
+onumnow:194028.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:20:42+00:00
+nowjuliandate:2460552.6379201
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3912
+1 52502U 22049BD  24242.63937545  .00000094  00000+0  24020-4 0  9991
+2 52502  53.2108  19.8417 0001459  75.5913 284.5241 15.08830722128591

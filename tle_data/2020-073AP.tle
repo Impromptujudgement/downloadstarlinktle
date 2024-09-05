@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:14+00:00
+validtle:1
+satid:46707
+launchyear:2020
+epoch:24242.18313729
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1808
+meananomly:268.2282
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3319188303
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001471
+argumentofperigree:91.8875
+nickname:STARLINK-1808
+idesg:20073AP 
+cosparid:2020-073AP
+altkm:548.10566296056
+velkms:7.589115523753
+velkmh:27321
+onumepoch:21387
+onumnow:322189.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:23:43+00:00
+nowjuliandate:2460552.6404494
+nowepochdate:24243.1404398148
+TLE:
+STARLINK-1808
+1 46707U 20073AP  24242.18313729  .00001390  00000+0  11219-3 0  9993
+2 46707  53.0544 204.3566 0001471  91.8875 268.2282 15.06406103213871

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47548
+launchyear:2021
+epoch:24242.56739617
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1782
+meananomly:244.2544
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3594565203
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0564
+eccentricity:8.87E-5
+argumentofperigree:115.8537
+nickname:STARLINK-1782
+idesg:21009A  
+cosparid:2021-009A
+altkm:548.36862140662
+velkms:7.5888425175489
+velkmh:27320
+onumepoch:19756
+onumnow:297612.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:37:03+00:00
+nowjuliandate:2460552.6394965
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1782
+1 47548U 21009A   24242.56739617  .00027265  00000+0  18424-2 0  9990
+2 47548  53.0564 352.6327 0000887 115.8537 244.2544 15.06397118197568

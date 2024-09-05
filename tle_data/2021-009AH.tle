@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:52+00:00
+validtle:1
+satid:47579
+launchyear:2021
+epoch:24242.58582452
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1981
+meananomly:262.3742
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3304048016
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0588
+eccentricity:0.0002166
+argumentofperigree:97.7493
+nickname:STARLINK-1981
+idesg:21009AH 
+cosparid:2021-009AH
+altkm:548.27233977984
+velkms:7.588932107206
+velkmh:27320
+onumepoch:19757
+onumnow:297629.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:03:35+00:00
+nowjuliandate:2460552.639491
+nowepochdate:24243.1394907407
+TLE:
+STARLINK-1981
+1 47579U 21009AH  24242.58582452  .00014475  00000+0  98846-3 0  9995
+2 47579  53.0588 352.5532 0002166  97.7493 262.3742 15.06406597197570

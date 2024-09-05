@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55779
+launchyear:2023
+epoch:24242.5279318
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5817
+meananomly:82.2096
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1891595419
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0027
+eccentricity:0.0002382
+argumentofperigree:277.8793
+nickname:STARLINK-5817
+idesg:23028AQ 
+cosparid:2023-028AQ
+altkm:574.25208603773
+velkms:7.5741081937112
+velkmh:27267
+onumepoch:8357
+onumnow:125224.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:40:13+00:00
+nowjuliandate:2460552.6377378
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5817
+1 55779U 23028AQ  24242.52793180 -.00000026  00000+0  56020-5 0  9993
+2 55779  70.0027 169.0577 0002382 277.8793  82.2096 14.98331877 83575

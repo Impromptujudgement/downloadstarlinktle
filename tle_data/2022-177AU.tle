@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54862
+launchyear:2022
+epoch:24242.75619168
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5403
+meananomly:108.4177
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2193720805
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0035
+eccentricity:0.0001026
+argumentofperigree:251.6554
+nickname:STARLINK-5403
+idesg:22177AU 
+cosparid:2022-177AU
+altkm:559.08549008431
+velkms:7.5835900670936
+velkmh:27301
+onumepoch:9234
+onumnow:138749.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:08:55+00:00
+nowjuliandate:2460552.6377825
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5403
+1 54862U 22177AU  24242.75619168  .00000421  00000+0  46243-4 0  9990
+2 54862  43.0035 266.9330 0001026 251.6554 108.4177 15.02535750 92347

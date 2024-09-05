@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53834
+launchyear:2022
+epoch:24242.39598172
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4737
+meananomly:262.1865
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8790167697
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001544
+argumentofperigree:97.9302
+nickname:STARLINK-4737
+idesg:22114S  
+cosparid:2022-114S
+altkm:540.78468499174
+velkms:7.5930641621021
+velkmh:27335
+onumepoch:10816
+onumnow:163206.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:30:13+00:00
+nowjuliandate:2460552.6378171
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4737
+1 53834U 22114S   24242.39598172 -.00000263  00000+0  15967-5 0  9995
+2 53834  53.2164 285.5796 0001544  97.9302 262.1865 15.08841124108162

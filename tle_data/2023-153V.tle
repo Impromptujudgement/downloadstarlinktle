@@ -1,0 +1,38 @@
+date:2024-08-28T18:50:30+00:00
+validtle:1
+satid:58010
+launchyear:2023
+epoch:24241.23606834
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30520
+meananomly:94.2374
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2114923983
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0031
+eccentricity:0.0001379
+argumentofperigree:265.831
+nickname:STARLINK-30520
+idesg:23153V  
+cosparid:2023-153V
+altkm:558.92347234577
+velkms:7.5837628014318
+velkmh:27302
+onumepoch:5076
+onumnow:76277.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:39:56+00:00
+nowjuliandate:2460551.2850777
+nowepochdate:24241.7850694444
+TLE:
+STARLINK-30520
+1 58010U 23153V   24241.23606834  .00001176  00000+0  10209-3 0  9992
+2 58010  43.0031 223.7958 0001379 265.8310  94.2374 15.02538310 50763

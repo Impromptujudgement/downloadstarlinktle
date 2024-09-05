@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55759
+launchyear:2023
+epoch:24242.18185497
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5081
+meananomly:92.1920
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1563987225
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0003
+eccentricity:0.0002852
+argumentofperigree:267.8913
+nickname:STARLINK-5081
+idesg:23028U  
+cosparid:2023-028U
+altkm:574.51960775126
+velkms:7.5737988660331
+velkmh:27266
+onumepoch:8302
+onumnow:124406.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:21:52+00:00
+nowjuliandate:2460552.6377337
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5081
+1 55759U 23028U   24242.18185497  .00000387  00000+0  40182-4 0  9999
+2 55759  70.0003 190.1831 0002852 267.8913  92.1920 14.98342471 83028

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52609
+launchyear:2022
+epoch:24242.75343661
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3997
+meananomly:269.6792
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.88713816
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001367
+argumentofperigree:90.4357
+nickname:STARLINK-3997
+idesg:22052M  
+cosparid:2022-052M
+altkm:540.65280001727
+velkms:7.5932133196725
+velkmh:27336
+onumepoch:12715
+onumnow:191854.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:04:57+00:00
+nowjuliandate:2460552.6379064
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3997
+1 52609U 22052M   24242.75343661 -.00000184  00000+0  65302-5 0  9996
+2 52609  53.2159 259.2580 0001367  90.4357 269.6792 15.08838467127152

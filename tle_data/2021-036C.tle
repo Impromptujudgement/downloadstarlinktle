@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48278
+launchyear:2021
+epoch:24242.0665771
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2543
+meananomly:274.8672
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3600143261
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0551
+eccentricity:0.0001466
+argumentofperigree:85.2485
+nickname:STARLINK-2543
+idesg:21036C  
+cosparid:2021-036C
+altkm:548.01617974232
+velkms:7.5892289115537
+velkmh:27321
+onumepoch:18561
+onumnow:279618.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:35:52+00:00
+nowjuliandate:2460552.63804
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2543
+1 48278U 21036C   24242.06657710  .00020553  00000+0  13948-2 0  9998
+2 48278  53.0551   9.9636 0001466  85.2485 274.8672 15.06396936185617

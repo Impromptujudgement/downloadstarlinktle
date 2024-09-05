@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48429
+launchyear:2021
+epoch:24242.44529996
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2749
+meananomly:281.6952
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3590672823
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0521
+eccentricity:0.0001177
+argumentofperigree:78.4169
+nickname:STARLINK-2749
+idesg:21040B  
+cosparid:2021-040B
+altkm:547.93577887803
+velkms:7.5893164726278
+velkmh:27322
+onumepoch:18426
+onumnow:277579.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:41:14+00:00
+nowjuliandate:2460552.6380263
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2749
+1 48429U 21040B   24242.44529996  .00034592  00000+0  23300-2 0  9998
+2 48429  53.0521 138.1954 0001177  78.4169 281.6952 15.06397245184263

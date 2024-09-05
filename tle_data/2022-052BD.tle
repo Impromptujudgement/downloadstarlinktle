@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52649
+launchyear:2022
+epoch:24241.29062388
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3868
+meananomly:261.7280
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8753335727
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001585
+argumentofperigree:98.3891
+nickname:STARLINK-3868
+idesg:22052BD 
+cosparid:2022-052BD
+altkm:540.79362303129
+velkms:7.5930523381642
+velkmh:27335
+onumepoch:12684
+onumnow:191409.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:58:30+00:00
+nowjuliandate:2460552.6379075
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3868
+1 52649U 22052BD  24241.29062388  .00001661  00000+0  12240-3 0  9993
+2 52649  53.2170 245.7211 0001585  98.3891 261.7280 15.08842329126844

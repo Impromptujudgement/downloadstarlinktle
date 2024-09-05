@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54871
+launchyear:2022
+epoch:24242.37718872
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5397
+meananomly:91.6528
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2208956935
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9993
+eccentricity:0.000121
+argumentofperigree:268.4176
+nickname:STARLINK-5397
+idesg:22177BD 
+cosparid:2022-177BD
+altkm:558.88594958372
+velkms:7.5838089256975
+velkmh:27302
+onumepoch:9217
+onumnow:138500.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:03:09+00:00
+nowjuliandate:2460552.6377817
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5397
+1 54871U 22177BD  24242.37718872  .00000182  00000+0  28566-4 0  9992
+2 54871  42.9993 268.3808 0001210 268.4176  91.6528 15.02535255 92179

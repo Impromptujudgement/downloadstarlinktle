@@ -1,0 +1,38 @@
+date:2024-08-28T18:03:26+00:00
+validtle:1
+satid:58095
+launchyear:2023
+epoch:24240.68580372
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30570
+meananomly:88.6041
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2135700467
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:0.000121
+argumentofperigree:271.4662
+nickname:STARLINK-30570
+idesg:23160W  
+cosparid:2023-160W
+altkm:558.83437671043
+velkms:7.5838612861349
+velkmh:27302
+onumepoch:4883
+onumnow:73384.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T16:27:33+00:00
+nowjuliandate:2460551.2523905
+nowepochdate:24241.7523842593
+TLE:
+STARLINK-30570
+1 58095U 23160W   24240.68580372  .00001230  00000+0  10612-3 0  9998
+2 58095  43.0029 237.3440 0001210 271.4662  88.6041 15.02537635 48839

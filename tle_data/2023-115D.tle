@@ -1,0 +1,38 @@
+date:2024-08-28T22:29:07+00:00
+validtle:1
+satid:57524
+launchyear:2023
+epoch:24241.48340837
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30260
+meananomly:86.7822
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2114154484
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0062
+eccentricity:0.0001147
+argumentofperigree:273.2889
+nickname:STARLINK-30260
+idesg:23115D  
+cosparid:2023-115D
+altkm:558.80835798138
+velkms:7.5838885427014
+velkmh:27302
+onumepoch:5834
+onumnow:87664.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:36:06+00:00
+nowjuliandate:2460551.4368913
+nowepochdate:24241.9368865741
+TLE:
+STARLINK-30260
+1 57524U 23115D   24241.48340837  .00001405  00000+0  11906-3 0  9994
+2 57524  43.0062 158.0584 0001147 273.2889  86.7822 15.02538335 58341

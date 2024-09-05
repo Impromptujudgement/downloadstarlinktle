@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:02+00:00
+validtle:1
+satid:47179
+launchyear:2020
+epoch:24242.42547852
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1913
+meananomly:265.5740
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3716792355
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001385
+argumentofperigree:94.5407
+nickname:STARLINK-1913
+idesg:20088BK 
+cosparid:2020-088BK
+altkm:548.18787714893
+velkms:7.5890471968315
+velkmh:27321
+onumepoch:20795
+onumnow:313265.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:12:41+00:00
+nowjuliandate:2460552.6396134
+nowepochdate:24243.1396064815
+TLE:
+STARLINK-1913
+1 47179U 20088BK  24242.42547852 -.00000496  00000+0 -14407-4 0  9997
+2 47179  53.0540 293.2733 0001385  94.5407 265.5740 15.06393130207955

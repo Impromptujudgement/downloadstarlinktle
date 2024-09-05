@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52845
+launchyear:2022
+epoch:24242.64535379
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4168
+meananomly:278.8657
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.898603513
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2188
+eccentricity:0.0001483
+argumentofperigree:81.2503
+nickname:STARLINK-4168
+idesg:22062R  
+cosparid:2022-062R
+altkm:540.50118861144
+velkms:7.5933859569561
+velkmh:27336
+onumepoch:12218
+onumnow:184356.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:29:19+00:00
+nowjuliandate:2460552.6378931
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4168
+1 52845U 22062R   24242.64535379 -.00001994  00000+0 -10726-3 0  9995
+2 52845  53.2188  14.8577 0001483  81.2503 278.8657 15.08834716122180

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48100
+launchyear:2021
+epoch:24242.40705546
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2430
+meananomly:268.5213
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3406995999
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0532
+eccentricity:2.68E-5
+argumentofperigree:91.5807
+nickname:STARLINK-2430
+idesg:21027J  
+cosparid:2021-027J
+altkm:548.08745408431
+velkms:7.5891402711422
+velkmh:27321
+onumepoch:18830
+onumnow:283666.74
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:46:10+00:00
+nowjuliandate:2460552.6380476
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2430
+1 48100U 21027J   24242.40705546  .00029320  00000+0  19789-2 0  9991
+2 48100  53.0532 133.3571 0000268  91.5807 268.5213 15.06403238188301

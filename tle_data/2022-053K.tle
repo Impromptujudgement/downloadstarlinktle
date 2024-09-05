@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52665
+launchyear:2022
+epoch:24241.45669887
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4064
+meananomly:270.4645
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8396603059
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001299
+argumentofperigree:89.6496
+nickname:STARLINK-4064
+idesg:22053K  
+cosparid:2022-053K
+altkm:540.5928128257
+velkms:7.5932531435058
+velkmh:27336
+onumepoch:12677
+onumnow:191302.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:57:39+00:00
+nowjuliandate:2460552.6379003
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4064
+1 52665U 22053K   24241.45669887  .00003329  00000+0  22709-3 0  9991
+2 52665  53.2166 140.1269 0001299  89.6496 270.4645 15.08854000126777

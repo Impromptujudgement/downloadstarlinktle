@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:54+00:00
+validtle:1
+satid:45205
+launchyear:2020
+epoch:24241.67216477
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1208
+meananomly:272.5950
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.293277645
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.000136
+argumentofperigree:87.5194
+nickname:STARLINK-1208
+idesg:20012AD 
+cosparid:2020-012AD
+altkm:547.99288960811
+velkms:7.589217941399
+velkmh:27321
+onumepoch:25103
+onumnow:378184.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:07:55+00:00
+nowjuliandate:2460553.0284105
+nowepochdate:24243.5284027778
+TLE:
+STARLINK-1208
+1 45205U 20012AD  24241.67216477  .00012580  00000+0  86150-3 0  9992
+2 45205  53.0546  11.6525 0001360  87.5194 272.5950 15.06418711251030

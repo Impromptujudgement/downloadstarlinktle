@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54205
+launchyear:2022
+epoch:24242.54961579
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5249
+meananomly:271.0255
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9289192233
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2186
+eccentricity:0.0001371
+argumentofperigree:89.0895
+nickname:STARLINK-5249
+idesg:22141BA 
+cosparid:2022-141BA
+altkm:540.67258898596
+velkms:7.5932144849776
+velkmh:27336
+onumepoch:10212
+onumnow:154090.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:11:27+00:00
+nowjuliandate:2460552.6377948
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5249
+1 54205U 22141BA  24242.54961579 -.00004787  00000+0 -28301-3 0  9990
+2 54205  53.2186 334.8629 0001371  89.0895 271.0255 15.08824798102129

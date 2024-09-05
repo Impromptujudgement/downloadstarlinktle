@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46576
+launchyear:2020
+epoch:24243.20967995
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1677
+meananomly:272.3171
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3569678497
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001171
+argumentofperigree:87.7952
+nickname:STARLINK-1677
+idesg:20070AW 
+cosparid:2020-070AW
+altkm:548.0662702719
+velkms:7.5891723718579
+velkmh:27321
+onumepoch:21584
+onumnow:325145.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T05:01:56+00:00
+nowjuliandate:2460553.0282314
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1677
+1 46576U 20070AW  24243.20967995  .00016650  00000+0  11341-2 0  9998
+2 46576  53.0535 139.7529 0001171  87.7952 272.3171 15.06397930215841

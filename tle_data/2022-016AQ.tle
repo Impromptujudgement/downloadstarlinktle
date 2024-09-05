@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51752
+launchyear:2022
+epoch:24241.88314757
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3511
+meananomly:265.3562
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.868168928
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001365
+argumentofperigree:94.7586
+nickname:STARLINK-3511
+idesg:22016AQ 
+cosparid:2022-016AQ
+altkm:540.70508510796
+velkms:7.593145562476
+velkmh:27335
+onumepoch:13949
+onumnow:210485.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:11:44+00:00
+nowjuliandate:2460552.6379632
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3511
+1 51752U 22016AQ  24241.88314757  .00001105  00000+0  87465-4 0  9997
+2 51752  53.2168 293.1471 0001365  94.7586 265.3562 15.08844673139499

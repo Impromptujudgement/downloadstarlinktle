@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53505
+launchyear:2022
+epoch:24242.58604397
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4446
+meananomly:256.4788
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1183562749
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6554
+eccentricity:8.51E-5
+argumentofperigree:103.6531
+nickname:STARLINK-4446
+idesg:22099AS 
+cosparid:2022-099AS
+altkm:566.17713887801
+velkms:7.5779748330765
+velkmh:27281
+onumepoch:11264
+onumnow:169111.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:03:54+00:00
+nowjuliandate:2460552.6378541
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4446
+1 53505U 22099AS  24242.58604397  .00000240  00000+0  23299-4 0  9990
+2 53505  97.6554   2.3702 0000851 103.6531 256.4788 15.01269915112646

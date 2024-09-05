@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51882
+launchyear:2022
+epoch:24242.44160971
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3570
+meananomly:263.5633
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9573859715
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001007
+argumentofperigree:96.5474
+nickname:STARLINK-3570
+idesg:22022AG 
+cosparid:2022-022AG
+altkm:540.7959075876
+velkms:7.593094762099
+velkmh:27335
+onumepoch:13917
+onumnow:209992.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:35:55+00:00
+nowjuliandate:2460552.6379527
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3570
+1 51882U 22022AG  24242.44160971 -.00011105  00000+0 -68119-3 0  9995
+2 51882  53.2171 340.7143 0001007  96.5474 263.5633 15.08815485139174

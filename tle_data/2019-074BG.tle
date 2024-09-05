@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:44+00:00
+validtle:1
+satid:44767
+launchyear:2019
+epoch:24243.2055809
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1062
+meananomly:256.6923
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.303750064
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001535
+argumentofperigree:103.4237
+nickname:STARLINK-1062
+idesg:19074BG 
+cosparid:2019-074BG
+altkm:548.29049563044
+velkms:7.5888976443916
+velkmh:27320
+onumepoch:26448
+onumnow:398421.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:56:02+00:00
+nowjuliandate:2460553.0296787
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1062
+1 44767U 19074BG  24243.20558090  .00003093  00000+0  22633-3 0  9996
+2 44767  53.0526 205.3527 0001535 103.4237 256.6923 15.06415294264483

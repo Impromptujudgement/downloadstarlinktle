@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52558
+launchyear:2022
+epoch:24242.30816021
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3954
+meananomly:277.0263
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8775282074
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001338
+argumentofperigree:83.0881
+nickname:STARLINK-3954
+idesg:22051AB 
+cosparid:2022-051AB
+altkm:540.5245861029
+velkms:7.5933487424566
+velkmh:27336
+onumepoch:12750
+onumnow:192389.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:23:45+00:00
+nowjuliandate:2460552.6379172
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3954
+1 52558U 22051AB  24242.30816021  .00000398  00000+0  43062-4 0  9998
+2 52558  53.2151 101.3057 0001338  83.0881 277.0263 15.08841611127501

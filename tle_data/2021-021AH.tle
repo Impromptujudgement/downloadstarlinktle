@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:05+00:00
+validtle:1
+satid:47891
+launchyear:2021
+epoch:24242.75998124
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2351
+meananomly:273.1422
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3547182405
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0528
+eccentricity:0.0001295
+argumentofperigree:86.9715
+nickname:STARLINK-2351
+idesg:21021AH 
+cosparid:2021-021AH
+altkm:548.04759645238
+velkms:7.5891915989456
+velkmh:27321
+onumepoch:19163
+onumnow:288676.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:14:22+00:00
+nowjuliandate:2460552.6382568
+nowepochdate:24243.1382523148
+TLE:
+STARLINK-2351
+1 47891U 21021AH  24242.75998124 -.00001536  00000+0 -84250-4 0  9993
+2 47891  53.0528 261.7747 0001295  86.9715 273.1422 15.06398664191630

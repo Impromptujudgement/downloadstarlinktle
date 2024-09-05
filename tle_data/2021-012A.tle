@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47620
+launchyear:2021
+epoch:24242.21169649
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1528
+meananomly:270.6780
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3121752259
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001511
+argumentofperigree:89.4382
+nickname:STARLINK-1528
+idesg:21012A  
+cosparid:2021-012A
+altkm:548.04189841206
+velkms:7.5891745832335
+velkmh:27321
+onumepoch:19544
+onumnow:294427.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:04:51+00:00
+nowjuliandate:2460552.6394502
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-1528
+1 47620U 21012A   24242.21169649  .00005880  00000+0  41316-3 0  9995
+2 47620  53.0530  54.2315 0001511  89.4382 270.6780 15.06412545195445

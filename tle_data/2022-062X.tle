@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:52851
+launchyear:2022
+epoch:24242.6241852
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3809
+meananomly:263.6269
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9062389571
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2168
+eccentricity:9.93E-5
+argumentofperigree:96.4836
+nickname:STARLINK-3809
+idesg:22062X  
+cosparid:2022-062X
+altkm:540.74289372137
+velkms:7.5931249236032
+velkmh:27335
+onumepoch:12231
+onumnow:184553.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:58:50+00:00
+nowjuliandate:2460552.6378925
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-3809
+1 52851U 22062X   24242.62418520  .00000011  00000+0  18748-4 0  9998
+2 52851  53.2168   4.8808 0000993  96.4836 263.6269 15.08832218122314

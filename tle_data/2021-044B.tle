@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48639
+launchyear:2021
+epoch:24242.33103182
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2739
+meananomly:271.4345
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3037991009
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001491
+argumentofperigree:88.6814
+nickname:STARLINK-2739
+idesg:21044B  
+cosparid:2021-044B
+altkm:548.02013395049
+velkms:7.589193847075
+velkmh:27321
+onumepoch:18067
+onumnow:272176.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:56:41+00:00
+nowjuliandate:2460552.6380116
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2739
+1 48639U 21044B   24242.33103182  .00017151  00000+0  11670-2 0  9997
+2 48639  53.0537  98.7065 0001491  88.6814 271.4345 15.06415278180677

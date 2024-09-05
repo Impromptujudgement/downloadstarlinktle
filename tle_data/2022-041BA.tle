@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52309
+launchyear:2022
+epoch:24241.82884299
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3756
+meananomly:266.1302
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9057712931
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001383
+argumentofperigree:93.9848
+nickname:STARLINK-3756
+idesg:22041BA 
+cosparid:2022-041BA
+altkm:540.7307018642
+velkms:7.5931380449305
+velkmh:27335
+onumepoch:13164
+onumnow:198642.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:53:32+00:00
+nowjuliandate:2460552.6379333
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3756
+1 52309U 22041BA  24241.82884299 -.00001399  00000+0 -69860-4 0  9997
+2 52309  53.2158  73.4543 0001383  93.9848 266.1302 15.08832371131640

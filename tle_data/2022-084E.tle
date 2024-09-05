@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53193
+launchyear:2022
+epoch:24241.8988529
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4351
+meananomly:264.1549
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1148639949
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6549
+eccentricity:0.0001594
+argumentofperigree:95.9857
+nickname:STARLINK-4351
+idesg:22084E  
+cosparid:2022-084E
+altkm:566.14835472006
+velkms:7.5780043546894
+velkmh:27281
+onumepoch:11664
+onumnow:175126.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:34:21+00:00
+nowjuliandate:2460552.6378712
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4351
+1 53193U 22084E   24241.89885290 -.00001362  00000+0 -10145-3 0  9996
+2 53193  97.6549 301.6938 0001594  95.9857 264.1549 15.01271048116643

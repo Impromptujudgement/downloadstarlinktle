@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46358
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1690
+meananomly:31.6696
+meanmotion:15.1535
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6898.053777129
+altitudeatperigee:519
+altitudeatapogee:521
+inclination:53.0549
+eccentricity:0.0001318
+argumentofperigree:93.1457
+nickname:STARLINK-1690
+idesg:20062AK 
+cosparid:2020-062AK
+altkm:522.96630443133
+velkms:7.6073926585851
+velkmh:27387
+onumepoch:22062
+onumnow:334312.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.028278
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1690
+1 46358U 20062AK  24243.25001157  .01424512  00000+0  68349-1 0  9991
+2 46358  53.0549 354.4000 0001318  93.1457  31.6696 15.15350486220623

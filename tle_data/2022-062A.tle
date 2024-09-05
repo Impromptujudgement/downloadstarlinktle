@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52830
+launchyear:2022
+epoch:24242.63801151
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4091
+meananomly:280.1500
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9008165058
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.221
+eccentricity:0.0001414
+argumentofperigree:79.9652
+nickname:STARLINK-4091
+idesg:22062A  
+cosparid:2022-062A
+altkm:540.48934900788
+velkms:7.5934001604555
+velkmh:27336
+onumepoch:12219
+onumnow:184371.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:18:44+00:00
+nowjuliandate:2460552.6378984
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4091
+1 52830U 22062A   24242.63801151 -.00000622  00000+0 -20993-4 0  9997
+2 52830  53.2210  15.0173 0001414  79.9652 280.1500 15.08833992122197

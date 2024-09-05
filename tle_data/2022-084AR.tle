@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53228
+launchyear:2022
+epoch:24241.91366902
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4365
+meananomly:271.3863
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1437948771
+altitudeatperigee:561
+altitudeatapogee:565
+inclination:97.6567
+eccentricity:0.0002207
+argumentofperigree:88.7614
+nickname:STARLINK-4365
+idesg:22084AR 
+cosparid:2022-084AR
+altkm:566.02761551806
+velkms:7.5781519499908
+velkmh:27281
+onumepoch:11563
+onumnow:173609.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:55:41+00:00
+nowjuliandate:2460552.6378723
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4365
+1 53228U 22084AR  24241.91366902  .00001682  00000+0  13554-3 0  9992
+2 53228  97.6567 301.7170 0002207  88.7614 271.3863 15.01261662115632

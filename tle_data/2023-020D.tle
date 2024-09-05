@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55572
+launchyear:2023
+epoch:24241.45792318
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5732
+meananomly:87.6932
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2019967953
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0041
+eccentricity:0.0001238
+argumentofperigree:272.3768
+nickname:STARLINK-5732
+idesg:23020D  
+cosparid:2023-020D
+altkm:558.80882124503
+velkms:7.583882902571
+velkmh:27302
+onumepoch:8494
+onumnow:127651.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:59:25+00:00
+nowjuliandate:2460552.6377499
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5732
+1 55572U 23020D   24241.45792318  .00000070  00000+0  20217-4 0  9995
+2 55572  43.0041 158.1842 0001238 272.3768  87.6932 15.02541395 84941

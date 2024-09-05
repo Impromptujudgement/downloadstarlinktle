@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48355
+launchyear:2021
+epoch:24242.5462038
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2635
+meananomly:279.3598
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3341408374
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0587
+eccentricity:0.0001934
+argumentofperigree:80.761
+nickname:STARLINK-2635
+idesg:21038C  
+cosparid:2021-038C
+altkm:547.85911944254
+velkms:7.5893868289828
+velkmh:27322
+onumepoch:18364
+onumnow:276645.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:06:32+00:00
+nowjuliandate:2460552.6380319
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2635
+1 48355U 21038C   24242.54620380  .00011104  00000+0  76307-3 0  9993
+2 48355  53.0587 342.7343 0001934  80.7610 279.3598 15.06405378183644

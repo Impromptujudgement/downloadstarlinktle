@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56419
+launchyear:2023
+epoch:24241.97801689
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5350
+meananomly:87.7230
+meanmotion:15.0252
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2536643488
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001171
+argumentofperigree:272.3478
+nickname:STARLINK-5350
+idesg:23061AX 
+cosparid:2023-061AX
+altkm:558.86254798626
+velkms:7.5838523565819
+velkmh:27302
+onumepoch:7330
+onumnow:110152.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:28:21+00:00
+nowjuliandate:2460552.6377017
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-5350
+1 56419U 23061AX  24241.97801689  .00008091  00000+0  61352-3 0  9995
+2 56419  43.0021 334.6322 0001171 272.3478  87.7230 15.02524609 73307

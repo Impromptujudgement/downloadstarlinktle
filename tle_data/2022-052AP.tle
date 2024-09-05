@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52635
+launchyear:2022
+epoch:24242.2032845
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3978
+meananomly:269.6995
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8887734448
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001466
+argumentofperigree:90.4166
+nickname:STARLINK-3978
+idesg:22052AP 
+cosparid:2022-052AP
+altkm:540.65446113881
+velkms:7.5932123924705
+velkmh:27336
+onumepoch:12734
+onumnow:192149.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:52:44+00:00
+nowjuliandate:2460552.6379095
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3978
+1 52635U 22052AP  24242.20328450  .00000064  00000+0  22097-4 0  9993
+2 52635  53.2158 241.7735 0001466  90.4166 269.6995 15.08837932127348

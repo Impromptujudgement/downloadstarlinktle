@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52544
+launchyear:2022
+epoch:24242.36749662
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3944
+meananomly:295.7757
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8388778283
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.000132
+argumentofperigree:64.3371
+nickname:STARLINK-3944
+idesg:22051M  
+cosparid:2022-051M
+altkm:540.20212657093
+velkms:7.5936814158848
+velkmh:27337
+onumepoch:12730
+onumnow:192088.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:49:12+00:00
+nowjuliandate:2460552.6379126
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3944
+1 52544U 22051M   24242.36749662  .00002419  00000+0  16996-3 0  9996
+2 52544  53.2157 116.0465 0001320  64.3371 295.7757 15.08854256127307

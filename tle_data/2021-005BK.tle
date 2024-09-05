@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:58+00:00
+validtle:1
+satid:47406
+launchyear:2021
+epoch:24242.65032544
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2133
+meananomly:283.7607
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3858298235
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:9.6E-5
+argumentofperigree:76.3489
+nickname:STARLINK-2133
+idesg:21005BK 
+cosparid:2021-005BK
+altkm:547.96997264218
+velkms:7.5892936441993
+velkmh:27321
+onumepoch:20012
+onumnow:301465.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:36:28+00:00
+nowjuliandate:2460552.6395699
+nowepochdate:24243.1395601852
+TLE:
+STARLINK-2133
+1 47406U 21005BK  24242.65032544  .00003989  00000+0  28664-3 0  9999
+2 47406  53.0557  12.2647 0000960  76.3489 283.7607 15.06388513200120

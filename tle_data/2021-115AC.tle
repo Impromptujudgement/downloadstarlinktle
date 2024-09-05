@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49750
+launchyear:2021
+epoch:24242.38363311
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3236
+meananomly:268.3773
+meanmotion:15.0887
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8050144878
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.000145
+argumentofperigree:91.7385
+nickname:STARLINK-3236
+idesg:21115AC 
+cosparid:2021-115AC
+altkm:540.59393478381
+velkms:7.5932329408488
+velkmh:27336
+onumepoch:15251
+onumnow:230128.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:12:26+00:00
+nowjuliandate:2460552.6379933
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3236
+1 49750U 21115AC  24242.38363311  .00011103  00000+0  71412-3 0  9990
+2 49750  53.2170 130.9780 0001450  91.7385 268.3773 15.08865335152510

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53716
+launchyear:2022
+epoch:24242.24970271
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4699
+meananomly:267.8728
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8748934234
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001456
+argumentofperigree:92.243
+nickname:STARLINK-4699
+idesg:22107S  
+cosparid:2022-107S
+altkm:540.67264502526
+velkms:7.593184839556
+velkmh:27335
+onumepoch:10980
+onumnow:165684.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:59:34+00:00
+nowjuliandate:2460552.6378277
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4699
+1 53716U 22107S   24242.24970271  .00000417  00000+0  44264-4 0  9995
+2 53716  53.2156 236.2454 0001456  92.2430 267.8728 15.08842473109808

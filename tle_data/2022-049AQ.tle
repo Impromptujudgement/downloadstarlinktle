@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52489
+launchyear:2022
+epoch:24241.74695608
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3923
+meananomly:315.3565
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8547505521
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.217
+eccentricity:6.38E-5
+argumentofperigree:44.7479
+nickname:STARLINK-3923
+idesg:22049AQ 
+cosparid:2022-049AQ
+altkm:540.30110242486
+velkms:7.5935814983915
+velkmh:27337
+onumepoch:12802
+onumnow:193183.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:55:37+00:00
+nowjuliandate:2460552.6379218
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3923
+1 52489U 22049AQ  24241.74695608  .00002429  00000+0  17059-3 0  9994
+2 52489  53.2170  43.8232 0000638  44.7479 315.3565 15.08849063128027

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47623
+launchyear:2021
+epoch:24241.61502741
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1655
+meananomly:269.0300
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3310147037
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0557
+eccentricity:0.0001529
+argumentofperigree:91.0865
+nickname:STARLINK-1655
+idesg:21012D  
+cosparid:2021-012D
+altkm:548.09132464822
+velkms:7.5891307371445
+velkmh:27321
+onumepoch:19678
+onumnow:296453.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:45:38+00:00
+nowjuliandate:2460552.6394167
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1655
+1 47623U 21012D   24241.61502741  .00007012  00000+0  48908-3 0  9998
+2 47623  53.0557 351.9120 0001529  91.0865 269.0300 15.06406398196789

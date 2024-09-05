@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52607
+launchyear:2022
+epoch:24242.3399379
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3947
+meananomly:265.4592
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8737594278
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001368
+argumentofperigree:94.6557
+nickname:STARLINK-3947
+idesg:22052K  
+cosparid:2022-052K
+altkm:540.70899194093
+velkms:7.5931443367681
+velkmh:27335
+onumepoch:12701
+onumnow:191650.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:09:31+00:00
+nowjuliandate:2460552.6379062
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3947
+1 52607U 22052K   24242.33993790  .00000711  00000+0  62729-4 0  9996
+2 52607  53.2154 266.1705 0001368  94.6557 265.4592 15.08842844127011

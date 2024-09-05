@@ -1,0 +1,38 @@
+date:2024-08-29T06:03:31+00:00
+validtle:1
+satid:57248
+launchyear:2023
+epoch:24241.52077673
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5514
+meananomly:100.3242
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2049547414
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0013
+eccentricity:0.0001024
+argumentofperigree:259.7485
+nickname:STARLINK-5514
+idesg:23094AG 
+cosparid:2023-094AG
+altkm:558.97328494235
+velkms:7.5837048093022
+velkmh:27301
+onumepoch:6330
+onumnow:95121.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:29:55+00:00
+nowjuliandate:2460551.7524431
+nowepochdate:24242.2524421296
+TLE:
+STARLINK-5514
+1 57248U 23094AG  24241.52077673  .00001199  00000+0  10381-3 0  9999
+2 57248  43.0013 170.5328 0001024 259.7485 100.3242 15.02540434 63304

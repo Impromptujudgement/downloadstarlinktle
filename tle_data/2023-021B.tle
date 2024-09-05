@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55629
+launchyear:2023
+epoch:24242.83255136
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5497
+meananomly:94.8923
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2292560447
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0012
+eccentricity:0.0003247
+argumentofperigree:265.1865
+nickname:STARLINK-5497
+idesg:23021B  
+cosparid:2023-021B
+altkm:574.70934040295
+velkms:7.5736317787099
+velkmh:27265
+onumepoch:8458
+onumnow:126732.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T19:58:52+00:00
+nowjuliandate:2460552.637744
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5497
+1 55629U 23021B   24242.83255136 -.00000061  00000+0  27080-5 0  9991
+2 55629  70.0012 168.6095 0003247 265.1865  94.8923 14.98318911 84588

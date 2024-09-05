@@ -1,0 +1,38 @@
+date:2024-08-29T09:26:56+00:00
+validtle:1
+satid:56515
+launchyear:2023
+epoch:24241.6041428
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5348
+meananomly:96.1096
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1993528066
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.000108
+argumentofperigree:263.9623
+nickname:STARLINK-5348
+idesg:23065N  
+cosparid:2023-065N
+altkm:558.92031887136
+velkms:7.5837596304288
+velkmh:27302
+onumepoch:7267
+onumnow:109201.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:29:58+00:00
+nowjuliandate:2460551.8937066
+nowepochdate:24242.3937037037
+TLE:
+STARLINK-5348
+1 56515U 23065N   24241.60414280  .00001154  00000+0  10044-3 0  9998
+2 56515  43.0030   2.8708 0001080 263.9623  96.1096 15.02542254 72672

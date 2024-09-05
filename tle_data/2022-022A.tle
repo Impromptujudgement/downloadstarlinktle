@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51852
+launchyear:2022
+epoch:24242.04503798
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3542
+meananomly:269.8447
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8856465367
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001562
+argumentofperigree:90.2724
+nickname:STARLINK-3542
+idesg:22022A  
+cosparid:2022-022A
+altkm:540.64917768944
+velkms:7.593216477891
+velkmh:27336
+onumepoch:13882
+onumnow:209473.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:04:51+00:00
+nowjuliandate:2460552.6379537
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3542
+1 51852U 22022A   24242.04503798 -.00000983  00000+0 -43659-4 0  9991
+2 51852  53.2177   2.4833 0001562  90.2724 269.8447 15.08838955138820

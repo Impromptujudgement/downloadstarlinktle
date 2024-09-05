@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52707
+launchyear:2022
+epoch:24242.38220609
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4007
+meananomly:280.0898
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8689269612
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001539
+argumentofperigree:80.0267
+nickname:STARLINK-4007
+idesg:22053BD 
+cosparid:2022-053BD
+altkm:540.44273496275
+velkms:7.5934338468596
+velkmh:27336
+onumepoch:12676
+onumnow:191272.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:10:23+00:00
+nowjuliandate:2460552.6379013
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4007
+1 52707U 22053BD  24242.38220609  .00000375  00000+0  41646-4 0  9996
+2 52707  53.2151 115.8588 0001539  80.0267 280.0898 15.08844425126765

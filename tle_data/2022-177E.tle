@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54824
+launchyear:2022
+epoch:24242.40911003
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4643
+meananomly:82.2960
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1943510887
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:0.0001262
+argumentofperigree:277.7739
+nickname:STARLINK-4643
+idesg:22177E  
+cosparid:2022-177E
+altkm:558.71819155462
+velkms:7.5839777653789
+velkmh:27302
+onumepoch:9214
+onumnow:138455.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:07+00:00
+nowjuliandate:2460552.6377807
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-4643
+1 54824U 22177E   24242.40911003  .00001138  00000+0  99244-4 0  9998
+2 54824  43.0023 281.6312 0001262 277.7739  82.2960 15.02543879 92140

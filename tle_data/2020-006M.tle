@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:55+00:00
+validtle:1
+satid:45055
+launchyear:2020
+epoch:20286.79513335
+epochday:286
+tleage:1417
+tleclassification:C
+active:0
+name:STARLINK-1157
+meananomly:283.8846
+meanmotion:15.9469
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6667.3181940886
+altitudeatperigee:286
+altitudeatapogee:292
+inclination:52.9949
+eccentricity:0.0004487
+argumentofperigree:187.6098
+nickname:STARLINK-1157
+idesg:20006M  
+cosparid:2020-006M
+altkm:293.82276142204
+velkms:7.7378541626363
+velkmh:27856
+onumepoch:1
+onumnow:63113.59
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2020-10-12T19:05:00+00:00
+nowjuliandate:2460553.0299254
+nowepochdate:24243.5299189815
+TLE:
+STARLINK-1157
+1 45055C 20006M   20286.79513335  .00371546  00000-0  92576-3 0  2868
+2 45055  52.9949  62.5966 0004487 187.6098 283.8846 15.94689678    18

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53213
+launchyear:2022
+epoch:24241.92847031
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4414
+meananomly:121.7779
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.121617384
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6566
+eccentricity:6.39E-5
+argumentofperigree:238.3383
+nickname:STARLINK-4414
+idesg:22084AA 
+cosparid:2022-084AA
+altkm:566.2758269174
+velkms:7.5778688688412
+velkmh:27280
+onumepoch:11615
+onumnow:174390.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:17:00+00:00
+nowjuliandate:2460552.6378742
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4414
+1 53213U 22084AA  24241.92847031  .00001991  00000+0  15950-3 0  9999
+2 53213  97.6566 301.7163 0000639 238.3383 121.7779 15.01268857116155

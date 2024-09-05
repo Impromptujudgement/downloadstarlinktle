@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53795
+launchyear:2022
+epoch:24242.76306165
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4742
+meananomly:266.0792
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8749209327
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001269
+argumentofperigree:94.0345
+nickname:STARLINK-4742
+idesg:22111Y  
+cosparid:2022-111Y
+altkm:540.69526986937
+velkms:7.5931600293472
+velkmh:27335
+onumepoch:10881
+onumnow:164182.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:18:49+00:00
+nowjuliandate:2460552.6378228
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4742
+1 53795U 22111Y   24242.76306165  .00000339  00000+0  39358-4 0  9990
+2 53795  53.2156 253.9430 0001269  94.0345 266.0792 15.08842464108814

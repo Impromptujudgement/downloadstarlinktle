@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52500
+launchyear:2022
+epoch:24242.64304326
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3866
+meananomly:272.0466
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.880230239
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001229
+argumentofperigree:88.0667
+nickname:STARLINK-3866
+idesg:22049BB 
+cosparid:2022-049BB
+altkm:540.61043582528
+velkms:7.5932560219453
+velkmh:27336
+onumepoch:12859
+onumnow:194029.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:25:59+00:00
+nowjuliandate:2460552.6379206
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3866
+1 52500U 22049BB  24242.64304326  .00000401  00000+0  43306-4 0  9995
+2 52500  53.2180  19.7997 0001229  88.0667 272.0466 15.08840727128598

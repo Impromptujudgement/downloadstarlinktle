@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48407
+launchyear:2021
+epoch:24242.494166
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2595
+meananomly:327.7210
+meanmotion:15.0830
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6919.5440578016
+altitudeatperigee:540
+altitudeatapogee:543
+inclination:53.053
+eccentricity:0.0002557
+argumentofperigree:32.3936
+nickname:STARLINK-2595
+idesg:21038BG 
+cosparid:2021-038BG
+altkm:540.79100401776
+velkms:7.5939686893801
+velkmh:27338
+onumepoch:18392
+onumnow:277415.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:51:36+00:00
+nowjuliandate:2460552.6380326
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2595
+1 48407U 21038BG  24242.49416600  .00030082  00000+0  19282-2 0  9997
+2 48407  53.0530 321.7934 0002557  32.3936 327.7210 15.08296551183922

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53588
+launchyear:2022
+epoch:24242.22860989
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4691
+meananomly:257.9699
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8710512893
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001458
+argumentofperigree:102.1457
+nickname:STARLINK-4691
+idesg:22104A  
+cosparid:2022-104A
+altkm:540.8416277989
+velkms:7.5929973205152
+velkmh:27335
+onumepoch:11076
+onumnow:167133.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:29:12+00:00
+nowjuliandate:2460552.6378445
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4691
+1 53588U 22104A   24242.22860989  .00000165  00000+0  28463-4 0  9994
+2 53588  53.2157 226.9082 0001458 102.1457 257.9699 15.08843730110762

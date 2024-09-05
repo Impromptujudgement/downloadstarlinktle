@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55380
+launchyear:2023
+epoch:24241.81847408
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5571
+meananomly:88.6177
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1930337147
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.0001144
+argumentofperigree:271.4534
+nickname:STARLINK-5571
+idesg:23013BB 
+cosparid:2023-013BB
+altkm:558.81502928683
+velkms:7.5838712334557
+velkmh:27302
+onumepoch:8794
+onumnow:132153.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:38:36+00:00
+nowjuliandate:2460552.6377692
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5571
+1 55380U 23013BB  24241.81847408  .00003084  00000+0  24325-3 0  9996
+2 55380  43.0020  78.4174 0001144 271.4534  88.6177 15.02544307 87945

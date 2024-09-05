@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52312
+launchyear:2022
+epoch:24242.24467573
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3752
+meananomly:280.5306
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8224427931
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2137
+eccentricity:0.0001568
+argumentofperigree:79.5863
+nickname:STARLINK-3752
+idesg:22041BD 
+cosparid:2022-041BD
+altkm:540.38437949439
+velkms:7.5934724267019
+velkmh:27337
+onumepoch:13171
+onumnow:198745.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:52:20+00:00
+nowjuliandate:2460552.6379327
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3752
+1 52312U 22041BD  24242.24467573  .00003475  00000+0  23619-3 0  9996
+2 52312  53.2137  71.5400 0001568  79.5863 280.5306 15.08859633131716

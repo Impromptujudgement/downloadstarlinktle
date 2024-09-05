@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51877
+launchyear:2022
+epoch:24242.57680623
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3556
+meananomly:249.2819
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9061686546
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001162
+argumentofperigree:110.8298
+nickname:STARLINK-3556
+idesg:22022AB 
+cosparid:2022-022AB
+altkm:540.95089380329
+velkms:7.5928966619611
+velkmh:27334
+onumepoch:13914
+onumnow:209947.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:50:36+00:00
+nowjuliandate:2460552.6379539
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3556
+1 51877U 22022AB  24242.57680623 -.00000667  00000+0 -23854-4 0  9993
+2 51877  53.2162 340.1023 0001162 110.8298 249.2819 15.08832241139148

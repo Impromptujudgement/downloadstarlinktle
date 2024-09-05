@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55313
+launchyear:2023
+epoch:24242.39211467
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5313
+meananomly:86.3499
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.212999048
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0003
+eccentricity:0.0003077
+argumentofperigree:273.7308
+nickname:STARLINK-5313
+idesg:23010AW 
+cosparid:2023-010AW
+altkm:574.3642918719
+velkms:7.5739988999501
+velkmh:27266
+onumepoch:8997
+onumnow:134815.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:24:39+00:00
+nowjuliandate:2460552.6377759
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5313
+1 55313U 23010AW  24242.39211467 -.00000522  00000+0 -35956-4 0  9992
+2 55313  70.0003 329.6372 0003077 273.7308  86.3499 14.98324168 89976

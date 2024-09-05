@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46789
+launchyear:2020
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1930
+meananomly:5.2724
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3917573384
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.000138
+argumentofperigree:104.9292
+nickname:STARLINK-1930
+idesg:20074BC 
+cosparid:2020-074BC
+altkm:551.83381032758
+velkms:7.5923850032857
+velkmh:27333
+onumepoch:21243
+onumnow:320005.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6397071
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1930
+1 46789U 20074BC  24242.91667824  .00012459  00000+0  85414-3 0  9999
+2 46789  53.0540 301.2324 0001380 104.9292   5.2724 15.06386579212439

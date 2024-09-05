@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73188
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3188
+meananomly:334.9762
+meanmotion:15.9967
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.4680913878
+altitudeatperigee:234
+altitudeatapogee:316
+inclination:69.9999
+eccentricity:0.006145
+argumentofperigree:161.888
+nickname:STARLINK-3188
+idesg:22010AT 
+cosparid:2022-010AT
+altkm:243.57711405256
+velkms:7.7865866682384
+velkmh:28032
+onumepoch:1
+onumnow:19077.23
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379688
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3188
+1 73188C 22010AT  23051.42826389 -.01058873  00000-0 -17978-2 0   512
+2 73188  69.9999 143.3304 0061450 161.8880 334.9762 15.99671615    11

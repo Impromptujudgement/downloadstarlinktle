@@ -1,0 +1,38 @@
+date:2024-08-28T20:20:52+00:00
+validtle:1
+satid:57860
+launchyear:2023
+epoch:24241.04597121
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30272
+meananomly:232.5879
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3619320261
+altitudeatperigee:463
+altitudeatapogee:463
+inclination:53.1603
+eccentricity:3.5E-5
+argumentofperigree:127.5155
+nickname:STARLINK-30272
+idesg:23141W  
+cosparid:2023-141W
+altkm:464.27168048025
+velkms:7.6354699216972
+velkmh:27488
+onumepoch:5478
+onumnow:84057.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T01:06:12+00:00
+nowjuliandate:2460551.3478248
+nowepochdate:24241.8478240741
+TLE:
+STARLINK-30272
+1 57860U 23141W   24241.04597121  .00000855  00000+0  36587-4 0  9999
+2 57860  53.1603   1.3368 0000350 127.5155 232.5879 15.34225180 54782

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47601
+launchyear:2021
+epoch:24242.58305903
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2006
+meananomly:260.6645
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.379605027
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0568
+eccentricity:0.0002075
+argumentofperigree:99.4578
+nickname:STARLINK-2006
+idesg:21009BF 
+cosparid:2021-009BF
+altkm:548.3553457135
+velkms:7.5888680762354
+velkmh:27320
+onumepoch:19771
+onumnow:297836.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:59:36+00:00
+nowjuliandate:2460552.639474
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2006
+1 47601U 21009BF  24242.58305903  .00000476  00000+0  50882-4 0  9990
+2 47601  53.0568 342.5739 0002075  99.4578 260.6645 15.06390544197717

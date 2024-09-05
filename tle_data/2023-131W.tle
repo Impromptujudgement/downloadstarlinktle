@@ -1,0 +1,38 @@
+date:2024-08-28T21:06:18+00:00
+validtle:1
+satid:57752
+launchyear:2023
+epoch:24241.5407036
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30368
+meananomly:78.7180
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1952006106
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.0001111
+argumentofperigree:281.3537
+nickname:STARLINK-30368
+idesg:23131W  
+cosparid:2023-131W
+altkm:558.68556980192
+velkms:7.584013874149
+velkmh:27302
+onumepoch:5595
+onumnow:84059.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:58:37+00:00
+nowjuliandate:2460551.3793827
+nowepochdate:24241.007.879375
+TLE:
+STARLINK-30368
+1 57752U 23131W   24241.54070360  .00000718  00000+0  68236-4 0  9998
+2 57752  43.0020 324.6217 0001111 281.3537  78.7180 15.02543603 55959

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47391
+launchyear:2021
+epoch:24241.67997505
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2112
+meananomly:271.4249
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3432618122
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.056
+eccentricity:0.0001481
+argumentofperigree:88.691
+nickname:STARLINK-2112
+idesg:21005AU 
+cosparid:2021-005AU
+altkm:548.06016786759
+velkms:7.5891715645408
+velkmh:27321
+onumepoch:19935
+onumnow:300323.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:19:10+00:00
+nowjuliandate:2460552.6395843
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2112
+1 47391U 21005AU  24241.67997505  .00025035  00000+0  16935-2 0  9993
+2 47391  53.0560  16.6177 0001481  88.6910 271.4249 15.06402402199359

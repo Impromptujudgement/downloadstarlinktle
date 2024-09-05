@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55613
+launchyear:2023
+epoch:24241.44597367
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5715
+meananomly:87.5635
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2099380105
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.004
+eccentricity:0.0001243
+argumentofperigree:272.5065
+nickname:STARLINK-5715
+idesg:23020AW 
+cosparid:2023-020AW
+altkm:558.8146578749
+velkms:7.5838808532023
+velkmh:27302
+onumepoch:8509
+onumnow:127876.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:42:12+00:00
+nowjuliandate:2460552.6377509
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5715
+1 55613U 23020AW  24241.44597367  .00000991  00000+0  88408-4 0  9995
+2 55613  43.0040 145.1198 0001243 272.5065  87.5635 15.02538815 85093

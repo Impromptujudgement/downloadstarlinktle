@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52602
+launchyear:2022
+epoch:24242.31920329
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4012
+meananomly:267.4825
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8470846845
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001308
+argumentofperigree:92.6317
+nickname:STARLINK-4012
+idesg:22052E  
+cosparid:2022-052E
+altkm:540.64715955882
+velkms:7.5931975759648
+velkmh:27336
+onumepoch:12708
+onumnow:191757.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:39:39+00:00
+nowjuliandate:2460552.6379071
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4012
+1 52602U 22052E   24242.31920329  .00002378  00000+0  16738-3 0  9996
+2 52602  53.2156 261.2534 0001308  92.6317 267.4825 15.08851571127085

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54160
+launchyear:2022
+epoch:24241.51603837
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5233
+meananomly:280.9294
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8454952728
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.000152
+argumentofperigree:79.1869
+nickname:STARLINK-5233
+idesg:22141D  
+cosparid:2022-141D
+altkm:540.40662994622
+velkms:7.5934606345968
+velkmh:27336
+onumepoch:10208
+onumnow:154048.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:23:06+00:00
+nowjuliandate:2460552.6377938
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5233
+1 54160U 22141D   24241.51603837  .00002321  00000+0  16385-3 0  9995
+2 54160  53.2168 314.8313 0001520  79.1869 280.9294 15.08852091102088

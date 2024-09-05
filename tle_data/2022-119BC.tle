@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53936
+launchyear:2022
+epoch:24241.84628838
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4791
+meananomly:271.5786
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8538427509
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001405
+argumentofperigree:88.5367
+nickname:STARLINK-4791
+idesg:22119BC 
+cosparid:2022-119BC
+altkm:540.5874918247
+velkms:7.5932667481616
+velkmh:27336
+onumepoch:10783
+onumnow:162717.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:18:39+00:00
+nowjuliandate:2460552.6378129
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4791
+1 53936U 22119BC  24241.84628838  .00000533  00000+0  51559-4 0  9990
+2 53936  53.2163 283.1128 0001405  88.5367 271.5786 15.08849360107839

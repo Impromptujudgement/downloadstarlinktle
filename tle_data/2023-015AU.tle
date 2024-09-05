@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55491
+launchyear:2023
+epoch:24242.32092877
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5364
+meananomly:89.8118
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2058196565
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0022
+eccentricity:0.0001398
+argumentofperigree:270.2564
+nickname:STARLINK-5364
+idesg:23015AU 
+cosparid:2023-015AU
+altkm:558.84383825056
+velkms:7.5838467233522
+velkmh:27302
+onumepoch:8706
+onumnow:130823.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:42:08+00:00
+nowjuliandate:2460552.6377579
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5364
+1 55491U 23015AU  24242.32092877  .00000010  00000+0  15820-4 0  9997
+2 55491  43.0022 101.3549 0001398 270.2564  89.8118 15.02540153 87069

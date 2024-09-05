@@ -1,0 +1,38 @@
+date:2024-08-29T07:47:51+00:00
+validtle:1
+satid:56924
+launchyear:2023
+epoch:24241.67359816
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5731
+meananomly:93.1587
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1998268161
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001257
+argumentofperigree:266.9111
+nickname:STARLINK-5731
+idesg:23083BA 
+cosparid:2023-083BA
+altkm:558.88903877118
+velkms:7.5837940674532
+velkmh:27302
+onumepoch:6799
+onumnow:102167.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:09:59+00:00
+nowjuliandate:2460551.8248977
+nowepochdate:24242.3248958333
+TLE:
+STARLINK-5731
+1 56924U 23083BA  24241.67359816  .00001251  00000+0  10762-3 0  9997
+2 56924  43.0021 220.5895 0001257 266.9111  93.1587 15.02542100 67994

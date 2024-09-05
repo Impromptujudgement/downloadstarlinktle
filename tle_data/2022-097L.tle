@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53398
+launchyear:2022
+epoch:24242.33529427
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4512
+meananomly:278.1055
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.82212797
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2193
+eccentricity:0.0001743
+argumentofperigree:82.0135
+nickname:STARLINK-4512
+idesg:22097L  
+cosparid:2022-097L
+altkm:540.41293665998
+velkms:7.5934409194561
+velkmh:27336
+onumepoch:11388
+onumnow:171841.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:02:49+00:00
+nowjuliandate:2460552.6378577
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4512
+1 53398U 22097L   24242.33529427 -.00001453  00000+0 -73184-4 0  9998
+2 53398  53.2193 106.1815 0001743  82.0135 278.1055 15.08859736113880

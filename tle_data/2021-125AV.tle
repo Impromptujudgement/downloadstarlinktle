@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50199
+launchyear:2021
+epoch:24242.6467238
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3270
+meananomly:263.4751
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8872909903
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.000147
+argumentofperigree:96.6409
+nickname:STARLINK-3270
+idesg:21125AV 
+cosparid:2021-125AV
+altkm:540.76318755127
+velkms:7.5930922806662
+velkmh:27335
+onumepoch:15215
+onumnow:229575.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:31:17+00:00
+nowjuliandate:2460552.6379855
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3270
+1 50199U 21125AV  24242.64672380 -.00000078  00000+0  13180-4 0  9997
+2 50199  53.2155 219.7853 0001470  96.6409 263.4751 15.08838417152155

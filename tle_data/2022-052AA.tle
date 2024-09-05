@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52622
+launchyear:2022
+epoch:24242.75481885
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4008
+meananomly:270.2054
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8708312149
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001287
+argumentofperigree:89.9086
+nickname:STARLINK-4008
+idesg:22052AA 
+cosparid:2022-052AA
+altkm:540.6279071011
+velkms:7.5932317041435
+velkmh:27336
+onumepoch:12708
+onumnow:191749.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:06:56+00:00
+nowjuliandate:2460552.6379107
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4008
+1 52622U 22052AA  24242.75481885 -.00000532  00000+0 -15306-4 0  9998
+2 52622  53.2151 264.3014 0001287  89.9086 270.2054 15.08843802127081

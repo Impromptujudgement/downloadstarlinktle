@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48655
+launchyear:2021
+epoch:24241.89379102
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2657
+meananomly:265.6100
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3146148192
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0529
+eccentricity:0.0002231
+argumentofperigree:94.5144
+nickname:STARLINK-2657
+idesg:21044T  
+cosparid:2021-044T
+altkm:548.17515396247
+velkms:7.5890299376055
+velkmh:27321
+onumepoch:17963
+onumnow:270615.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:27:04+00:00
+nowjuliandate:2460552.6380081
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2657
+1 48655U 21044T   24241.89379102  .00013434  00000+0  91877-3 0  9990
+2 48655  53.0529 105.6615 0002231  94.5144 265.6100 15.06411749179637

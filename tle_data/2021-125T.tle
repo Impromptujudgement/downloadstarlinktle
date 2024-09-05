@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50173
+launchyear:2021
+epoch:24242.25296959
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3289
+meananomly:263.6195
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8805022763
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.000143
+argumentofperigree:96.496
+nickname:STARLINK-3289
+idesg:21125T  
+cosparid:2021-125T
+altkm:540.75086043295
+velkms:7.5931020891782
+velkmh:27335
+onumepoch:14950
+onumnow:225582.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:04:17+00:00
+nowjuliandate:2460552.6379821
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3289
+1 50173U 21125T   24242.25296959  .00000433  00000+0  45317-4 0  9991
+2 50173  53.2163 221.6200 0001430  96.4960 263.6195 15.08840638149507

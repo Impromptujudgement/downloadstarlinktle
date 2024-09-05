@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56478
+launchyear:2023
+epoch:24241.87193099
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6041
+meananomly:89.7986
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1691671704
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9986
+eccentricity:0.0002928
+argumentofperigree:270.2838
+nickname:STARLINK-6041
+idesg:23064AG 
+cosparid:2023-064AG
+altkm:574.4493017821
+velkms:7.5738824204246
+velkmh:27266
+onumepoch:7218
+onumnow:108169.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:55:35+00:00
+nowjuliandate:2460552.6376971
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6041
+1 56478U 23064AG  24241.87193099  .00001025  00000+0  93644-4 0  9991
+2 56478  69.9986  90.9111 0002928 270.2838  89.7986 14.98338342 72181

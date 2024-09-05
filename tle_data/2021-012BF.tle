@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47673
+launchyear:2021
+epoch:24242.15456743
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2066
+meananomly:276.6074
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.320137625
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001711
+argumentofperigree:83.511
+nickname:STARLINK-2066
+idesg:21012BF 
+cosparid:2021-012BF
+altkm:547.92629082185
+velkms:7.5893055856257
+velkmh:27322
+onumepoch:19571
+onumnow:294834.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:42:35+00:00
+nowjuliandate:2460552.6394243
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2066
+1 47673U 21012BF  24242.15456743  .00011619  00000+0  79744-3 0  9993
+2 47673  53.0563  34.4888 0001711  83.5110 276.6074 15.06409947195714

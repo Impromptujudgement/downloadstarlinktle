@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46137
+launchyear:2020
+epoch:24242.37710429
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1586
+meananomly:267.4648
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3264879459
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001647
+argumentofperigree:92.6529
+nickname:STARLINK-1586
+idesg:20057W  
+cosparid:2020-057W
+altkm:548.11912978927
+velkms:7.5890978019024
+velkmh:27321
+onumepoch:22234
+onumnow:334944.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:03:02+00:00
+nowjuliandate:2460553.0282813
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1586
+1 46137U 20057W   24242.37710429 -.00000855  00000+0 -38497-4 0  9996
+2 46137  53.0535 278.4907 0001647  92.6529 267.4648 15.06407875222345

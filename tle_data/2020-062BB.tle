@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:42+00:00
+validtle:1
+satid:46374
+launchyear:2020
+epoch:24242.40199228
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1711
+meananomly:278.3977
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3258688502
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001532
+argumentofperigree:81.7186
+nickname:STARLINK-1711
+idesg:20062BB 
+cosparid:2020-062BB
+altkm:547.91308931391
+velkms:7.5893231807328
+velkmh:27322
+onumepoch:22129
+onumnow:333370.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:38:52+00:00
+nowjuliandate:2460553.0282661
+nowepochdate:24243.5282638889
+TLE:
+STARLINK-1711
+1 46374U 20062BB  24242.40199228  .00000758  00000+0  69741-4 0  9993
+2 46374  53.0536 288.3809 0001532  81.7186 278.3977 15.06408077221295

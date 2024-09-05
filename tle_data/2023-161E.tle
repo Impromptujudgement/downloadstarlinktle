@@ -1,0 +1,38 @@
+date:2024-08-28T17:59:08+00:00
+validtle:1
+satid:58101
+launchyear:2023
+epoch:24240.72868172
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30605
+meananomly:276.6417
+meanmotion:15.3019
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3860919206
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.1601
+eccentricity:0.0001359
+argumentofperigree:83.4738
+nickname:STARLINK-30605
+idesg:23161E  
+cosparid:2023-161E
+altkm:476.04116844669
+velkms:7.6290416849026
+velkmh:27465
+onumepoch:4884
+onumnow:74750.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T17:29:18+00:00
+nowjuliandate:2460551.2493983
+nowepochdate:24241.7493981481
+TLE:
+STARLINK-30605
+1 58101U 23161E   24240.72868172  .00000726  00000+0  36661-4 0  9991
+2 58101  53.1601 241.7494 0001359  83.4738 276.6417 15.30189290 48840

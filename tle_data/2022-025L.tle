@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51966
+launchyear:2022
+epoch:24242.65297018
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3699
+meananomly:283.0397
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3694817173
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0566
+eccentricity:8.25E-5
+argumentofperigree:77.0685
+nickname:STARLINK-3699
+idesg:22025L  
+cosparid:2022-025L
+altkm:547.9829317953
+velkms:7.5892705103572
+velkmh:27321
+onumepoch:13805
+onumnow:207964.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:40:17+00:00
+nowjuliandate:2460552.637944
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3699
+1 51966U 22025L   24242.65297018 -.00000378  00000+0 -65071-5 0  9993
+2 51966  53.0566  11.4603 0000825  77.0685 283.0397 15.06393847138052

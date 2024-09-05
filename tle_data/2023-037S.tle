@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55930
+launchyear:2023
+epoch:24242.19089372
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5896
+meananomly:91.5867
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1854424652
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9984
+eccentricity:0.0002963
+argumentofperigree:268.4952
+nickname:STARLINK-5896
+idesg:23037S  
+cosparid:2023-037S
+altkm:574.52976973157
+velkms:7.5738035971261
+velkmh:27266
+onumepoch:8081
+onumnow:121094.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:34:53+00:00
+nowjuliandate:2460552.6377273
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5896
+1 55930U 23037S   24242.19089372  .00000510  00000+0  50552-4 0  9996
+2 55930  69.9984 250.0566 0002963 268.4952  91.5867 14.98333079 80819

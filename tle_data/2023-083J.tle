@@ -1,0 +1,38 @@
+date:2024-08-29T07:39:56+00:00
+validtle:1
+satid:56884
+launchyear:2023
+epoch:24241.69998007
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5515
+meananomly:91.5369
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1926828254
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0003
+eccentricity:0.0001353
+argumentofperigree:268.5318
+nickname:STARLINK-5515
+idesg:23083J  
+cosparid:2023-083J
+altkm:558.85884023318
+velkms:7.5838231704986
+velkmh:27302
+onumepoch:6773
+onumnow:101776.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:47:58+00:00
+nowjuliandate:2460551.8194068
+nowepochdate:24242.3193981481
+TLE:
+STARLINK-5515
+1 56884U 23083J   24241.69998007  .00002379  00000+0  19108-3 0  9990
+2 56884  43.0003 233.7942 0001353 268.5318  91.5369 15.02544421 67732

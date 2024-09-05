@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54204
+launchyear:2022
+epoch:24242.54225504
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5241
+meananomly:254.0107
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9471980637
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001411
+argumentofperigree:106.104
+nickname:STARLINK-5241
+idesg:22141AZ 
+cosparid:2022-141AZ
+altkm:540.97642883184
+velkms:7.5928911124357
+velkmh:27334
+onumepoch:10212
+onumnow:154089.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:00:51+00:00
+nowjuliandate:2460552.6377948
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5241
+1 54204U 22141AZ  24242.54225504 -.00006508  00000+0 -39139-3 0  9994
+2 54204  53.2158 334.8195 0001411 106.1040 254.0107 15.08818818102126

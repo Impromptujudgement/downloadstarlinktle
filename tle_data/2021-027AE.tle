@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48120
+launchyear:2021
+epoch:24242.48998901
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2460
+meananomly:278.7411
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3312997334
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001682
+argumentofperigree:81.3768
+nickname:STARLINK-2460
+idesg:21027AE 
+cosparid:2021-027AE
+altkm:547.89637974964
+velkms:7.5893444552015
+velkmh:27322
+onumepoch:18803
+onumnow:283259.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:45:35+00:00
+nowjuliandate:2460552.6380536
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2460
+1 48120U 21027AE  24242.48998901  .00034664  00000+0  23342-2 0  9997
+2 48120  53.0526 152.9832 0001682  81.3768 278.7411 15.06406305188038

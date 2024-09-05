@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46583
+launchyear:2020
+epoch:24243.07007102
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1729
+meananomly:280.1672
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4034101218
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0527
+eccentricity:0.0001312
+argumentofperigree:79.9465
+nickname:STARLINK-1729
+idesg:20070BD 
+cosparid:2020-070BD
+altkm:547.98504101109
+velkms:7.5892867471401
+velkmh:27321
+onumepoch:21562
+onumnow:324813.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:40:54+00:00
+nowjuliandate:2460553.0282287
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1729
+1 46583U 20070BD  24243.07007102  .00020526  00000+0  13935-2 0  9994
+2 46583  53.0527 155.3796 0001312  79.9465 280.1672 15.06382777215621

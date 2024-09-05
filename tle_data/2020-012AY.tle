@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45224
+launchyear:2020
+epoch:22155.44079193
+epochday:155
+tleage:818
+tleclassification:C
+active:0
+name:STARLINK-1214
+meananomly:237.1811
+meanmotion:16.0524
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6638.0716440548
+altitudeatperigee:253
+altitudeatapogee:266
+inclination:53.0354
+eccentricity:0.0009716
+argumentofperigree:341.258
+nickname:STARLINK-1214
+idesg:20012AY 
+cosparid:2020-012AY
+altkm:272.53766234986
+velkms:7.7415225694967
+velkmh:27869
+onumepoch:1
+onumnow:33534.88
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-06-04T10:34:44+00:00
+nowjuliandate:2460553.0283828
+nowepochdate:24243.5283796296
+TLE:
+STARLINK-1214
+1 45224C 20012AY  22155.44079193  .00572513  00000-0  76276-3 0  1552
+2 45224  53.0354 238.4797 0009716 341.2580 237.1811 16.05240296    14

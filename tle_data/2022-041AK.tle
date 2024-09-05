@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52294
+launchyear:2022
+epoch:24242.26951809
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3777
+meananomly:263.7024
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8518437553
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001348
+argumentofperigree:96.4122
+nickname:STARLINK-3777
+idesg:22041AK 
+cosparid:2022-041AK
+altkm:540.7146800292
+velkms:7.5931260950422
+velkmh:27335
+onumepoch:13157
+onumnow:198532.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:28:06+00:00
+nowjuliandate:2460552.6379348
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3777
+1 52294U 22041AK  24242.26951809  .00001704  00000+0  12512-3 0  9990
+2 52294  53.2176  81.4756 0001348  96.4122 263.7024 15.08850014131572

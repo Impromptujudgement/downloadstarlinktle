@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:02+00:00
+validtle:1
+satid:47897
+launchyear:2021
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2357
+meananomly:108.3153
+meanmotion:15.9890
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6655.612324352
+altitudeatperigee:274
+altitudeatapogee:281
+inclination:53.0376
+eccentricity:0.0004616
+argumentofperigree:208.2455
+nickname:STARLINK-2357
+idesg:21021AP 
+cosparid:2021-021AP
+altkm:288.94769257841
+velkms:7.7333851781863
+velkmh:27840
+onumepoch:19283
+onumnow:308319.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6382244
+nowepochdate:24243.1382175926
+TLE:
+STARLINK-2357
+1 47897U 21021AP  24242.91667824  .00772068  28146-3  15734-2 0  9994
+2 47897  53.0376 173.1394 0004616 208.2455 108.3153 15.98898630192833

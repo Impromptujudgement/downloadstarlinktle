@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49756
+launchyear:2021
+epoch:24241.94567166
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3207
+meananomly:272.7000
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8414147682
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001324
+argumentofperigree:87.4143
+nickname:STARLINK-3207
+idesg:21115AJ 
+cosparid:2021-115AJ
+altkm:540.55871858301
+velkms:7.5932915149579
+velkmh:27336
+onumepoch:15258
+onumnow:230238.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:41:46+00:00
+nowjuliandate:2460552.637993
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3207
+1 49756U 21115AJ  24241.94567166  .00002275  00000+0  16093-3 0  9995
+2 49756  53.2166 122.9325 0001324  87.4143 272.7000 15.08853426152588

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54759
+launchyear:2022
+epoch:24242.66147852
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5215
+meananomly:274.4812
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9189331586
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001476
+argumentofperigree:85.6348
+nickname:STARLINK-5215
+idesg:22175B  
+cosparid:2022-175B
+altkm:540.59965542858
+velkms:7.5932890435505
+velkmh:27336
+onumepoch:9373
+onumnow:141429.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:52:32+00:00
+nowjuliandate:2460552.6377882
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5215
+1 54759U 22175B   24242.66147852 -.00000337  00000+0 -30908-5 0  9999
+2 54759  53.2169  19.9457 0001476  85.6348 274.4812 15.08828065 93738

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46045
+launchyear:2020
+epoch:24242.3374893
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1591
+meananomly:284.7122
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3448126261
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001514
+argumentofperigree:75.4035
+nickname:STARLINK-1591
+idesg:20055U  
+cosparid:2020-055U
+altkm:547.82073190991
+velkms:7.5894347165896
+velkmh:27322
+onumepoch:22486
+onumnow:338739.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:05:59+00:00
+nowjuliandate:2460553.0282901
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1591
+1 46045U 20055U   24242.33748930  .00000942  00000+0  82100-4 0  9991
+2 46045  53.0540 108.6686 0001514  75.4035 284.7122 15.06401896224866

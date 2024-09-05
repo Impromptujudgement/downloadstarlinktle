@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:42+00:00
+validtle:1
+satid:44730
+launchyear:2019
+epoch:21317.8428942
+epochday:317
+tleage:1021
+tleclassification:C
+active:0
+name:STARLINK-1025
+meananomly:66.8173
+meanmotion:16.0004
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6652.4495199933
+altitudeatperigee:211
+altitudeatapogee:337
+inclination:53.218
+eccentricity:0.0094514
+argumentofperigree:45.8357
+nickname:STARLINK-1025
+idesg:19074T  
+cosparid:2019-074T
+altkm:255.26108447649
+velkms:7.7739732054342
+velkmh:27986
+onumepoch:1
+onumnow:46828.15
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-11-13T20:13:46+00:00
+nowjuliandate:2460553.0311724
+nowepochdate:24243.5311689815
+TLE:
+STARLINK-1025
+1 44730C 19074T   21317.84289420  .00301345  00000-0  33440-3 0  3177
+2 44730  53.2180 133.2513 0094514  45.8357  66.8173 16.00039023    18

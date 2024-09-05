@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47386
+launchyear:2021
+epoch:24242.62452874
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2106
+meananomly:272.1120
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3647679393
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0553
+eccentricity:0.0001656
+argumentofperigree:88.0058
+nickname:STARLINK-2106
+idesg:21005AP 
+cosparid:2021-005AP
+altkm:548.06488476429
+velkms:7.5891781543736
+velkmh:27321
+onumepoch:20012
+onumnow:301467.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:59:19+00:00
+nowjuliandate:2460552.6395882
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2106
+1 47386U 21005AP  24242.62452874  .00001414  00000+0  11381-3 0  9994
+2 47386  53.0553  12.3803 0001656  88.0058 272.1120 15.06395385200120

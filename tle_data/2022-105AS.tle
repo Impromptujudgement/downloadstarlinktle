@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53688
+launchyear:2022
+epoch:24241.90532387
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4571
+meananomly:198.0513
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1224218737
+altitudeatperigee:563
+altitudeatapogee:563
+inclination:97.6563
+eccentricity:6.75E-5
+argumentofperigree:162.0735
+nickname:STARLINK-4571
+idesg:22105AS 
+cosparid:2022-105AS
+altkm:566.48855773522
+velkms:7.5776370705259
+velkmh:27279
+onumepoch:10955
+onumnow:164482.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:43:40+00:00
+nowjuliandate:2460552.6378361
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4571
+1 53688U 22105AS  24241.90532387  .00001406  00000+0  11401-3 0  9990
+2 53688  97.6563 121.6884 0000675 162.0735 198.0513 15.01268596109550

@@ -1,0 +1,38 @@
+date:2024-08-28T19:33:20+00:00
+validtle:1
+satid:57936
+launchyear:2023
+epoch:24241.34305276
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30716
+meananomly:242.4282
+meanmotion:15.3018
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.4062106886
+altitudeatperigee:475
+altitudeatapogee:476
+inclination:53.1646
+eccentricity:7.14E-5
+argumentofperigree:117.6791
+nickname:STARLINK-30716
+idesg:23148B  
+cosparid:2023-148B
+altkm:476.39587928848
+velkms:7.6286581446829
+velkmh:27463
+onumepoch:5284
+onumnow:80862.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:14:00+00:00
+nowjuliandate:2460551.3148176
+nowepochdate:24241.8148148148
+TLE:
+STARLINK-30716
+1 57936U 23148B   24241.34305276  .00003860  00000+0  14244-3 0  9995
+2 57936  53.1646  97.8950 0000714 117.6791 242.4282 15.30182552 52844

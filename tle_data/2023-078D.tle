@@ -1,0 +1,38 @@
+date:2024-08-29T08:39:28+00:00
+validtle:1
+satid:56770
+launchyear:2023
+epoch:24241.55760306
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6342
+meananomly:94.4089
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1595282083
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.002
+eccentricity:0.0002805
+argumentofperigree:265.675
+nickname:STARLINK-6342
+idesg:23078D  
+cosparid:2023-078D
+altkm:574.59690068445
+velkms:7.5737163501047
+velkmh:27265
+onumepoch:6858
+onumnow:102768.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:22:57+00:00
+nowjuliandate:2460551.8607422
+nowepochdate:24242.3607407407
+TLE:
+STARLINK-6342
+1 56770U 23078D   24241.55760306  .00000606  00000+0  58586-4 0  9997
+2 56770  70.0020 331.7363 0002805 265.6750  94.4089 14.98341459 68587

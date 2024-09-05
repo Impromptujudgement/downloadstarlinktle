@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52485
+launchyear:2022
+epoch:24242.6973255
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3913
+meananomly:284.0667
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8968490144
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2173
+eccentricity:9.47E-5
+argumentofperigree:76.0431
+nickname:STARLINK-3913
+idesg:22049AL 
+cosparid:2022-049AL
+altkm:540.49806296363
+velkms:7.5933884255145
+velkmh:27336
+onumepoch:12846
+onumnow:193831.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:44:09+00:00
+nowjuliandate:2460552.6379226
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3913
+1 52485U 22049AL  24242.69732550 -.00000311  00000+0 -14786-5 0  9999
+2 52485  53.2173  29.5579 0000947  76.0431 284.0667 15.08835290128460

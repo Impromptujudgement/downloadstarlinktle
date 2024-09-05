@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49137
+launchyear:2021
+epoch:24242.23459412
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3055
+meananomly:89.0284
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.182142868
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9983
+eccentricity:0.0003086
+argumentofperigree:271.0521
+nickname:STARLINK-3055
+idesg:21082H  
+cosparid:2021-082H
+altkm:574.43310831455
+velkms:7.5739071255923
+velkmh:27266
+onumepoch:16297
+onumnow:244197.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:37:49+00:00
+nowjuliandate:2460552.6380025
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3055
+1 49137U 21082H   24242.23459412  .00000203  00000+0  24835-4 0  9991
+2 49137  69.9983 239.9945 0003086 271.0521  89.0284 14.98334146162975

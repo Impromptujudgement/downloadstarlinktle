@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52088
+launchyear:2022
+epoch:24242.51972562
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3537
+meananomly:257.0114
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8722433589
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001438
+argumentofperigree:103.1038
+nickname:STARLINK-3537
+idesg:22029A  
+cosparid:2022-029A
+altkm:540.85632820548
+velkms:7.5929818437847
+velkmh:27335
+onumepoch:13808
+onumnow:208350.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:28:24+00:00
+nowjuliandate:2460552.6379424
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3537
+1 52088U 22029A   24242.51972562  .00000908  00000+0  75110-4 0  9993
+2 52088  53.2170 320.1047 0001438 103.1038 257.0114 15.08843340138088

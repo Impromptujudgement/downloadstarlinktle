@@ -1,0 +1,38 @@
+date:2024-08-28T18:22:37+00:00
+validtle:1
+satid:58066
+launchyear:2023
+epoch:24241.12710068
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30571
+meananomly:87.9255
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2076510613
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0001
+eccentricity:9.89E-5
+argumentofperigree:272.1474
+nickname:STARLINK-30571
+idesg:23158R  
+cosparid:2023-158R
+altkm:558.82372230095
+velkms:7.5838697012934
+velkmh:27302
+onumepoch:4950
+onumnow:74385.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:03:01+00:00
+nowjuliandate:2460551.2657123
+nowepochdate:24241.7657060185
+TLE:
+STARLINK-30571
+1 58066U 23158R   24241.12710068  .00001163  00000+0  10114-3 0  9992
+2 58066  43.0001 185.0094 0000989 272.1474  87.9255 15.02539558 49502

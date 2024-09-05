@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49141
+launchyear:2021
+epoch:24242.19727399
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3093
+meananomly:89.8766
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1851610561
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9982
+eccentricity:0.0003209
+argumentofperigree:270.2026
+nickname:STARLINK-3093
+idesg:21082M  
+cosparid:2021-082M
+altkm:574.46772874049
+velkms:7.5738710445606
+velkmh:27266
+onumepoch:16367
+onumnow:245246.29
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:44:04+00:00
+nowjuliandate:2460552.6380016
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3093
+1 49141U 21082M   24242.19727399  .00000895  00000+0  82809-4 0  9995
+2 49141  69.9982 260.0998 0003209 270.2026  89.8766 14.98333170163677

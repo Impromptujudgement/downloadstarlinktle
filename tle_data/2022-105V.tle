@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53667
+launchyear:2022
+epoch:24242.20712951
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4406
+meananomly:285.4425
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1432585464
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.655
+eccentricity:0.0004194
+argumentofperigree:74.7263
+nickname:STARLINK-4406
+idesg:22105V  
+cosparid:2022-105V
+altkm:565.28967859556
+velkms:7.578957350634
+velkmh:27284
+onumepoch:10987
+onumnow:164957.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:58:16+00:00
+nowjuliandate:2460552.6378335
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4406
+1 53667U 22105V   24242.20712951  .00000118  00000+0  13821-4 0  9996
+2 53667  97.6550 122.0006 0004194  74.7263 285.4425 15.01261836109877

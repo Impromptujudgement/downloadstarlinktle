@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52093
+launchyear:2022
+epoch:24242.26403714
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3673
+meananomly:275.2843
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8687160568
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001253
+argumentofperigree:84.8293
+nickname:STARLINK-3673
+idesg:22029F  
+cosparid:2022-029F
+altkm:540.54931247725
+velkms:7.5933167856939
+velkmh:27336
+onumepoch:13650
+onumnow:205970.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:20:13+00:00
+nowjuliandate:2460552.6379383
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3673
+1 52093U 22029F   24242.26403714  .00001451  00000+0  10922-3 0  9992
+2 52093  53.2167  71.5121 0001253  84.8293 275.2843 15.08844494136500

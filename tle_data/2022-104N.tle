@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53600
+launchyear:2022
+epoch:24241.25070244
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4677
+meananomly:272.6456
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8662066011
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2146
+eccentricity:0.0001379
+argumentofperigree:87.4694
+nickname:STARLINK-4677
+idesg:22104N  
+cosparid:2022-104N
+altkm:540.58240932918
+velkms:7.5932790949549
+velkmh:27336
+onumepoch:11130
+onumnow:167962.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:01:01+00:00
+nowjuliandate:2460552.6378395
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4677
+1 53600U 22104N   24241.25070244  .00001912  00000+0  13819-3 0  9997
+2 53600  53.2146 231.4536 0001379  87.4694 272.6456 15.08845315111307

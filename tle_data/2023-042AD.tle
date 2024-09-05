@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56013
+launchyear:2023
+epoch:24242.59018857
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5941
+meananomly:103.9237
+meanmotion:15.0251
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2915953354
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0027
+eccentricity:8.82E-5
+argumentofperigree:256.1507
+nickname:STARLINK-5941
+idesg:23042AD 
+cosparid:2023-042AD
+altkm:559.07998625564
+velkms:7.5836354456391
+velkmh:27301
+onumepoch:7945
+onumnow:119382.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:09:52+00:00
+nowjuliandate:2460552.6377262
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5941
+1 56013U 23042AD  24242.59018857  .00011673  00000+0  87826-3 0  9994
+2 56013  43.0027 202.7579 0000882 256.1507 103.9237 15.02512286 79451

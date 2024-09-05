@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49445
+launchyear:2021
+epoch:24242.58699605
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3122
+meananomly:261.2200
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8267525102
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.000165
+argumentofperigree:98.8979
+nickname:STARLINK-3122
+idesg:21104AP 
+cosparid:2021-104AP
+altkm:540.76146538961
+velkms:7.5930610198792
+velkmh:27335
+onumepoch:15575
+onumnow:235012.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:05:16+00:00
+nowjuliandate:2460552.6379984
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3122
+1 49445U 21104AP  24242.58699605  .00003862  00000+0  26050-3 0  9990
+2 49445  53.2164 200.4489 0001650  98.8979 261.2200 15.08858223155756

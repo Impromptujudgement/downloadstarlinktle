@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53544
+launchyear:2022
+epoch:24241.74833433
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4303
+meananomly:278.2279
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.845299653
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2199
+eccentricity:0.0001291
+argumentofperigree:81.8859
+nickname:STARLINK-4303
+idesg:22101T  
+cosparid:2022-101T
+altkm:540.47828101012
+velkms:7.5933819055718
+velkmh:27336
+onumepoch:11274
+onumnow:170128.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:57:36+00:00
+nowjuliandate:2460552.6378452
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4303
+1 53544U 22101T   24241.74833433  .00000982  00000+0  79740-4 0  9994
+2 53544  53.2199  48.8168 0001291  81.8859 278.2279 15.08852155112741

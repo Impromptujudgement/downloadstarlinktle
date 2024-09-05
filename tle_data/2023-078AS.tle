@@ -1,0 +1,38 @@
+date:2024-08-29T08:49:44+00:00
+validtle:1
+satid:56807
+launchyear:2023
+epoch:24241.88258557
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6073
+meananomly:89.5173
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1900779884
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.999
+eccentricity:0.0003142
+argumentofperigree:270.5626
+nickname:STARLINK-6073
+idesg:23078AS 
+cosparid:2023-078AS
+altkm:574.45908412153
+velkms:7.5738831395134
+velkmh:27266
+onumepoch:6962
+onumnow:104321.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:10:55+00:00
+nowjuliandate:2460551.8678718
+nowepochdate:24242.3678703704
+TLE:
+STARLINK-6073
+1 56807U 23078AS  24241.88258557 -.00000342  00000+0 -20898-4 0  9998
+2 56807  69.9990 290.7134 0003142 270.5626  89.5173 14.98331580 69622

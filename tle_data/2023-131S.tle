@@ -1,0 +1,38 @@
+date:2024-08-28T21:09:08+00:00
+validtle:1
+satid:57748
+launchyear:2023
+epoch:24241.5240595
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30356
+meananomly:82.1860
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1677082435
+altitudeatperigee:557
+altitudeatapogee:561
+inclination:43.0028
+eccentricity:0.00029
+argumentofperigree:277.8653
+nickname:STARLINK-30356
+idesg:23131S  
+cosparid:2023-131S
+altkm:558.53593542369
+velkms:7.5841623988401
+velkmh:27303
+onumepoch:5596
+onumnow:84088.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:34:39+00:00
+nowjuliandate:2460551.3813466
+nowepochdate:24241.8813425926
+TLE:
+STARLINK-30356
+1 57748U 23131S   24241.52405950  .00015959  00000+0  11932-2 0  9990
+2 57748  43.0028 324.5277 0002900 277.8653  82.1860 15.02552535 55962

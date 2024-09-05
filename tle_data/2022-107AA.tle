@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53724
+launchyear:2022
+epoch:24241.73083376
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4663
+meananomly:267.9997
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8665000331
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2146
+eccentricity:0.0001373
+argumentofperigree:92.1153
+nickname:STARLINK-4663
+idesg:22107AA 
+cosparid:2022-107AA
+altkm:540.65988079788
+velkms:7.5931942489123
+velkmh:27335
+onumepoch:11018
+onumnow:166265.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:32:24+00:00
+nowjuliandate:2460552.6378326
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4663
+1 53724U 22107AA  24241.73083376  .00002467  00000+0  17302-3 0  9997
+2 53724  53.2146 238.6916 0001373  92.1153 267.9997 15.08845219110187

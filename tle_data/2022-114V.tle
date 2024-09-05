@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53837
+launchyear:2022
+epoch:24242.39966778
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4776
+meananomly:273.1867
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8795302781
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001422
+argumentofperigree:86.9288
+nickname:STARLINK-4776
+idesg:22114V  
+cosparid:2022-114V
+altkm:540.58518258709
+velkms:7.5932833478717
+velkmh:27336
+onumepoch:10816
+onumnow:163206.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:35:31+00:00
+nowjuliandate:2460552.6378168
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4776
+1 53837U 22114V   24242.39966778  .00000509  00000+0  50087-4 0  9992
+2 53837  53.2155 285.6038 0001422  86.9288 273.1867 15.08840956108167

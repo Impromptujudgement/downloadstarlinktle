@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54195
+launchyear:2022
+epoch:24242.52393559
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5258
+meananomly:271.6640
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9120373848
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2185
+eccentricity:0.0001385
+argumentofperigree:88.4511
+nickname:STARLINK-5258
+idesg:22141AQ 
+cosparid:2022-141AQ
+altkm:540.64485972829
+velkms:7.5932356669432
+velkmh:27336
+onumepoch:10211
+onumnow:154075.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:34:28+00:00
+nowjuliandate:2460552.6377955
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5258
+1 54195U 22141AQ  24242.52393559 -.00000824  00000+0 -33702-4 0  9993
+2 54195  53.2185 335.4210 0001385  88.4511 271.6640 15.08830321102114

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50205
+launchyear:2021
+epoch:24242.59155408
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3260
+meananomly:271.8088
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8696483156
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001214
+argumentofperigree:88.3043
+nickname:STARLINK-3260
+idesg:21125BB 
+cosparid:2021-125BB
+altkm:540.60341173977
+velkms:7.593257934309
+velkmh:27336
+onumepoch:15258
+onumnow:230225.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:11:50+00:00
+nowjuliandate:2460552.6379851
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3260
+1 50205U 21125BB  24242.59155408  .00000564  00000+0  53542-4 0  9991
+2 50205  53.2152 190.0304 0001214  88.3043 271.8088 15.08844189152586

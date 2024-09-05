@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:46+00:00
+validtle:1
+satid:47672
+launchyear:2021
+epoch:24242.11125417
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2065
+meananomly:271.9324
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3427928904
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:9.48E-5
+argumentofperigree:88.1774
+nickname:STARLINK-2065
+idesg:21012BE 
+cosparid:2021-012BE
+altkm:548.06281453444
+velkms:7.5891684083413
+velkmh:27321
+onumepoch:19584
+onumnow:295029.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:40:12+00:00
+nowjuliandate:2460552.6394247
+nowepochdate:24243.1394212963
+TLE:
+STARLINK-2065
+1 47672U 21012BE  24242.11125417  .00003966  00000+0  28495-3 0  9992
+2 47672  53.0545  24.6815 0000948  88.1774 271.9324 15.06402555195840

@@ -1,0 +1,38 @@
+date:2024-08-29T08:40:11+00:00
+validtle:1
+satid:56769
+launchyear:2023
+epoch:24241.55343193
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5978
+meananomly:90.4019
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1821954389
+altitudeatperigee:569
+altitudeatapogee:575
+inclination:70.0001
+eccentricity:0.0003818
+argumentofperigree:269.6703
+nickname:STARLINK-5978
+idesg:23078C  
+cosparid:2023-078C
+altkm:574.48861942443
+velkms:7.5738466675245
+velkmh:27266
+onumepoch:6858
+onumnow:102767.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:16:57+00:00
+nowjuliandate:2460551.8612386
+nowepochdate:24242.3612384259
+TLE:
+STARLINK-5978
+1 56769U 23078C   24241.55343193  .00000510  00000+0  50554-4 0  9997
+2 56769  70.0001 331.7153 0003818 269.6703  90.4019 14.98334129 68583

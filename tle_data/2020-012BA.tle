@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45226
+launchyear:2020
+epoch:24242.5955008
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1217
+meananomly:263.8629
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3466270182
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.056
+eccentricity:0.0002657
+argumentofperigree:96.2663
+nickname:STARLINK-1217
+idesg:20012BA 
+cosparid:2020-012BA
+altkm:548.28608243671
+velkms:7.5889259213234
+velkmh:27320
+onumepoch:25134
+onumnow:378632.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:17:31+00:00
+nowjuliandate:2460553.0283824
+nowepochdate:24243.5283796296
+TLE:
+STARLINK-1217
+1 45226U 20012BA  24242.59550080  .00018348  00000+0  12474-2 0  9993
+2 45226  53.0560 347.5122 0002657  96.2663 263.8629 15.06401304251341

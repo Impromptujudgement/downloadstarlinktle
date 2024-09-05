@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53267
+launchyear:2022
+epoch:24241.84309537
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4060
+meananomly:263.1130
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8740834265
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001363
+argumentofperigree:97.0018
+nickname:STARLINK-4060
+idesg:22086AB 
+cosparid:2022-086AB
+altkm:540.7476988272
+velkms:7.5931020435393
+velkmh:27335
+onumepoch:11685
+onumnow:176327.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:14:03+00:00
+nowjuliandate:2460552.6378689
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4060
+1 53267U 22086AB  24241.84309537  .00000747  00000+0  65028-4 0  9995
+2 53267  53.2177 178.3908 0001363  97.0018 263.1130 15.08842738116857

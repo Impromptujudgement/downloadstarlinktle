@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52656
+launchyear:2022
+epoch:24242.41446099
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4004
+meananomly:268.3057
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8817707651
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001426
+argumentofperigree:91.8098
+nickname:STARLINK-4004
+idesg:22053A  
+cosparid:2022-053A
+altkm:540.67146250805
+velkms:7.5931899032661
+velkmh:27335
+onumepoch:12698
+onumnow:191603.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:56:49+00:00
+nowjuliandate:2460552.637905
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4004
+1 52656U 22053A   24242.41446099 -.00000348  00000+0 -37442-5 0  9998
+2 52656  53.2172 135.8369 0001426  91.8098 268.3057 15.08840223126989

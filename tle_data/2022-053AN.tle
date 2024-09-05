@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52692
+launchyear:2022
+epoch:24242.41806821
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3993
+meananomly:196.4000
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8875874812
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2165
+eccentricity:5.69E-5
+argumentofperigree:163.7011
+nickname:STARLINK-3993
+idesg:22053AN 
+cosparid:2022-053AN
+altkm:541.02549461569
+velkms:7.5928046342009
+velkmh:27334
+onumepoch:12662
+onumnow:191059.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:01+00:00
+nowjuliandate:2460552.6379032
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3993
+1 52692U 22053AN  24242.41806821 -.00001568  00000+0 -80460-4 0  9993
+2 52692  53.2165 125.5375 0000569 163.7011 196.4000 15.08838320126620

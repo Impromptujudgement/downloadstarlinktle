@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55432
+launchyear:2023
+epoch:24242.27242506
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5637
+meananomly:91.6569
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1877339404
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9956
+eccentricity:0.0003117
+argumentofperigree:268.4233
+nickname:STARLINK-5637
+idesg:23014AT 
+cosparid:2023-014AT
+altkm:574.53753574975
+velkms:7.5737963817345
+velkmh:27266
+onumepoch:8663
+onumnow:129813.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:32:18+00:00
+nowjuliandate:2460552.6377635
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5637
+1 55432U 23014AT  24242.27242506  .00000991  00000+0  90855-4 0  9990
+2 55432  69.9956  69.8769 0003117 268.4233  91.6569 14.98332338 86633

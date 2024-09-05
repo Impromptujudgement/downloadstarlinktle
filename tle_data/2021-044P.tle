@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48651
+launchyear:2021
+epoch:24241.90853948
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2731
+meananomly:283.5200
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2473245134
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:8.05E-5
+argumentofperigree:76.5878
+nickname:STARLINK-2731
+idesg:21044P  
+cosparid:2021-044P
+altkm:547.8590103497
+velkms:7.5893394857234
+velkmh:27322
+onumepoch:17963
+onumnow:270619.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:48:18+00:00
+nowjuliandate:2460552.6380085
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2731
+1 48651U 21044P   24241.90853948  .00030592  00000+0  20619-2 0  9992
+2 48651  53.0531 105.5950 0000805  76.5878 283.5200 15.06433705179632

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53742
+launchyear:2022
+epoch:24242.7382494
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4637
+meananomly:254.0777
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8685601709
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.000126
+argumentofperigree:106.0354
+nickname:STARLINK-4637
+idesg:22107AU 
+cosparid:2022-107AU
+altkm:540.86795924268
+velkms:7.5929670646422
+velkmh:27335
+onumepoch:10973
+onumnow:165571.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:43:05+00:00
+nowjuliandate:2460552.6378306
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4637
+1 53742U 22107AU  24242.73824940  .00000661  00000+0  59603-4 0  9993
+2 53742  53.2153 244.3012 0001260 106.0354 254.0777 15.08844545109732

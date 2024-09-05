@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45541
+launchyear:2020
+epoch:24242.95855744
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1369
+meananomly:287.3115
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2827470348
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:9.35E-5
+argumentofperigree:72.7976
+nickname:STARLINK-1369
+idesg:20025L  
+cosparid:2020-025L
+altkm:547.83217586121
+velkms:7.5893882491232
+velkmh:27322
+onumepoch:24059
+onumnow:362438.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:00:19+00:00
+nowjuliandate:2460553.0283312
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1369
+1 45541U 20025L   24242.95855744  .00006411  00000+0  44859-3 0  9993
+2 45541  53.0539  85.8814 0000935  72.7976 287.3115 15.06422147240594

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:54+00:00
+validtle:1
+satid:72326
+launchyear:2021
+epoch:21083.38508394
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2326
+meananomly:125.1778
+meanmotion:15.8497
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6694.5558553758
+altitudeatperigee:315
+altitudeatapogee:318
+inclination:53.0503
+eccentricity:0.0002106
+argumentofperigree:285.9706
+nickname:STARLINK-2326
+idesg:21021L  
+cosparid:2021-021L
+altkm:320.5129838161
+velkms:7.7205200488887
+velkmh:27794
+onumepoch:1
+onumnow:50096.93
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:14:31+00:00
+nowjuliandate:2460552.6397014
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-2326
+1 72326C 21021L   21083.38508394 -.00981903  00000-0 -42906-2 0   839
+2 72326  53.0503 168.5889 0002106 285.9706 125.1778 15.84967284    15

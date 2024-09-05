@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51469
+launchyear:2022
+epoch:24241.75615654
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3182
+meananomly:265.9754
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8558203519
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001394
+argumentofperigree:94.1397
+nickname:STARLINK-3182
+idesg:22010P  
+cosparid:2022-010P
+altkm:540.68383158593
+velkms:7.5931621208028
+velkmh:27335
+onumepoch:14259
+onumnow:215165.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:08:52+00:00
+nowjuliandate:2460552.6379665
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3182
+1 51469U 22010P   24241.75615654  .00002570  00000+0  17943-3 0  9992
+2 51469  53.2154 263.7842 0001394  94.1397 265.9754 15.08848713142593

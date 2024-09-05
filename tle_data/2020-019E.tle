@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45364
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1313
+meananomly:61.3093
+meanmotion:15.5151
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6790.4451389497
+altitudeatperigee:409
+altitudeatapogee:415
+inclination:53.0173
+eccentricity:0.0004636
+argumentofperigree:293.0402
+nickname:STARLINK-1313
+idesg:20019E  
+cosparid:2020-019E
+altkm:412.39920209258
+velkms:7.665250167968
+velkmh:27595
+onumepoch:588
+onumnow:9131.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283503
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1313
+1 45364U 20019E   24243.00001157  .00124200  00000+0  20394-2 0  9991
+2 45364  53.0173  37.3286 0004636 293.0402  61.3093 15.51513608  5889

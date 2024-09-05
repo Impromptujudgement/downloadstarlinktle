@@ -1,0 +1,38 @@
+date:2024-08-28T21:09:48+00:00
+validtle:1
+satid:57747
+launchyear:2023
+epoch:24241.53183374
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30307
+meananomly:100.4588
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2207294812
+altitudeatperigee:559
+altitudeatapogee:559
+inclination:43.0075
+eccentricity:5.44E-5
+argumentofperigree:259.6193
+nickname:STARLINK-30307
+idesg:23131R  
+cosparid:2023-131R
+altkm:558.9308980273
+velkms:7.583759723007
+velkmh:27302
+onumepoch:5596
+onumnow:84087.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:45:50+00:00
+nowjuliandate:2460551.3818084
+nowepochdate:24241.8818055556
+TLE:
+STARLINK-30307
+1 57747U 23131R   24241.53183374  .00000763  00000+0  71549-4 0  9992
+2 57747  43.0075 324.5857 0000544 259.6193 100.4588 15.02535309 55967

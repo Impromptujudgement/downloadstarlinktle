@@ -1,0 +1,38 @@
+date:2024-08-28T17:47:18+00:00
+validtle:1
+satid:58117
+launchyear:2023
+epoch:24241.19151131
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30601
+meananomly:275.6585
+meanmotion:15.2802
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6859.878901223
+altitudeatperigee:481
+altitudeatapogee:483
+inclination:53.16
+eccentricity:0.000144
+argumentofperigree:84.4579
+nickname:STARLINK-30601
+idesg:23161W  
+cosparid:2023-161W
+altkm:482.54345344627
+velkms:7.6254139641556
+velkmh:27451
+onumepoch:4878
+onumnow:74545.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:35:47+00:00
+nowjuliandate:2460551.2411889
+nowepochdate:24241.7411805556
+TLE:
+STARLINK-30601
+1 58117U 23161W   24241.19151131 -.00004570  00000+0 -15245-3 0  9997
+2 58117  53.1600 239.6553 0001440  84.4579 275.6585 15.28017340 48784

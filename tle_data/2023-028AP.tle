@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55778
+launchyear:2023
+epoch:24242.55737459
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5816
+meananomly:88.8625
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1907954283
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0003
+eccentricity:0.0002728
+argumentofperigree:271.2222
+nickname:STARLINK-5816
+idesg:23028AP 
+cosparid:2023-028AP
+altkm:574.44047412392
+velkms:7.5739038082907
+velkmh:27266
+onumepoch:8308
+onumnow:124490.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:22:37+00:00
+nowjuliandate:2460552.6377376
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5816
+1 55778U 23028AP  24242.55737459 -.00000210  00000+0 -98355-5 0  9995
+2 55778  70.0003 189.0405 0002728 271.2222  88.8625 14.98331348 83088

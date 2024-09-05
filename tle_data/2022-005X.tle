@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51125
+launchyear:2022
+epoch:24242.40664606
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3387
+meananomly:272.1304
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9072109647
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2177
+eccentricity:0.0001533
+argumentofperigree:87.9864
+nickname:STARLINK-3387
+idesg:22005X  
+cosparid:2022-005X
+altkm:540.62837654908
+velkms:7.5932511103531
+velkmh:27336
+onumepoch:14571
+onumnow:219860.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:45:34+00:00
+nowjuliandate:2460552.6379701
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3387
+1 51125U 22005X   24242.40664606 -.00000962  00000+0 -42361-4 0  9997
+2 51125  53.2177 280.8762 0001533  87.9864 272.1304 15.08831900145710

@@ -1,0 +1,38 @@
+date:2024-08-29T05:44:39+00:00
+validtle:1
+satid:57227
+launchyear:2023
+epoch:24241.57478567
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5996
+meananomly:100.6495
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2026000806
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001121
+argumentofperigree:259.4221
+nickname:STARLINK-5996
+idesg:23094K  
+cosparid:2023-094K
+altkm:558.98730053901
+velkms:7.5836882115848
+velkmh:27301
+onumepoch:6316
+onumnow:94910.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:47:41+00:00
+nowjuliandate:2460551.7393479
+nowepochdate:24242.2393402778
+TLE:
+STARLINK-5996
+1 57227U 23094K   24241.57478567  .00001537  00000+0  12880-3 0  9990
+2 57227  43.0009 183.0861 0001121 259.4221 100.6495 15.02541199 63166

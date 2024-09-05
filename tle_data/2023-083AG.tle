@@ -1,0 +1,38 @@
+date:2024-08-29T08:03:08+00:00
+validtle:1
+satid:56906
+launchyear:2023
+epoch:24241.65706705
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6098
+meananomly:92.4433
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1944772858
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.000116
+argumentofperigree:267.6276
+nickname:STARLINK-6098
+idesg:23083AG 
+cosparid:2023-083AG
+altkm:558.86993143123
+velkms:7.5838120298045
+velkmh:27302
+onumepoch:6787
+onumnow:101987.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:46:11+00:00
+nowjuliandate:2460551.8355096
+nowepochdate:24242.3355092593
+TLE:
+STARLINK-6098
+1 56906U 23083AG  24241.65706705  .00001696  00000+0  14053-3 0  9998
+2 56906  43.0021 221.3307 0001160 267.6276  92.4433 15.02543838 67872

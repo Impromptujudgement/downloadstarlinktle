@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55650
+launchyear:2023
+epoch:24242.4567808
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5494
+meananomly:90.8300
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1962968379
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.001
+eccentricity:0.0002685
+argumentofperigree:269.2551
+nickname:STARLINK-5494
+idesg:23021Y  
+cosparid:2023-021Y
+altkm:574.51069957779
+velkms:7.5738302829498
+velkmh:27266
+onumepoch:8502
+onumnow:127398.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:57:46+00:00
+nowjuliandate:2460552.6377418
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-5494
+1 55650U 23021Y   24242.45678080 -.00000609  00000+0 -43279-4 0  9996
+2 55650  70.0010 149.4290 0002685 269.2551  90.8300 14.98329569 85022

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48555
+launchyear:2021
+epoch:24241.93618087
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2145
+meananomly:289.0911
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3240514069
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0555
+eccentricity:0.0001325
+argumentofperigree:71.0222
+nickname:STARLINK-2145
+idesg:21041C  
+cosparid:2021-041C
+altkm:547.76624884626
+velkms:7.5894830552357
+velkmh:27322
+onumepoch:18099
+onumnow:272663.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:28:06+00:00
+nowjuliandate:2460552.6380167
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2145
+1 48555U 21041C   24241.93618087  .00008621  00000+0  59683-3 0  9990
+2 48555  53.0555 125.4753 0001325  71.0222 289.0911 15.06408670180998

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45388
+launchyear:2020
+epoch:24243.01570676
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1280
+meananomly:287.0370
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3837794089
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001228
+argumentofperigree:73.0754
+nickname:STARLINK-1280
+idesg:20019AE 
+cosparid:2020-019AE
+altkm:547.876631839
+velkms:7.5893947786748
+velkmh:27322
+onumepoch:24582
+onumnow:370308.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:22:37+00:00
+nowjuliandate:2460553.0283598
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1280
+1 45388U 20019AE  24243.01570676  .00018487  00000+0  12571-2 0  9992
+2 45388  53.0529 145.6207 0001228  73.0754 287.0370 15.06389182245829

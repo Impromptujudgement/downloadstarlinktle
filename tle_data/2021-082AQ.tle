@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49168
+launchyear:2021
+epoch:24242.24710921
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3101
+meananomly:90.6373
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.176622932
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9985
+eccentricity:0.0002891
+argumentofperigree:269.4455
+nickname:STARLINK-3101
+idesg:21082AQ 
+cosparid:2021-082AQ
+altkm:574.48624250301
+velkms:7.573846226033
+velkmh:27266
+onumepoch:16417
+onumnow:245995.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:55:50+00:00
+nowjuliandate:2460552.6380048
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3101
+1 49168U 21082AQ  24242.24710921  .00000542  00000+0  53180-4 0  9992
+2 49168  69.9985 239.9525 0002891 269.4455  90.6373 14.98335931164179

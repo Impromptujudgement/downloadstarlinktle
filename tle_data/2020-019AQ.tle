@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45398
+launchyear:2020
+epoch:24242.99174753
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1312
+meananomly:279.7634
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3698556324
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0538
+eccentricity:0.0001547
+argumentofperigree:80.353
+nickname:STARLINK-1312
+idesg:20019AQ 
+cosparid:2020-019AQ
+altkm:547.9303603281
+velkms:7.5893283068936
+velkmh:27322
+onumepoch:24585
+onumnow:370354.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:48:07+00:00
+nowjuliandate:2460553.0283572
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1312
+1 45398U 20019AQ  24242.99174753  .00022910  00000+0  15522-2 0  9990
+2 45398  53.0538 125.7293 0001547  80.3530 279.7634 15.06393725245853

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52639
+launchyear:2022
+epoch:24242.18856548
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3968
+meananomly:276.9890
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8888009542
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001629
+argumentofperigree:83.1288
+nickname:STARLINK-3968
+idesg:22052AT 
+cosparid:2022-052AT
+altkm:540.51219123385
+velkms:7.5933685161378
+velkmh:27336
+onumepoch:12734
+onumnow:192149.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:31:32+00:00
+nowjuliandate:2460552.6379094
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3968
+1 52639U 22052AT  24242.18856548  .00000712  00000+0  62852-4 0  9991
+2 52639  53.2168 241.8401 0001629  83.1288 276.9890 15.08837923127344

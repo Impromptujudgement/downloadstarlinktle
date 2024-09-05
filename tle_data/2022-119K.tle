@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53895
+launchyear:2022
+epoch:24242.46409024
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5032
+meananomly:267.2241
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8735301835
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.00013
+argumentofperigree:92.89
+nickname:STARLINK-5032
+idesg:22119K  
+cosparid:2022-119K
+altkm:540.67762235951
+velkms:7.5931786319397
+velkmh:27335
+onumepoch:10714
+onumnow:161667.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:08:17+00:00
+nowjuliandate:2460552.6378117
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5032
+1 53895U 22119K   24242.46409024  .00001047  00000+0  83875-4 0  9994
+2 53895  53.2176 305.5211 0001300  92.8900 267.2241 15.08842919107149

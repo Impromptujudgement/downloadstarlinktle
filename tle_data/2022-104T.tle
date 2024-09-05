@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53605
+launchyear:2022
+epoch:24241.25703294
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4693
+meananomly:269.0465
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8770972274
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.000151
+argumentofperigree:91.07
+nickname:STARLINK-4693
+idesg:22104T  
+cosparid:2022-104T
+altkm:540.65487008572
+velkms:7.5932055500686
+velkmh:27336
+onumepoch:11131
+onumnow:167977.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:10:08+00:00
+nowjuliandate:2460552.6378389
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4693
+1 53605U 22104T   24241.25703294  .00000229  00000+0  32504-4 0  9993
+2 53605  53.2158 230.7988 0001510  91.0700 269.0465 15.08841752111316

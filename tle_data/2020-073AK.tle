@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:16+00:00
+validtle:1
+satid:46703
+launchyear:2020
+epoch:24241.69474796
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1803
+meananomly:261.1337
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3368532209
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.051
+eccentricity:0.0001434
+argumentofperigree:98.9814
+nickname:STARLINK-1803
+idesg:20073AK 
+cosparid:2020-073AK
+altkm:548.23178710725
+velkms:7.5889800549634
+velkmh:27320
+onumepoch:21302
+onumnow:320913.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:40:26+00:00
+nowjuliandate:2460552.6404657
+nowepochdate:24243..140462963
+TLE:
+STARLINK-1803
+1 46703U 20073AK  24241.69474796  .00001427  00000+0  11466-3 0  9991
+2 46703  53.0510 226.5533 0001434  98.9814 261.1337 15.06404493213020

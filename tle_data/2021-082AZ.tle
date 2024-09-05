@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49177
+launchyear:2021
+epoch:24242.21349893
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3103
+meananomly:91.2826
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1771950257
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9989
+eccentricity:0.0003125
+argumentofperigree:268.7975
+nickname:STARLINK-3103
+idesg:21082AZ 
+cosparid:2021-082AZ
+altkm:574.51321425877
+velkms:7.5738171482714
+velkmh:27266
+onumepoch:16465
+onumnow:246714.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:07:26+00:00
+nowjuliandate:2460552.6380041
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3103
+1 49177U 21082AZ  24242.21349893  .00000523  00000+0  51593-4 0  9990
+2 49177  69.9989 220.0566 0003125 268.7975  91.2826 14.98335746164656

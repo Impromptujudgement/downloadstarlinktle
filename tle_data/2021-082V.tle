@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49149
+launchyear:2021
+epoch:24241.78419958
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3053
+meananomly:97.1414
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2076645968
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.000278
+argumentofperigree:262.9429
+nickname:STARLINK-3053
+idesg:21082V  
+cosparid:2021-082V
+altkm:574.73515264567
+velkms:7.5735919056233
+velkmh:27265
+onumepoch:16360
+onumnow:245146.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:49:15+00:00
+nowjuliandate:2460552.6380009
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3053
+1 49149U 21082V   24241.78419958  .00001339  00000+0  12001-3 0  9996
+2 49149  69.9991 261.1254 0002780 262.9429  97.1414 14.98325893163608

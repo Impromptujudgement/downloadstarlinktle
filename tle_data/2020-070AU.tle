@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46574
+launchyear:2020
+epoch:24242.95166144
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1660
+meananomly:249.9129
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.410578968
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001532
+argumentofperigree:110.2024
+nickname:STARLINK-1660
+idesg:20070AU 
+cosparid:2020-070AU
+altkm:548.51710021354
+velkms:7.5887078189106
+velkmh:27319
+onumepoch:21580
+onumnow:325085.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:50:24+00:00
+nowjuliandate:2460553.0282314
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1660
+1 46574U 20070AU  24242.95166144  .00010662  00000+0  73400-3 0  9996
+2 46574  53.0535 140.9114 0001532 110.2024 249.9129 15.06380438215800

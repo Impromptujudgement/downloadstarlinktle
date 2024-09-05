@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:56029
+launchyear:2023
+epoch:24242.5605723
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5774
+meananomly:101.4912
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2189996419
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0036
+eccentricity:0.0001106
+argumentofperigree:258.5806
+nickname:STARLINK-5774
+idesg:23042AV 
+cosparid:2023-042AV
+altkm:559.01313379898
+velkms:7.58366892391
+velkmh:27301
+onumepoch:7959
+onumnow:119595.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:27:13+00:00
+nowjuliandate:2460552.6377237
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5774
+1 56029U 23042AV  24242.56057230  .00000923  00000+0  83417-4 0  9995
+2 56029  43.0036 190.3833 0001106 258.5806 101.4912 15.02535871 79594

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45769
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1459
+meananomly:219.7888
+meanmotion:15.5379
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6783.8034727686
+altitudeatperigee:405
+altitudeatapogee:407
+inclination:53.0523
+eccentricity:0.0001279
+argumentofperigree:94.8325
+nickname:STARLINK-1459
+idesg:20038AR 
+cosparid:2020-038AR
+altkm:417.39714687088
+velkms:7.6600654673424
+velkmh:27576
+onumepoch:23347
+onumnow:362768.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283089
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1459
+1 45769U 20038AR  24243.25001157  .01267006  00000+0  17571-1 0  9993
+2 45769  53.0523 211.4315 0001279  94.8325 219.7888 15.53792674233479

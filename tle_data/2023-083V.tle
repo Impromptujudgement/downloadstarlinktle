@@ -1,0 +1,38 @@
+date:2024-08-29T07:31:19+00:00
+validtle:1
+satid:56895
+launchyear:2023
+epoch:24241.68222163
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6208
+meananomly:95.2812
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2008271609
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0013
+eccentricity:0.0001168
+argumentofperigree:264.7897
+nickname:STARLINK-6208
+idesg:23083V  
+cosparid:2023-083V
+altkm:558.91645854142
+velkms:7.5837646517318
+velkmh:27302
+onumepoch:6773
+onumnow:101776.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:22:24+00:00
+nowjuliandate:2460551.8134203
+nowepochdate:24242.3134143519
+TLE:
+STARLINK-6208
+1 56895U 23083V   24241.68222163  .00001690  00000+0  14015-3 0  9991
+2 56895  43.0013 233.6581 0001168 264.7897  95.2812 15.02541775 67730

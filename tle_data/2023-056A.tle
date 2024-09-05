@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56286
+launchyear:2023
+epoch:23129.52385935
+epochday:129
+tleage:479
+tleclassification:U
+active:0
+name:STARLINK-30096
+meananomly:154.2533
+meanmotion:16.1383
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6614.4916461813
+altitudeatperigee:231
+altitudeatapogee:242
+inclination:42.9937
+eccentricity:0.0008722
+argumentofperigree:205.8111
+nickname:STARLINK-30096
+idesg:23056A  
+cosparid:2023-056A
+altkm:241.31575230824
+velkms:7.7609305255614
+velkmh:27939
+onumepoch:443
+onumnow:25121.13
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-05-09T12:34:21+00:00
+nowjuliandate:2460552.6377123
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-30096
+1 56286U 23056A   23129.52385935  .02613538  10751-1  24326-2 0  9992
+2 56286  42.9937  79.4119 0008722 205.8111 154.2533 16.13831722  4439

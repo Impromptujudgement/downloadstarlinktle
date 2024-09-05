@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51120
+launchyear:2022
+epoch:24242.37812575
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3398
+meananomly:268.3026
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8937037576
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.000149
+argumentofperigree:91.8137
+nickname:STARLINK-3398
+idesg:22005S  
+cosparid:2022-005S
+altkm:540.68476467241
+velkms:7.5931818417465
+velkmh:27335
+onumepoch:14585
+onumnow:220073.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:04:30+00:00
+nowjuliandate:2460552.6379705
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3398
+1 51120U 22005S   24242.37812575 -.00000392  00000+0 -65445-5 0  9994
+2 51120  53.2172 271.0008 0001490  91.8137 268.3026 15.08836319145856

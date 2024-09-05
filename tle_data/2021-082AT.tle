@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49171
+launchyear:2021
+epoch:24242.41424268
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3107
+meananomly:94.7539
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1876380756
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9976
+eccentricity:0.0003021
+argumentofperigree:265.3275
+nickname:STARLINK-3107
+idesg:21082AT 
+cosparid:2021-082AT
+altkm:574.64892646941
+velkms:7.5736749584588
+velkmh:27265
+onumepoch:16366
+onumnow:245227.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:56:31+00:00
+nowjuliandate:2460552.6380047
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3107
+1 49171U 21082AT  24242.41424268  .00001825  00000+0  16066-3 0  9997
+2 49171  69.9976 259.5521 0003021 265.3275  94.7539 14.98332369163662

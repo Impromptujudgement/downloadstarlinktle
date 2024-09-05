@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52108
+launchyear:2022
+epoch:24242.75345106
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3698
+meananomly:273.5886
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8996855563
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001341
+argumentofperigree:86.526
+nickname:STARLINK-3698
+idesg:22029W  
+cosparid:2022-029W
+altkm:540.60207375076
+velkms:7.5932758504889
+velkmh:27336
+onumepoch:13670
+onumnow:206263.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:04:58+00:00
+nowjuliandate:2460552.6379367
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3698
+1 52108U 22029W   24242.75345106 -.00000398  00000+0 -69106-5 0  9994
+2 52108  53.2168  59.3025 0001341  86.5260 273.5886 15.08834362136709

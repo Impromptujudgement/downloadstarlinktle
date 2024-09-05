@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51790
+launchyear:2022
+epoch:24242.43052063
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3631
+meananomly:280.1082
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8926308865
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001375
+argumentofperigree:80.0065
+nickname:STARLINK-3631
+idesg:22017Y  
+cosparid:2022-017Y
+altkm:540.48618585768
+velkms:7.5933991484734
+velkmh:27336
+onumepoch:13984
+onumnow:211006.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:19:57+00:00
+nowjuliandate:2460552.6379538
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3631
+1 51790U 22017Y   24242.43052063 -.00000532  00000+0 -15354-4 0  9994
+2 51790  53.2171 330.7555 0001375  80.0065 280.1082 15.08836670139846

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54788
+launchyear:2022
+epoch:24241.96313164
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5399
+meananomly:278.3537
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8423225653
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001439
+argumentofperigree:81.7619
+nickname:STARLINK-5399
+idesg:22175AG 
+cosparid:2022-175AG
+altkm:540.45808796994
+velkms:7.593402432435
+velkmh:27336
+onumepoch:9377
+onumnow:141502.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:06:55+00:00
+nowjuliandate:2460552.6377903
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5399
+1 54788U 22175AG  24241.96313164  .00002555  00000+0  17850-3 0  9995
+2 54788  53.2160  12.7208 0001439  81.7619 278.3537 15.08853129 93773

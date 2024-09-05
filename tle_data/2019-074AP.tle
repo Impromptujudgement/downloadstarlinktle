@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:45+00:00
+validtle:1
+satid:44750
+launchyear:2019
+epoch:21317.81636824
+epochday:317
+tleage:1021
+tleclassification:C
+active:0
+name:STARLINK-1045
+meananomly:274.1975
+meanmotion:16.0010
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6652.2759286757
+altitudeatperigee:211
+altitudeatapogee:337
+inclination:53.2182
+eccentricity:0.0094288
+argumentofperigree:45.6519
+nickname:STARLINK-1045
+idesg:19074AP 
+cosparid:2019-074AP
+altkm:280.09595366407
+velkms:7.7414108980269
+velkmh:27869
+onumepoch:1
+onumnow:46830.41
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-11-13T19:35:34+00:00
+nowjuliandate:2460553.0312358
+nowepochdate:24243.5312268519
+TLE:
+STARLINK-1045
+1 44750C 19074AP  21317.81636824  .00334334  00000-0  37028-3 0  3170
+2 44750  53.2182 133.3887 0094288  45.6519 274.1975 16.00101653    16

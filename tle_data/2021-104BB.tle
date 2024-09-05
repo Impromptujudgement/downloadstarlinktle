@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49457
+launchyear:2021
+epoch:24242.5795904
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3132
+meananomly:268.1239
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8601178946
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001352
+argumentofperigree:91.9908
+nickname:STARLINK-3132
+idesg:21104BB 
+cosparid:2021-104BB
+altkm:540.65114972953
+velkms:7.5932003346624
+velkmh:27336
+onumepoch:15574
+onumnow:234996.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:54:37+00:00
+nowjuliandate:2460552.6379972
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3132
+1 49457U 21104BB  24242.57959040  .00001274  00000+0  98095-4 0  9998
+2 49457  53.2163 200.0963 0001352  91.9908 268.1239 15.08847307155744

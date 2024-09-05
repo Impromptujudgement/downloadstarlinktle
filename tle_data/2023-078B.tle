@@ -1,0 +1,38 @@
+date:2024-08-29T08:43:48+00:00
+validtle:1
+satid:56768
+launchyear:2023
+epoch:24241.88676211
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6198
+meananomly:89.6636
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1897130837
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9983
+eccentricity:0.0003114
+argumentofperigree:270.4166
+nickname:STARLINK-6198
+idesg:23078B  
+cosparid:2023-078B
+altkm:574.46435080013
+velkms:7.5738772022499
+velkmh:27266
+onumepoch:6962
+onumnow:104329.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:16:56+00:00
+nowjuliandate:2460551.8637559
+nowepochdate:24242.9008.36375
+TLE:
+STARLINK-6198
+1 56768U 23078B   24241.88676211 -.00000253  00000+0 -13413-4 0  9991
+2 56768  69.9983 290.7389 0003114 270.4166  89.6636 14.98331698 69624

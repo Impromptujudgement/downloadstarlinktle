@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:42+00:00
+validtle:1
+satid:47758
+launchyear:2021
+epoch:22109.36788362
+epochday:109
+tleage:864
+tleclassification:C
+active:0
+name:STARLINK-2176
+meananomly:330.7083
+meanmotion:15.9632
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6662.7783994968
+altitudeatperigee:282
+altitudeatapogee:287
+inclination:53.0494
+eccentricity:0.0004169
+argumentofperigree:243.38
+nickname:STARLINK-2176
+idesg:21017AN 
+cosparid:2021-017AN
+altkm:290.1423075192
+velkms:7.7348122484092
+velkmh:27845
+onumepoch:1
+onumnow:34075.70
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-19T08:49:45+00:00
+nowjuliandate:2460552.6393852
+nowepochdate:24243.009.139375
+TLE:
+STARLINK-2176
+1 47758C 21017AN  22109.36788362  .01021957  00000-0  22494-2 0  1090
+2 47758  53.0494  65.3286 0004169 243.3800 330.7083 15.96319808    13

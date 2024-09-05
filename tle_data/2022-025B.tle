@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51957
+launchyear:2022
+epoch:24241.69232233
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3694
+meananomly:257.3424
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3420082894
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0568
+eccentricity:0.0001582
+argumentofperigree:102.7742
+nickname:STARLINK-3694
+idesg:22025B  
+cosparid:2022-025B
+altkm:548.32458465038
+velkms:7.5888812185538
+velkmh:27320
+onumepoch:13674
+onumnow:206007.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:36:57+00:00
+nowjuliandate:2460552.637945
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3694
+1 51957U 22025B   24241.69232233  .00001062  00000+0  90156-4 0  9994
+2 51957  53.0568  20.8212 0001582 102.7742 257.3424 15.06402811136746

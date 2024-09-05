@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55282
+launchyear:2023
+epoch:24242.60135259
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5330
+meananomly:92.4380
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.203251699
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.003
+eccentricity:0.0002793
+argumentofperigree:267.6459
+nickname:STARLINK-5330
+idesg:23010P  
+cosparid:2023-010P
+altkm:574.57338420427
+velkms:7.5737657657639
+velkmh:27266
+onumepoch:8903
+onumnow:133404.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:25:57+00:00
+nowjuliandate:2460552.6377739
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5330
+1 55282U 23010P   24242.60135259 -.00000575  00000+0 -40397-4 0  9998
+2 55282  70.0030   8.9047 0002793 267.6459  92.4380 14.98327320 89037

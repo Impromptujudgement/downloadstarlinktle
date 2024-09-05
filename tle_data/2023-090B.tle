@@ -1,0 +1,38 @@
+date:2024-08-29T06:32:36+00:00
+validtle:1
+satid:57102
+launchyear:2023
+epoch:24241.23495382
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6111
+meananomly:88.3763
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1967580681
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001289
+argumentofperigree:271.6932
+nickname:STARLINK-6111
+idesg:23090B  
+cosparid:2023-090B
+altkm:558.81269141103
+velkms:7.5838758181796
+velkmh:27302
+onumepoch:6640
+onumnow:99784.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:38:20+00:00
+nowjuliandate:2460551.7726472
+nowepochdate:24242.2726388889
+TLE:
+STARLINK-6111
+1 57102U 23090B   24241.23495382  .00002078  00000+0  16883-3 0  9993
+2 57102  43.0030  69.4536 0001289 271.6932  88.3763 15.02543097 66407

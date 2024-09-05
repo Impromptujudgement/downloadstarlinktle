@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53152
+launchyear:2022
+epoch:24241.47050356
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4045
+meananomly:278.5915
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.864714989
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001168
+argumentofperigree:81.5209
+nickname:STARLINK-4045
+idesg:22083W  
+cosparid:2022-083W
+altkm:540.50432905956
+velkms:7.5933639539924
+velkmh:27336
+onumepoch:11771
+onumnow:177631.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:17:32+00:00
+nowjuliandate:2460552.6378748
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4045
+1 53152U 22083W   24241.47050356  .00002742  00000+0  19027-3 0  9990
+2 53152  53.2157 150.0658 0001168  81.5209 278.5915 15.08845803117713

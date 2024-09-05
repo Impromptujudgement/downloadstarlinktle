@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53597
+launchyear:2022
+epoch:24241.91667824
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4682
+meananomly:78.0134
+meanmotion:15.3413
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.6593655201
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.2193
+eccentricity:1.83E-5
+argumentofperigree:219.1057
+nickname:STARLINK-4682
+idesg:22104K  
+cosparid:2022-104K
+altkm:478.99989745605
+velkms:7.6258830148737
+velkmh:27453
+onumepoch:585
+onumnow:8993.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:00:01+00:00
+nowjuliandate:2460552.6378402
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4682
+1 53597U 22104K   24241.91667824  .00612002  00000+0  17050-1 0  9998
+2 53597  53.2193 225.8538 0000183 219.1057  78.0134 15.34125133  5853

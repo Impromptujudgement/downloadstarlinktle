@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47598
+launchyear:2021
+epoch:24242.05873157
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2003
+meananomly:266.6536
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3522602228
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001102
+argumentofperigree:93.4579
+nickname:STARLINK-2003
+idesg:21009BC 
+cosparid:2021-009BC
+altkm:548.13892874288
+velkms:7.5890902020822
+velkmh:27321
+onumepoch:19750
+onumnow:297530.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:24:34+00:00
+nowjuliandate:2460552.6394763
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2003
+1 47598U 21009BC  24242.05873157  .00014430  00000+0  98567-3 0  9994
+2 47598  53.0539 354.9235 0001102  93.4579 266.6536 15.06399466197507

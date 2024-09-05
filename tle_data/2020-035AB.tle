@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45682
+launchyear:2020
+epoch:24242.14120122
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1397
+meananomly:272.2462
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2975928776
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001372
+argumentofperigree:87.8684
+nickname:STARLINK-1397
+idesg:20035AB 
+cosparid:2020-035AB
+altkm:548.00259253026
+velkms:7.5892096709164
+velkmh:27321
+onumepoch:23482
+onumnow:353757.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:23:20+00:00
+nowjuliandate:2460553.0283274
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1397
+1 45682U 20035AB  24242.14120122  .00015018  00000+0  10245-2 0  9990
+2 45682  53.0545  39.5502 0001372  87.8684 272.2462 15.06417303234821

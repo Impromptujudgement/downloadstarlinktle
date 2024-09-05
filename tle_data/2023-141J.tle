@@ -1,0 +1,38 @@
+date:2024-08-28T20:29:14+00:00
+validtle:1
+satid:57848
+launchyear:2023
+epoch:24241.51582568
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30426
+meananomly:316.7837
+meanmotion:15.3425
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.2881635813
+altitudeatperigee:463
+altitudeatapogee:464
+inclination:53.1634
+eccentricity:8.55E-5
+argumentofperigree:43.3233
+nickname:STARLINK-30426
+idesg:23141J  
+cosparid:2023-141J
+altkm:463.62652000112
+velkms:7.6361486905413
+velkmh:27490
+onumepoch:5484
+onumnow:84143.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:22:47+00:00
+nowjuliandate:2460551.3536406
+nowepochdate:24241.8536342593
+TLE:
+STARLINK-30426
+1 57848U 23141J   24241.51582568  .00017983  00000+0  54466-3 0  9991
+2 57848  53.1634 358.3498 0000855  43.3233 316.7837 15.34249995 54849

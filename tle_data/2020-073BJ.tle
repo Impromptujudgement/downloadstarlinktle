@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:20+00:00
+validtle:1
+satid:46726
+launchyear:2020
+epoch:24242.22089654
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1829
+meananomly:266.6035
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3633642281
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0525
+eccentricity:0.0001612
+argumentofperigree:93.5138
+nickname:STARLINK-1829
+idesg:20073BJ 
+cosparid:2020-073BJ
+altkm:548.17157198775
+velkms:7.5890605126949
+velkmh:27321
+onumepoch:21358
+onumnow:321749.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:18:05+00:00
+nowjuliandate:2460552.6398201
+nowepochdate:24243.1398148148
+TLE:
+STARLINK-1829
+1 46726U 20073BJ  24242.22089654  .00001272  00000+0  10427-3 0  9995
+2 46726  53.0525 224.1810 0001612  93.5138 266.6035 15.06395843213585

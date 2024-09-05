@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:43+00:00
+validtle:1
+satid:44720
+launchyear:2019
+epoch:24243.04593561
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1014
+meananomly:235.4712
+meanmotion:15.1284
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6905.6844202632
+altitudeatperigee:526
+altitudeatapogee:529
+inclination:53.0524
+eccentricity:0.0002224
+argumentofperigree:124.6489
+nickname:STARLINK-1014
+idesg:19074H  
+cosparid:2019-074H
+altkm:529.29955368597
+velkms:7.5989952546022
+velkmh:27356
+onumepoch:26508
+onumnow:401030.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:06:09+00:00
+nowjuliandate:2460553.02967
+nowepochdate:24243.5296643519
+TLE:
+STARLINK-1014
+1 44720U 19074H   24243.04593561  .00038787  00000+0  21865-2 0  9992
+2 44720  53.0524 161.1935 0002224 124.6489 235.4712 15.12839532265082

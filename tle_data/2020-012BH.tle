@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45233
+launchyear:2020
+epoch:24242.63694022
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1238
+meananomly:302.2948
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3570597956
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:4.7E-5
+argumentofperigree:57.8086
+nickname:STARLINK-1238
+idesg:20012BH 
+cosparid:2020-012BH
+altkm:547.92524502996
+velkms:7.5893269152197
+velkmh:27322
+onumepoch:25114
+onumnow:378330.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:17:12+00:00
+nowjuliandate:2460553.0283792
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1238
+1 45233U 20012BH  24242.63694022  .00014684  00000+0  10027-2 0  9992
+2 45233  53.0542   7.3187 0000470  57.8086 302.2948 15.06397900251140

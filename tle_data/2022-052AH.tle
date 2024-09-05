@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52629
+launchyear:2022
+epoch:24242.29803696
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4022
+meananomly:270.4529
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8746764053
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001653
+argumentofperigree:89.6653
+nickname:STARLINK-4022
+idesg:22052AH 
+cosparid:2022-052AH
+altkm:540.62624485265
+velkms:7.5932356341851
+velkmh:27336
+onumepoch:12722
+onumnow:191967.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:09:10+00:00
+nowjuliandate:2460552.6379101
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4022
+1 52629U 22052AH  24242.29803696  .00000062  00000+0  21991-4 0  9995
+2 52629  53.2176 251.3057 0001653  89.6653 270.4529 15.08842544127229

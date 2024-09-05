@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53572
+launchyear:2022
+epoch:24242.70234908
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4555
+meananomly:265.0003
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8985912865
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001933
+argumentofperigree:95.121
+nickname:STARLINK-4555
+idesg:22101AX 
+cosparid:2022-101AX
+altkm:540.77549479032
+velkms:7.5930849646482
+velkmh:27335
+onumepoch:11236
+onumnow:169539.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:51:23+00:00
+nowjuliandate:2460552.6378483
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4555
+1 53572U 22101AX  24242.70234908 -.00000674  00000+0 -24241-4 0  9990
+2 53572  53.2147  34.2050 0001933  95.1210 265.0003 15.08834720112361

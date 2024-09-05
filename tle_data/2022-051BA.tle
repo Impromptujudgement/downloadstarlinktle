@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52584
+launchyear:2022
+epoch:24242.33392104
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3922
+meananomly:278.1011
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.872704904
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001461
+argumentofperigree:82.0147
+nickname:STARLINK-3922
+idesg:22051BA 
+cosparid:2022-051BA
+altkm:540.49056876481
+velkms:7.5933834280018
+velkmh:27336
+onumepoch:12751
+onumnow:192404.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:00:51+00:00
+nowjuliandate:2460552.6379142
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3922
+1 52584U 22051BA  24242.33392104  .00001316  00000+0  10074-3 0  9998
+2 52584  53.2150 101.1853 0001461  82.0147 278.1011 15.08843189127518

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55300
+launchyear:2023
+epoch:24242.04600614
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5308
+meananomly:91.9060
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2316836242
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9996
+eccentricity:0.000296
+argumentofperigree:268.176
+nickname:STARLINK-5308
+idesg:23010AH 
+cosparid:2023-010AH
+altkm:574.58747521511
+velkms:7.5737658827074
+velkmh:27266
+onumepoch:8943
+onumnow:134010.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:06:15+00:00
+nowjuliandate:2460552.6377777
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5308
+1 55300U 23010AH  24242.04600614  .00002947  00000+0  25479-3 0  9995
+2 55300  69.9996 350.3058 0002960 268.1760  91.9060 14.98318126 89436

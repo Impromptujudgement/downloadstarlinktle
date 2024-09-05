@@ -1,0 +1,38 @@
+date:2024-08-29T07:27:22+00:00
+validtle:1
+satid:57048
+launchyear:2023
+epoch:24241.32942379
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5847
+meananomly:92.0576
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.178037856
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001407
+argumentofperigree:268.0105
+nickname:STARLINK-5847
+idesg:23088A  
+cosparid:2023-088A
+altkm:558.85424967806
+velkms:7.5838202047221
+velkmh:27302
+onumepoch:6654
+onumnow:99994.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:54:22+00:00
+nowjuliandate:2460551.8106733
+nowepochdate:24242.3106712963
+TLE:
+STARLINK-5847
+1 57048U 23088A   24241.32942379  .00005078  00000+0  39058-3 0  9994
+2 57048  43.0019 261.8144 0001407 268.0105  92.0576 15.02549179 66546

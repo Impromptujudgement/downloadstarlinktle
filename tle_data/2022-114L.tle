@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53828
+launchyear:2022
+epoch:24242.41809395
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4760
+meananomly:270.9563
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8982856247
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001297
+argumentofperigree:89.1578
+nickname:STARLINK-4760
+idesg:22114L  
+cosparid:2022-114L
+altkm:540.64367390222
+velkms:7.5932294374983
+velkmh:27336
+onumepoch:10816
+onumnow:163205.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:02:03+00:00
+nowjuliandate:2460552.6378182
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4760
+1 53828U 22114L   24242.41809395 -.00001023  00000+0 -46198-4 0  9998
+2 53828  53.2160 285.7166 0001297  89.1578 270.9563 15.08834820108164

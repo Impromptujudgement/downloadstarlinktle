@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53536
+launchyear:2022
+epoch:24242.16048813
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4053
+meananomly:271.8128
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8595799373
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2244
+eccentricity:0.0001481
+argumentofperigree:88.3034
+nickname:STARLINK-4053
+idesg:22101K  
+cosparid:2022-101K
+altkm:540.58846899651
+velkms:7.5932688189158
+velkmh:27336
+onumepoch:11213
+onumnow:169201.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:51:06+00:00
+nowjuliandate:2460552.6378466
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4053
+1 53536U 22101K   24242.16048813  .00002077  00000+0  14854-3 0  9993
+2 53536  53.2244  46.8893 0001481  88.3034 271.8128 15.08847483112137

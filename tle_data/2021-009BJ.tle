@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47604
+launchyear:2021
+epoch:24242.61162508
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2021
+meananomly:279.3543
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3908164135
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0566
+eccentricity:0.000158
+argumentofperigree:80.7625
+nickname:STARLINK-2021
+idesg:21009BJ 
+cosparid:2021-009BJ
+altkm:547.95545188359
+velkms:7.5893122781719
+velkmh:27322
+onumepoch:19758
+onumnow:297639.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:40:44+00:00
+nowjuliandate:2460552.6394712
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-2021
+1 47604U 21009BJ  24242.61162508  .00000721  00000+0  67341-4 0  9990
+2 47604  53.0566 352.4393 0001580  80.7625 279.3543 15.06386886197583

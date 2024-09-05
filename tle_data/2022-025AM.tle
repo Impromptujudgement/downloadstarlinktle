@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51991
+launchyear:2022
+epoch:24241.69727644
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3652
+meananomly:253.7012
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8354606044
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2205
+eccentricity:0.0001693
+argumentofperigree:106.4166
+nickname:STARLINK-3652
+idesg:22025AM 
+cosparid:2022-025AM
+altkm:540.92506872215
+velkms:7.5928862782695
+velkmh:27334
+onumepoch:13682
+onumnow:206463.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:44:05+00:00
+nowjuliandate:2460552.6379467
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3652
+1 51991U 22025AM  24241.69727644 -.00000809  00000+0 -32741-4 0  9993
+2 51991  53.2205  24.0513 0001693 106.4166 253.7012 15.08855374136828

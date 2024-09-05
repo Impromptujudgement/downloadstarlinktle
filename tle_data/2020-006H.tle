@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:56+00:00
+validtle:1
+satid:45051
+launchyear:2020
+epoch:23053.44595467
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1141
+meananomly:81.5743
+meanmotion:15.3081
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6851.529829015
+altitudeatperigee:470
+altitudeatapogee:476
+inclination:53.0585
+eccentricity:0.0004433
+argumentofperigree:278.4754
+nickname:STARLINK-1141
+idesg:20006H  
+cosparid:2020-006H
+altkm:473.83809424465
+velkms:7.6304628494371
+velkmh:27470
+onumepoch:16933
+onumnow:277430.17
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T10:42:10+00:00
+nowjuliandate:2460553.028426
+nowepochdate:24243.5284259259
+TLE:
+STARLINK-1141
+1 45051U 20006H   23053.44595467  .00088908  00000+0  29217-2 0  9995
+2 45051  53.0585 209.5811 0004433 278.4754  81.5743 15.30811186169334

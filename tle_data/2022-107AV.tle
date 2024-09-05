@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53743
+launchyear:2022
+epoch:24242.22307162
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4645
+meananomly:275.0747
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8818227273
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001344
+argumentofperigree:85.0399
+nickname:STARLINK-4645
+idesg:22107AV 
+cosparid:2022-107AV
+altkm:540.55992117057
+velkms:7.5933123218005
+velkmh:27336
+onumepoch:10965
+onumnow:165458.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:21:13+00:00
+nowjuliandate:2460552.6378305
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4645
+1 53743U 22107AV  24242.22307162  .00000832  00000+0  70357-4 0  9999
+2 53743  53.2157 246.7716 0001344  85.0399 275.0747 15.08840206109653

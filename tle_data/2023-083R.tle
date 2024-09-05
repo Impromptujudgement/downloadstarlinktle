@@ -1,0 +1,38 @@
+date:2024-08-29T07:34:29+00:00
+validtle:1
+satid:56891
+launchyear:2023
+epoch:24241.6922104
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6213
+meananomly:95.2303
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1971028019
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.00012
+argumentofperigree:264.8402
+nickname:STARLINK-6213
+idesg:23083R  
+cosparid:2023-083R
+altkm:558.91407101739
+velkms:7.5837652306102
+velkmh:27302
+onumepoch:6773
+onumnow:101776.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:36:47+00:00
+nowjuliandate:2460551.8156184
+nowepochdate:24242.3156134259
+TLE:
+STARLINK-6213
+1 56891U 23083R   24241.69221040  .00001629  00000+0  13560-3 0  9997
+2 56891  43.0015 233.7346 0001200 264.8402  95.2303 15.02542985 67737

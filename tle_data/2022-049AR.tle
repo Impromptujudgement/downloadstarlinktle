@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52490
+launchyear:2022
+epoch:24242.68260308
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3914
+meananomly:261.8687
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8846623103
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.000219
+argumentofperigree:98.2554
+nickname:STARLINK-3914
+idesg:22049AR 
+cosparid:2022-049AR
+altkm:540.85943225991
+velkms:7.5929852385577
+velkmh:27335
+onumepoch:12846
+onumnow:193832.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:22:57+00:00
+nowjuliandate:2460552.6379217
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3914
+1 52490U 22049AR  24242.68260308  .00000146  00000+0  27279-4 0  9995
+2 52490  53.2152  29.6192 0002190  98.2554 261.8687 15.08839277128463

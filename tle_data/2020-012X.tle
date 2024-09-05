@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45199
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1197
+meananomly:349.9214
+meanmotion:15.9687
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6661.2413905515
+altitudeatperigee:276
+altitudeatapogee:290
+inclination:53.0437
+eccentricity:0.0010723
+argumentofperigree:10.6059
+nickname:STARLINK-1197
+idesg:20012X  
+cosparid:2020-012X
+altkm:276.94336925842
+velkms:7.7465557853983
+velkmh:27888
+onumepoch:25136
+onumnow:401394.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283719
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1197
+1 45199U 20012X   24243.25001157  .00421213  83763-4  95706-3 0  9993
+2 45199  53.0437 288.5171 0010723  10.6059 349.9214 15.96872340251362

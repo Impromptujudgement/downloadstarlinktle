@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:50+00:00
+validtle:1
+satid:48027
+launchyear:2021
+epoch:24100.50001157
+epochday:100
+tleage:143
+tleclassification:U
+active:0
+name:STARLINK-2300
+meananomly:185.7159
+meanmotion:16.0147
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6648.4928559641
+altitudeatperigee:264
+altitudeatapogee:277
+inclination:53.0356
+eccentricity:0.0009406
+argumentofperigree:44.4957
+nickname:STARLINK-2300
+idesg:21024BC 
+cosparid:2021-024BC
+altkm:288.93400633236
+velkms:7.7302588111956
+velkmh:27829
+onumepoch:608
+onumnow:12021.23
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-04-09T12:00:01+00:00
+nowjuliandate:2460552.6380858
+nowepochdate:24243.1380787037
+TLE:
+STARLINK-2300
+1 48027U 21024BC  24100.50001157  .03021554  11156-1  61695-2 0  9990
+2 48027  53.0356 123.1434 0009406  44.4957 185.7159 16.01467563  6084

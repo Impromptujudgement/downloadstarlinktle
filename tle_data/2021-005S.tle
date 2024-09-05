@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:56+00:00
+validtle:1
+satid:47365
+launchyear:2021
+epoch:22200.30951389
+epochday:200
+tleage:773
+tleclassification:C
+active:0
+name:STARLINK-2080
+meananomly:7.3247
+meanmotion:15.9747
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6659.5863225103
+altitudeatperigee:275
+altitudeatapogee:287
+inclination:53.0214
+eccentricity:0.0008995
+argumentofperigree:292.8988
+nickname:STARLINK-2080
+idesg:21005S  
+cosparid:2021-005S
+altkm:290.22755885135
+velkms:7.7365370405425
+velkmh:27852
+onumepoch:1
+onumnow:32647.29
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-07-19T07:25:42+00:00
+nowjuliandate:2460552.639541
+nowepochdate:24243..139537037
+TLE:
+STARLINK-2080
+1 47365C 21005S   22200.30951389  .02686910  00000-0  50488-2 0  2001
+2 47365  53.0214  25.8672 0008995 292.8988   7.3247 15.97467669    13

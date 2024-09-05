@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48462
+launchyear:2021
+epoch:24242.53609356
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2683
+meananomly:271.9014
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3966581217
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001492
+argumentofperigree:88.2146
+nickname:STARLINK-2683
+idesg:21040AL 
+cosparid:2021-040AL
+altkm:548.10453756856
+velkms:7.5891521489752
+velkmh:27321
+onumepoch:18311
+onumnow:275843.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:51:58+00:00
+nowjuliandate:2460552.6380276
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2683
+1 48462U 21040AL  24242.53609356  .00025176  00000+0  17037-2 0  9992
+2 48462  53.0537 173.0575 0001492  88.2146 271.9014 15.06384980183114

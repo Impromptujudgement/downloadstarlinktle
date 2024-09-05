@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56409
+launchyear:2023
+epoch:24242.5364652
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6241
+meananomly:70.3306
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1569015893
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0041
+eccentricity:0.0001417
+argumentofperigree:289.7383
+nickname:STARLINK-6241
+idesg:23061AM 
+cosparid:2023-061AM
+altkm:558.46748089393
+velkms:7.5842313116903
+velkmh:27303
+onumepoch:7338
+onumnow:110266.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:52:31+00:00
+nowjuliandate:2460552.637704
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6241
+1 56409U 23061AM  24242.53646520 -.00004060  00000+0 -28548-3 0  9992
+2 56409  43.0041 331.9474 0001417 289.7383  70.3306 15.02556046 73386

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48474
+launchyear:2021
+epoch:24242.513944
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2697
+meananomly:259.4727
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3626163997
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001282
+argumentofperigree:100.6406
+nickname:STARLINK-2697
+idesg:21040AY 
+cosparid:2021-040AY
+altkm:548.26692010074
+velkms:7.5889556533786
+velkmh:27320
+onumepoch:18378
+onumnow:276854.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:20:05+00:00
+nowjuliandate:2460552.6380265
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2697
+1 48474U 21040AY  24242.51394400  .00021327  00000+0  14465-2 0  9990
+2 48474  53.0534 172.8821 0001282 100.6406 259.4727 15.06396087183786

@@ -1,0 +1,38 @@
+date:2024-08-29T06:37:19+00:00
+validtle:1
+satid:57143
+launchyear:2023
+epoch:24241.74593973
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5358
+meananomly:80.7184
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1962809813
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0033
+eccentricity:0.0001046
+argumentofperigree:279.354
+nickname:STARLINK-5358
+idesg:23090AU 
+cosparid:2023-090AU
+altkm:558.72052451485
+velkms:7.5839762681725
+velkmh:27302
+onumepoch:6644
+onumnow:99836.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:54:09+00:00
+nowjuliandate:2460551.7759158
+nowepochdate:24242.2759143519
+TLE:
+STARLINK-5358
+1 57143U 23090AU  24241.74593973  .00002781  00000+0  22084-3 0  9990
+2 57143  43.0033  53.3799 0001046 279.3540  80.7184 15.02543252 66449

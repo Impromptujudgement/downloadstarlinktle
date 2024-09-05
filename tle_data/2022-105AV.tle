@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53691
+launchyear:2022
+epoch:24242.24044686
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4560
+meananomly:239.3183
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1476570771
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6563
+eccentricity:7.92E-5
+argumentofperigree:120.812
+nickname:STARLINK-4560
+idesg:22105AV 
+cosparid:2022-105AV
+altkm:566.3488137988
+velkms:7.5778033917005
+velkmh:27280
+onumepoch:10988
+onumnow:164971.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:46:15+00:00
+nowjuliandate:2460552.637836
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4560
+1 53691U 22105AV  24242.24044686 -.00000480  00000+0 -32816-4 0  9999
+2 53691  97.6563 122.0100 0000792 120.8120 239.3183 15.01260409109883

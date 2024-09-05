@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52697
+launchyear:2022
+epoch:24241.44523671
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4018
+meananomly:249.6628
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8460943586
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001511
+argumentofperigree:110.4527
+nickname:STARLINK-4018
+idesg:22053AT 
+cosparid:2022-053AT
+altkm:540.96982535563
+velkms:7.5928429930979
+velkmh:27334
+onumepoch:12681
+onumnow:191363.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:41:08+00:00
+nowjuliandate:2460552.6379024
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4018
+1 52697U 22053AT  24241.44523671  .00005576  00000+0  36802-3 0  9990
+2 52697  53.2166 135.1755 0001511 110.4527 249.6628 15.08851895126814

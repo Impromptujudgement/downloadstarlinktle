@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53617
+launchyear:2022
+epoch:24241.67750508
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4601
+meananomly:263.8546
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8720385674
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2161
+eccentricity:0.0001368
+argumentofperigree:96.2602
+nickname:STARLINK-4601
+idesg:22104AF 
+cosparid:2022-104AF
+altkm:540.73373839099
+velkms:7.5931162415482
+velkmh:27335
+onumepoch:11139
+onumnow:168092.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:15:36+00:00
+nowjuliandate:2460552.6378438
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4601
+1 53617U 22104AF  24241.67750508  .00000322  00000+0  38323-4 0  9991
+2 53617  53.2161 219.1672 0001368  96.2602 263.8546 15.08843407111392

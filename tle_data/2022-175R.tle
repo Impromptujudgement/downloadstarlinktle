@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54773
+launchyear:2022
+epoch:24242.69592889
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5453
+meananomly:279.3526
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8597755581
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2191
+eccentricity:0.0001317
+argumentofperigree:80.7615
+nickname:STARLINK-5453
+idesg:22175R  
+cosparid:2022-175R
+altkm:540.47242046992
+velkms:7.5933962627873
+velkmh:27336
+onumepoch:9367
+onumnow:141340.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:42:08+00:00
+nowjuliandate:2460552.6377862
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5453
+1 54773U 22175R   24242.69592889 -.00004009  00000+0 -23387-3 0  9993
+2 54773  53.2191  24.4359 0001317  80.7615 279.3526 15.08847419 93671

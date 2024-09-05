@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45236
+launchyear:2020
+epoch:24242.57707133
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1247
+meananomly:272.3132
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3371014731
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001139
+argumentofperigree:87.7988
+nickname:STARLINK-1247
+idesg:20012BL 
+cosparid:2020-012BL
+altkm:548.04734410112
+velkms:7.5891822445266
+velkmh:27321
+onumepoch:25049
+onumnow:377353.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:50:59+00:00
+nowjuliandate:2460553.028379
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1247
+1 45236U 20012BL  24242.57707133  .00016532  00000+0  11260-2 0  9990
+2 45236  53.0535 347.5951 0001139  87.7988 272.3132 15.06404412250495

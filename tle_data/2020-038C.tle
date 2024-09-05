@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45732
+launchyear:2020
+epoch:24243.01692756
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1466
+meananomly:319.7782
+meanmotion:16.0527
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6637.9854282266
+altitudeatperigee:257
+altitudeatapogee:262
+inclination:53.0451
+eccentricity:0.000389
+argumentofperigree:165.9055
+nickname:STARLINK-1466
+idesg:20038C  
+cosparid:2020-038C
+altkm:261.5715946655
+velkms:7.7566054066562
+velkmh:27924
+onumepoch:23439
+onumnow:376267.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:24:23+00:00
+nowjuliandate:2460553.0283044
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1466
+1 45732U 20038C   24243.01692756  .01895902  26113-2  27490-2 0  9998
+2 45732  53.0451 142.7656 0003890 165.9055 319.7782 16.05271570234395

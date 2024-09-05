@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47630
+launchyear:2021
+epoch:24241.70489216
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1983
+meananomly:268.6048
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3064654826
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.051
+eccentricity:0.0002287
+argumentofperigree:91.5203
+nickname:STARLINK-1983
+idesg:21012L  
+cosparid:2021-012L
+altkm:548.08712341015
+velkms:7.5891219179894
+velkmh:27321
+onumepoch:19564
+onumnow:294736.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:55:03+00:00
+nowjuliandate:2460552.6394116
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-1983
+1 47630U 21012L   24241.70489216  .00014833  00000+0  10122-2 0  9992
+2 47630  53.0510  36.5926 0002287  91.5203 268.6048 15.06414408195648

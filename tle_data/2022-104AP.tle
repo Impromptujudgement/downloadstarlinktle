@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53625
+launchyear:2022
+epoch:24242.18531609
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4603
+meananomly:272.5411
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8673283673
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001568
+argumentofperigree:87.5761
+nickname:STARLINK-4603
+idesg:22104AP 
+cosparid:2022-104AP
+altkm:540.57974161674
+velkms:7.5932826368609
+velkmh:27336
+onumepoch:11090
+onumnow:167345.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:26:51+00:00
+nowjuliandate:2460552.6378429
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4603
+1 53625U 22104AP  24242.18531609  .00000705  00000+0  62370-4 0  9990
+2 53625  53.2168 216.6520 0001568  87.5761 272.5411 15.08844948110908

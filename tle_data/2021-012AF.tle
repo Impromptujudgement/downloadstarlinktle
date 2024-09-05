@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47649
+launchyear:2021
+epoch:24241.72700402
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2032
+meananomly:49.8631
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3347446107
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.061
+eccentricity:0.0001197
+argumentofperigree:310.2253
+nickname:STARLINK-2032
+idesg:21012AF 
+cosparid:2021-012AF
+altkm:547.54324709599
+velkms:7.5897332122021
+velkmh:27323
+onumepoch:19617
+onumnow:295532.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:26:53+00:00
+nowjuliandate:2460552.6394455
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-2032
+1 47649U 21012AF  24241.72700402  .00001046  00000+0  89076-4 0  9995
+2 47649  53.0610  36.4048 0001197 310.2253  49.8631 15.06405181196172

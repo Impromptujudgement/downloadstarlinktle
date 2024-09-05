@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45761
+launchyear:2020
+epoch:22326.10048611
+epochday:326
+tleage:647
+tleclassification:C
+active:0
+name:STARLINK-1495
+meananomly:349.6317
+meanmotion:15.9160
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6675.9495779301
+altitudeatperigee:292
+altitudeatapogee:304
+inclination:53.0339
+eccentricity:0.0008958
+argumentofperigree:30.7611
+nickname:STARLINK-1495
+idesg:20038AH 
+cosparid:2020-038AH
+altkm:292.16327447777
+velkms:7.7384227170174
+velkmh:27858
+onumepoch:1
+onumnow:30533.66
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-11-22T02:24:42+00:00
+nowjuliandate:2460553.0283102
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1495
+1 45761C 20038AH  22326.10048611  .01266630  00000-0  35400-2 0  3264
+2 45761  53.0339  21.9811 0008958  30.7611 349.6317 15.91597999    16

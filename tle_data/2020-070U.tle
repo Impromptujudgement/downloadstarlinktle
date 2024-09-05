@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46550
+launchyear:2020
+epoch:24242.99635189
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1701
+meananomly:247.8420
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4035081991
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001465
+argumentofperigree:112.2724
+nickname:STARLINK-1701
+idesg:20070U  
+cosparid:2020-070U
+altkm:548.52836384459
+velkms:7.588691614973
+velkmh:27319
+onumepoch:21561
+onumnow:324799.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:54:45+00:00
+nowjuliandate:2460553.0282278
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1701
+1 46550U 20070U   24242.99635189  .00012345  00000+0  84661-3 0  9995
+2 46550  53.0543 155.7144 0001465 112.2724 247.8420 15.06382745215617

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45738
+launchyear:2020
+epoch:24243.20090426
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1474
+meananomly:264.0781
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3011940178
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001447
+argumentofperigree:96.0373
+nickname:STARLINK-1474
+idesg:20038J  
+cosparid:2020-038J
+altkm:548.14670234834
+velkms:7.5890537682409
+velkmh:27321
+onumepoch:23343
+onumnow:351647.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:49:18+00:00
+nowjuliandate:2460553.0283028
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1474
+1 45738U 20038J   24243.20090426  .00002005  00000+0  15340-3 0  9990
+2 45738  53.0533 214.7911 0001447  96.0373 264.0781 15.06416128233434

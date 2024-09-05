@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:38+00:00
+validtle:1
+satid:47740
+launchyear:2021
+epoch:24242.17299623
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2152
+meananomly:265.1117
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3529712701
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001376
+argumentofperigree:95.0029
+nickname:STARLINK-2152
+idesg:21017U  
+cosparid:2021-017U
+altkm:548.17627579703
+velkms:7.5890496780298
+velkmh:27321
+onumepoch:19306
+onumnow:290839.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:09:07+00:00
+nowjuliandate:2460552.6393297
+nowepochdate:24243.1393287037
+TLE:
+STARLINK-2152
+1 47740U 21017U   24242.17299623 -.00000532  00000+0 -16822-4 0  9990
+2 47740  53.0533 194.4075 0001376  95.0029 265.1117 15.06399234193069

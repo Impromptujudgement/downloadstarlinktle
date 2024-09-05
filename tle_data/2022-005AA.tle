@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:51128
+launchyear:2022
+epoch:24242.3909672
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3400
+meananomly:266.4566
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8956997268
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001497
+argumentofperigree:93.6598
+nickname:STARLINK-3400
+idesg:22005AA 
+cosparid:2022-005AA
+altkm:540.72006939254
+velkms:7.5931441963649
+velkmh:27335
+onumepoch:14571
+onumnow:219861.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:23:00+00:00
+nowjuliandate:2460552.6379749
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3400
+1 51128U 22005AA  24242.39096720  .00002374  00000+0  16722-3 0  9992
+2 51128  53.2157 280.9357 0001497  93.6598 266.4566 15.08835666145718

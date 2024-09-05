@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53920
+launchyear:2022
+epoch:24242.41079465
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5025
+meananomly:273.6874
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9159070856
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2174
+eccentricity:0.0001273
+argumentofperigree:86.4264
+nickname:STARLINK-5025
+idesg:22119AL 
+cosparid:2022-119AL
+altkm:540.6197757408
+velkms:7.5932653093065
+velkmh:27336
+onumepoch:10727
+onumnow:161862.34
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:51:33+00:00
+nowjuliandate:2460552.6378151
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5025
+1 53920U 22119AL  24242.41079465 -.00001955  00000+0 -10479-3 0  9999
+2 53920  53.2174 295.9118 0001273  86.4264 273.6874 15.08829055107278

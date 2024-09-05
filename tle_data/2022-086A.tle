@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53242
+launchyear:2022
+epoch:24242.55839922
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4056
+meananomly:267.2361
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8657572835
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.0001451
+argumentofperigree:92.8797
+nickname:STARLINK-4056
+idesg:22086A  
+cosparid:2022-086A
+altkm:540.67461374207
+velkms:7.5931776766974
+velkmh:27335
+onumepoch:11670
+onumnow:176091.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:24:06+00:00
+nowjuliandate:2460552.6378688
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4056
+1 53242U 22086A   24242.55839922  .00000168  00000+0  28661-4 0  9992
+2 53242  53.2165 180.1693 0001451  92.8797 267.2361 15.08845462116706

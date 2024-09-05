@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49768
+launchyear:2021
+epoch:24242.38359977
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3196
+meananomly:271.7727
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8765867761
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001549
+argumentofperigree:88.3443
+nickname:STARLINK-3196
+idesg:21115AW 
+cosparid:2021-115AW
+altkm:540.60396917153
+velkms:7.5932611224719
+velkmh:27336
+onumepoch:15265
+onumnow:230336.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:12:23+00:00
+nowjuliandate:2460552.6379905
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3196
+1 49768U 21115AW  24242.38359977  .00000674  00000+0  60406-4 0  9995
+2 49768  53.2171 120.9635 0001549  88.3443 271.7727 15.08841919152658

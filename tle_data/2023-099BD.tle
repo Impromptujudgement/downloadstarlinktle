@@ -1,0 +1,38 @@
+date:2024-08-29T04:58:04+00:00
+validtle:1
+satid:57379
+launchyear:2023
+epoch:24240.89996773
+epochday:240
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6361
+meananomly:91.0716
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2161709569
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0039
+eccentricity:9.28E-5
+argumentofperigree:269.002
+nickname:STARLINK-6361
+idesg:23099BD 
+cosparid:2023-099BD
+altkm:558.86952349456
+velkms:7.5838242998
+velkmh:27302
+onumepoch:6295
+onumnow:94604.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T21:35:57+00:00
+nowjuliandate:2460551.7069959
+nowepochdate:24242.2069907407
+TLE:
+STARLINK-6361
+1 57379U 23099BD  24240.89996773  .00001635  00000+0  13606-3 0  9997
+2 57379  43.0039  31.9414 0000928 269.0020  91.0716 15.02536790 62956

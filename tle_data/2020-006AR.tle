@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:59+00:00
+validtle:1
+satid:45083
+launchyear:2020
+epoch:24242.40014199
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1190
+meananomly:269.6453
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.355907407
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001452
+argumentofperigree:90.4702
+nickname:STARLINK-1190
+idesg:20006AR 
+cosparid:2020-006AR
+altkm:548.10431845241
+velkms:7.5891301110201
+velkmh:27321
+onumepoch:25246
+onumnow:380322.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:36:12+00:00
+nowjuliandate:2460553.0284701
+nowepochdate:24243.5284606481
+TLE:
+STARLINK-1190
+1 45083U 20006AR  24242.40014199  .00001179  00000+0  98010-4 0  9999
+2 45083  53.0539 268.3895 0001452  90.4702 269.6453 15.06398276252463

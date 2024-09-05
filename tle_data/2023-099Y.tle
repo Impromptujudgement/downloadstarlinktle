@@ -1,0 +1,38 @@
+date:2024-08-29T04:41:26+00:00
+validtle:1
+satid:57350
+launchyear:2023
+epoch:24240.76269535
+epochday:240
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6362
+meananomly:101.4414
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2246200844
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0041
+eccentricity:0.0001128
+argumentofperigree:258.6301
+nickname:STARLINK-6362
+idesg:23099Y  
+cosparid:2023-099Y
+altkm:559.02119107481
+velkms:7.5836631836467
+velkmh:27301
+onumepoch:6218
+onumnow:93449.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:18:17+00:00
+nowjuliandate:2460551.6954429
+nowepochdate:24242.1954398148
+TLE:
+STARLINK-6362
+1 57350U 23099Y   24240.76269535  .00000598  00000+0  59322-4 0  9994
+2 57350  43.0041  33.4985 0001128 258.6301 101.4414 15.02534045 62184

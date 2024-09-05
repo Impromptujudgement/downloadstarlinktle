@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53531
+launchyear:2022
+epoch:24242.75574632
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4487
+meananomly:268.8565
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.889302238
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001434
+argumentofperigree:91.2591
+nickname:STARLINK-4487
+idesg:22101E  
+cosparid:2022-101E
+altkm:540.66944318144
+velkms:7.5931962428093
+velkmh:27336
+onumepoch:11208
+onumnow:169116.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:08:16+00:00
+nowjuliandate:2460552.637847
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4487
+1 53531U 22101E   24242.75574632 -.00000792  00000+0 -31706-4 0  9996
+2 53531  53.2155  54.2922 0001434  91.2591 268.8565 15.08837759112088

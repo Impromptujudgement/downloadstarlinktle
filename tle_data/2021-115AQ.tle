@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49762
+launchyear:2021
+epoch:24241.96775555
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3195
+meananomly:285.7508
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8216878291
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001299
+argumentofperigree:74.3627
+nickname:STARLINK-3195
+idesg:21115AQ 
+cosparid:2021-115AQ
+altkm:540.33804321532
+velkms:7.593522858696
+velkmh:27337
+onumepoch:15148
+onumnow:228579.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:13:34+00:00
+nowjuliandate:2460552.6379921
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3195
+1 49762U 21115AQ  24241.96775555  .00008311  00000+0  53938-3 0  9993
+2 49762  53.2152 122.8317 0001299  74.3627 285.7508 15.08859880151488

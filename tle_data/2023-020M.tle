@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55580
+launchyear:2023
+epoch:24241.95807814
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5757
+meananomly:91.3691
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2170697335
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0053
+eccentricity:0.0001163
+argumentofperigree:268.7018
+nickname:STARLINK-5757
+idesg:23020M  
+cosparid:2023-020M
+altkm:558.87784784402
+velkms:7.5838156942265
+velkmh:27302
+onumepoch:8532
+onumnow:128214.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:59:38+00:00
+nowjuliandate:2460552.637749
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5757
+1 55580U 23020M   24241.95807814  .00002731  00000+0  21716-3 0  9997
+2 55580  43.0053 129.0695 0001163 268.7018  91.3691 15.02536498 85325

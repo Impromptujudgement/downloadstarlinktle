@@ -1,0 +1,38 @@
+date:2024-08-28T19:04:41+00:00
+validtle:1
+satid:57985
+launchyear:2023
+epoch:24241.43379809
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30519
+meananomly:85.3083
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.217528356
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:9.29E-5
+argumentofperigree:274.7653
+nickname:STARLINK-30519
+idesg:23151X  
+cosparid:2023-151X
+altkm:558.80587336346
+velkms:7.5838945882736
+velkmh:27302
+onumepoch:5154
+onumnow:77446.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:24:40+00:00
+nowjuliandate:2460551.2949238
+nowepochdate:24241.7949189815
+TLE:
+STARLINK-30519
+1 57985U 23151X   24241.43379809  .00000678  00000+0  65218-4 0  9998
+2 57985  43.0015 145.2409 0000929 274.7653  85.3083 15.02536349 51548

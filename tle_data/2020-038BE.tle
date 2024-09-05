@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45782
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1498
+meananomly:139.9779
+meanmotion:15.4929
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6796.9484252764
+altitudeatperigee:418
+altitudeatapogee:419
+inclination:53.0444
+eccentricity:9.59E-5
+argumentofperigree:314.22
+nickname:STARLINK-1498
+idesg:20038BE 
+cosparid:2020-038BE
+altkm:425.79072952422
+velkms:7.6620993176472
+velkmh:27584
+onumepoch:23510
+onumnow:364241.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283055
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1498
+1 45782U 20038BE  24243.25001157  .00133537  00000+0  23698-2 0  9996
+2 45782  53.0444  83.6604 0000959 314.2200 139.9779 15.49287420235108

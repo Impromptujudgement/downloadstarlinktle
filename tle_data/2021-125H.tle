@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50163
+launchyear:2021
+epoch:24242.21247838
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3306
+meananomly:270.0030
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8764920217
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001409
+argumentofperigree:90.1123
+nickname:STARLINK-3306
+idesg:21125H  
+cosparid:2021-125H
+altkm:540.63675150045
+velkms:7.593225099328
+velkmh:27336
+onumepoch:15209
+onumnow:229491.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:05:58+00:00
+nowjuliandate:2460552.6379832
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3306
+1 50163U 21125H   24242.21247838  .00000727  00000+0  63749-4 0  9993
+2 50163  53.2152 221.7239 0001409  90.1123 270.0030 15.08841950152091

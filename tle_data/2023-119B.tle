@@ -1,0 +1,38 @@
+date:2024-08-28T22:20:03+00:00
+validtle:1
+satid:57603
+launchyear:2023
+epoch:24241.26897355
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30223
+meananomly:93.8709
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2198276253
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:8.55E-5
+argumentofperigree:266.2036
+nickname:STARLINK-30223
+idesg:23119B  
+cosparid:2023-119B
+altkm:558.90105472368
+velkms:7.5837918393214
+velkmh:27302
+onumepoch:5907
+onumnow:88764.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:27:19+00:00
+nowjuliandate:2460551.4306013
+nowepochdate:24241.9305902778
+TLE:
+STARLINK-30223
+1 57603U 23119B   24241.26897355  .00001148  00000+0  10003-3 0  9995
+2 57603  43.0029 236.0083 0000855 266.2036  93.8709 15.02535602 59072

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49159
+launchyear:2021
+epoch:24241.90937124
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3056
+meananomly:90.0710
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1801204364
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9974
+eccentricity:0.0003226
+argumentofperigree:270.008
+nickname:STARLINK-3056
+idesg:21082AF 
+cosparid:2021-082AF
+altkm:574.47022413679
+velkms:7.5738655826639
+velkmh:27266
+onumepoch:16352
+onumnow:245026.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:49:30+00:00
+nowjuliandate:2460552.638006
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3056
+1 49159U 21082AF  24241.90937124  .00000295  00000+0  32541-4 0  9993
+2 49159  69.9974 260.8170 0003226 270.0080  90.0710 14.98334800163522

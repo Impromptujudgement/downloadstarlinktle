@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53000
+launchyear:2022
+epoch:24242.2791748
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4194
+meananomly:271.4118
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8512935733
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001395
+argumentofperigree:88.7034
+nickname:STARLINK-4194
+idesg:22076Q  
+cosparid:2022-076Q
+altkm:540.58799196643
+velkms:7.5932648035655
+velkmh:27336
+onumepoch:11916
+onumnow:179807.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:42:01+00:00
+nowjuliandate:2460552.6378871
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4194
+1 53000U 22076Q   24242.27917480  .00001547  00000+0  11521-3 0  9996
+2 53000  53.2168  76.4323 0001395  88.7034 271.4118 15.08850194119161

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46068
+launchyear:2020
+epoch:24228.70064439
+epochday:228
+tleage:15
+tleclassification:U
+active:0
+name:STARLINK-1532
+meananomly:185.5514
+meanmotion:16.1620
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6608.03514828
+altitudeatperigee:224
+altitudeatapogee:235
+inclination:53.0313
+eccentricity:0.0008439
+argumentofperigree:262.9051
+nickname:STARLINK-1532
+idesg:20055AT 
+cosparid:2020-055AT
+altkm:241.93114099045
+velkms:7.7649680821187
+velkmh:27954
+onumepoch:22370
+onumnow:361774.49
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-08-15T16:48:56+00:00
+nowjuliandate:2460553.028296
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1532
+1 46068U 20055AT  24228.70064439  .02032914  44937-2  14722-2 0  9995
+2 46068  53.0313  68.4297 0008439 262.9051 185.5514 16.16197534223702

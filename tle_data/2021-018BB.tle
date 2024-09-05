@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:33+00:00
+validtle:1
+satid:47836
+launchyear:2021
+epoch:24242.23567708
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2426
+meananomly:270.6215
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3888916561
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.000123
+argumentofperigree:89.4915
+nickname:STARLINK-2426
+idesg:21018BB 
+cosparid:2021-018BB
+altkm:548.12164945025
+velkms:7.5891291571547
+velkmh:27321
+onumepoch:19223
+onumnow:289586.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:39:22+00:00
+nowjuliandate:2460552.6392803
+nowepochdate:24243.1392708333
+TLE:
+STARLINK-2426
+1 47836U 21018BB  24242.23567708  .00001394  00000+0  11246-3 0  9995
+2 47836  53.0526 234.2139 0001230  89.4915 270.6215 15.06387514192237

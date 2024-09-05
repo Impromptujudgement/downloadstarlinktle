@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:52+00:00
+validtle:1
+satid:45179
+launchyear:2020
+epoch:24242.67659908
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1143
+meananomly:281.4314
+meanmotion:15.0645
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.1874247669
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0556
+eccentricity:0.0001355
+argumentofperigree:78.6827
+nickname:STARLINK-1143
+idesg:20012B  
+cosparid:2020-012B
+altkm:547.74381301026
+velkms:7.5894329428853
+velkmh:27322
+onumepoch:25087
+onumnow:377936.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:14:18+00:00
+nowjuliandate:2460553.0283825
+nowepochdate:24243.5283796296
+TLE:
+STARLINK-1143
+1 45179U 20012B   24242.67659908 -.00008186  00000+0 -53049-3 0  9993
+2 45179  53.0556  27.5677 0001355  78.6827 281.4314 15.06453250250874

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54834
+launchyear:2022
+epoch:24242.38248113
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5386
+meananomly:90.0268
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2238413477
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0012
+eccentricity:0.0001158
+argumentofperigree:270.0441
+nickname:STARLINK-5386
+idesg:22177Q  
+cosparid:2022-177Q
+altkm:558.86527279258
+velkms:7.5838331245451
+velkmh:27302
+onumepoch:9214
+onumnow:138454.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:10:46+00:00
+nowjuliandate:2460552.6377793
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5386
+1 54834U 22177Q   24242.38248113 -.00000230  00000+0 -19571-5 0  9991
+2 54834  43.0012 281.4336 0001158 270.0441  90.0268 15.02534298 92146

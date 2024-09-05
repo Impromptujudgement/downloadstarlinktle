@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:22+00:00
+validtle:1
+satid:55420
+launchyear:2023
+epoch:24242.41344244
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5604
+meananomly:95.5945
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2283375853
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.001
+eccentricity:0.0003311
+argumentofperigree:264.4837
+nickname:STARLINK-5604
+idesg:23014AF 
+cosparid:2023-014AF
+altkm:574.74030750004
+velkms:7.5735975378456
+velkmh:27265
+onumepoch:8813
+onumnow:132057.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:55:21+00:00
+nowjuliandate:2460552.6377654
+nowepochdate:24243.1377546296
+TLE:
+STARLINK-5604
+1 55420U 23014AF  24242.41344244 -.00000437  00000+0 -28802-4 0  9995
+2 55420  70.0010   9.5752 0003311 264.4837  95.5945 14.98319208 88138

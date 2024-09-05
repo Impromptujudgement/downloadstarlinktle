@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53684
+launchyear:2022
+epoch:24242.40152731
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4624
+meananomly:286.5205
+meanmotion:15.0125
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1744799424
+altitudeatperigee:560
+altitudeatapogee:566
+inclination:97.6535
+eccentricity:0.0004665
+argumentofperigree:73.6532
+nickname:STARLINK-4624
+idesg:22105AN 
+cosparid:2022-105AN
+altkm:565.17553443098
+velkms:7.5790990076136
+velkmh:27285
+onumepoch:10990
+onumnow:164998.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:38:12+00:00
+nowjuliandate:2460552.6378364
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4624
+1 53684U 22105AN  24242.40152731 -.00001867  00000+0 -14078-3 0  9999
+2 53684  97.6535 122.2530 0004665  73.6532 286.5205 15.01251707109901

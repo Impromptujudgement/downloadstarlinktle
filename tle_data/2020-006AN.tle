@@ -1,0 +1,38 @@
+date:2024-08-30T12:41:00+00:00
+validtle:1
+satid:45080
+launchyear:2020
+epoch:24242.73371822
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1153
+meananomly:272.6255
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3539305713
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001466
+argumentofperigree:87.4902
+nickname:STARLINK-1153
+idesg:20006AN 
+cosparid:2020-006AN
+altkm:548.04956527726
+velkms:7.5891890116852
+velkmh:27321
+onumepoch:25279
+onumnow:380814.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:36:33+00:00
+nowjuliandate:2460553.0284795
+nowepochdate:24243.5284722222
+TLE:
+STARLINK-1153
+1 45080U 20006AN  24242.73371822  .00001471  00000+0  11762-3 0  9994
+2 45080  53.0535 246.8917 0001466  87.4902 272.6255 15.06398921252792

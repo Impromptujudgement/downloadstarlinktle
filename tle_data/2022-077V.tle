@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53062
+launchyear:2022
+epoch:24242.40306999
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4311
+meananomly:203.7735
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1586549753
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6567
+eccentricity:0.0001623
+argumentofperigree:156.3564
+nickname:STARLINK-4311
+idesg:22077V  
+cosparid:2022-077V
+altkm:567.11041070727
+velkms:7.5769779974603
+velkmh:27277
+onumepoch:11788
+onumnow:176979.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:40:25+00:00
+nowjuliandate:2460552.6378809
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4311
+1 53062U 22077V   24242.40306999 -.00000341  00000+0 -21948-4 0  9995
+2 53062  97.6567  62.1776 0001623 156.3564 203.7735 15.01256841117884

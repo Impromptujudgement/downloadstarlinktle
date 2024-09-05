@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48879
+launchyear:2021
+epoch:24242.98330772
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3003
+meananomly:241.9684
+meanmotion:16.4257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6537.1202561281
+altitudeatperigee:151
+altitudeatapogee:167
+inclination:97.6341
+eccentricity:0.0012559
+argumentofperigree:257.612
+nickname:STARLINK-3003
+idesg:21059A  
+cosparid:2021-059A
+altkm:168.7650463248
+velkms:7.8065912044179
+velkmh:28104
+onumepoch:17563
+onumnow:288486.68
+otype:9
+otypedesc:Orbital Decay
+status:9
+timestamp:2024-08-29T23:35:58+00:00
+nowjuliandate:2460552.6380078
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3003
+1 48879U 21059A   24242.98330772  .23769084  27289-5  96259-3 0  9992
+2 48879  97.6341  12.0143 0012559 257.6120 241.9684 16.42567573175636

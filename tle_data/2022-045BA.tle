@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52379
+launchyear:2022
+epoch:24242.52988459
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3800
+meananomly:282.8345
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8865115559
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001635
+argumentofperigree:77.283
+nickname:STARLINK-3800
+idesg:22045BA 
+cosparid:2022-045BA
+altkm:540.39575267464
+velkms:7.5934950293388
+velkmh:27337
+onumepoch:13181
+onumnow:198889.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:43:02+00:00
+nowjuliandate:2460552.6379269
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3800
+1 52379U 22045BA  24242.52988459  .00000198  00000+0  30561-4 0  9999
+2 52379  53.2166 170.3109 0001635  77.2830 282.8345 15.08838672131818

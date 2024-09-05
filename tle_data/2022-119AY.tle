@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53932
+launchyear:2022
+epoch:24242.40937724
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4772
+meananomly:258.8953
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8943150803
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001503
+argumentofperigree:101.2208
+nickname:STARLINK-4772
+idesg:22119AY 
+cosparid:2022-119AY
+altkm:540.8550163384
+velkms:7.5929953695679
+velkmh:27335
+onumepoch:10748
+onumnow:162179.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:30+00:00
+nowjuliandate:2460552.6378136
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4772
+1 53932U 22119AY  24242.40937724 -.00002886  00000+0 -16333-3 0  9991
+2 53932  53.2164 280.9443 0001503 101.2208 258.8953 15.08836119107480

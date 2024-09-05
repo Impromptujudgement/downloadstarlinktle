@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:33+00:00
+validtle:1
+satid:47839
+launchyear:2021
+epoch:24242.21997821
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2431
+meananomly:276.1260
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.258066457
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001576
+argumentofperigree:83.9908
+nickname:STARLINK-2431
+idesg:21018BE 
+cosparid:2021-018BE
+altkm:547.88386465702
+velkms:7.5893181301805
+velkmh:27322
+onumepoch:19266
+onumnow:290242.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:16:46+00:00
+nowjuliandate:2460552.6392738
+nowepochdate:24243.1392708333
+TLE:
+STARLINK-2431
+1 47839U 21018BE  24242.21997821  .00006835  00000+0  47695-3 0  9991
+2 47839  53.0543 204.1967 0001576  83.9908 276.1260 15.06430200192667

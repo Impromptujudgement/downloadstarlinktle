@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48298
+launchyear:2021
+epoch:24242.22920411
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2559
+meananomly:288.8332
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3471694971
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0531
+eccentricity:4.07E-5
+argumentofperigree:71.2701
+nickname:STARLINK-2559
+idesg:21036Y  
+cosparid:2021-036Y
+altkm:547.99814585658
+velkms:7.5892416448448
+velkmh:27321
+onumepoch:18487
+onumnow:278502.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:30:03+00:00
+nowjuliandate:2460552.6380381
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2559
+1 48298U 21036Y   24242.22920411  .00001916  00000+0  14743-3 0  9996
+2 48298  53.0531  64.1533 0000407  71.2701 288.8332 15.06401127184870

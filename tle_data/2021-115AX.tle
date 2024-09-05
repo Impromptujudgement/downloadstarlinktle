@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49769
+launchyear:2021
+epoch:24242.38456046
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3208
+meananomly:295.8067
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8568015115
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001461
+argumentofperigree:64.3076
+nickname:STARLINK-3208
+idesg:21115AX 
+cosparid:2021-115AX
+altkm:540.17730531845
+velkms:7.5937184675636
+velkmh:27337
+onumepoch:15265
+onumnow:230337.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:13:46+00:00
+nowjuliandate:2460552.6379903
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3208
+1 49769U 21115AX  24242.38456046  .00002110  00000+0  15062-3 0  9995
+2 49769  53.2171 121.0033 0001461  64.3076 295.8067 15.08848392152658

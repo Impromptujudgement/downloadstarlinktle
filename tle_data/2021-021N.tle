@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:53+00:00
+validtle:1
+satid:72328
+launchyear:2021
+epoch:21083.38299332
+epochday:83
+tleage:1255
+tleclassification:C
+active:0
+name:STARLINK-2328
+meananomly:336.8710
+meanmotion:15.8519
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6693.9300429022
+altitudeatperigee:315
+altitudeatapogee:316
+inclination:53.0504
+eccentricity:5.0E-5
+argumentofperigree:67.3678
+nickname:STARLINK-2328
+idesg:21021N  
+cosparid:2021-021N
+altkm:317.8618121768
+velkms:7.7221953372553
+velkmh:27800
+onumepoch:1
+onumnow:50103.99
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-03-24T09:11:31+00:00
+nowjuliandate:2460552.6397525
+nowepochdate:24243.1397453704
+TLE:
+STARLINK-2328
+1 72328C 21021N   21083.38299332 -.01028046  00000-0 -44556-2 0   834
+2 72328  53.0504 168.5883 0000500  67.3678 336.8710 15.85189556    14

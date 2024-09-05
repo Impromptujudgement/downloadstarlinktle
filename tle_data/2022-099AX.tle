@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53510
+launchyear:2022
+epoch:24242.31202419
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4441
+meananomly:102.6466
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1066434381
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6549
+eccentricity:0.0001442
+argumentofperigree:257.4597
+nickname:STARLINK-4441
+idesg:22099AX 
+cosparid:2022-099AX
+altkm:566.24657835145
+velkms:7.5778926323844
+velkmh:27280
+onumepoch:11260
+onumnow:169055.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:29:19+00:00
+nowjuliandate:2460552.6378536
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4441
+1 53510U 22099AX  24242.31202419  .00003393  00000+0  26850-3 0  9993
+2 53510  97.6549   2.1042 0001442 257.4597 102.6466 15.01273715112602

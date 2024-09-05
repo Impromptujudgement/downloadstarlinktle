@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48149
+launchyear:2021
+epoch:24241.97948973
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2492
+meananomly:278.9538
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3269967077
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001652
+argumentofperigree:81.1638
+nickname:STARLINK-2492
+idesg:21027BK 
+cosparid:2021-027BK
+altkm:547.89118582296
+velkms:7.5893477931063
+velkmh:27322
+onumepoch:18823
+onumnow:283568.58
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:30:28+00:00
+nowjuliandate:2460552.6380492
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2492
+1 48149U 21027BK  24241.97948973  .00035519  00000+0  23909-2 0  9994
+2 48149  53.0541 135.2785 0001652  81.1638 278.9538 15.06407709188231

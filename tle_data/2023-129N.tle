@@ -1,0 +1,38 @@
+date:2024-08-28T21:27:08+00:00
+validtle:1
+satid:57710
+launchyear:2023
+epoch:24240.81611323
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30335
+meananomly:83.8489
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.22451851
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0015
+eccentricity:0.0001182
+argumentofperigree:276.2218
+nickname:STARLINK-30335
+idesg:23129N  
+cosparid:2023-129N
+altkm:558.77776099694
+velkms:7.5839291161636
+velkmh:27302
+onumepoch:5658
+onumnow:85029.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T19:35:12+00:00
+nowjuliandate:2460551.3938539
+nowepochdate:24241.8938425926
+TLE:
+STARLINK-30335
+1 57710U 23129N   24240.81611323 -.00000596  00000+0 -29049-4 0  9993
+2 57710  43.0015 277.2017 0001182 276.2218  83.8489 15.02534078 56580

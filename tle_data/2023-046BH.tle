@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:75089
+launchyear:2023
+epoch:23094.71229167
+epochday:94
+tleage:514
+tleclassification:C
+active:0
+name:STARLINK-5089
+meananomly:223.7097
+meanmotion:15.7626
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6719.1854467214
+altitudeatperigee:340
+altitudeatapogee:342
+inclination:43.0004
+eccentricity:0.0001423
+argumentofperigree:283.0729
+nickname:STARLINK-5089
+idesg:23046BH 
+cosparid:2023-046BH
+altkm:341.25265768091
+velkms:7.7075074877504
+velkmh:27747
+onumepoch:1
+onumnow:18117.94
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-04-04T17:05:42+00:00
+nowjuliandate:2460552.6377157
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5089
+1 75089C 23046BH  23094.71229167 -.01046162  00000-0 -67339-2 0   945
+2 75089  43.0004 228.5601 0001423 283.0729 223.7097 15.76260581    19

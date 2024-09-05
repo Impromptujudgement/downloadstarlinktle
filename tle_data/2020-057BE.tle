@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46169
+launchyear:2020
+epoch:24242.43059377
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1628
+meananomly:274.1800
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2964251897
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001802
+argumentofperigree:85.9395
+nickname:STARLINK-1628
+idesg:20057BE 
+cosparid:2020-057BE
+altkm:547.94768881987
+velkms:7.5892691800271
+velkmh:27321
+onumepoch:22201
+onumnow:334448.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:20:03+00:00
+nowjuliandate:2460553.0282849
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1628
+1 46169U 20057BE  24242.43059377  .00022783  00000+0  15427-2 0  9994
+2 46169  53.0535 298.6367 0001802  85.9395 274.1800 15.06417684222011

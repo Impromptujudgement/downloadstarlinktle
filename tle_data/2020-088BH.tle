@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:02+00:00
+validtle:1
+satid:47177
+launchyear:2020
+epoch:24242.39046414
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1907
+meananomly:306.9941
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3288294771
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001419
+argumentofperigree:53.1178
+nickname:STARLINK-1907
+idesg:20088BH 
+cosparid:2020-088BH
+altkm:547.4796426147
+velkms:7.5897996618246
+velkmh:27323
+onumepoch:20827
+onumnow:313750.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:22:16+00:00
+nowjuliandate:2460552.6396151
+nowepochdate:24243.1396064815
+TLE:
+STARLINK-1907
+1 47177U 20088BH  24242.39046414  .00002347  00000+0  17640-3 0  9995
+2 47177  53.0539 273.4306 0001419  53.1178 306.9941 15.06407111208275

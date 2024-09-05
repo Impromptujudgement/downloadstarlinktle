@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:00+00:00
+validtle:1
+satid:47906
+launchyear:2021
+epoch:23173.39128975
+epochday:173
+tleage:435
+tleclassification:U
+active:0
+name:STARLINK-2366
+meananomly:286.7600
+meanmotion:15.9572
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6664.4429082263
+altitudeatperigee:280
+altitudeatapogee:293
+inclination:52.9874
+eccentricity:0.0009534
+argumentofperigree:248.7969
+nickname:STARLINK-2366
+idesg:21021AY 
+cosparid:2021-021AY
+altkm:284.99211871676
+velkms:7.7391098687055
+velkmh:27861
+onumepoch:13129
+onumnow:226572.50
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-06-22T09:23:27+00:00
+nowjuliandate:2460552.638197
+nowepochdate:24243.1381944444
+TLE:
+STARLINK-2366
+1 47906U 21021AY  23173.39128975  .00882543  35669-3  21377-2 0  9996
+2 47906  52.9874  42.6249 0009534 248.7969 286.7600 15.95721801131290

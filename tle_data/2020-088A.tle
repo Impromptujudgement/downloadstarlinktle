@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:47122
+launchyear:2020
+epoch:24242.43377328
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1777
+meananomly:261.9816
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3624049236
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001446
+argumentofperigree:98.1337
+nickname:STARLINK-1777
+idesg:20088A  
+cosparid:2020-088A
+altkm:548.24418244015
+velkms:7.5889804459553
+velkmh:27320
+onumepoch:20814
+onumnow:313551.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:24:38+00:00
+nowjuliandate:2460552.6396701
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1777
+1 47122U 20088A   24242.43377328  .00002382  00000+0  17876-3 0  9991
+2 47122  53.0531 283.2378 0001446  98.1337 261.9816 15.06396156208144

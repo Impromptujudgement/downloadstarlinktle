@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48335
+launchyear:2021
+epoch:24242.28265378
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2441
+meananomly:269.6405
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3193622248
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001189
+argumentofperigree:90.472
+nickname:STARLINK-2441
+idesg:21036BM 
+cosparid:2021-036BM
+altkm:548.06657385776
+velkms:7.5891514804154
+velkmh:27321
+onumepoch:18461
+onumnow:278111.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:47:01+00:00
+nowjuliandate:2460552.6380401
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2441
+1 48335U 21036BM  24242.28265378  .00004128  00000+0  29577-3 0  9997
+2 48335  53.0530  83.9168 0001189  90.4720 269.6405 15.06410200184618

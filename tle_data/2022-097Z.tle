@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53411
+launchyear:2022
+epoch:24241.90934193
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4497
+meananomly:260.9638
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8638377504
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2202
+eccentricity:0.000195
+argumentofperigree:99.1575
+nickname:STARLINK-4497
+idesg:22097Z  
+cosparid:2022-097Z
+altkm:540.83665951499
+velkms:7.5929988226638
+velkmh:27335
+onumepoch:11444
+onumnow:172690.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:49:27+00:00
+nowjuliandate:2460552.6378564
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4497
+1 53411U 22097Z   24241.90934193  .00001599  00000+0  11851-3 0  9997
+2 53411  53.2202  98.0994 0001950  99.1575 260.9638 15.08846090114449

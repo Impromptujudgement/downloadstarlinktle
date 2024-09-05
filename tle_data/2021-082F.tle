@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49135
+launchyear:2021
+epoch:24242.17595965
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3073
+meananomly:86.7656
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1909716959
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9993
+eccentricity:0.0002826
+argumentofperigree:273.318
+nickname:STARLINK-3073
+idesg:21082F  
+cosparid:2021-082F
+altkm:574.3674286569
+velkms:7.573983496546
+velkmh:27266
+onumepoch:16346
+onumnow:244931.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:13:23+00:00
+nowjuliandate:2460552.6380026
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3073
+1 49135U 21082F   24242.17595965  .00000601  00000+0  58142-4 0  9996
+2 49135  69.9993 220.1261 0002826 273.3180  86.7656 14.98331291163464

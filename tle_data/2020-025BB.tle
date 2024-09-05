@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45580
+launchyear:2020
+epoch:24243.20735317
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1333
+meananomly:271.5585
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3164261266
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0563
+eccentricity:0.0001638
+argumentofperigree:88.5591
+nickname:STARLINK-1333
+idesg:20025BB 
+cosparid:2020-025BB
+altkm:548.02806399433
+velkms:7.5891920633602
+velkmh:27321
+onumepoch:24090
+onumnow:362899.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:58:35+00:00
+nowjuliandate:2460553.0283361
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1333
+1 45580U 20025BB  24243.20735317  .00002191  00000+0  16591-3 0  9991
+2 45580  53.0563  64.7635 0001638  88.5591 271.5585 15.06411158240901

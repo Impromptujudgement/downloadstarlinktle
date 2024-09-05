@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49460
+launchyear:2021
+epoch:24242.17383612
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3140
+meananomly:261.0436
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8627282119
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001517
+argumentofperigree:99.0728
+nickname:STARLINK-3140
+idesg:21104BE 
+cosparid:2021-104BE
+altkm:540.78649163171
+velkms:7.5930532601468
+velkmh:27335
+onumepoch:15569
+onumnow:234926.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:10:19+00:00
+nowjuliandate:2460552.6379969
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3140
+1 49460U 21104BE  24242.17383612  .00001344  00000+0  10249-3 0  9996
+2 49460  53.2158 201.9053 0001517  99.0728 261.0436 15.08846453155690

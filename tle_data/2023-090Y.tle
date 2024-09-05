@@ -1,0 +1,38 @@
+date:2024-08-29T06:10:09+00:00
+validtle:1
+satid:57123
+launchyear:2023
+epoch:24241.78331004
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6154
+meananomly:87.1650
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2284337427
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0056
+eccentricity:0.0001423
+argumentofperigree:272.903
+nickname:STARLINK-6154
+idesg:23090Y  
+cosparid:2023-090Y
+altkm:558.8211934762
+velkms:7.5838837930441
+velkmh:27302
+onumepoch:6630
+onumnow:99625.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:47:58+00:00
+nowjuliandate:2460551.757057
+nowepochdate:24242.2570486111
+TLE:
+STARLINK-6154
+1 57123U 23090Y   24241.78331004  .00002930  00000+0  23189-3 0  9990
+2 57123  43.0056  65.8252 0001423 272.9030  87.1650 15.02532806 66303

@@ -1,0 +1,38 @@
+date:2024-08-29T04:59:32+00:00
+validtle:1
+satid:57377
+launchyear:2023
+epoch:24241.1027337
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6358
+meananomly:98.0181
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2173467538
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0044
+eccentricity:0.0001441
+argumentofperigree:262.0498
+nickname:STARLINK-6358
+idesg:23099BB 
+cosparid:2023-099BB
+altkm:558.99821478306
+velkms:7.5836843245551
+velkmh:27301
+onumepoch:6224
+onumnow:93534.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:27:56+00:00
+nowjuliandate:2460551.708015
+nowepochdate:24242.2080092593
+TLE:
+STARLINK-6358
+1 57377U 23099BB  24241.10273370  .00000253  00000+0  33800-4 0  9995
+2 57377  43.0044  30.8835 0001441 262.0498  98.0181 15.02536408 62249

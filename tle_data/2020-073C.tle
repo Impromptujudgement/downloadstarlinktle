@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:17+00:00
+validtle:1
+satid:46672
+launchyear:2020
+epoch:24242.24395008
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1716
+meananomly:264.4754
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3402122894
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:0.0001335
+argumentofperigree:95.6387
+nickname:STARLINK-1716
+idesg:20073C  
+cosparid:2020-073C
+altkm:548.17129612176
+velkms:7.5890481577295
+velkmh:27321
+onumepoch:21359
+onumnow:321766.20
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:51:17+00:00
+nowjuliandate:2460552.6397874
+nowepochdate:24243.1397800926
+TLE:
+STARLINK-1716
+1 46672U 20073C   24242.24395008  .00001255  00000+0  10313-3 0  9995
+2 46672  53.0531 224.0893 0001335  95.6387 264.4754 15.06403397213592

@@ -1,0 +1,38 @@
+date:2024-08-29T08:16:03+00:00
+validtle:1
+satid:56834
+launchyear:2023
+epoch:24241.32822166
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30069
+meananomly:92.0125
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2060043359
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.0001197
+argumentofperigree:268.058
+nickname:STARLINK-30069
+idesg:23079M  
+cosparid:2023-079M
+altkm:558.87630763999
+velkms:7.5838113453868
+velkmh:27302
+onumepoch:6889
+onumnow:103525.26
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:52:38+00:00
+nowjuliandate:2460551.8444839
+nowepochdate:24242.3444791667
+TLE:
+STARLINK-30069
+1 56834U 23079M   24241.32822166  .00001230  00000+0  10610-3 0  9996
+2 56834  43.0020 261.2393 0001197 268.0580  92.0125 15.02540093 68899

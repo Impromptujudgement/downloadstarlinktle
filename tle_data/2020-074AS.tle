@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46779
+launchyear:2020
+epoch:24242.39599927
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1798
+meananomly:272.9997
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3572498172
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001301
+argumentofperigree:87.114
+nickname:STARLINK-1798
+idesg:20074AS 
+cosparid:2020-074AS
+altkm:548.05223128986
+velkms:7.5891879056362
+velkmh:27321
+onumepoch:21253
+onumnow:320165.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:30:14+00:00
+nowjuliandate:2460552.6397147
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1798
+1 46779U 20074AS  24242.39599927  .00004545  00000+0  32382-3 0  9991
+2 46779  53.0536 293.4075 0001301  87.1140 272.9997 15.06397838212531

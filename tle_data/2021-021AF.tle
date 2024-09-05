@@ -1,0 +1,38 @@
+date:2024-08-30T03:19:07+00:00
+validtle:1
+satid:47889
+launchyear:2021
+epoch:24242.35544825
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2349
+meananomly:267.8119
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3595055582
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:9.71E-5
+argumentofperigree:92.2981
+nickname:STARLINK-2349
+idesg:21021AF 
+cosparid:2021-021AF
+altkm:548.12722889807
+velkms:7.5891069798842
+velkmh:27321
+onumepoch:19171
+onumnow:288801.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:31:51+00:00
+nowjuliandate:2460552.6382798
+nowepochdate:24243..138275463
+TLE:
+STARLINK-2349
+1 47889U 21021AF  24242.35544825  .00000818  00000+0  73816-4 0  9997
+2 47889  53.0534 253.5887 0000971  92.2981 267.8119 15.06397102191711

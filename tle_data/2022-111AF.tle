@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53802
+launchyear:2022
+epoch:24241.71888379
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4726
+meananomly:269.5712
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8629880212
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.215
+eccentricity:0.0001358
+argumentofperigree:90.5436
+nickname:STARLINK-4726
+idesg:22111AF 
+cosparid:2022-111AF
+altkm:540.63029094187
+velkms:7.5932247936475
+velkmh:27336
+onumepoch:10958
+onumnow:165360.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:15:12+00:00
+nowjuliandate:2460552.637826
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4726
+1 53802U 22111AF  24241.71888379  .00000662  00000+0  59673-4 0  9996
+2 53802  53.2150 248.8159 0001358  90.5436 269.5712 15.08846368109581

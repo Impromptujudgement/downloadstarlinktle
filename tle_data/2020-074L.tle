@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46749
+launchyear:2020
+epoch:24241.91221883
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1911
+meananomly:260.0041
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3131590314
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001423
+argumentofperigree:100.1108
+nickname:STARLINK-1911
+idesg:20074L  
+cosparid:2020-074L
+altkm:548.22632080009
+velkms:7.588973089626
+velkmh:27320
+onumepoch:21262
+onumnow:320311.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:53:36+00:00
+nowjuliandate:2460552.6396878
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1911
+1 46749U 20074L   24241.91221883  .00005393  00000+0  38054-3 0  9992
+2 46749  53.0532 305.5764 0001423 100.1108 260.0041 15.06412224212624

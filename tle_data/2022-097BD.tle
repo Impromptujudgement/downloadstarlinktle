@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53439
+launchyear:2022
+epoch:24241.85967032
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4519
+meananomly:276.5314
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8365395664
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2179
+eccentricity:7.53E-5
+argumentofperigree:83.5764
+nickname:STARLINK-4519
+idesg:22097BD 
+cosparid:2022-097BD
+altkm:540.53778506184
+velkms:7.5933118153068
+velkmh:27336
+onumepoch:11458
+onumnow:172903.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:37:56+00:00
+nowjuliandate:2460552.6378591
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4519
+1 53439U 22097BD  24241.85967032  .00011904  00000+0  76443-3 0  9998
+2 53439  53.2179  88.0878 0000753  83.5764 276.5314 15.08855021114582

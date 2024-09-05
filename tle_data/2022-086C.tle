@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53244
+launchyear:2022
+epoch:24242.55611916
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4125
+meananomly:268.3071
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.914623298
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001308
+argumentofperigree:91.8071
+nickname:STARLINK-4125
+idesg:22086C  
+cosparid:2022-086C
+altkm:540.70175162438
+velkms:7.5931746577314
+velkmh:27335
+onumepoch:11663
+onumnow:175983.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:20:49+00:00
+nowjuliandate:2460552.637865
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4125
+1 53244U 22086C   24242.55611916 -.00000982  00000+0 -43658-4 0  9994
+2 53244  53.2163 185.2700 0001308  91.8071 268.3071 15.08829475116634

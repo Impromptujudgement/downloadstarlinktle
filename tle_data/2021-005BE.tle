@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:59+00:00
+validtle:1
+satid:47401
+launchyear:2021
+epoch:24242.08637147
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2123
+meananomly:265.0485
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3201039119
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0568
+eccentricity:0.0001051
+argumentofperigree:95.0624
+nickname:STARLINK-2123
+idesg:21005BE 
+cosparid:2021-005BE
+altkm:548.12535097478
+velkms:7.5890874968729
+velkmh:27321
+onumepoch:20003
+onumnow:301343.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:04:22+00:00
+nowjuliandate:2460552.6395748
+nowepochdate:24243.1395717593
+TLE:
+STARLINK-2123
+1 47401U 21005BE  24242.08637147  .00007508  00000+0  52225-3 0  9992
+2 47401  53.0568  14.7931 0001051  95.0624 265.0485 15.06409958200035

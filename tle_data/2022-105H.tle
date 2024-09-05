@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53655
+launchyear:2022
+epoch:24242.22193656
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4470
+meananomly:266.6227
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1492629894
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6568
+eccentricity:0.0001553
+argumentofperigree:93.5175
+nickname:STARLINK-4470
+idesg:22105H  
+cosparid:2022-105H
+altkm:566.13349066036
+velkms:7.5780393419056
+velkmh:27281
+onumepoch:10987
+onumnow:164957.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:19:35+00:00
+nowjuliandate:2460552.6378347
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4470
+1 53655U 22105H   24242.22193656 -.00000391  00000+0 -25837-4 0  9995
+2 53655  97.6568 122.0134 0001553  93.5175 266.6227 15.01259888109877

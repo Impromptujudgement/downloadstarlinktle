@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48437
+launchyear:2021
+epoch:24242.09743303
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2642
+meananomly:265.9261
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3079978871
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001226
+argumentofperigree:94.1869
+nickname:STARLINK-2642
+idesg:21040K  
+cosparid:2021-040K
+altkm:548.11034544652
+velkms:7.5890973162134
+velkmh:27321
+onumepoch:18372
+onumnow:276774.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:20:18+00:00
+nowjuliandate:2460552.6380237
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2642
+1 48437U 21040K   24242.09743303  .00012060  00000+0  82684-3 0  9995
+2 48437  53.0529 174.7463 0001226  94.1869 265.9261 15.06413908183721

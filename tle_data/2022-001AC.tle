@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50829
+launchyear:2022
+epoch:24242.02387233
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3294
+meananomly:269.1030
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8524122768
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001846
+argumentofperigree:91.0174
+nickname:STARLINK-3294
+idesg:22001AC 
+cosparid:2022-001AC
+altkm:540.63306178574
+velkms:7.5932159628008
+velkmh:27336
+onumepoch:14748
+onumnow:222539.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:34:23+00:00
+nowjuliandate:2460552.6379816
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3294
+1 50829U 22001AC  24242.02387233  .00001638  00000+0  12099-3 0  9992
+2 50829  53.2176 152.5783 0001846  91.0174 269.1030 15.08849828147480

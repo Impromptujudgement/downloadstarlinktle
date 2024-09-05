@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:51+00:00
+validtle:1
+satid:48013
+launchyear:2021
+epoch:24242.41902741
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2243
+meananomly:277.2100
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3528302865
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001231
+argumentofperigree:82.9029
+nickname:STARLINK-2243
+idesg:21024AN 
+cosparid:2021-024AN
+altkm:547.98792264139
+velkms:7.5892559394071
+velkmh:27321
+onumepoch:19053
+onumnow:287025.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:03:24+00:00
+nowjuliandate:2460552.6380977
+nowepochdate:24243.1380902778
+TLE:
+STARLINK-2243
+1 48013U 21024AN  24242.41902741 -.00001245  00000+0 -64724-4 0  9997
+2 48013  53.0534 283.3065 0001231  82.9029 277.2100 15.06399280190532

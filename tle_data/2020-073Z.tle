@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:13+00:00
+validtle:1
+satid:46693
+launchyear:2020
+epoch:24242.25023055
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1792
+meananomly:292.8392
+meanmotion:15.1030
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6913.4247959951
+altitudeatperigee:532
+altitudeatapogee:539
+inclination:53.0515
+eccentricity:0.0004707
+argumentofperigree:67.3096
+nickname:STARLINK-1792
+idesg:20073Z  
+cosparid:2020-073Z
+altkm:534.90632775829
+velkms:7.5970778447409
+velkmh:27349
+onumepoch:21357
+onumnow:322568.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:00:20+00:00
+nowjuliandate:2460552.6397362
+nowepochdate:24243.1397337963
+TLE:
+STARLINK-1792
+1 46693U 20073Z   24242.25023055  .00053001  00000+0  31922-2 0  9993
+2 46693  53.0515 223.4693 0004707  67.3096 292.8392 15.10299546213572

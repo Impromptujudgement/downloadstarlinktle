@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49175
+launchyear:2021
+epoch:24242.73946626
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3087
+meananomly:94.5255
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1786824699
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9982
+eccentricity:0.0003194
+argumentofperigree:265.5539
+nickname:STARLINK-3087
+idesg:21082AX 
+cosparid:2021-082AX
+altkm:574.6412374128
+velkms:7.5736784630645
+velkmh:27265
+onumepoch:16304
+onumnow:244294.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:44:50+00:00
+nowjuliandate:2460552.6380041
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3087
+1 49175U 21082AX  24242.73946626 -.00000513  00000+0 -35189-4 0  9996
+2 49175  69.9982 238.7292 0003194 265.5539  94.5255 14.98335265163046

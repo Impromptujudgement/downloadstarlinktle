@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48441
+launchyear:2021
+epoch:24242.09835745
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2702
+meananomly:260.1017
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3404973201
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0526
+eccentricity:0.0001547
+argumentofperigree:100.0146
+nickname:STARLINK-2702
+idesg:21040P  
+cosparid:2021-040P
+altkm:548.26672565215
+velkms:7.5889437736804
+velkmh:27320
+onumepoch:18386
+onumnow:276982.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:21:38+00:00
+nowjuliandate:2460552.638023
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2702
+1 48441U 21040P   24242.09835745  .00030834  00000+0  20797-2 0  9997
+2 48441  53.0526 164.7448 0001547 100.0146 260.1017 15.06403304183866

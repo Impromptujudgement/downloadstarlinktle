@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54863
+launchyear:2022
+epoch:24241.79442328
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5405
+meananomly:82.4043
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.210898345
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0023
+eccentricity:8.79E-5
+argumentofperigree:277.6699
+nickname:STARLINK-5405
+idesg:22177AV 
+cosparid:2022-177AV
+altkm:558.77144232166
+velkms:7.5839285972173
+velkmh:27302
+onumepoch:9318
+onumnow:140026.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:03:58+00:00
+nowjuliandate:2460552.6377827
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5405
+1 54863U 22177AV  24241.79442328  .00000597  00000+0  59274-4 0  9998
+2 54863  43.0023 271.7470 0000879 277.6699  82.4043 15.02538503 93182

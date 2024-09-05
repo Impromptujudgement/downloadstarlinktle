@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52617
+launchyear:2022
+epoch:24241.73868085
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3996
+meananomly:274.3845
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8838614803
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001417
+argumentofperigree:85.7309
+nickname:STARLINK-3996
+idesg:22052V  
+cosparid:2022-052V
+altkm:540.56925870991
+velkms:7.5933031923352
+velkmh:27336
+onumepoch:12675
+onumnow:191266.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:43:42+00:00
+nowjuliandate:2460552.6379055
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3996
+1 52617U 22052V   24241.73868085  .00000890  00000+0  74031-4 0  9995
+2 52617  53.2155 253.8627 0001417  85.7309 274.3845 15.08839539126757

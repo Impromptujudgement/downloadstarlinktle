@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52546
+launchyear:2022
+epoch:24242.37440453
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3948
+meananomly:264.9253
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8539466742
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0001364
+argumentofperigree:95.1894
+nickname:STARLINK-3948
+idesg:22051P  
+cosparid:2022-051P
+altkm:540.69801508714
+velkms:7.5931455322984
+velkmh:27335
+onumepoch:12738
+onumnow:192208.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:59:09+00:00
+nowjuliandate:2460552.6379127
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3948
+1 52546U 22051P   24242.37440453  .00001424  00000+0  10754-3 0  9996
+2 52546  53.2180 110.7743 0001364  95.1894 264.9253 15.08849326127384

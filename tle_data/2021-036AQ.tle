@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48314
+launchyear:2021
+epoch:24241.8338947
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2549
+meananomly:270.6813
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3279713241
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0534
+eccentricity:0.0002313
+argumentofperigree:89.4441
+nickname:STARLINK-2549
+idesg:21036AQ 
+cosparid:2021-036AQ
+altkm:548.05128213277
+velkms:7.5891729394583
+velkmh:27321
+onumepoch:18408
+onumnow:277319.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:00:49+00:00
+nowjuliandate:2460552.6380433
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2549
+1 48314U 21036AQ  24241.83389470  .00003185  00000+0  23260-3 0  9999
+2 48314  53.0534  75.9265 0002313  89.4441 270.6813 15.06407391184089

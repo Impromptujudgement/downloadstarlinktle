@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53206
+launchyear:2022
+epoch:24242.46353851
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4408
+meananomly:149.9355
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1407649186
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6567
+eccentricity:0.0001203
+argumentofperigree:210.18
+nickname:STARLINK-4408
+idesg:22084T  
+cosparid:2022-084T
+altkm:566.78417416614
+velkms:7.5773243606579
+velkmh:27278
+onumepoch:11609
+onumnow:174291.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:07:30+00:00
+nowjuliandate:2460552.6378693
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4408
+1 53206U 22084T   24242.46353851  .00000152  00000+0  16436-4 0  9992
+2 53206  97.6567 302.2768 0001203 210.1800 149.9355 15.01262645116099

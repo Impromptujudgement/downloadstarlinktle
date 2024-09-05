@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54778
+launchyear:2022
+epoch:24242.64397579
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5450
+meananomly:304.9447
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8936793047
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2136
+eccentricity:6.47E-5
+argumentofperigree:55.1606
+nickname:STARLINK-5450
+idesg:22175W  
+cosparid:2022-175W
+altkm:540.39732454289
+velkms:7.5934972284024
+velkmh:27337
+onumepoch:9387
+onumnow:141641.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:27:20+00:00
+nowjuliandate:2460552.6377853
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5450
+1 54778U 22175W   24242.64397579  .00000846  00000+0  71221-4 0  9996
+2 54778  53.2136   9.8633 0000647  55.1606 304.9447 15.08836327 93873

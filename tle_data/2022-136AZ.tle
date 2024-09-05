@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:54098
+launchyear:2022
+epoch:24242.50833321
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5217
+meananomly:264.2856
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.941246729
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.0001817
+argumentofperigree:95.8343
+nickname:STARLINK-5217
+idesg:22136AZ 
+cosparid:2022-136AZ
+altkm:540.82681208052
+velkms:7.593052015284
+velkmh:27335
+onumepoch:10333
+onumnow:155915.95
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:12:00+00:00
+nowjuliandate:2460552.6378012
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5217
+1 54098U 22136AZ  24242.50833321 -.00018438  00000+0 -11439-2 0  9994
+2 54098  53.2154 315.7465 0001817  95.8343 264.2856 15.08820765103333

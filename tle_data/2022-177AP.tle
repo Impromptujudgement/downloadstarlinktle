@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54857
+launchyear:2022
+epoch:24241.79886164
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5078
+meananomly:83.5555
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2038836014
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0002
+eccentricity:0.0001066
+argumentofperigree:276.5166
+nickname:STARLINK-5078
+idesg:22177AP 
+cosparid:2022-177AP
+altkm:558.76181580655
+velkms:7.5839352923564
+velkmh:27302
+onumepoch:9318
+onumnow:140026.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:10:22+00:00
+nowjuliandate:2460552.637783
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5078
+1 54857U 22177AP  24241.79886164  .00001214  00000+0  10487-3 0  9990
+2 54857  43.0002 271.7868 0001066 276.5166  83.5555 15.02540782 93181

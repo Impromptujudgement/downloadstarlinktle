@@ -1,0 +1,38 @@
+date:2024-08-28T22:11:02+00:00
+validtle:1
+satid:57616
+launchyear:2023
+epoch:24241.30226631
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30075
+meananomly:105.5895
+meanmotion:15.0257
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1142109461
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:0.0001146
+argumentofperigree:254.482
+nickname:STARLINK-30075
+idesg:23119Q  
+cosparid:2023-119Q
+altkm:558.96873283254
+velkms:7.5836603224208
+velkmh:27301
+onumepoch:5908
+onumnow:88781.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:15:16+00:00
+nowjuliandate:2460551.424336
+nowepochdate:24241.9243287037
+TLE:
+STARLINK-30075
+1 57616U 23119Q   24241.30226631 -.00005759  00000+0 -41123-3 0  9998
+2 57616  42.9999 236.2756 0001146 254.4820 105.5895 15.02569916 59086

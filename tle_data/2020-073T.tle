@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:14+00:00
+validtle:1
+satid:46687
+launchyear:2020
+epoch:24242.61070207
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1784
+meananomly:269.8078
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3223075206
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0519
+eccentricity:0.0001676
+argumentofperigree:90.3103
+nickname:STARLINK-1784
+idesg:20073T  
+cosparid:2020-073T
+altkm:548.0682232232
+velkms:7.5891512837307
+velkmh:27321
+onumepoch:21392
+onumnow:322259.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:39:25+00:00
+nowjuliandate:2460552.6397475
+nowepochdate:24243.1397453704
+TLE:
+STARLINK-1784
+1 46687U 20073T   24242.61070207  .00004704  00000+0  33443-3 0  9994
+2 46687  53.0519 202.4445 0001676  90.3103 269.8078 15.06409239213929

@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:16+00:00
+validtle:1
+satid:46702
+launchyear:2020
+epoch:24242.19418796
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1802
+meananomly:265.5805
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3377358955
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.000137
+argumentofperigree:94.5341
+nickname:STARLINK-1802
+idesg:20073AJ 
+cosparid:2020-073AJ
+altkm:548.15291193257
+velkms:7.5890669433157
+velkmh:27321
+onumepoch:21387
+onumnow:322186.81
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:39:38+00:00
+nowjuliandate:2460552.6404698
+nowepochdate:24243..140462963
+TLE:
+STARLINK-1802
+1 46702U 20073AJ  24242.19418796  .00000370  00000+0  43753-4 0  9995
+2 46702  53.0530 204.3121 0001370  94.5341 265.5805 15.06404205213876

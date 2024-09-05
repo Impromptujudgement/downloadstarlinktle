@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53710
+launchyear:2022
+epoch:22296.726875
+epochday:296
+tleage:677
+tleclassification:C
+active:0
+name:STARLINK-4696
+meananomly:126.4952
+meanmotion:16.1995
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6597.8307718768
+altitudeatperigee:213
+altitudeatapogee:227
+inclination:53.2023
+eccentricity:0.0010547
+argumentofperigree:9.6829
+nickname:STARLINK-4696
+idesg:22107L  
+cosparid:2022-107L
+altkm:226.17830940888
+velkms:7.7730536612055
+velkmh:27983
+onumepoch:1
+onumnow:31547.05
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-10-23T17:26:42+00:00
+nowjuliandate:2460552.637828
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4696
+1 53710C 22107L   22296.72687500  .01707077  00000-0  84957-3 0  2969
+2 53710  53.2023  24.4865 0010547   9.6829 126.4952 16.19948463    14

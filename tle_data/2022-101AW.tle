@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53571
+launchyear:2022
+epoch:24242.13197442
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4584
+meananomly:271.5420
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8826388396
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.00014
+argumentofperigree:88.5733
+nickname:STARLINK-4584
+idesg:22101AW 
+cosparid:2022-101AW
+altkm:540.61721462623
+velkms:7.593249902839
+velkmh:27336
+onumepoch:11227
+onumnow:169412.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:10:03+00:00
+nowjuliandate:2460552.6378485
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4584
+1 53571U 22101AW  24242.13197442  .00000042  00000+0  20758-4 0  9993
+2 53571  53.2184  37.0433 0001400  88.5733 271.5420 15.08839939112274

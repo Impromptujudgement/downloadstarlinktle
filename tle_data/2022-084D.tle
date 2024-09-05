@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53192
+launchyear:2022
+epoch:24242.15990543
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4375
+meananomly:262.4543
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1191299403
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6552
+eccentricity:0.0001611
+argumentofperigree:97.6864
+nickname:STARLINK-4375
+idesg:22084D  
+cosparid:2022-084D
+altkm:566.18678775564
+velkms:7.5779647224899
+velkmh:27281
+onumepoch:11604
+onumnow:174222.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:50:16+00:00
+nowjuliandate:2460552.6378713
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4375
+1 53192U 22084D   24242.15990543  .00000445  00000+0  39207-4 0  9993
+2 53192  97.6552 301.9478 0001611  97.6864 262.4543 15.01269664116045

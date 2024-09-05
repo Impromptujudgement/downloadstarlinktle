@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53829
+launchyear:2022
+epoch:24242.36291
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4759
+meananomly:272.1440
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8985851733
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001427
+argumentofperigree:87.9715
+nickname:STARLINK-4759
+idesg:22114M  
+cosparid:2022-114M
+altkm:540.62207113219
+velkms:7.5932533054671
+velkmh:27336
+onumepoch:10815
+onumnow:163191.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:42:35+00:00
+nowjuliandate:2460552.6378181
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4759
+1 53829U 22114M   24242.36291000 -.00001236  00000+0 -59560-4 0  9994
+2 53829  53.2162 286.0812 0001427  87.9715 272.1440 15.08834722108151

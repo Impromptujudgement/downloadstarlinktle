@@ -1,0 +1,38 @@
+date:2024-08-28T20:13:53+00:00
+validtle:1
+satid:57873
+launchyear:2023
+epoch:24240.8468722
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30445
+meananomly:93.7698
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2379540604
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0055
+eccentricity:0.000134
+argumentofperigree:266.2992
+nickname:STARLINK-30445
+idesg:23144K  
+cosparid:2023-144K
+altkm:558.94061243822
+velkms:7.5837584962802
+velkmh:27302
+onumepoch:5350
+onumnow:80387.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T20:19:30+00:00
+nowjuliandate:2460551.3429793
+nowepochdate:24241..842974537
+TLE:
+STARLINK-30445
+1 57873U 23144K   24240.84687220  .00002579  00000+0  20592-3 0  9996
+2 57873  43.0055  84.2923 0001340 266.2992  93.7698 15.02529713 53501

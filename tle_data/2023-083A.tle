@@ -1,0 +1,38 @@
+date:2024-08-29T08:08:14+00:00
+validtle:1
+satid:56876
+launchyear:2023
+epoch:24241.26127799
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6206
+meananomly:95.0437
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2157492707
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0012
+eccentricity:0.0001279
+argumentofperigree:265.0259
+nickname:STARLINK-6206
+idesg:23083A  
+cosparid:2023-083A
+altkm:558.93481578854
+velkms:7.5837527265999
+velkmh:27302
+onumepoch:6766
+onumnow:101677.84
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:16:14+00:00
+nowjuliandate:2460551.8390568
+nowepochdate:24242.3390509259
+TLE:
+STARLINK-6206
+1 56876U 23083A   24241.26127799  .00000736  00000+0  69513-4 0  9997
+2 56876  43.0012 236.5253 0001279 265.0259  95.0437 15.02536927 67661

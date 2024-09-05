@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55381
+launchyear:2023
+epoch:24241.33929585
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5575
+meananomly:83.9789
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1975152514
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.0001265
+argumentofperigree:276.0909
+nickname:STARLINK-5575
+idesg:23013BC 
+cosparid:2023-013BC
+altkm:558.74674325415
+velkms:7.5839482917351
+velkmh:27302
+onumepoch:8757
+onumnow:131604.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:08:35+00:00
+nowjuliandate:2460552.6377691
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5575
+1 55381U 23013BC  24241.33929585  .00002497  00000+0  19978-3 0  9996
+2 55381  43.0030 106.8423 0001265 276.0909  83.9789 15.02542851 87579

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52370
+launchyear:2022
+epoch:24242.49403824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3827
+meananomly:268.9142
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8792062788
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001346
+argumentofperigree:91.2005
+nickname:STARLINK-3827
+idesg:22045AR 
+cosparid:2022-045AR
+altkm:540.65729580071
+velkms:7.5932040434089
+velkmh:27336
+onumepoch:13180
+onumnow:198874.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:51:25+00:00
+nowjuliandate:2460552.6379284
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3827
+1 52370U 22045AR  24242.49403824  .00000221  00000+0  31971-4 0  9997
+2 52370  53.2167 170.4761 0001346  91.2005 268.9142 15.08841062131800

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73169
+launchyear:2022
+epoch:23051.42895833
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3169
+meananomly:338.8278
+meanmotion:15.9963
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6653.5960696942
+altitudeatperigee:234
+altitudeatapogee:317
+inclination:69.9999
+eccentricity:0.0061759
+argumentofperigree:161.8843
+nickname:STARLINK-3169
+idesg:22010AK 
+cosparid:2022-010AK
+altkm:241.70347618912
+velkms:7.7880535780246
+velkmh:28037
+onumepoch:1
+onumnow:19076.67
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:17:42+00:00
+nowjuliandate:2460552.6379699
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3169
+1 73169C 22010AK  23051.42895833 -.01049208  00000-0 -17815-2 0   513
+2 73169  69.9999 143.3286 0061759 161.8843 338.8278 15.99625462    14

@@ -1,0 +1,38 @@
+date:2024-08-29T06:07:55+00:00
+validtle:1
+satid:57242
+launchyear:2023
+epoch:24241.80111258
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6306
+meananomly:78.8708
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1837474765
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:8.48E-5
+argumentofperigree:281.2038
+nickname:STARLINK-6306
+idesg:23094AA 
+cosparid:2023-094AA
+altkm:558.71108246348
+velkms:7.5839797535705
+velkmh:27302
+onumepoch:6334
+onumnow:95178.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:13:36+00:00
+nowjuliandate:2460551.7555088
+nowepochdate:24242.2554976852
+TLE:
+STARLINK-6306
+1 57242U 23094AA  24241.80111258  .00001327  00000+0  11326-3 0  9995
+2 57242  42.9999 169.1986 0000848 281.2038  78.8708 15.02547324 63345

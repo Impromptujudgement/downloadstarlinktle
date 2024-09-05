@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52835
+launchyear:2022
+epoch:24242.08230159
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4080
+meananomly:273.1677
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9031823316
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001648
+argumentofperigree:86.9503
+nickname:STARLINK-4080
+idesg:22062F  
+cosparid:2022-062F
+altkm:540.60079851196
+velkms:7.5932791647515
+velkmh:27336
+onumepoch:12160
+onumnow:183490.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:58:31+00:00
+nowjuliandate:2460552.6378943
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4080
+1 52835U 22062F   24242.08230159 -.00001438  00000+0 -72265-4 0  9990
+2 52835  53.2176  17.3172 0001648  86.9503 273.1677 15.08833218121602

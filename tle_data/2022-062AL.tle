@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52864
+launchyear:2022
+epoch:24241.66369603
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4267
+meananomly:253.6346
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8598611423
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001322
+argumentofperigree:106.4791
+nickname:STARLINK-4267
+idesg:22062AL 
+cosparid:2022-062AL
+altkm:540.8780383667
+velkms:7.5929512422853
+velkmh:27335
+onumepoch:12217
+onumnow:184358.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:55:43+00:00
+nowjuliandate:2460552.6378975
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4267
+1 52864U 22062AL  24241.66369603  .00001772  00000+0  12938-3 0  9991
+2 52864  53.2172   9.2020 0001322 106.4791 253.6346 15.08847391122174

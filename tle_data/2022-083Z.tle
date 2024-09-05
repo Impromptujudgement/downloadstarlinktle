@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53155
+launchyear:2022
+epoch:24242.44568489
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4088
+meananomly:289.7131
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8208289433
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001556
+argumentofperigree:70.4029
+nickname:STARLINK-4088
+idesg:22083Z  
+cosparid:2022-083Z
+altkm:540.21823227728
+velkms:7.5936538600364
+velkmh:27337
+onumepoch:11786
+onumnow:177844.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:41:47+00:00
+nowjuliandate:2460552.6378743
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4088
+1 53155U 22083Z   24242.44568489  .00001944  00000+0  14014-3 0  9996
+2 53155  53.2167 145.6862 0001556  70.4029 289.7131 15.08860161117866

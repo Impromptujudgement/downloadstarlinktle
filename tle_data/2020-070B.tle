@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46533
+launchyear:2020
+epoch:24243.04426726
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1648
+meananomly:258.3258
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3561342069
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001099
+argumentofperigree:101.7854
+nickname:STARLINK-1648
+idesg:20070B  
+cosparid:2020-070B
+altkm:548.25201081958
+velkms:7.5889684416671
+velkmh:27320
+onumepoch:21562
+onumnow:324816.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T01:03:45+00:00
+nowjuliandate:2460553.0282313
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1648
+1 46533U 20070B   24243.04426726  .00013752  00000+0  94036-3 0  9998
+2 46533  53.0516 155.4905 0001099 101.7854 258.3258 15.06398202215622

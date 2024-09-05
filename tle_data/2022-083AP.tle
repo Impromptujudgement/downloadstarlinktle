@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53169
+launchyear:2022
+epoch:24242.40479589
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4117
+meananomly:274.4005
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8781364699
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.0001477
+argumentofperigree:85.7156
+nickname:STARLINK-4117
+idesg:22083AP 
+cosparid:2022-083AP
+altkm:540.56034303935
+velkms:7.5933098408112
+velkmh:27336
+onumepoch:11806
+onumnow:178144.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:42:54+00:00
+nowjuliandate:2460552.6378789
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4117
+1 53169U 22083AP  24242.40479589  .00000478  00000+0  48097-4 0  9999
+2 53169  53.2179 131.1327 0001477  85.7156 274.4005 15.08841412118064

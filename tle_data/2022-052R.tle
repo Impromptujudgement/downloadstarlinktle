@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52613
+launchyear:2022
+epoch:24242.83334491
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3921
+meananomly:84.5215
+meanmotion:15.6744
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6744.3707192768
+altitudeatperigee:365
+altitudeatapogee:367
+inclination:53.2106
+eccentricity:0.0001837
+argumentofperigree:100.7839
+nickname:STARLINK-3921
+idesg:22052R  
+cosparid:2022-052R
+altkm:367.706397514
+velkms:7.6898553820691
+velkmh:27683
+onumepoch:12737
+onumnow:199649.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T20:00:01+00:00
+nowjuliandate:2460552.637906
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3921
+1 52613U 22052R   24242.83334491  .01841531  00000+0  14835-1 0  9991
+2 52613  53.2106 243.1845 0001837 100.7839  84.5215 15.67439565127376

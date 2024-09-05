@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53628
+launchyear:2022
+epoch:24242.62688814
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4600
+meananomly:271.0537
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8700059363
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001355
+argumentofperigree:89.0611
+nickname:STARLINK-4600
+idesg:22104AS 
+cosparid:2022-104AS
+altkm:540.61318463007
+velkms:7.5932474069291
+velkmh:27336
+onumepoch:11097
+onumnow:167444.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:02:43+00:00
+nowjuliandate:2460552.6378427
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4600
+1 53628U 22104AS  24242.62688814 -.00000667  00000+0 -23790-4 0  9995
+2 53628  53.2164 214.4320 0001355  89.0611 271.0537 15.08844072110974

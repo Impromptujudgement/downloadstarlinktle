@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:01+00:00
+validtle:1
+satid:47131
+launchyear:2020
+epoch:22025.85415787
+epochday:25
+tleage:948
+tleclassification:C
+active:0
+name:STARLINK-1840
+meananomly:345.9716
+meanmotion:16.0210
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6646.7449598256
+altitudeatperigee:262
+altitudeatapogee:276
+inclination:53.0431
+eccentricity:0.0010381
+argumentofperigree:334.1245
+nickname:STARLINK-1840
+idesg:20088K  
+cosparid:2020-088K
+altkm:271.4611349066
+velkms:7.7480637072273
+velkmh:27893
+onumepoch:1
+onumnow:35539.14
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-01-25T20:29:59+00:00
+nowjuliandate:2460552.6396063
+nowepochdate:24243.1395949074
+TLE:
+STARLINK-1840
+1 47131C 20088K   22025.85415787  .02672373  00000-0  38142-2 0   250
+2 47131  53.0431 131.9775 0010381 334.1245 345.9716 16.02099312    11

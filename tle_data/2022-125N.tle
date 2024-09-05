@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53976
+launchyear:2022
+epoch:24241.56620077
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5134
+meananomly:269.6644
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8568167943
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001453
+argumentofperigree:90.4514
+nickname:STARLINK-5134
+idesg:22125N  
+cosparid:2022-125N
+altkm:540.62317564765
+velkms:7.5932292220357
+velkmh:27336
+onumepoch:10534
+onumnow:158965.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:35:20+00:00
+nowjuliandate:2460552.6378054
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5134
+1 53976U 22125N   24241.56620077  .00001887  00000+0  13661-3 0  9991
+2 53976  53.2166 189.7521 0001453  90.4514 269.6644 15.08848387105346

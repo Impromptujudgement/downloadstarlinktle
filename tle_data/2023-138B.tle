@@ -1,0 +1,38 @@
+date:2024-08-28T20:49:32+00:00
+validtle:1
+satid:57809
+launchyear:2023
+epoch:24241.15379974
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30374
+meananomly:87.2157
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2119263958
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.003
+eccentricity:0.000131
+argumentofperigree:272.8535
+nickname:STARLINK-30374
+idesg:23138B  
+cosparid:2023-138B
+altkm:558.80906541904
+velkms:7.5838880475225
+velkmh:27302
+onumepoch:5469
+onumnow:82184.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:41:28+00:00
+nowjuliandate:2460551.3677328
+nowepochdate:24241.8677314815
+TLE:
+STARLINK-30374
+1 57809U 23138B   24241.15379974  .00001002  00000+0  89213-4 0  9993
+2 57809  43.0030  31.3514 0001310 272.8535  87.2157 15.02538169 54699

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:73221
+launchyear:2022
+epoch:23051.42826389
+epochday:51
+tleage:557
+tleclassification:C
+active:0
+name:STARLINK-3221
+meananomly:334.3070
+meanmotion:15.9919
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6654.8123273613
+altitudeatperigee:235
+altitudeatapogee:318
+inclination:70
+eccentricity:0.0062679
+argumentofperigree:162.5896
+nickname:STARLINK-3221
+idesg:22010AF 
+cosparid:2022-010AF
+altkm:244.38178960052
+velkms:7.7864181819698
+velkmh:28031
+onumepoch:1
+onumnow:19071.45
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-20T10:16:42+00:00
+nowjuliandate:2460552.6379699
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3221
+1 73221C 22010AF  23051.42826389 -.00752652  00000-0 -12823-2 0   519
+2 73221  70.0000 143.3305 0062679 162.5896 334.3070 15.99186952    16

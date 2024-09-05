@@ -1,0 +1,38 @@
+date:2024-08-30T03:22:14+00:00
+validtle:1
+satid:46709
+launchyear:2020
+epoch:24241.72839851
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1810
+meananomly:267.1043
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3291482197
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0515
+eccentricity:0.0001406
+argumentofperigree:93.0106
+nickname:STARLINK-1810
+idesg:20073AR 
+cosparid:2020-073AR
+altkm:548.12026634222
+velkms:7.5890980107751
+velkmh:27321
+onumepoch:21281
+onumnow:320599.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:28:54+00:00
+nowjuliandate:2460552.6404417
+nowepochdate:24243.1404398148
+TLE:
+STARLINK-1810
+1 46709U 20073AR  24241.72839851  .00002630  00000+0  19535-3 0  9990
+2 46709  53.0515 241.5288 0001406  93.0106 267.1043 15.06407007212814

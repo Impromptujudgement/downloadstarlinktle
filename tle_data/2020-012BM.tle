@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45237
+launchyear:2020
+epoch:24242.5991843
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1270
+meananomly:290.8765
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3504305027
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.0002325
+argumentofperigree:69.2473
+nickname:STARLINK-1270
+idesg:20012BM 
+cosparid:2020-012BM
+altkm:547.51897936172
+velkms:7.589768373753
+velkmh:27323
+onumepoch:25143
+onumnow:378768.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:22:50+00:00
+nowjuliandate:2460553.0283761
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1270
+1 45237U 20012BM  24242.59918430  .00017323  00000+0  11790-2 0  9994
+2 45237  53.0535 347.4915 0002325  69.2473 290.8765 15.06400063251437

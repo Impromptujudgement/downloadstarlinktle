@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:50181
+launchyear:2021
+epoch:24242.65780075
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3285
+meananomly:272.9863
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8911545433
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2153
+eccentricity:0.0001463
+argumentofperigree:87.1296
+nickname:STARLINK-3285
+idesg:21125AB 
+cosparid:2021-125AB
+altkm:540.59875773105
+velkms:7.5932748174548
+velkmh:27336
+onumepoch:15203
+onumnow:229395.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:47:14+00:00
+nowjuliandate:2460552.6379871
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3285
+1 50181U 21125AB  24242.65780075 -.00000177  00000+0  69951-5 0  9998
+2 50181  53.2153 229.7417 0001463  87.1296 272.9863 15.08837153152034

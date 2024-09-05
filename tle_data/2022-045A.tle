@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52331
+launchyear:2022
+epoch:24242.56851708
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3889
+meananomly:283.4923
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8660935075
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001357
+argumentofperigree:76.622
+nickname:STARLINK-3889
+idesg:22045A  
+cosparid:2022-045A
+altkm:540.40747103718
+velkms:7.5934709904343
+velkmh:27336
+onumepoch:13153
+onumnow:198467.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:38:40+00:00
+nowjuliandate:2460552.6379298
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3889
+1 52331U 22045A   24242.56851708  .00000758  00000+0  65682-4 0  9991
+2 52331  53.2162 190.1346 0001357  76.6220 283.4923 15.08845352131533

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48558
+launchyear:2021
+epoch:24242.25777204
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2166
+meananomly:280.7863
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3144585135
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001094
+argumentofperigree:79.3249
+nickname:STARLINK-2166
+idesg:21041F  
+cosparid:2021-041F
+altkm:547.91483911889
+velkms:7.5893150258777
+velkmh:27322
+onumepoch:18158
+onumnow:273547.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:11:12+00:00
+nowjuliandate:2460552.6380168
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2166
+1 48558U 21041F   24242.25777204  .00021663  00000+0  14683-2 0  9997
+2 48558  53.0543 114.0282 0001094  79.3249 280.7863 15.06411800181581

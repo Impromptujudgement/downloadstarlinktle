@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47586
+launchyear:2021
+epoch:24242.69364192
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1990
+meananomly:261.2267
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3591500337
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0595
+eccentricity:0.00022
+argumentofperigree:98.8971
+nickname:STARLINK-1990
+idesg:21009AQ 
+cosparid:2021-009AQ
+altkm:548.3344917619
+velkms:7.5888797381198
+velkmh:27320
+onumepoch:19717
+onumnow:297023.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:38:51+00:00
+nowjuliandate:2460552.6394866
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1990
+1 47586U 21009AQ  24242.69364192 -.00000653  00000+0 -24898-4 0  9996
+2 47586  53.0595  22.0748 0002200  98.8971 261.2267 15.06397218197171

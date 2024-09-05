@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49758
+launchyear:2021
+epoch:24241.95303533
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3194
+meananomly:268.0352
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8240077392
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001578
+argumentofperigree:92.0821
+nickname:STARLINK-3194
+idesg:21115AL 
+cosparid:2021-115AL
+altkm:540.62189588408
+velkms:7.5932126604301
+velkmh:27336
+onumepoch:15258
+onumnow:230239.60
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:52:22+00:00
+nowjuliandate:2460552.6379928
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3194
+1 49758U 21115AL  24241.95303533  .00007524  00000+0  49009-3 0  9999
+2 49758  53.2163 122.8984 0001578  92.0821 268.0352 15.08859121152589

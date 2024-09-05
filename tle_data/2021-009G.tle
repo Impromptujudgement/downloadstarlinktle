@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47554
+launchyear:2021
+epoch:24242.64663891
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1953
+meananomly:264.8988
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3445582436
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0557
+eccentricity:0.0002104
+argumentofperigree:95.2241
+nickname:STARLINK-1953
+idesg:21009G  
+cosparid:2021-009G
+altkm:548.21664857314
+velkms:7.589000852132
+velkmh:27320
+onumepoch:19730
+onumnow:297220.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:31:10+00:00
+nowjuliandate:2460552.6394652
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1953
+1 47554U 21009G   24242.64663891  .00016589  00000+0  11299-2 0  9996
+2 47554  53.0557  12.2796 0002104  95.2241 264.8988 15.06401979197306

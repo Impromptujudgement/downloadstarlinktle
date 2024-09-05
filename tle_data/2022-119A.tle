@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53886
+launchyear:2022
+epoch:24242.42733338
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5028
+meananomly:265.2216
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8935539835
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001341
+argumentofperigree:94.8929
+nickname:STARLINK-5028
+idesg:22119A  
+cosparid:2022-119A
+altkm:540.73115423146
+velkms:7.5931308584904
+velkmh:27335
+onumepoch:10713
+onumnow:161651.64
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:15:22+00:00
+nowjuliandate:2460552.6378161
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5028
+1 53886U 22119A   24242.42733338 -.00000237  00000+0  32143-5 0  9992
+2 53886  53.2155 306.0061 0001341  94.8929 265.2216 15.08836368107133

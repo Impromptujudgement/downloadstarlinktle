@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52283
+launchyear:2022
+epoch:24242.32012246
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3789
+meananomly:274.8337
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8794110708
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2136
+eccentricity:0.0001225
+argumentofperigree:85.2795
+nickname:STARLINK-3789
+idesg:22041Y  
+cosparid:2022-041Y
+altkm:540.56810287388
+velkms:7.5933020232726
+velkmh:27336
+onumepoch:13144
+onumnow:198334.40
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:40:59+00:00
+nowjuliandate:2460552.6379301
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3789
+1 52283U 22041Y   24242.32012246  .00001877  00000+0  13597-3 0  9993
+2 52283  53.2136  91.2499 0001225  85.2795 274.8337 15.08840995131448

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53705
+launchyear:2022
+epoch:24242.23228865
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4717
+meananomly:263.1788
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8818594065
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001517
+argumentofperigree:96.9377
+nickname:STARLINK-4717
+idesg:22107F  
+cosparid:2022-107F
+altkm:540.76685346723
+velkms:7.5930852840047
+velkmh:27335
+onumepoch:10994
+onumnow:165895.55
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:34:30+00:00
+nowjuliandate:2460552.6378287
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4717
+1 53705U 22107F   24242.23228865 -.00000128  00000+0  10057-4 0  9990
+2 53705  53.2155 226.8588 0001517  96.9377 263.1788 15.08840194109945

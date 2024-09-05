@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:02+00:00
+validtle:1
+satid:47175
+launchyear:2020
+epoch:24242.20708939
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1895
+meananomly:257.6228
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2972189722
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:0.0001449
+argumentofperigree:102.4923
+nickname:STARLINK-1895
+idesg:20088BF 
+cosparid:2020-088BF
+altkm:548.25446940876
+velkms:7.5889335392075
+velkmh:27320
+onumepoch:20809
+onumnow:313484.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:58:13+00:00
+nowjuliandate:2460552.6396176
+nowepochdate:24243.1396064815
+TLE:
+STARLINK-1895
+1 47175U 20088BF  24242.20708939  .00003021  00000+0  22152-3 0  9994
+2 47175  53.0537 264.2532 0001449 102.4923 257.6228 15.06417425208098

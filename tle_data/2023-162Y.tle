@@ -1,0 +1,38 @@
+date:2024-08-28T17:29:25+00:00
+validtle:1
+satid:58140
+launchyear:2023
+epoch:24239.8618937
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-30780
+meananomly:89.3588
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2232011217
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0019
+eccentricity:0.0001004
+argumentofperigree:270.714
+nickname:STARLINK-30780
+idesg:23162Y  
+cosparid:2023-162Y
+altkm:558.8565056235
+velkms:7.5838423553851
+velkmh:27302
+onumepoch:4808
+onumnow:72269.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T20:41:08+00:00
+nowjuliandate:2460551.2287684
+nowepochdate:24241.7287615741
+TLE:
+STARLINK-30780
+1 58140U 23162Y   24239.86189370  .00000762  00000+0  71439-4 0  9996
+2 58140  43.0019 295.3453 0001004 270.7140  89.3588 15.02534506 48086

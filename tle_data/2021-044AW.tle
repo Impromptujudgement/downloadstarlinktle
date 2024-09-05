@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48682
+launchyear:2021
+epoch:24240.21764773
+epochday:240
+tleage:3
+tleclassification:U
+active:1
+name:STARLINK-2743
+meananomly:294.2248
+meanmotion:15.0646
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.1792972572
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:9.59E-5
+argumentofperigree:65.8842
+nickname:STARLINK-2743
+idesg:21044AW 
+cosparid:2021-044AW
+altkm:547.64890372129
+velkms:7.5895324781545
+velkmh:27322
+onumepoch:18007
+onumnow:271311.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T05:13:25+00:00
+nowjuliandate:2460552.6380124
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2743
+1 48682U 21044AW  24240.21764773  .00019658  00000+0  13329-2 0  9996
+2 48682  53.0539  63.3440 0000959  65.8842 294.2248 15.06455902180075

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48644
+launchyear:2021
+epoch:24241.93065162
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2695
+meananomly:280.3527
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3127575407
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0657
+eccentricity:9.1E-5
+argumentofperigree:79.7565
+nickname:STARLINK-2695
+idesg:21044G  
+cosparid:2021-044G
+altkm:547.94285850738
+velkms:7.589283402202
+velkmh:27321
+onumepoch:17964
+onumnow:270630.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:20:08+00:00
+nowjuliandate:2460552.6380088
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2695
+1 48644U 21044G   24241.93065162  .00022046  00000+0  14938-2 0  9992
+2 48644  53.0657 105.4982 0000910  79.7565 280.3527 15.06412355179648

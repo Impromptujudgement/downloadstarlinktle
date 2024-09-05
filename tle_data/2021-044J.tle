@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:48646
+launchyear:2021
+epoch:24241.92327266
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2732
+meananomly:315.7843
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2710426579
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0531
+eccentricity:9.28E-5
+argumentofperigree:44.322
+nickname:STARLINK-2732
+idesg:21044J  
+cosparid:2021-044J
+altkm:547.55243298623
+velkms:7.5896883240975
+velkmh:27323
+onumepoch:17964
+onumnow:270632.66
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:09:31+00:00
+nowjuliandate:2460552.6380087
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-2732
+1 48646U 21044J   24241.92327266  .00031213  00000+0  21036-2 0  9992
+2 48646  53.0531 105.5267 0000928  44.3220 315.7843 15.06425966179649

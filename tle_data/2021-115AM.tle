@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49759
+launchyear:2021
+epoch:24242.40567365
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3204
+meananomly:264.8882
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8319853104
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001496
+argumentofperigree:95.2281
+nickname:STARLINK-3204
+idesg:21115AM 
+cosparid:2021-115AM
+altkm:540.68477432998
+velkms:7.5931480348921
+velkmh:27335
+onumepoch:15265
+onumnow:230338.00
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:44:10+00:00
+nowjuliandate:2460552.6379927
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3204
+1 49759U 21115AM  24242.40567365  .00003465  00000+0  23557-3 0  9996
+2 49759  53.2176 120.8650 0001496  95.2281 264.8882 15.08856511152656

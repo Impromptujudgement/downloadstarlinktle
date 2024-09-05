@@ -1,0 +1,38 @@
+date:2024-08-29T05:48:54+00:00
+validtle:1
+satid:57221
+launchyear:2023
+epoch:24241.52495598
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5875
+meananomly:107.6308
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1921164779
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001245
+argumentofperigree:252.4398
+nickname:STARLINK-5875
+idesg:23094D  
+cosparid:2023-094D
+altkm:559.09479711158
+velkms:7.5835650416882
+velkmh:27301
+onumepoch:6315
+onumnow:94896.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:35:56+00:00
+nowjuliandate:2460551.7422995
+nowepochdate:24242.2422916667
+TLE:
+STARLINK-5875
+1 57221U 23094D   24241.52495598  .00002060  00000+0  16748-3 0  9991
+2 57221  43.0018 183.5758 0001245 252.4398 107.6308 15.02544605 63159

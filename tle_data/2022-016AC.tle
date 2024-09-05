@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51740
+launchyear:2022
+epoch:24241.88863566
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3500
+meananomly:276.1411
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8341126667
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.000139
+argumentofperigree:83.974
+nickname:STARLINK-3500
+idesg:22016AC 
+cosparid:2022-016AC
+altkm:540.49174924445
+velkms:7.5933610008606
+velkmh:27336
+onumepoch:14041
+onumnow:211875.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:19:38+00:00
+nowjuliandate:2460552.6379645
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3500
+1 51740U 22016AC  24241.88863566  .00004668  00000+0  31103-3 0  9995
+2 51740  53.2171 303.1928 0001390  83.9740 276.1411 15.08855815140416

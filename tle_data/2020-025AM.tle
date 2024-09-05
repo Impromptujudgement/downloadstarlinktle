@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45566
+launchyear:2020
+epoch:24241.83619822
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1358
+meananomly:282.0509
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3374416706
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001487
+argumentofperigree:78.0647
+nickname:STARLINK-1358
+idesg:20025AM 
+cosparid:2020-025AM
+altkm:547.86457190579
+velkms:7.5893826590962
+velkmh:27322
+onumepoch:24128
+onumnow:363490.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:04:08+00:00
+nowjuliandate:2460553.0283406
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1358
+1 45566U 20025AM  24241.83619822  .00003086  00000+0  22596-3 0  9990
+2 45566  53.0534  70.9149 0001487  78.0647 282.0509 15.06404301241287

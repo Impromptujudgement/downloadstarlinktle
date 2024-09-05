@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:56+00:00
+validtle:1
+satid:47919
+launchyear:2021
+epoch:24242.36559625
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2405
+meananomly:277.6575
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3919964008
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001343
+argumentofperigree:82.4567
+nickname:STARLINK-2405
+idesg:21021BM 
+cosparid:2021-021BM
+altkm:548.01011780538
+velkms:7.5892530360306
+velkmh:27321
+onumepoch:19155
+onumnow:288559.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:46:28+00:00
+nowjuliandate:2460552.6381563
+nowepochdate:24243.1381481481
+TLE:
+STARLINK-2405
+1 47919U 21021BM  24242.36559625 -.00001830  00000+0 -10403-3 0  9995
+2 47919  53.0530 263.5453 0001343  82.4567 277.6575 15.06386501191554

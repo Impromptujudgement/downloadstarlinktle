@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:50+00:00
+validtle:1
+satid:47549
+launchyear:2021
+epoch:24241.56850062
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1806
+meananomly:267.8597
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3582612226
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0588
+eccentricity:0.000193
+argumentofperigree:92.2613
+nickname:STARLINK-1806
+idesg:21009B  
+cosparid:2021-009B
+altkm:548.15099349909
+velkms:7.5890802672734
+velkmh:27321
+onumepoch:19681
+onumnow:296497.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T13:38:38+00:00
+nowjuliandate:2460552.6394785
+nowepochdate:24243.1394675926
+TLE:
+STARLINK-1806
+1 47549U 21009B   24241.56850062 -.00001136  00000+0 -57393-4 0  9999
+2 47549  53.0588 357.1227 0001930  92.2613 267.8597 15.06397508196816

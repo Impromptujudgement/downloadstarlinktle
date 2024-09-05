@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54099
+launchyear:2022
+epoch:24242.49994061
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5198
+meananomly:292.7262
+meanmotion:15.0879
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6918.0251106827
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2149
+eccentricity:7.31E-5
+argumentofperigree:67.3807
+nickname:STARLINK-5198
+idesg:22136BA 
+cosparid:2022-136BA
+altkm:540.5898961699
+velkms:7.5933578899371
+velkmh:27336
+onumepoch:10334
+onumnow:155928.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:59:55+00:00
+nowjuliandate:2460552.6378007
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5198
+1 54099U 22136BA  24242.49994061 -.00019828  00000+0 -12328-2 0  9994
+2 54099  53.2149 314.9975 0000731  67.3807 292.7262 15.08793329103341

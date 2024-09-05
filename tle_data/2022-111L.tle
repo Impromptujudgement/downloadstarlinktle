@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53783
+launchyear:2022
+epoch:24241.79156417
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4536
+meananomly:266.2404
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8506516944
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001391
+argumentofperigree:93.8748
+nickname:STARLINK-4536
+idesg:22111L  
+cosparid:2022-111L
+altkm:540.67411689426
+velkms:7.593169950101
+velkmh:27335
+onumepoch:10947
+onumnow:165193.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:59:51+00:00
+nowjuliandate:2460552.6378241
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4536
+1 53783U 22111L   24241.79156417  .00001137  00000+0  89522-4 0  9997
+2 53783  53.2159 258.5418 0001391  93.8748 266.2404 15.08850404109479

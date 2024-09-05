@@ -1,0 +1,38 @@
+date:2024-08-29T04:31:33+00:00
+validtle:1
+satid:57416
+launchyear:2023
+epoch:24241.17004774
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30224
+meananomly:85.8776
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2011934411
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001149
+argumentofperigree:274.1935
+nickname:STARLINK-30224
+idesg:23102N  
+cosparid:2023-102N
+altkm:558.7850478544
+velkms:7.5839084411301
+velkmh:27302
+onumepoch:6222
+onumnow:93503.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T04:04:52+00:00
+nowjuliandate:2460551.6885798
+nowepochdate:24242.1885763889
+TLE:
+STARLINK-30224
+1 57416U 23102N   24241.17004774  .00001066  00000+0  93935-4 0  9999
+2 57416  43.0021  43.4442 0001149 274.1935  85.8776 15.02541656 62220

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45783
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1505
+meananomly:268.0885
+meanmotion:15.2932
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6855.9845931894
+altitudeatperigee:477
+altitudeatapogee:479
+inclination:53.0514
+eccentricity:0.0001279
+argumentofperigree:103.3602
+nickname:STARLINK-1505
+idesg:20038BF 
+cosparid:2020-038BF
+altkm:478.04074886599
+velkms:7.6285854681461
+velkmh:27463
+onumepoch:575
+onumnow:8801.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283054
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1505
+1 45783U 20038BF  24243.00001157  .00777451  00000+0  25004-1 0  9991
+2 45783  53.0514 174.3719 0001279 103.3602 268.0885 15.29319432  5756

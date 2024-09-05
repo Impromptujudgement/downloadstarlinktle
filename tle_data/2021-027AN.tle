@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48128
+launchyear:2021
+epoch:24241.87721757
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2469
+meananomly:274.0036
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3483280118
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.000142
+argumentofperigree:86.1115
+nickname:STARLINK-2469
+idesg:21027AN 
+cosparid:2021-027AN
+altkm:548.02175262462
+velkms:7.5892164173345
+velkmh:27321
+onumepoch:18892
+onumnow:284608.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:03:12+00:00
+nowjuliandate:2460552.6380525
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2469
+1 48128U 21027AN  24241.87721757  .00001894  00000+0  14598-3 0  9993
+2 48128  53.0530  85.8217 0001420  86.1115 274.0036 15.06400749188927

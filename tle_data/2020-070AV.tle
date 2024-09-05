@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46575
+launchyear:2020
+epoch:24243.14010549
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1675
+meananomly:284.9931
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.326340834
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001395
+argumentofperigree:75.1212
+nickname:STARLINK-1675
+idesg:20070AV 
+cosparid:2020-070AV
+altkm:547.81858723216
+velkms:7.5894269680074
+velkmh:27322
+onumepoch:21618
+onumnow:325661.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T03:21:45+00:00
+nowjuliandate:2460553.0282314
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1675
+1 46575U 20070AV  24243.14010549  .00024264  00000+0  16419-2 0  9995
+2 46575  53.0539 115.0645 0001395  75.1212 284.9931 15.06407923216183

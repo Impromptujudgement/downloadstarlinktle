@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:41+00:00
+validtle:1
+satid:44940
+launchyear:2020
+epoch:24242.46649148
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1091
+meananomly:259.9404
+meanmotion:15.0637
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4319997992
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001451
+argumentofperigree:100.1749
+nickname:STARLINK-1091
+idesg:20001AC 
+cosparid:2020-001AC
+altkm:548.34975008462
+velkms:7.5889028497292
+velkmh:27320
+onumepoch:25613
+onumnow:385843.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:11:45+00:00
+nowjuliandate:2460553.029652
+nowepochdate:24243.5296412037
+TLE:
+STARLINK-1091
+1 44940U 20001AC  24242.46649148  .00022631  00000+0  15344-2 0  9992
+2 44940  53.0545 308.0929 0001451 100.1749 259.9404 15.06373449256131

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:40+00:00
+validtle:1
+satid:51465
+launchyear:2022
+epoch:24241.35135236
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3401
+meananomly:273.6180
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8446088705
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001251
+argumentofperigree:86.4955
+nickname:STARLINK-3401
+idesg:22010Z  
+cosparid:2022-010Z
+altkm:540.55032185804
+velkms:7.5933024773354
+velkmh:27336
+onumepoch:14303
+onumnow:215836.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:25:57+00:00
+nowjuliandate:2460552.6379652
+nowepochdate:24243..137962963
+TLE:
+STARLINK-3401
+1 51465U 22010Z   24241.35135236 -.00003268  00000+0 -18725-3 0  9993
+2 51465  53.2156 265.5992 0001251  86.4955 273.6180 15.08852381143038

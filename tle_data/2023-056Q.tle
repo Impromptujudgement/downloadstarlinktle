@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56300
+launchyear:2023
+epoch:24241.6428483
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-30104
+meananomly:59.8590
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1963610087
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.006
+eccentricity:6.84E-5
+argumentofperigree:300.2184
+nickname:STARLINK-30104
+idesg:23056Q  
+cosparid:2023-056Q
+altkm:558.59964589583
+velkms:7.5841083973941
+velkmh:27303
+onumepoch:7614
+onumnow:114426.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:25:42+00:00
+nowjuliandate:2460552.6377116
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-30104
+1 56300U 23056Q   24241.64284830  .00001229  00000+0  10603-3 0  9994
+2 56300  43.0060   2.1714 0000684 300.2184  59.8590 15.02543226 76144

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53888
+launchyear:2022
+epoch:24242.42366111
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5034
+meananomly:284.0506
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9150848501
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001452
+argumentofperigree:76.0648
+nickname:STARLINK-5034
+idesg:22119C  
+cosparid:2022-119C
+altkm:540.43169797376
+velkms:7.5934712323047
+velkmh:27336
+onumepoch:10713
+onumnow:161650.94
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:10:04+00:00
+nowjuliandate:2460552.6378128
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5034
+1 53888U 22119C   24242.42366111 -.00001586  00000+0 -81625-4 0  9992
+2 53888  53.2169 305.9766 0001452  76.0648 284.0506 15.08829324107138

@@ -1,0 +1,38 @@
+date:2024-08-28T19:49:24+00:00
+validtle:1
+satid:57913
+launchyear:2023
+epoch:24240.94578504
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30450
+meananomly:96.2283
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.171623396
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0076
+eccentricity:9.06E-5
+argumentofperigree:263.8456
+nickname:STARLINK-30450
+idesg:23147A  
+cosparid:2023-147A
+altkm:558.88151992317
+velkms:7.5837869120721
+velkmh:27302
+onumepoch:5253
+onumnow:78942.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:41:56+00:00
+nowjuliandate:2460551.3259781
+nowepochdate:24241.8259722222
+TLE:
+STARLINK-30450
+1 57913U 23147A   24240.94578504 -.00000598  00000+0 -29178-4 0  9990
+2 57913  43.0076 122.5176 0000906 263.8456  96.2283 15.02551263 52535

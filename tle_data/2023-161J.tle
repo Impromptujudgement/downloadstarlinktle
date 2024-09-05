@@ -1,0 +1,38 @@
+date:2024-08-28T17:56:16+00:00
+validtle:1
+satid:58105
+launchyear:2023
+epoch:24241.15069851
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30616
+meananomly:267.8166
+meanmotion:15.3423
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6841.3612690971
+altitudeatperigee:462
+altitudeatapogee:464
+inclination:53.1594
+eccentricity:0.0001093
+argumentofperigree:92.2961
+nickname:STARLINK-30616
+idesg:23161J  
+cosparid:2023-161J
+altkm:464.15401578625
+velkms:7.6356008320196
+velkmh:27488
+onumepoch:4880
+onumnow:74879.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:37:00+00:00
+nowjuliandate:2460551.2474186
+nowepochdate:24241.7474074074
+TLE:
+STARLINK-30616
+1 58105U 23161J   24241.15069851  .00000282  00000+0  19550-4 0  9995
+2 58105  53.1594 237.7993 0001093  92.2961 267.8166 15.34225403 48805

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54767
+launchyear:2022
+epoch:24242.70330532
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5472
+meananomly:276.3450
+meanmotion:15.0882
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9316396451
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2198
+eccentricity:0.0001706
+argumentofperigree:83.7737
+nickname:STARLINK-5472
+idesg:22175K  
+cosparid:2022-175K
+altkm:540.56205520426
+velkms:7.5933372592803
+velkmh:27336
+onumepoch:9367
+onumnow:141338.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:52:46+00:00
+nowjuliandate:2460552.6377867
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5472
+1 54767U 22175K   24242.70330532 -.00003773  00000+0 -21920-3 0  9991
+2 54767  53.2198  24.4859 0001706  83.7737 276.3450 15.08823908 93676

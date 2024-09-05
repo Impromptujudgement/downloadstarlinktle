@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52648
+launchyear:2022
+epoch:24241.71384223
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3854
+meananomly:265.5389
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.871989662
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2171
+eccentricity:0.0001448
+argumentofperigree:94.5768
+nickname:STARLINK-3854
+idesg:22052BC 
+cosparid:2022-052BC
+altkm:540.7104234694
+velkms:7.5931417972234
+velkmh:27335
+onumepoch:12689
+onumnow:191478.63
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:07:56+00:00
+nowjuliandate:2460552.6379077
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3854
+1 52648U 22052BC  24241.71384223  .00001753  00000+0  12817-3 0  9996
+2 52648  53.2171 243.9755 0001448  94.5768 265.5389 15.08843423126899

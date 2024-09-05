@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53613
+launchyear:2022
+epoch:24241.22488081
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4655
+meananomly:257.5511
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8843688764
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001492
+argumentofperigree:102.5648
+nickname:STARLINK-4655
+idesg:22104AB 
+cosparid:2022-104AB
+altkm:540.86724163018
+velkms:7.5929765090516
+velkmh:27335
+onumepoch:11132
+onumnow:167992.86
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T05:23:50+00:00
+nowjuliandate:2460552.6378443
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4655
+1 53613U 22104AB  24241.22488081  .00000420  00000+0  44488-4 0  9990
+2 53613  53.2158 221.3161 0001492 102.5648 257.5511 15.08839373111323

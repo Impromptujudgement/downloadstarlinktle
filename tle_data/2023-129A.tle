@@ -1,0 +1,38 @@
+date:2024-08-28T21:35:29+00:00
+validtle:1
+satid:57698
+launchyear:2023
+epoch:24240.78614281
+epochday:240
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30288
+meananomly:84.5447
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1826825006
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0006
+eccentricity:0.0001317
+argumentofperigree:275.5245
+nickname:STARLINK-30288
+idesg:23129A  
+cosparid:2023-129A
+altkm:558.73684650787
+velkms:7.5839510210276
+velkmh:27302
+onumepoch:5658
+onumnow:85030.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T18:52:03+00:00
+nowjuliandate:2460551.399644
+nowepochdate:24241.8996412037
+TLE:
+STARLINK-30288
+1 57698U 23129A   24240.78614281 -.00003160  00000+0 -21886-3 0  9990
+2 57698  43.0006 276.9812 0001317 275.5245  84.5447 15.02547670 56580

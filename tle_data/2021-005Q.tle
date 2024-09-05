@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:56+00:00
+validtle:1
+satid:47363
+launchyear:2021
+epoch:24241.72607983
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2077
+meananomly:268.0593
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3508932961
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0552
+eccentricity:0.0001277
+argumentofperigree:92.0542
+nickname:STARLINK-2077
+idesg:21005Q  
+cosparid:2021-005Q
+altkm:548.12313267407
+velkms:7.5891067593386
+velkmh:27321
+onumepoch:19894
+onumnow:299702.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:25:33+00:00
+nowjuliandate:2460552.6395447
+nowepochdate:24243..139537037
+TLE:
+STARLINK-2077
+1 47363U 21005Q   24241.72607983  .00001567  00000+0  12409-3 0  9993
+2 47363  53.0552  46.4133 0001277  92.0542 268.0593 15.06399912198944

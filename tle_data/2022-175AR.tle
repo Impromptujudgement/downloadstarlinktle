@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54797
+launchyear:2022
+epoch:24242.09702898
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5435
+meananomly:270.5088
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8112742383
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001396
+argumentofperigree:89.6064
+nickname:STARLINK-5435
+idesg:22175AR 
+cosparid:2022-175AR
+altkm:540.56313784031
+velkms:7.5932701612692
+velkmh:27336
+onumepoch:9358
+onumnow:141215.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:19:43+00:00
+nowjuliandate:2460552.6377893
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5435
+1 54797U 22175AR  24242.09702898  .00005886  00000+0  38737-3 0  9993
+2 54797  53.2164  27.0946 0001396  89.6064 270.5088 15.08863287 93588

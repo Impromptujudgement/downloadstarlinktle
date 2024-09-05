@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46073
+launchyear:2020
+epoch:24241.83159036
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1542
+meananomly:268.7910
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3077496375
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0544
+eccentricity:0.0001665
+argumentofperigree:91.327
+nickname:STARLINK-1542
+idesg:20055AY 
+cosparid:2020-055AY
+altkm:548.07436310963
+velkms:7.5891365991653
+velkmh:27321
+onumepoch:22522
+onumnow:339292.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T19:57:29+00:00
+nowjuliandate:2460553.0282956
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1542
+1 46073U 20055AY  24241.83159036  .00013131  00000+0  89843-3 0  9993
+2 46073  53.0544  80.9418 0001665  91.3270 268.7910 15.06413989225225

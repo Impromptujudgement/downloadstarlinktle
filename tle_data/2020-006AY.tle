@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:58+00:00
+validtle:1
+satid:45090
+launchyear:2020
+epoch:24242.23701575
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1176
+meananomly:273.9052
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3497684938
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001348
+argumentofperigree:86.2091
+nickname:STARLINK-1176
+idesg:20006AY 
+cosparid:2020-006AY
+altkm:548.02810840208
+velkms:7.5892102418362
+velkmh:27321
+onumepoch:25300
+onumnow:381138.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:41:18+00:00
+nowjuliandate:2460553.0284512
+nowepochdate:24243.5284490741
+TLE:
+STARLINK-1176
+1 45090U 20006AY  24242.23701575  .00002256  00000+0  17030-3 0  9998
+2 45090  53.0516 229.1104 0001348  86.2091 273.9052 15.06400279253003

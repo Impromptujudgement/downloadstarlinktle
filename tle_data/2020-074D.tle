@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:09+00:00
+validtle:1
+satid:46742
+launchyear:2020
+epoch:23102.09979167
+epochday:102
+tleage:506
+tleclassification:C
+active:0
+name:STARLINK-1872
+meananomly:290.1063
+meanmotion:15.9538
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6665.3895615361
+altitudeatperigee:282
+altitudeatapogee:292
+inclination:53.0363
+eccentricity:0.000772
+argumentofperigree:262.1272
+nickname:STARLINK-1872
+idesg:20074D  
+cosparid:2020-074D
+altkm:288.18905170643
+velkms:7.7362820588252
+velkmh:27851
+onumepoch:1
+onumnow:18219.10
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-04-12T02:23:42+00:00
+nowjuliandate:2460552.6396969
+nowepochdate:24243.09.1396875
+TLE:
+STARLINK-1872
+1 46742C 20074D   23102.09979167  .02467663  00000-0  52846-2 0  1029
+2 46742  53.0363 331.6765 0007720 262.1272 290.1063 15.95381864    16

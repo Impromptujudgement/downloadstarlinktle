@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:49+00:00
+validtle:1
+satid:47553
+launchyear:2021
+epoch:22108.79224985
+epochday:108
+tleage:865
+tleclassification:C
+active:0
+name:STARLINK-1951
+meananomly:219.4065
+meanmotion:15.9714
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6660.4908390808
+altitudeatperigee:279
+altitudeatapogee:286
+inclination:53.0453
+eccentricity:0.0004946
+argumentofperigree:355.0364
+nickname:STARLINK-1951
+idesg:21009F  
+cosparid:2021-009F
+altkm:292.91574708554
+velkms:7.7303131390727
+velkmh:27829
+onumepoch:1
+onumnow:34104.53
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-04-18T19:00:50+00:00
+nowjuliandate:2460552.639466
+nowepochdate:24243.1394560185
+TLE:
+STARLINK-1951
+1 47553C 21009F   22108.79224985  .00483672  00000-0  10471-2 0  1082
+2 47553  53.0453 220.6936 0004946 355.0364 219.4065 15.97142268    16

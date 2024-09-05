@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51890
+launchyear:2022
+epoch:24242.44174629
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3519
+meananomly:15.0208
+meanmotion:15.1556
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6897.4142210601
+altitudeatperigee:514
+altitudeatapogee:524
+inclination:53.2158
+eccentricity:0.0007406
+argumentofperigree:345.0568
+nickname:STARLINK-3519
+idesg:22022AQ 
+cosparid:2022-022AQ
+altkm:515.243750945
+velkms:7.6099342146353
+velkmh:27396
+onumepoch:13917
+onumnow:210931.21
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:36:07+00:00
+nowjuliandate:2460552.6379516
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3519
+1 51890U 22022AQ  24242.44174629  .00092891  00000+0  47908-2 0  9990
+2 51890  53.2158 336.9103 0007406 345.0568  15.0208 15.15561255139175

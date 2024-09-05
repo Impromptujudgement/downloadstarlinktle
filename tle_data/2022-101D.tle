@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53530
+launchyear:2022
+epoch:24242.77417259
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4482
+meananomly:263.6421
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8868966882
+altitudeatperigee:537
+altitudeatapogee:542
+inclination:53.2164
+eccentricity:0.000392
+argumentofperigree:96.5017
+nickname:STARLINK-4482
+idesg:22101D  
+cosparid:2022-101D
+altkm:540.94854362953
+velkms:7.5928886884171
+velkmh:27334
+onumepoch:11208
+onumnow:169116.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:34:49+00:00
+nowjuliandate:2460552.6378471
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4482
+1 53530U 22101D   24242.77417259  .00012779  00000+0  81953-3 0  9992
+2 53530  53.2164  54.4342 0003920  96.5017 263.6421 15.08838546112087

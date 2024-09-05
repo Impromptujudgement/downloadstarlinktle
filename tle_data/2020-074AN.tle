@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46775
+launchyear:2020
+epoch:22026.00427053
+epochday:26
+tleage:947
+tleclassification:C
+active:0
+name:STARLINK-1945
+meananomly:95.7508
+meanmotion:16.0087
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6650.1450876893
+altitudeatperigee:268
+altitudeatapogee:276
+inclination:53.0471
+eccentricity:0.0005634
+argumentofperigree:322.3201
+nickname:STARLINK-1945
+idesg:20074AN 
+cosparid:2020-074AN
+altkm:276.56777704837
+velkms:7.7467149721927
+velkmh:27888
+onumepoch:1
+onumnow:35509.48
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-01-26T00:06:09+00:00
+nowjuliandate:2460552.6397179
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1945
+1 46775C 20074AN  22026.00427053  .00501515  00000-0  87657-3 0   269
+2 46775  53.0471 205.0523 0005634 322.3201  95.7508 16.00870772    12

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:36+00:00
+validtle:1
+satid:47820
+launchyear:2021
+epoch:24242.21630337
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2403
+meananomly:253.8076
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3478284406
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0546
+eccentricity:0.0001286
+argumentofperigree:106.3055
+nickname:STARLINK-2403
+idesg:21018AK 
+cosparid:2021-018AK
+altkm:548.33839200505
+velkms:7.588869274797
+velkmh:27320
+onumepoch:19209
+onumnow:289378.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:11:29+00:00
+nowjuliandate:2460552.6393074
+nowepochdate:24243.1393055556
+TLE:
+STARLINK-2403
+1 47820U 21018AK  24242.21630337  .00000429  00000+0  47719-4 0  9998
+2 47820  53.0546 244.2131 0001286 106.3055 253.8076 15.06400912192090

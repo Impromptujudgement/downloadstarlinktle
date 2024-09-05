@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52464
+launchyear:2022
+epoch:24241.73224225
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3904
+meananomly:299.8380
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8380922943
+altitudeatperigee:540
+altitudeatapogee:540
+inclination:53.2226
+eccentricity:2.77E-5
+argumentofperigree:60.264
+nickname:STARLINK-3904
+idesg:22049P  
+cosparid:2022-049P
+altkm:540.50371248745
+velkms:7.5933500534392
+velkmh:27336
+onumepoch:12801
+onumnow:193169.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:34:26+00:00
+nowjuliandate:2460552.6379185
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3904
+1 52464U 22049P   24241.73224225  .00012330  00000+0  79111-3 0  9998
+2 52464  53.2226  43.8895 0000277  60.2640 299.8380 15.08854513128015

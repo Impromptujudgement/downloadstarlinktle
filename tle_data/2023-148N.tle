@@ -1,0 +1,38 @@
+date:2024-08-28T19:25:38+00:00
+validtle:1
+satid:57947
+launchyear:2023
+epoch:24241.33670325
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30706
+meananomly:270.1899
+meanmotion:15.3021
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6853.3272502984
+altitudeatperigee:474
+altitudeatapogee:476
+inclination:53.163
+eccentricity:0.0001396
+argumentofperigree:89.9262
+nickname:STARLINK-30706
+idesg:23148N  
+cosparid:2023-148N
+altkm:476.08719805931
+velkms:7.6289577884243
+velkmh:27464
+onumepoch:5284
+onumnow:80863.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:04:51+00:00
+nowjuliandate:2460551.3094729
+nowepochdate:24241.8094675926
+TLE:
+STARLINK-30706
+1 57947U 23148N   24241.33670325 -.00001727  00000+0 -46188-4 0  9991
+2 57947  53.1630  97.9356 0001396  89.9262 270.1899 15.30208997 52845

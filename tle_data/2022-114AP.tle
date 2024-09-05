@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53855
+launchyear:2022
+epoch:24242.4015538
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4703
+meananomly:254.9094
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8887581617
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2179
+eccentricity:0.0001599
+argumentofperigree:105.2075
+nickname:STARLINK-4703
+idesg:22114AP 
+cosparid:2022-114AP
+altkm:540.93735885273
+velkms:7.592901979078
+velkmh:27334
+onumepoch:10830
+onumnow:163417.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:38:14+00:00
+nowjuliandate:2460552.637821
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4703
+1 53855U 22114AP  24242.40155380  .00000350  00000+0  40093-4 0  9993
+2 53855  53.2179 275.6308 0001599 105.2075 254.9094 15.08837937108306

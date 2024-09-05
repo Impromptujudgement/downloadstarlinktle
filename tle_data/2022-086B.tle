@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53243
+launchyear:2022
+epoch:24242.13286397
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4047
+meananomly:262.3687
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8762199848
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2172
+eccentricity:0.0001515
+argumentofperigree:97.7477
+nickname:STARLINK-4047
+idesg:22086B  
+cosparid:2022-086B
+altkm:540.77593573141
+velkms:7.5930722307525
+velkmh:27335
+onumepoch:11657
+onumnow:175900.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:11:19+00:00
+nowjuliandate:2460552.6378655
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4047
+1 53243U 22086B   24242.13286397  .00000273  00000+0  35260-4 0  9999
+2 53243  53.2172 186.7789 0001515  97.7477 262.3687 15.08842039116572

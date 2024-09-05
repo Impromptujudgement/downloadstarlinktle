@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:48+00:00
+validtle:1
+satid:45570
+launchyear:2020
+epoch:24242.77241817
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1376
+meananomly:272.5091
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2465644573
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0555
+eccentricity:0.00016
+argumentofperigree:87.6082
+nickname:STARLINK-1376
+idesg:20025AR 
+cosparid:2020-025AR
+altkm:547.94044658403
+velkms:7.5892498555165
+velkmh:27321
+onumepoch:24142
+onumnow:363694.67
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:32:17+00:00
+nowjuliandate:2460553.0283396
+nowepochdate:24243.5283333333
+TLE:
+STARLINK-1376
+1 45570U 20025AR  24242.77241817  .00012231  00000+0  83780-3 0  9998
+2 45570  53.0555  66.7147 0001600  87.6082 272.5091 15.06433953241423

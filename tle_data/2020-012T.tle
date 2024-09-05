@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45195
+launchyear:2020
+epoch:23053.18649849
+epochday:53
+tleage:555
+tleclassification:U
+active:0
+name:STARLINK-1241
+meananomly:207.4196
+meanmotion:15.2626
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6865.1437898882
+altitudeatperigee:485
+altitudeatapogee:489
+inclination:53.0564
+eccentricity:0.0003403
+argumentofperigree:152.6981
+nickname:STARLINK-1241
+idesg:20012T  
+cosparid:2020-012T
+altkm:489.96767118325
+velkms:7.6200882763313
+velkmh:27432
+onumepoch:16756
+onumnow:273907.82
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-22T04:28:33+00:00
+nowjuliandate:2460553.028372
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1241
+1 45195U 20012T   23053.18649849  .00064711  00000+0  24557-2 0  9994
+2 45195  53.0564 338.1842 0003403 152.6981 207.4196 15.26259919167563

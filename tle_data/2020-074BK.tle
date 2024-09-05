@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46796
+launchyear:2020
+epoch:24242.38126313
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1944
+meananomly:237.4334
+meanmotion:15.0634
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.5471675737
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0535
+eccentricity:0.0001599
+argumentofperigree:122.6809
+nickname:STARLINK-1944
+idesg:20074BK 
+cosparid:2020-074BK
+altkm:548.88534339346
+velkms:7.5883791282123
+velkmh:27318
+onumepoch:21249
+onumnow:320092.73
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:09:01+00:00
+nowjuliandate:2460552.6397008
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1944
+1 46796U 20074BK  24242.38126313 -.00032603  00000+0 -21837-2 0  9994
+2 46796  53.0535 293.4726 0001599 122.6809 237.4334 15.06335874212496

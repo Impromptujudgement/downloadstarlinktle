@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51889
+launchyear:2022
+epoch:24242.53632387
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3547
+meananomly:268.3243
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9056459715
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2193
+eccentricity:0.0001502
+argumentofperigree:91.7921
+nickname:STARLINK-3547
+idesg:22022AP 
+cosparid:2022-022AP
+altkm:540.69678813211
+velkms:7.5931751886833
+velkmh:27335
+onumepoch:13913
+onumnow:209932.93
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:52:18+00:00
+nowjuliandate:2460552.6379517
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3547
+1 51889U 22022AP  24242.53632387 -.00001561  00000+0 -79997-4 0  9999
+2 51889  53.2193 340.2842 0001502  91.7921 268.3243 15.08832412139135

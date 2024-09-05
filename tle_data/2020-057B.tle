@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46118
+launchyear:2020
+epoch:24242.44529207
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1588
+meananomly:280.8193
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4101345541
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0541
+eccentricity:0.0001301
+argumentofperigree:79.2942
+nickname:STARLINK-1588
+idesg:20057B  
+cosparid:2020-057B
+altkm:547.98317794305
+velkms:7.5892924644347
+velkmh:27321
+onumepoch:22335
+onumnow:336458.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:41:13+00:00
+nowjuliandate:2460553.0282851
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1588
+1 46118U 20057B   24242.44529207  .00007405  00000+0  51573-3 0  9990
+2 46118  53.0541 298.1842 0001301  79.2942 280.8193 15.06380583223357

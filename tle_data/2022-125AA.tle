@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53988
+launchyear:2022
+epoch:24242.56255276
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5113
+meananomly:268.6218
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.877772735
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001428
+argumentofperigree:91.4938
+nickname:STARLINK-5113
+idesg:22125AA 
+cosparid:2022-125AA
+altkm:540.66194392899
+velkms:7.5931981581726
+velkmh:27336
+onumepoch:10542
+onumnow:159070.75
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:30:05+00:00
+nowjuliandate:2460552.6378101
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5113
+1 53988U 22125AA  24242.56255276  .00000547  00000+0  52476-4 0  9990
+2 53988  53.2162 195.2771 0001428  91.4938 268.6218 15.08841531105426

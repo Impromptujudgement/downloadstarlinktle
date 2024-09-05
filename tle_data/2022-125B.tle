@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53965
+launchyear:2022
+epoch:24242.63251594
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4578
+meananomly:264.5396
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8872023488
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2142
+eccentricity:0.0001415
+argumentofperigree:95.5758
+nickname:STARLINK-4578
+idesg:22125B  
+cosparid:2022-125B
+altkm:540.74054036327
+velkms:7.5931170813483
+velkmh:27335
+onumepoch:10529
+onumnow:158873.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:10:49+00:00
+nowjuliandate:2460552.637807
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-4578
+1 53965U 22125B   24242.63251594 -.00000091  00000+0  12375-4 0  9991
+2 53965  53.2142 204.9710 0001415  95.5758 264.5396 15.08838446105299

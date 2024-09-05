@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54800
+launchyear:2022
+epoch:24242.08962694
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5428
+meananomly:266.7179
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8476470919
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001177
+argumentofperigree:93.3948
+nickname:STARLINK-5428
+idesg:22175AU 
+cosparid:2022-175AU
+altkm:540.65463331566
+velkms:7.593189683318
+velkmh:27335
+onumepoch:9373
+onumnow:141440.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:09:04+00:00
+nowjuliandate:2460552.6377888
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5428
+1 54800U 22175AU  24242.08962694 -.00000592  00000+0 -19076-4 0  9996
+2 54800  53.2162  17.0577 0001177  93.3948 266.7179 15.08851387 93733

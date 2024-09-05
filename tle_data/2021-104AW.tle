@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49452
+launchyear:2021
+epoch:24241.59704139
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3150
+meananomly:264.3011
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8642320493
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2166
+eccentricity:0.0001638
+argumentofperigree:95.8168
+nickname:STARLINK-3150
+idesg:21104AW 
+cosparid:2021-104AW
+altkm:540.73725285918
+velkms:7.593108110712
+velkmh:27335
+onumepoch:15560
+onumnow:234799.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:19:44+00:00
+nowjuliandate:2460552.6379972
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3150
+1 49452U 21104AW  24241.59704139  .00000957  00000+0  78204-4 0  9998
+2 49452  53.2166 204.5329 0001638  95.8168 264.3011 15.08845961155600

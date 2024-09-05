@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46141
+launchyear:2020
+epoch:24243.17511449
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1596
+meananomly:271.4222
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3691721647
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.0001444
+argumentofperigree:88.6932
+nickname:STARLINK-1596
+idesg:20057AA 
+cosparid:2020-057AA
+altkm:548.08629035743
+velkms:7.5891571118638
+velkmh:27321
+onumepoch:22340
+onumnow:336525.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T04:12:10+00:00
+nowjuliandate:2460553.0282888
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1596
+1 46141U 20057AA  24243.17511449  .00002507  00000+0  18718-3 0  9998
+2 46141  53.0516 254.9113 0001444  88.6932 271.4222 15.06393948223401

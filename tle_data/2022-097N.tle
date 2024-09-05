@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53400
+launchyear:2022
+epoch:24242.32426027
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4520
+meananomly:276.7109
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8800621261
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001128
+argumentofperigree:83.4011
+nickname:STARLINK-4520
+idesg:22097N  
+cosparid:2022-097N
+altkm:540.54920698643
+velkms:7.5933231140847
+velkmh:27336
+onumepoch:11388
+onumnow:171839.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:46:56+00:00
+nowjuliandate:2460552.6378576
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4520
+1 53400U 22097N   24242.32426027 -.00000410  00000+0 -76554-5 0  9990
+2 53400  53.2159 106.2325 0001128  83.4011 276.7109 15.08840782113883

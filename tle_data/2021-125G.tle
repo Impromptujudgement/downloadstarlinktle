@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50162
+launchyear:2021
+epoch:24043.57970341
+epochday:43
+tleage:200
+tleclassification:U
+active:0
+name:STARLINK-3303
+meananomly:82.8533
+meanmotion:16.0680
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6633.7715535626
+altitudeatperigee:249
+altitudeatapogee:262
+inclination:53.1634
+eccentricity:0.0009741
+argumentofperigree:56.4429
+nickname:STARLINK-3303
+idesg:21125G  
+cosparid:2021-125G
+altkm:256.78245960435
+velkms:7.7577315489385
+velkmh:27928
+onumepoch:12655
+onumnow:206545.00
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-02-12T13:54:46+00:00
+nowjuliandate:2460552.6379834
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3303
+1 50162U 21125G   24043.57970341  .00758891  30721-3  96176-3 0  9990
+2 50162  53.1634  74.7283 0009741  56.4429  82.8533 16.06801353126551

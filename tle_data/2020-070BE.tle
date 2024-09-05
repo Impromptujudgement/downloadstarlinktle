@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46584
+launchyear:2020
+epoch:24243.02674465
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1732
+meananomly:270.6293
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3471541729
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001301
+argumentofperigree:89.4845
+nickname:STARLINK-1732
+idesg:20070BE 
+cosparid:2020-070BE
+altkm:548.07934988848
+velkms:7.589152678236
+velkmh:27321
+onumepoch:21557
+onumnow:324742.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:38:31+00:00
+nowjuliandate:2460553.0282282
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1732
+1 46584U 20070BE  24243.02674465  .00032387  00000+0  21831-2 0  9994
+2 46584  53.0533 135.5997 0001301  89.4845 270.6293 15.06401132215572

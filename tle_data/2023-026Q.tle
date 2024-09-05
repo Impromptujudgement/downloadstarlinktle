@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:20+00:00
+validtle:1
+satid:55709
+launchyear:2023
+epoch:24242.20113505
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30047
+meananomly:180.8377
+meanmotion:16.2832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6575.1953805391
+altitudeatperigee:190
+altitudeatapogee:204
+inclination:42.9846
+eccentricity:0.0010271
+argumentofperigree:259.8211
+nickname:STARLINK-30047
+idesg:23026Q  
+cosparid:2023-026Q
+altkm:206.72930427032
+velkms:7.7846202333035
+velkmh:28025
+onumepoch:8730
+onumnow:142167.65
+otype:9
+otypedesc:Orbital Decay
+status:9
+timestamp:2024-08-29T04:49:38+00:00
+nowjuliandate:2460552.6377392
+nowepochdate:24243.1377314815
+TLE:
+STARLINK-30047
+1 55709U 23026Q   24242.20113505  .08408839  90396-5  20231-2 0  9992
+2 55709  42.9846 211.8295 0010271 259.8211 180.8377 16.28320771 87307

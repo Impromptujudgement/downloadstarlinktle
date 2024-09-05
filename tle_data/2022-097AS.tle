@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53428
+launchyear:2022
+epoch:24242.28563322
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4540
+meananomly:274.1732
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.857119395
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2197
+eccentricity:0.0001489
+argumentofperigree:85.943
+nickname:STARLINK-4540
+idesg:22097AS 
+cosparid:2022-097AS
+altkm:540.54296570302
+velkms:7.5933174003778
+velkmh:27336
+onumepoch:11415
+onumnow:172247.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:51:19+00:00
+nowjuliandate:2460552.6378605
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4540
+1 53428U 22097AS  24242.28563322  .00002717  00000+0  18869-3 0  9998
+2 53428  53.2197  86.4881 0001489  85.9430 274.1732 15.08848288114157

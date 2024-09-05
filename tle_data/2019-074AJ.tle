@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:45+00:00
+validtle:1
+satid:44745
+launchyear:2019
+epoch:21317.84240098
+epochday:317
+tleage:1021
+tleclassification:C
+active:0
+name:STARLINK-1040
+meananomly:64.0877
+meanmotion:16.0008
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6652.3257432085
+altitudeatperigee:211
+altitudeatapogee:337
+inclination:53.218
+eccentricity:0.0094385
+argumentofperigree:45.7735
+nickname:STARLINK-1040
+idesg:19074AJ 
+cosparid:2019-074AJ
+altkm:252.71641313101
+velkms:7.7771709648242
+velkmh:27998
+onumepoch:1
+onumnow:46829.47
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2021-11-13T20:13:03+00:00
+nowjuliandate:2460553.0311568
+nowepochdate:24243.5311458333
+TLE:
+STARLINK-1040
+1 44745C 19074AJ  21317.84240098  .00298671  00000-0  33086-3 0  3174
+2 44745  53.2180 133.2539 0094385  45.7735  64.0877 16.00083680    16

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45181
+launchyear:2020
+epoch:24242.68764449
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1200
+meananomly:260.5849
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3529865944
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0532
+eccentricity:0.0002027
+argumentofperigree:99.5369
+nickname:STARLINK-1200
+idesg:20012D  
+cosparid:2020-012D
+altkm:548.32485944025
+velkms:7.5888869190989
+velkmh:27320
+onumepoch:25088
+onumnow:377938.10
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:30:12+00:00
+nowjuliandate:2460553.0283757
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1200
+1 45181U 20012D   24242.68764449  .00001760  00000+0  13701-3 0  9994
+2 45181  53.0532  27.0953 0002027  99.5369 260.5849 15.06399229250880

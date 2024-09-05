@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:45+00:00
+validtle:1
+satid:47676
+launchyear:2021
+epoch:24242.42271733
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2083
+meananomly:271.4312
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3589753363
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001346
+argumentofperigree:88.6831
+nickname:STARLINK-2083
+idesg:21012BJ 
+cosparid:2021-012BJ
+altkm:548.07782488995
+velkms:7.5891608114608
+velkmh:27321
+onumepoch:19729
+onumnow:297207.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:08:43+00:00
+nowjuliandate:2460552.6394209
+nowepochdate:24243.1394097222
+TLE:
+STARLINK-2083
+1 47676U 21012BJ  24242.42271733  .00000480  00000+0  51110-4 0  9992
+2 47676  53.0536 283.2887 0001346  88.6831 271.4312 15.06397275197293

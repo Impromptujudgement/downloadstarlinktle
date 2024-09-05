@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52491
+launchyear:2022
+epoch:24241.6963638
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3908
+meananomly:272.9484
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.877931678
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2184
+eccentricity:0.0001284
+argumentofperigree:87.1655
+nickname:STARLINK-3908
+idesg:22049AS 
+cosparid:2022-049AS
+altkm:540.59286597214
+velkms:7.5932740422086
+velkmh:27336
+onumepoch:12815
+onumnow:193379.79
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:42:46+00:00
+nowjuliandate:2460552.6379216
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3908
+1 52491U 22049AS  24241.69636380  .00000489  00000+0  48814-4 0  9991
+2 52491  53.2184  34.0497 0001284  87.1655 272.9484 15.08841479128150

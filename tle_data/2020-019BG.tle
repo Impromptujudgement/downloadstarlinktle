@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45414
+launchyear:2020
+epoch:24242.94472672
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1309
+meananomly:272.4909
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2182831647
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0543
+eccentricity:0.0001376
+argumentofperigree:87.6238
+nickname:STARLINK-1309
+idesg:20019BG 
+cosparid:2020-019BG
+altkm:547.9190921308
+velkms:7.5892577879675
+velkmh:27321
+onumepoch:24593
+onumnow:370488.36
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:40:24+00:00
+nowjuliandate:2460553.028352
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1309
+1 45414U 20019BG  24242.94472672  .00024481  00000+0  16548-2 0  9999
+2 45414  53.0543 115.9449 0001376  87.6238 272.4909 15.06443181245933

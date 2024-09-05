@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:59+00:00
+validtle:1
+satid:44292
+launchyear:2019
+epoch:20276.84506233
+epochday:276
+tleage:1427
+tleclassification:U
+active:0
+name:STARLINK-81
+meananomly:47.4167
+meanmotion:16.1749
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6604.5099197505
+altitudeatperigee:221
+altitudeatapogee:232
+inclination:53.009
+eccentricity:0.0008688
+argumentofperigree:312.6141
+nickname:STARLINK-81
+idesg:19029BK 
+cosparid:2019-029BK
+altkm:223.40959874865
+velkms:7.7761187117883
+velkmh:27994
+onumepoch:7703
+onumnow:188756.21
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2020-10-02T20:16:53+00:00
+nowjuliandate:2460553.0313334
+nowepochdate:24243.5313310185
+TLE:
+STARLINK-81
+1 44292U 19029BK  20276.84506233  .00524466  17311-3  32029-3 0  9992
+2 44292  53.0090  38.7456 0008688 312.6141  47.4167 16.17491701 77034

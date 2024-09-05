@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49454
+launchyear:2021
+epoch:24241.60343847
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3160
+meananomly:266.9010
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8528463095
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2151
+eccentricity:0.0001347
+argumentofperigree:93.2136
+nickname:STARLINK-3160
+idesg:21104AY 
+cosparid:2021-104AY
+altkm:540.66350902027
+velkms:7.5931827912713
+velkmh:27335
+onumepoch:15560
+onumnow:234800.17
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:28:57+00:00
+nowjuliandate:2460552.6379972
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3160
+1 49454U 21104AY  24241.60343847 -.00001423  00000+0 -71314-4 0  9993
+2 49454  53.2151 204.4686 0001347  93.2136 266.9010 15.08849686155600

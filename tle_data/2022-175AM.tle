@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:25+00:00
+validtle:1
+satid:54793
+launchyear:2022
+epoch:24242.63384676
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5433
+meananomly:272.0049
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8945932322
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2189
+eccentricity:0.0001736
+argumentofperigree:88.1142
+nickname:STARLINK-5433
+idesg:22175AM 
+cosparid:2022-175AM
+altkm:540.61334547622
+velkms:7.5932606944918
+velkmh:27336
+onumepoch:9401
+onumnow:141853.28
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:12:44+00:00
+nowjuliandate:2460552.6377898
+nowepochdate:24243.1377893519
+TLE:
+STARLINK-5433
+1 54793U 22175AM  24242.63384676  .00000168  00000+0  28637-4 0  9996
+2 54793  53.2189 359.8531 0001736  88.1142 272.0049 15.08836028 94012

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53574
+launchyear:2022
+epoch:24242.70602917
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4559
+meananomly:284.7312
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8825563114
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2141
+eccentricity:8.91E-5
+argumentofperigree:75.3779
+nickname:STARLINK-4559
+idesg:22101AZ 
+cosparid:2022-101AZ
+altkm:540.4859212004
+velkms:7.5933939216742
+velkmh:27336
+onumepoch:11236
+onumnow:169539.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:56:41+00:00
+nowjuliandate:2460552.6378482
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4559
+1 53574U 22101AZ  24242.70602917  .00001948  00000+0  14042-3 0  9991
+2 53574  53.2141  34.2268 0000891  75.3779 284.7312 15.08839966112368

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54867
+launchyear:2022
+epoch:24242.38273954
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5396
+meananomly:93.4498
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2245677582
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.002
+eccentricity:0.00011
+argumentofperigree:266.6219
+nickname:STARLINK-5396
+idesg:22177AZ 
+cosparid:2022-177AZ
+altkm:558.9116044868
+velkms:7.5837828953566
+velkmh:27302
+onumepoch:9217
+onumnow:138499.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:11:09+00:00
+nowjuliandate:2460552.637782
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5396
+1 54867U 22177AZ  24242.38273954  .00000161  00000+0  26991-4 0  9992
+2 54867  43.0020 268.4210 0001100 266.6219  93.4498 15.02534062 92172

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46578
+launchyear:2020
+epoch:24242.4241126
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1683
+meananomly:247.2898
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3246061408
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.053
+eccentricity:7.85E-5
+argumentofperigree:112.8174
+nickname:STARLINK-1683
+idesg:20070AY 
+cosparid:2020-070AY
+altkm:548.27646477273
+velkms:7.5889244167672
+velkmh:27320
+onumepoch:21593
+onumnow:325295.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:10:43+00:00
+nowjuliandate:2460553.0282313
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1683
+1 46578U 20070AY  24242.42411260  .00024005  00000+0  16246-2 0  9994
+2 46578  53.0530 128.3258 0000785 112.8174 247.2898 15.06408489215936

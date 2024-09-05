@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48562
+launchyear:2021
+epoch:24242.36835478
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2187
+meananomly:280.5596
+meanmotion:15.0638
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.4141863849
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001116
+argumentofperigree:79.5518
+nickname:STARLINK-2187
+idesg:21041K  
+cosparid:2021-041K
+altkm:548.01457663389
+velkms:7.5892602820799
+velkmh:27321
+onumepoch:18160
+onumnow:273570.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:50:26+00:00
+nowjuliandate:2460552.6380163
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2187
+1 48562U 21041K   24242.36835478  .00014719  00000+0  10055-2 0  9995
+2 48562  53.0530 113.5317 0001116  79.5518 280.5596 15.06379261181609

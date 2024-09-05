@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53215
+launchyear:2022
+epoch:24241.92662362
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4335
+meananomly:282.0153
+meanmotion:15.0127
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1243360053
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6586
+eccentricity:0.000114
+argumentofperigree:78.1199
+nickname:STARLINK-4335
+idesg:22084AC 
+cosparid:2022-084AC
+altkm:565.88016438695
+velkms:7.5783023184032
+velkmh:27282
+onumepoch:11615
+onumnow:174390.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:14:20+00:00
+nowjuliandate:2460552.6378734
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4335
+1 53215U 22084AC  24241.92662362  .00001280  00000+0  10422-3 0  9993
+2 53215  97.6586 301.7170 0001140  78.1199 282.0153 15.01267975116157

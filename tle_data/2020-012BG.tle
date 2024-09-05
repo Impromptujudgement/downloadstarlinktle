@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:51+00:00
+validtle:1
+satid:45232
+launchyear:2020
+epoch:24242.52352873
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1235
+meananomly:33.5148
+meanmotion:15.2886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6857.3696581324
+altitudeatperigee:474
+altitudeatapogee:485
+inclination:53.0668
+eccentricity:0.0007811
+argumentofperigree:326.5357
+nickname:STARLINK-1235
+idesg:20012BG 
+cosparid:2020-012BG
+altkm:475.65736228458
+velkms:7.6316791161332
+velkmh:27474
+onumepoch:25179
+onumnow:384966.04
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:33:53+00:00
+nowjuliandate:2460553.0283792
+nowepochdate:24243.5283680556
+TLE:
+STARLINK-1235
+1 45232U 20012BG  24242.52352873  .00080590  00000+0  28156-2 0  9995
+2 45232  53.0668 322.1943 0007811 326.5357  33.5148 15.28856113251796

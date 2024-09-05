@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48361
+launchyear:2021
+epoch:24241.59522706
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2591
+meananomly:277.8602
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3155342644
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0559
+eccentricity:0.0001248
+argumentofperigree:82.2529
+nickname:STARLINK-2591
+idesg:21038J  
+cosparid:2021-038J
+altkm:547.93969759414
+velkms:7.589288381483
+velkmh:27321
+onumepoch:18290
+onumnow:275545.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:17:08+00:00
+nowjuliandate:2460552.6380313
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2591
+1 48361U 21038J   24241.59522706  .00036917  00000+0  24836-2 0  9995
+2 48361  53.0559 347.0007 0001248  82.2529 277.8602 15.06411449182902

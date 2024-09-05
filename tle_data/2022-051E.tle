@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52537
+launchyear:2022
+epoch:24241.94289606
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3897
+meananomly:259.1458
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8598152936
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001382
+argumentofperigree:100.969
+nickname:STARLINK-3897
+idesg:22051E  
+cosparid:2022-051E
+altkm:540.80029900906
+velkms:7.5930365151574
+velkmh:27335
+onumepoch:12724
+onumnow:192003.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T22:37:46+00:00
+nowjuliandate:2460552.6379138
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3897
+1 52537U 22051E   24241.94289606  .00002193  00000+0  15583-3 0  9998
+2 52537  53.2167 112.7531 0001382 100.9690 259.1458 15.08847406127240

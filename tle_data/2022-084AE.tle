@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53217
+launchyear:2022
+epoch:24242.44873394
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4379
+meananomly:261.7206
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.139035717
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6577
+eccentricity:0.0001962
+argumentofperigree:98.424
+nickname:STARLINK-4379
+idesg:22084AE 
+cosparid:2022-084AE
+altkm:566.25598015711
+velkms:7.5779000398575
+velkmh:27280
+onumepoch:11609
+onumnow:174291.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:46:11+00:00
+nowjuliandate:2460552.6378732
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4379
+1 53217U 22084AE  24242.44873394  .00000949  00000+0  78475-4 0  9996
+2 53217  97.6577 302.2626 0001962  98.4240 261.7206 15.01263206116094

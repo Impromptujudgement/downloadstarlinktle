@@ -1,0 +1,38 @@
+date:2024-08-29T06:48:49+00:00
+validtle:1
+satid:57128
+launchyear:2023
+epoch:24241.78552423
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6163
+meananomly:85.0436
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2029263472
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0073
+eccentricity:0.0001314
+argumentofperigree:275.0257
+nickname:STARLINK-6163
+idesg:23090AD 
+cosparid:2023-090AD
+altkm:558.76592395477
+velkms:7.5839302832827
+velkmh:27302
+onumepoch:6630
+onumnow:99621.70
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:51:09+00:00
+nowjuliandate:2460551.7839085
+nowepochdate:24242..283900463
+TLE:
+STARLINK-6163
+1 57128U 23090AD  24241.78552423  .00001794  00000+0  14781-3 0  9990
+2 57128  43.0073  65.8404 0001314 275.0257  85.0436 15.02541093 66307

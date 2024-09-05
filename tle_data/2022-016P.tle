@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:39+00:00
+validtle:1
+satid:51727
+launchyear:2022
+epoch:24242.49860128
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3532
+meananomly:1.8248
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9054992534
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2152
+eccentricity:6.77E-5
+argumentofperigree:358.2742
+nickname:STARLINK-3532
+idesg:22016P  
+cosparid:2022-016P
+altkm:540.19756213502
+velkms:7.5937229025415
+velkmh:27337
+onumepoch:14037
+onumnow:211804.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:57:59+00:00
+nowjuliandate:2460552.6379607
+nowepochdate:24243.1379513889
+TLE:
+STARLINK-3532
+1 51727U 22016P   24242.49860128  .00000343  00000+0  39645-4 0  9995
+2 51727  53.2152 310.4491 0000677 358.2742   1.8248 15.08832460140370

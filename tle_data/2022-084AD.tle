@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53216
+launchyear:2022
+epoch:24242.59870168
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4376
+meananomly:135.6334
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1443620314
+altitudeatperigee:563
+altitudeatapogee:564
+inclination:97.6577
+eccentricity:7.15E-5
+argumentofperigree:224.4833
+nickname:STARLINK-4376
+idesg:22084AD 
+cosparid:2022-084AD
+altkm:566.41976181378
+velkms:7.5777241386806
+velkmh:27280
+onumepoch:11611
+onumnow:174319.56
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:22:08+00:00
+nowjuliandate:2460552.6378737
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4376
+1 53216U 22084AD  24242.59870168  .00000495  00000+0  43140-4 0  9994
+2 53216  97.6577 302.3762 0000715 224.4833 135.6334 15.01261478116112

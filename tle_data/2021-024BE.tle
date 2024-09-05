@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:50+00:00
+validtle:1
+satid:48029
+launchyear:2021
+epoch:24242.38678555
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2299
+meananomly:256.6203
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3906876877
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0529
+eccentricity:0.0001215
+argumentofperigree:103.4921
+nickname:STARLINK-2299
+idesg:21024BE 
+cosparid:2021-024BE
+altkm:548.32742116387
+velkms:7.5889047240134
+velkmh:27320
+onumepoch:19010
+onumnow:286375.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:16:58+00:00
+nowjuliandate:2460552.6380857
+nowepochdate:24243.1380787037
+TLE:
+STARLINK-2299
+1 48029U 21024BE  24242.38678555  .00017227  00000+0  11730-2 0  9995
+2 48029  53.0529 313.4520 0001215 103.4921 256.6203 15.06386928190109

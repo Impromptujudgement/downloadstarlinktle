@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55611
+launchyear:2023
+epoch:24242.43648016
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5730
+meananomly:86.1382
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2038066517
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0021
+eccentricity:0.0001447
+argumentofperigree:273.9294
+nickname:STARLINK-5730
+idesg:23020AU 
+cosparid:2023-020AU
+altkm:558.77741747206
+velkms:7.5839182031168
+velkmh:27302
+onumepoch:8524
+onumnow:128087.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:28:32+00:00
+nowjuliandate:2460552.637751
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5730
+1 55611U 23020AU  24242.43648016  .00000523  00000+0  53759-4 0  9993
+2 55611  43.0021 139.6554 0001447 273.9294  86.1382 15.02540807 85244

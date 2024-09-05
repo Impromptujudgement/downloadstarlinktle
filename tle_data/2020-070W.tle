@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46552
+launchyear:2020
+epoch:23080.39840278
+epochday:80
+tleage:528
+tleclassification:C
+active:0
+name:STARLINK-1649
+meananomly:103.1380
+meanmotion:15.9255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6673.2995979667
+altitudeatperigee:292
+altitudeatapogee:298
+inclination:53.0288
+eccentricity:0.0004008
+argumentofperigree:315.7006
+nickname:STARLINK-1649
+idesg:20070W  
+cosparid:2020-070W
+altkm:300.04470858659
+velkms:7.7329752597148
+velkmh:27839
+onumepoch:1
+onumnow:18539.30
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-03-21T09:33:42+00:00
+nowjuliandate:2460553.0282285
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1649
+1 46552C 20070W   23080.39840278  .01742727  00000-0  45338-2 0   801
+2 46552  53.0288 265.2734 0004008 315.7006 103.1380 15.92546133    19

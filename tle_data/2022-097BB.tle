@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53437
+launchyear:2022
+epoch:22225.23451389
+epochday:225
+tleage:748
+tleclassification:C
+active:0
+name:STARLINK-4529
+meananomly:25.8740
+meanmotion:15.9665
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6661.8522636166
+altitudeatperigee:240
+altitudeatapogee:327
+inclination:53.2202
+eccentricity:0.0065494
+argumentofperigree:54.5602
+nickname:STARLINK-4529
+idesg:22097BB 
+cosparid:2022-097BB
+altkm:250.85403638131
+velkms:7.7857143725236
+velkmh:28029
+onumepoch:1
+onumnow:32234.87
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2022-08-13T05:37:42+00:00
+nowjuliandate:2460552.6378592
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4529
+1 53437C 22097BB  22225.23451389  .00390331  00000-0  69321-3 0  2255
+2 53437  53.2202 233.4714 0065494  54.5602  25.8740 15.96652702    12

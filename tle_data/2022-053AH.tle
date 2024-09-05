@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52687
+launchyear:2022
+epoch:24241.38770044
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3981
+meananomly:262.9456
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8679855329
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2168
+eccentricity:0.0001319
+argumentofperigree:97.1686
+nickname:STARLINK-3981
+idesg:22053AH 
+cosparid:2022-053AH
+altkm:540.74050372015
+velkms:7.5931065990054
+velkmh:27335
+onumepoch:12683
+onumnow:191393.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T09:18:17+00:00
+nowjuliandate:2460552.6379036
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-3981
+1 52687U 22053AH  24241.38770044  .00001440  00000+0  10850-3 0  9991
+2 52687  53.2168 130.4372 0001319  97.1686 262.9456 15.08844733126833

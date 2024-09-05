@@ -1,0 +1,38 @@
+date:2024-08-29T07:12:39+00:00
+validtle:1
+satid:57090
+launchyear:2023
+epoch:24241.29636855
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6254
+meananomly:90.2400
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.208198944
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0009
+eccentricity:0.0001056
+argumentofperigree:269.8321
+nickname:STARLINK-6254
+idesg:23088AU 
+cosparid:2023-088AU
+altkm:558.85227076422
+velkms:7.5838388057721
+velkmh:27302
+onumepoch:6652
+onumnow:99964.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T07:06:46+00:00
+nowjuliandate:2460551.8004551
+nowepochdate:24242.3004513889
+TLE:
+STARLINK-6254
+1 57090U 23088AU  24241.29636855  .00000869  00000+0  79367-4 0  9997
+2 57090  43.0009 248.5527 0001056 269.8321  90.2400 15.02539380 66525

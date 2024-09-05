@@ -1,0 +1,38 @@
+date:2024-08-28T19:39:39+00:00
+validtle:1
+satid:57927
+launchyear:2023
+epoch:24239.94820325
+epochday:239
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-30459
+meananomly:93.1552
+meanmotion:15.2592
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6866.1738521257
+altitudeatperigee:487
+altitudeatapogee:489
+inclination:43.0026
+eccentricity:0.0001506
+argumentofperigree:266.9127
+nickname:STARLINK-30459
+idesg:23147Q  
+cosparid:2023-147Q
+altkm:487.86972693054
+velkms:7.6229848004618
+velkmh:27443
+onumepoch:5273
+onumnow:80490.13
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-26T22:45:25+00:00
+nowjuliandate:2460551.3192035
+nowepochdate:24241.8192013889
+TLE:
+STARLINK-30459
+1 57927U 23147Q   24239.94820325  .00000379  00000+0  24325-4 0  9998
+2 57927  43.0026  98.2051 0001506 266.9127  93.1552 15.25916478 52737

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50840
+launchyear:2022
+epoch:24242.46823584
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3295
+meananomly:268.7403
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8685723973
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.000133
+argumentofperigree:91.3742
+nickname:STARLINK-3295
+idesg:22001AP 
+cosparid:2022-001AP
+altkm:540.64915886619
+velkms:7.5932071486509
+velkmh:27336
+onumepoch:14742
+onumnow:222441.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:14:16+00:00
+nowjuliandate:2460552.63798
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3295
+1 50840U 22001AP  24242.46823584  .00001075  00000+0  85591-4 0  9990
+2 50840  53.2159 160.5844 0001330  91.3742 268.7403 15.08844541147423

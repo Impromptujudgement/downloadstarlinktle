@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53156
+launchyear:2022
+epoch:24242.43464345
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4087
+meananomly:279.9091
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8727629792
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2152
+eccentricity:0.0001204
+argumentofperigree:80.2037
+nickname:STARLINK-4087
+idesg:22083AA 
+cosparid:2022-083AA
+altkm:540.48969855813
+velkms:7.5933844146027
+velkmh:27336
+onumepoch:11786
+onumnow:177842.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:53+00:00
+nowjuliandate:2460552.6378803
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4087
+1 53156U 22083AA  24242.43464345  .00001026  00000+0  82513-4 0  9993
+2 53156  53.2152 145.6089 0001204  80.2037 279.9091 15.08843170117867

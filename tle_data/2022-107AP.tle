@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53737
+launchyear:2022
+epoch:24242.73088412
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4646
+meananomly:271.9465
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8822078589
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001445
+argumentofperigree:88.1693
+nickname:STARLINK-4646
+idesg:22107AP 
+cosparid:2022-107AP
+altkm:540.60850786224
+velkms:7.5932592198632
+velkmh:27336
+onumepoch:10973
+onumnow:165571.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:32:28+00:00
+nowjuliandate:2460552.6378309
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4646
+1 53737U 22107AP  24242.73088412  .00000548  00000+0  52489-4 0  9992
+2 53737  53.2147 244.2616 0001445  88.1693 271.9465 15.08840080109731

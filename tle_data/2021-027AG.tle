@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48122
+launchyear:2021
+epoch:24241.46482893
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2463
+meananomly:273.3788
+meanmotion:15.0643
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2635278549
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001689
+argumentofperigree:86.7394
+nickname:STARLINK-2463
+idesg:21027AG 
+cosparid:2021-027AG
+altkm:547.93679625113
+velkms:7.5892631281107
+velkmh:27321
+onumepoch:18849
+onumnow:283971.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:09:21+00:00
+nowjuliandate:2460552.6380533
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2463
+1 48122U 21027AG  24241.46482893  .00044193  00000+0  29649-2 0  9998
+2 48122  53.0535 142.5579 0001689  86.7394 273.3788 15.06428418188491

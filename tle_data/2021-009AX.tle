@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47593
+launchyear:2021
+epoch:24242.10018895
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1998
+meananomly:265.6218
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3110780225
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0565
+eccentricity:0.0001755
+argumentofperigree:94.4971
+nickname:STARLINK-1998
+idesg:21009AX 
+cosparid:2021-009AX
+altkm:548.14639546255
+velkms:7.5890595087279
+velkmh:27321
+onumepoch:19708
+onumnow:296899.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:24:16+00:00
+nowjuliandate:2460552.6394809
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1998
+1 47593U 21009AX  24242.10018895  .00007281  00000+0  50699-3 0  9995
+2 47593  53.0565  24.7364 0001755  94.4971 265.6218 15.06412903197088

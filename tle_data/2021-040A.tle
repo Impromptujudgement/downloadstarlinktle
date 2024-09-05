@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48428
+launchyear:2021
+epoch:24242.07761813
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2461
+meananomly:274.0801
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3669531943
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.053
+eccentricity:0.0001441
+argumentofperigree:86.0352
+nickname:STARLINK-2461
+idesg:21040A  
+cosparid:2021-040A
+altkm:548.03803889521
+velkms:7.5892087579678
+velkmh:27321
+onumepoch:18379
+onumnow:276876.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T01:51:46+00:00
+nowjuliandate:2460552.6380283
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2461
+1 48428U 21040A   24242.07761813  .00029251  00000+0  19748-2 0  9999
+2 48428  53.0530 169.8360 0001441  86.0352 274.0801 15.06394672183794

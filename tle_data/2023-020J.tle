@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55577
+launchyear:2023
+epoch:24242.44841608
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5752
+meananomly:101.7383
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1981647054
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0037
+eccentricity:0.0001218
+argumentofperigree:258.3323
+nickname:STARLINK-5752
+idesg:23020J  
+cosparid:2023-020J
+altkm:559.01136725772
+velkms:7.5836594980806
+velkmh:27301
+onumepoch:8509
+onumnow:127861.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:45:43+00:00
+nowjuliandate:2460552.6377495
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5752
+1 55577U 23020J   24242.44841608  .00001308  00000+0  11188-3 0  9998
+2 55577  43.0037 152.6491 0001218 258.3323 101.7383 15.02542640 85098

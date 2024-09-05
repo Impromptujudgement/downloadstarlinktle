@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:50185
+launchyear:2021
+epoch:24242.26676389
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3279
+meananomly:269.6219
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8708373281
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001379
+argumentofperigree:90.4931
+nickname:STARLINK-3279
+idesg:21125AF 
+cosparid:2021-125AF
+altkm:540.63748667073
+velkms:7.5932211963172
+velkmh:27336
+onumepoch:15197
+onumnow:229312.14
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:24:08+00:00
+nowjuliandate:2460552.6379865
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3279
+1 50185U 21125AF  24242.26676389  .00000861  00000+0  72151-4 0  9995
+2 50185  53.2157 231.5253 0001379  90.4931 269.6219 15.08843800151976

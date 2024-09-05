@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51959
+launchyear:2022
+epoch:24242.09408322
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3704
+meananomly:291.7805
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2911200313
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0586
+eccentricity:0.0001244
+argumentofperigree:68.3317
+nickname:STARLINK-3704
+idesg:22025D  
+cosparid:2022-025D
+altkm:547.7140940929
+velkms:7.5895221908677
+velkmh:27322
+onumepoch:13789
+onumnow:207735.90
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:15:29+00:00
+nowjuliandate:2460552.6379449
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3704
+1 51959U 22025D   24242.09408322  .00002044  00000+0  15598-3 0  9992
+2 51959  53.0586  18.9802 0001244  68.3317 291.7805 15.06419415137891

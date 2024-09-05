@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:51+00:00
+validtle:1
+satid:47592
+launchyear:2021
+epoch:24242.66046482
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1997
+meananomly:266.4972
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3362586417
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0523
+eccentricity:0.0002272
+argumentofperigree:93.6277
+nickname:STARLINK-1997
+idesg:21009AW 
+cosparid:2021-009AW
+altkm:548.17461235747
+velkms:7.5890423636362
+velkmh:27321
+onumepoch:19716
+onumnow:297009.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:51:04+00:00
+nowjuliandate:2460552.6394815
+nowepochdate:24243.1394791667
+TLE:
+STARLINK-1997
+1 47592U 21009AW  24242.66046482  .00005470  00000+0  38582-3 0  9993
+2 47592  53.0523  22.2171 0002272  93.6277 266.4972 15.06404687197160

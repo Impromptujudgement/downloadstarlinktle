@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:16+00:00
+validtle:1
+satid:56527
+launchyear:2023
+epoch:24241.63287003
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-6335
+meananomly:79.9486
+meanmotion:15.0256
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1379077116
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0038
+eccentricity:7.64E-5
+argumentofperigree:280.1271
+nickname:STARLINK-6335
+idesg:23065AA 
+cosparid:2023-065AA
+altkm:558.68669177432
+velkms:7.5839814219588
+velkmh:27302
+onumepoch:7190
+onumnow:108056.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:11:20+00:00
+nowjuliandate:2460552.6376932
+nowepochdate:24243.1376851852
+TLE:
+STARLINK-6335
+1 56527U 23065AA  24241.63287003 -.00004081  00000+0 -28701-3 0  9998
+2 56527  43.0038   2.2202 0000764 280.1271  79.9486 15.02562217 71902

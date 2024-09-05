@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:11+00:00
+validtle:1
+satid:46774
+launchyear:2020
+epoch:23052.97704942
+epochday:52
+tleage:556
+tleclassification:U
+active:0
+name:STARLINK-1939
+meananomly:125.4844
+meanmotion:15.4170
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6819.2329267757
+altitudeatperigee:437
+altitudeatapogee:446
+inclination:53.0484
+eccentricity:0.000646
+argumentofperigree:234.5558
+nickname:STARLINK-1939
+idesg:20074AM 
+cosparid:2020-074AM
+altkm:444.5469976718
+velkms:7.6451732555568
+velkmh:27523
+onumepoch:12944
+onumnow:217906.28
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2023-02-21T23:26:57+00:00
+nowjuliandate:2460552.6397184
+nowepochdate:24243.1397106481
+TLE:
+STARLINK-1939
+1 46774U 20074AM  23052.97704942  .00154183  00000+0  35336-2 0  9998
+2 46774  53.0484 249.9763 0006460 234.5558 125.4844 15.41699277129441

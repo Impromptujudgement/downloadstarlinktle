@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53546
+launchyear:2022
+epoch:24241.69768777
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4477
+meananomly:270.8522
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8765011915
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.219
+eccentricity:0.0001152
+argumentofperigree:89.2603
+nickname:STARLINK-4477
+idesg:22101V  
+cosparid:2022-101V
+altkm:540.6253029947
+velkms:7.5932376669202
+velkmh:27336
+onumepoch:11221
+onumnow:169328.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:44:40+00:00
+nowjuliandate:2460552.6378453
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4477
+1 53546U 22101V   24241.69768777  .00000652  00000+0  59023-4 0  9994
+2 53546  53.2190  38.5760 0001152  89.2603 270.8522 15.08841947112211

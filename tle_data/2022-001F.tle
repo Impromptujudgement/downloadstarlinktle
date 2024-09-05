@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50808
+launchyear:2022
+epoch:24241.46911567
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3355
+meananomly:265.0194
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8455625171
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2169
+eccentricity:0.0001316
+argumentofperigree:95.0949
+nickname:STARLINK-3355
+idesg:22001F  
+cosparid:2022-001F
+altkm:540.68506412397
+velkms:7.5931551515233
+velkmh:27335
+onumepoch:14627
+onumnow:220722.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:15:32+00:00
+nowjuliandate:2460552.637978
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3355
+1 50808U 22001F   24241.46911567  .00000675  00000+0  60483-4 0  9990
+2 50808  53.2169 145.0696 0001316  95.0949 265.0194 15.08852069146278

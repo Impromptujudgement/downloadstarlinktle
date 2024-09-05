@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48467
+launchyear:2021
+epoch:24242.54343715
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2659
+meananomly:276.6739
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3403164942
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0516
+eccentricity:0.000132
+argumentofperigree:83.44
+nickname:STARLINK-2659
+idesg:21040AR 
+cosparid:2021-040AR
+altkm:547.97599246733
+velkms:7.5892621675634
+velkmh:27321
+onumepoch:18379
+onumnow:276870.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:02:33+00:00
+nowjuliandate:2460552.6380272
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2659
+1 48467U 21040AR  24242.54343715  .00017262  00000+0  11748-2 0  9992
+2 48467  53.0516 172.7418 0001320  83.4400 276.6739 15.06403363183795

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45713
+launchyear:2020
+epoch:24174.86049588
+epochday:174
+tleage:69
+tleclassification:U
+active:0
+name:STARLINK-1436
+meananomly:199.9951
+meanmotion:16.3886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6546.9736541771
+altitudeatperigee:163
+altitudeatapogee:175
+inclination:53.0443
+eccentricity:0.0009378
+argumentofperigree:283.6189
+nickname:STARLINK-1436
+idesg:20035BJ 
+cosparid:2020-035BJ
+altkm:178.56224509002
+velkms:7.8011741039383
+velkmh:28084
+onumepoch:22459
+onumnow:369197.12
+otype:99
+otypedesc:Reentry
+status:99
+timestamp:2024-06-22T20:39:07+00:00
+nowjuliandate:2460553.0283185
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1436 (VISORSAT)
+1 45713U 20035BJ  24174.86049588  .31745453  12367-4  26026-2 0  9999
+2 45713  53.0443 319.3483 0009378 283.6189 199.9951 16.38860796224595

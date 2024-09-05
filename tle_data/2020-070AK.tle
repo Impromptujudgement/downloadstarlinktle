@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:39+00:00
+validtle:1
+satid:46565
+launchyear:2020
+epoch:24241.99192905
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1735
+meananomly:261.5230
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3436939559
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001857
+argumentofperigree:98.5969
+nickname:STARLINK-1735
+idesg:20070AK 
+cosparid:2020-070AK
+altkm:548.27550158151
+velkms:7.5889359079161
+velkmh:27320
+onumepoch:21572
+onumnow:324984.24
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T23:48:23+00:00
+nowjuliandate:2460553.0282317
+nowepochdate:24243.5282291667
+TLE:
+STARLINK-1735
+1 46565U 20070AK  24241.99192905  .00032042  00000+0  21601-2 0  9994
+2 46565  53.0535 140.2218 0001857  98.5969 261.5230 15.06402261215727

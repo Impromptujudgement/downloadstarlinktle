@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53889
+launchyear:2022
+epoch:24242.48620545
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5031
+meananomly:261.4399
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9007523168
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001605
+argumentofperigree:98.6775
+nickname:STARLINK-5031
+idesg:22119D  
+cosparid:2022-119D
+altkm:540.82648344704
+velkms:7.5930302016811
+velkmh:27335
+onumepoch:10714
+onumnow:161666.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:40:08+00:00
+nowjuliandate:2460552.6378125
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5031
+1 53889U 22119D   24242.48620545 -.00001632  00000+0 -84487-4 0  9994
+2 53889  53.2164 305.6608 0001605  98.6775 261.4399 15.08834013107148

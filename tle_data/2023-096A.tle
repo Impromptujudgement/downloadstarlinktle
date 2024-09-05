@@ -1,0 +1,38 @@
+date:2024-08-29T05:33:58+00:00
+validtle:1
+satid:57290
+launchyear:2023
+epoch:24241.6792441
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30198
+meananomly:83.9122
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.195145207
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0045
+eccentricity:0.000124
+argumentofperigree:276.1579
+nickname:STARLINK-30198
+idesg:23096A  
+cosparid:2023-096A
+altkm:558.74535640801
+velkms:7.5839485157059
+velkmh:27302
+onumepoch:6257
+onumnow:94022.46
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:18:07+00:00
+nowjuliandate:2460551.7319235
+nowepochdate:24242.2319212963
+TLE:
+STARLINK-30198
+1 57290U 23096A   24241.67924410  .00001998  00000+0  16290-3 0  9996
+2 57290  43.0045  15.6168 0001240 276.1579  83.9122 15.02543621 62576

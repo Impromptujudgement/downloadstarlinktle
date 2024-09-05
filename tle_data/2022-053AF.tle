@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:34+00:00
+validtle:1
+satid:52685
+launchyear:2022
+epoch:24242.38497695
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4029
+meananomly:284.7302
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8687068871
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2162
+eccentricity:0.0001334
+argumentofperigree:75.3838
+nickname:STARLINK-4029
+idesg:22053AF 
+cosparid:2022-053AF
+altkm:540.39445099654
+velkms:7.5934867083102
+velkmh:27337
+onumepoch:12661
+onumnow:191046.16
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:14:22+00:00
+nowjuliandate:2460552.6379042
+nowepochdate:24243.1378935185
+TLE:
+STARLINK-4029
+1 52685U 22053AF  24242.38497695  .00000828  00000+0  70109-4 0  9991
+2 52685  53.2162 125.9585 0001334  75.3838 284.7302 15.08844497126619

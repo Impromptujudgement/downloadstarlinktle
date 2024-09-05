@@ -1,0 +1,38 @@
+date:2024-08-28T22:44:33+00:00
+validtle:1
+satid:57498
+launchyear:2023
+epoch:24241.49636136
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30203
+meananomly:95.2565
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1759325325
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0064
+eccentricity:9.97E-5
+argumentofperigree:264.8163
+nickname:STARLINK-30203
+idesg:23113D  
+cosparid:2023-113D
+altkm:558.88089045546
+velkms:7.5837899483201
+velkmh:27302
+onumepoch:5971
+onumnow:89724.03
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T11:54:46+00:00
+nowjuliandate:2460551.4476155
+nowepochdate:24241.9476041667
+TLE:
+STARLINK-30203
+1 57498U 23113D   24241.49636136 -.00000389  00000+0 -13738-4 0  9991
+2 57498  43.0064 170.3915 0000997 264.8163  95.2565 15.02549863 59710

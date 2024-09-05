@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55278
+launchyear:2023
+epoch:24242.41760832
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5289
+meananomly:91.8024
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2084686293
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0007
+eccentricity:0.0003296
+argumentofperigree:268.2758
+nickname:STARLINK-5289
+idesg:23010K  
+cosparid:2023-010K
+altkm:574.56811370331
+velkms:7.5737743465922
+velkmh:27266
+onumepoch:8900
+onumnow:133361.77
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:01:21+00:00
+nowjuliandate:2460552.637774
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5289
+1 55278U 23010K   24242.41760832 -.00001602  00000+0 -12648-3 0  9992
+2 55278  70.0007   9.4692 0003296 268.2758  91.8024 14.98325633 89006

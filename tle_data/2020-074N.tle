@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:08+00:00
+validtle:1
+satid:46751
+launchyear:2020
+epoch:24242.43926829
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1920
+meananomly:257.1817
+meanmotion:15.0629
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.694304245
+altitudeatperigee:546
+altitudeatapogee:549
+inclination:53.0541
+eccentricity:0.000155
+argumentofperigree:102.9345
+nickname:STARLINK-1920
+idesg:20074N  
+cosparid:2020-074N
+altkm:548.67463673183
+velkms:7.5886903660144
+velkmh:27319
+onumepoch:21270
+onumnow:320397.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:32:33+00:00
+nowjuliandate:2460552.6396857
+nowepochdate:24243.1396759259
+TLE:
+STARLINK-1920
+1 46751U 20074N   24242.43926829  .00024876  00000+0  16881-2 0  9995
+2 46751  53.0541 303.2133 0001550 102.9345 257.1817 15.06287871212701

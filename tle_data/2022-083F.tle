@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53137
+launchyear:2022
+epoch:24242.45949737
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4145
+meananomly:268.3816
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8764156069
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2165
+eccentricity:0.000123
+argumentofperigree:91.7317
+nickname:STARLINK-4145
+idesg:22083F  
+cosparid:2022-083F
+altkm:540.66085718054
+velkms:7.5931986074478
+velkmh:27336
+onumepoch:11772
+onumnow:177631.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:01:41+00:00
+nowjuliandate:2460552.6378766
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4145
+1 53137U 22083F   24242.45949737 -.00000226  00000+0  38798-5 0  9996
+2 53137  53.2165 155.6228 0001230  91.7317 268.3816 15.08841975117726

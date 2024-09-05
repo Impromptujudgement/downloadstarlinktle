@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48481
+launchyear:2021
+epoch:24242.1444692
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2706
+meananomly:259.7057
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3702019637
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0547
+eccentricity:0.0001354
+argumentofperigree:100.4085
+nickname:STARLINK-2706
+idesg:21040BF 
+cosparid:2021-040BF
+altkm:548.28000784791
+velkms:7.5889454636429
+velkmh:27320
+onumepoch:18358
+onumnow:276558.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:28:02+00:00
+nowjuliandate:2460552.6380244
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2706
+1 48481U 21040BF  24242.14446920 -.00000692  00000+0 -27594-4 0  9995
+2 48481  53.0547 184.8184 0001354 100.4085 259.7057 15.06393612183582

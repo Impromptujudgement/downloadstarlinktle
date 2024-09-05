@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:31+00:00
+validtle:1
+satid:53438
+launchyear:2022
+epoch:24241.84765369
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4526
+meananomly:260.0613
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8486802102
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2143
+eccentricity:0.0001406
+argumentofperigree:100.0538
+nickname:STARLINK-4526
+idesg:22097BC 
+cosparid:2022-097BC
+altkm:540.7767568245
+velkms:7.593056248625
+velkmh:27335
+onumepoch:11458
+onumnow:172903.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:20:37+00:00
+nowjuliandate:2460552.6378591
+nowepochdate:24243.1378587963
+TLE:
+STARLINK-4526
+1 53438U 22097BC  24241.84765369  .00002433  00000+0  17085-3 0  9999
+2 53438  53.2143  88.0118 0001406 100.0538 260.0613 15.08851049114585

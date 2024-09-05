@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48363
+launchyear:2021
+epoch:24242.00559349
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2626
+meananomly:349.1517
+meanmotion:15.0861
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6918.5711199431
+altitudeatperigee:539
+altitudeatapogee:542
+inclination:53.0543
+eccentricity:0.0002135
+argumentofperigree:10.9519
+nickname:STARLINK-2626
+idesg:21038L  
+cosparid:2021-038L
+altkm:539.8633802834
+velkms:7.5944539816266
+velkmh:27340
+onumepoch:18363
+onumnow:277044.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:08:03+00:00
+nowjuliandate:2460552.6380313
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2626
+1 48363U 21038L   24242.00559349  .00031143  00000+0  19781-2 0  9996
+2 48363  53.0543 339.8391 0002135  10.9519 349.1517 15.08614723183636

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48586
+launchyear:2021
+epoch:24242.16101847
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2241
+meananomly:279.6773
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3126533369
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0539
+eccentricity:0.0001471
+argumentofperigree:80.4382
+nickname:STARLINK-2241
+idesg:21041AK 
+cosparid:2021-041AK
+altkm:547.88360102974
+velkms:7.5893482610107
+velkmh:27322
+onumepoch:18142
+onumnow:273308.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T03:51:52+00:00
+nowjuliandate:2460552.6380199
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2241
+1 48586U 21041AK  24242.16101847  .00032709  00000+0  22039-2 0  9999
+2 48586  53.0539 124.4632 0001471  80.4382 279.6773 15.06412389181424

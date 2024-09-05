@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:00+00:00
+validtle:1
+satid:47381
+launchyear:2021
+epoch:24242.1061999
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2101
+meananomly:271.2253
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3467404177
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001472
+argumentofperigree:88.8905
+nickname:STARLINK-2101
+idesg:21005AJ 
+cosparid:2021-005AJ
+altkm:548.06709337077
+velkms:7.5891658790373
+velkmh:27321
+onumepoch:20031
+onumnow:301762.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:32:56+00:00
+nowjuliandate:2460552.6395917
+nowepochdate:24243.1395833333
+TLE:
+STARLINK-2101
+1 47381U 21005AJ  24242.10619990  .00001530  00000+0  12159-3 0  9999
+2 47381  53.0536  19.7953 0001472  88.8905 271.2253 15.06401267200313

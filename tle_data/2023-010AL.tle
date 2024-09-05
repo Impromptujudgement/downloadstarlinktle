@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55303
+launchyear:2023
+epoch:24242.39673141
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5322
+meananomly:95.6054
+meanmotion:14.9832
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2110662747
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0037
+eccentricity:0.00029
+argumentofperigree:264.4775
+nickname:STARLINK-5322
+idesg:23010AL 
+cosparid:2023-010AL
+altkm:574.69558713691
+velkms:7.5736368666072
+velkmh:27265
+onumepoch:8900
+onumnow:133362.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:31:18+00:00
+nowjuliandate:2460552.637777
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5322
+1 55303U 23010AL  24242.39673141  .00001029  00000+0  94011-4 0  9990
+2 55303  70.0037   9.3996 0002900 264.4775  95.6054 14.98324793 89003

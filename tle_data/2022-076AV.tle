@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53029
+launchyear:2022
+epoch:24242.75206536
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4143
+meananomly:268.0615
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.888382199
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001948
+argumentofperigree:92.06
+nickname:STARLINK-4143
+idesg:22076AV 
+cosparid:2022-076AV
+altkm:540.69451382762
+velkms:7.5931682304919
+velkmh:27335
+onumepoch:11951
+onumnow:180327.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:02:58+00:00
+nowjuliandate:2460552.6378896
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4143
+1 53029U 22076AV  24242.75206536  .00000443  00000+0  45919-4 0  9996
+2 53029  53.2163  54.3100 0001948  92.0600 268.0615 15.08838060119517

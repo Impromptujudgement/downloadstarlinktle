@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49179
+launchyear:2021
+epoch:24241.66690459
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3043
+meananomly:92.3881
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1909129401
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9994
+eccentricity:0.0002988
+argumentofperigree:267.6936
+nickname:STARLINK-3043
+idesg:21082BB 
+cosparid:2021-082BB
+altkm:574.56482572296
+velkms:7.5737683766243
+velkmh:27266
+onumepoch:16337
+onumnow:244804.43
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:00:21+00:00
+nowjuliandate:2460552.638004
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3043
+1 49179U 21082BB  24241.66690459  .00000536  00000+0  52742-4 0  9998
+2 49179  69.9994 221.4176 0002988 267.6936  92.3881 14.98331310163371

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:47+00:00
+validtle:1
+satid:48123
+launchyear:2021
+epoch:24242.40336731
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2464
+meananomly:277.4175
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2977491823
+altitudeatperigee:547
+altitudeatapogee:547
+inclination:53.0533
+eccentricity:3.87E-5
+argumentofperigree:82.6858
+nickname:STARLINK-2464
+idesg:21027AH 
+cosparid:2021-027AH
+altkm:548.00513969075
+velkms:7.5892069654025
+velkmh:27321
+onumepoch:18829
+onumnow:283654.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:40:51+00:00
+nowjuliandate:2460552.638053
+nowepochdate:24243.1380439815
+TLE:
+STARLINK-2464
+1 48123U 21027AH  24242.40336731  .00031353  00000+0  21134-2 0  9998
+2 48123  53.0533 133.3738 0000387  82.6858 277.4175 15.06417252188296

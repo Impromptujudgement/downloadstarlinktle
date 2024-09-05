@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:48+00:00
+validtle:1
+satid:47985
+launchyear:2021
+epoch:24242.23752044
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2308
+meananomly:266.6436
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3499860985
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0515
+eccentricity:0.0001341
+argumentofperigree:93.4707
+nickname:STARLINK-2308
+idesg:21024J  
+cosparid:2021-024J
+altkm:548.14625559555
+velkms:7.5890809321076
+velkmh:27321
+onumepoch:19092
+onumnow:287615.49
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:42:02+00:00
+nowjuliandate:2460552.6380563
+nowepochdate:24243.1380555556
+TLE:
+STARLINK-2308
+1 47985U 21024J   24242.23752044  .00000443  00000+0  48612-4 0  9998
+2 47985  53.0515 254.2833 0001341  93.4707 266.6436 15.06400208190920

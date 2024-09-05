@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45547
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1377
+meananomly:3.7195
+meanmotion:15.9679
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6661.4820317551
+altitudeatperigee:278
+altitudeatapogee:289
+inclination:53.0402
+eccentricity:0.0008018
+argumentofperigree:318.3239
+nickname:STARLINK-1377
+idesg:20025S  
+cosparid:2020-025S
+altkm:287.00941172402
+velkms:7.7382472278194
+velkmh:27858
+onumepoch:603
+onumnow:9637.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0283296
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1377
+1 45547U 20025S   24243.00001157  .00418120  82571-4  95723-3 0  9995
+2 45547  53.0402   9.8980 0008018 318.3239   3.7195 15.96785812  6037

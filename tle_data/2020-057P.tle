@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46130
+launchyear:2020
+epoch:24242.76965939
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1624
+meananomly:305.5160
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3671064381
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0537
+eccentricity:7.16E-5
+argumentofperigree:54.5896
+nickname:STARLINK-1624
+idesg:20057P  
+cosparid:2020-057P
+altkm:547.82108849305
+velkms:7.5894465129769
+velkmh:27322
+onumepoch:22393
+onumnow:337330.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:28:19+00:00
+nowjuliandate:2460553.0282816
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1624
+1 46130U 20057P   24242.76965939  .00000061  00000+0  22962-4 0  9997
+2 46130  53.0537 256.7293 0000716  54.5896 305.5160 15.06394622223931

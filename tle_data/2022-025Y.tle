@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51978
+launchyear:2022
+epoch:24242.66240657
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3666
+meananomly:261.6634
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8875660849
+altitudeatperigee:538
+altitudeatapogee:542
+inclination:53.2155
+eccentricity:0.0002879
+argumentofperigree:98.4685
+nickname:STARLINK-3666
+idesg:22025Y  
+cosparid:2022-025Y
+altkm:540.93708272181
+velkms:7.5929016294137
+velkmh:27334
+onumepoch:13805
+onumnow:208302.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:53:52+00:00
+nowjuliandate:2460552.6379425
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3666
+1 51978U 22025Y   24242.66240657  .00000050  00000+0  21288-4 0  9990
+2 51978  53.2155  19.7313 0002879  98.4685 261.6634 15.08838327138053

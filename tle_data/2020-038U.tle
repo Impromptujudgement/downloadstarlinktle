@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45748
+launchyear:2020
+epoch:24242.59403927
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1507
+meananomly:309.6223
+meanmotion:15.2122
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6880.3123758313
+altitudeatperigee:501
+altitudeatapogee:504
+inclination:53.0573
+eccentricity:0.0002034
+argumentofperigree:50.4952
+nickname:STARLINK-1507
+idesg:20038U  
+cosparid:2020-038U
+altkm:502.16823811072
+velkms:7.6149585689435
+velkmh:27414
+onumepoch:23239
+onumnow:353529.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:15:25+00:00
+nowjuliandate:2460553.0283009
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1507
+1 45748U 20038U   24242.59403927  .00020549  00000+0  92119-3 0  9998
+2 45748  53.0573 205.3525 0002034  50.4952 309.6223 15.21215430232397

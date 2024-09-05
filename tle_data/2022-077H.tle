@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53050
+launchyear:2022
+epoch:24241.7532123
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4343
+meananomly:263.7135
+meanmotion:15.0129
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.0556623507
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6544
+eccentricity:0.0001542
+argumentofperigree:96.4265
+nickname:STARLINK-4343
+idesg:22077H  
+cosparid:2022-077H
+altkm:566.09370514654
+velkms:7.578031731608
+velkmh:27281
+onumepoch:11720
+onumnow:175972.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:04:38+00:00
+nowjuliandate:2460552.6378826
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4343
+1 53050U 22077H   24241.75321230 -.00006627  00000+0 -51145-3 0  9998
+2 53050  97.6544  61.5462 0001542  96.4265 263.7135 15.01290255117206

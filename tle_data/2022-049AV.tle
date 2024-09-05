@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:36+00:00
+validtle:1
+satid:52494
+launchyear:2022
+epoch:24241.14068623
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3857
+meananomly:276.3046
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8801629939
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2181
+eccentricity:0.0001335
+argumentofperigree:83.8098
+nickname:STARLINK-3857
+idesg:22049AV 
+cosparid:2022-049AV
+altkm:540.53934666725
+velkms:7.5933339892611
+velkmh:27336
+onumepoch:12807
+onumnow:193267.37
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:22:35+00:00
+nowjuliandate:2460552.6379212
+nowepochdate:24243.1379166667
+TLE:
+STARLINK-3857
+1 52494U 22049AV  24241.14068623  .00001251  00000+0  96651-4 0  9993
+2 52494  53.2181  36.5431 0001335  83.8098 276.3046 15.08840749128078

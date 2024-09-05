@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:17+00:00
+validtle:1
+satid:56391
+launchyear:2023
+epoch:24242.57161345
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6298
+meananomly:95.6213
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2191689322
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0035
+eccentricity:0.0001255
+argumentofperigree:264.4486
+nickname:STARLINK-6298
+idesg:23061T  
+cosparid:2023-061T
+altkm:558.94575784332
+velkms:7.5837426349739
+velkmh:27301
+onumepoch:7324
+onumnow:110054.23
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:43:07+00:00
+nowjuliandate:2460552.6376999
+nowepochdate:24243.1376967593
+TLE:
+STARLINK-6298
+1 56391U 23061T   24242.57161345 -.00000218  00000+0 -10453-5 0  9992
+2 56391  43.0035 344.3419 0001255 264.4486  95.6213 15.02535816 73244

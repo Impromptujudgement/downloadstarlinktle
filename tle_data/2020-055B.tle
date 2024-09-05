@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46028
+launchyear:2020
+epoch:24242.33010592
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1523
+meananomly:273.4312
+meanmotion:15.0644
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2417344285
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0545
+eccentricity:0.0001262
+argumentofperigree:86.6822
+nickname:STARLINK-1523
+idesg:20055B  
+cosparid:2020-055B
+altkm:547.93164648587
+velkms:7.589256855307
+velkmh:27321
+onumepoch:22489
+onumnow:338792.38
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:55:21+00:00
+nowjuliandate:2460553.0282955
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1523
+1 46028U 20055B   24242.33010592 -.00001581  00000+0 -87183-4 0  9996
+2 46028  53.0545 108.7043 0001262  86.6822 273.4312 15.06435529224897

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55271
+launchyear:2023
+epoch:24242.44682278
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5306
+meananomly:86.1084
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2027661879
+altitudeatperigee:569
+altitudeatapogee:575
+inclination:69.9969
+eccentricity:0.0003729
+argumentofperigree:273.9649
+nickname:STARLINK-5306
+idesg:23010C  
+cosparid:2023-010C
+altkm:574.31436558837
+velkms:7.5740477327493
+velkmh:27267
+onumepoch:8900
+onumnow:133361.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:43:25+00:00
+nowjuliandate:2460552.6377751
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5306
+1 55271U 23010C   24242.44682278  .00000180  00000+0  22863-4 0  9994
+2 55271  69.9969   9.5658 0003729 273.9649  86.1084 14.98327477 89000

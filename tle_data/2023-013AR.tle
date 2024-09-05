@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55370
+launchyear:2023
+epoch:24242.3010577
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5027
+meananomly:94.3013
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1910822785
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0018
+eccentricity:0.0001298
+argumentofperigree:265.7681
+nickname:STARLINK-5027
+idesg:23013AR 
+cosparid:2023-013AR
+altkm:558.89974638148
+velkms:7.5837776013405
+velkmh:27302
+onumepoch:8814
+onumnow:132446.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:13:31+00:00
+nowjuliandate:2460552.6377706
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5027
+1 55370U 23013AR  24242.30105770  .00001649  00000+0  13710-3 0  9990
+2 55370  43.0018 102.0232 0001298 265.7681  94.3013 15.02544941 88149

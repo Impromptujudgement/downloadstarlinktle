@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49443
+launchyear:2021
+epoch:24242.58692037
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3136
+meananomly:268.0644
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8712499675
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2156
+eccentricity:0.0001485
+argumentofperigree:92.0518
+nickname:STARLINK-3136
+idesg:21104AM 
+cosparid:2021-104AM
+altkm:540.66631257736
+velkms:7.5931897927899
+velkmh:27335
+onumepoch:15588
+onumnow:235206.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:05:10+00:00
+nowjuliandate:2460552.6379985
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3136
+1 49443U 21104AM  24242.58692037  .00000419  00000+0  44391-4 0  9994
+2 49443  53.2156 190.0503 0001485  92.0518 268.0644 15.08843665155882

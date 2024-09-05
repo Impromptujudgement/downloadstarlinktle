@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53671
+launchyear:2022
+epoch:24242.39622397
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4440
+meananomly:283.9183
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1524871464
+altitudeatperigee:559
+altitudeatapogee:567
+inclination:97.6546
+eccentricity:0.0005098
+argumentofperigree:76.2608
+nickname:STARLINK-4440
+idesg:22105Z  
+cosparid:2022-105Z
+altkm:565.2234544414
+velkms:7.5790346934787
+velkmh:27285
+onumepoch:10990
+onumnow:164999.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:30:34+00:00
+nowjuliandate:2460552.6378327
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4440
+1 53671U 22105Z   24242.39622397 -.00000324  00000+0 -20584-4 0  9990
+2 53671  97.6546 122.1822 0005098  76.2608 283.9183 15.01258842109909

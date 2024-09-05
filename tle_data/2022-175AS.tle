@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54798
+launchyear:2022
+epoch:24241.61813194
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5420
+meananomly:266.8099
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8496552541
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2175
+eccentricity:0.0001572
+argumentofperigree:93.3073
+nickname:STARLINK-5420
+idesg:22175AS 
+cosparid:2022-175AS
+altkm:540.6707576661
+velkms:7.5931730907299
+velkmh:27335
+onumepoch:9602
+onumnow:144902.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T14:50:07+00:00
+nowjuliandate:2460552.6377892
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5420
+1 54798U 22175AS  24241.61813194  .00003127  00000+0  21444-3 0  9996
+2 54798  53.2175   4.1668 0001572  93.3073 266.8099 15.08850730 96027

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:47+00:00
+validtle:1
+satid:45684
+launchyear:2020
+epoch:24243.25001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1401
+meananomly:326.9231
+meanmotion:15.4109
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6821.0293402558
+altitudeatperigee:440
+altitudeatapogee:446
+inclination:53.0515
+eccentricity:0.0004909
+argumentofperigree:297.1713
+nickname:STARLINK-1401
+idesg:20035AD 
+cosparid:2020-035AD
+altkm:458.41727342931
+velkms:7.6389379269587
+velkmh:27500
+onumepoch:23537
+onumnow:362730.71
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T06:00:01+00:00
+nowjuliandate:2460553.0283263
+nowepochdate:24243.5283217593
+TLE:
+STARLINK-1401
+1 45684U 20035AD  24243.25001157  .00126740  00000+0  29771-2 0  9990
+2 45684  53.0515 340.3620 0004909 297.1713 326.9231 15.41090275235378

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53869
+launchyear:2022
+epoch:24242.32514371
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4810
+meananomly:265.8178
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8820428025
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.217
+eccentricity:0.0001481
+argumentofperigree:94.2983
+nickname:STARLINK-4810
+idesg:22114BD 
+cosparid:2022-114BD
+altkm:540.71727252006
+velkms:7.5931397870851
+velkmh:27335
+onumepoch:10857
+onumnow:163826.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:48:12+00:00
+nowjuliandate:2460552.6378191
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-4810
+1 53869U 22114BD  24242.32514371 -.00000408  00000+0 -75562-5 0  9994
+2 53869  53.2170 255.8969 0001481  94.2983 265.8178 15.08840134108576

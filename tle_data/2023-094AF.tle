@@ -1,0 +1,38 @@
+date:2024-08-29T06:04:15+00:00
+validtle:1
+satid:57247
+launchyear:2023
+epoch:24241.52410909
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5039
+meananomly:86.1539
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2067430537
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0105
+eccentricity:0.0001165
+argumentofperigree:273.917
+nickname:STARLINK-5039
+idesg:23094AF 
+cosparid:2023-094AF
+altkm:558.79461776784
+velkms:7.5839010107542
+velkmh:27302
+onumepoch:6330
+onumnow:95121.72
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T12:34:43+00:00
+nowjuliandate:2460551.7529519
+nowepochdate:24242.2529513889
+TLE:
+STARLINK-5039
+1 57247U 23094AF  24241.52410909 -.00000080  00000+0  91835-5 0  9995
+2 57247  43.0105 170.5589 0001165 273.9170  86.1539 15.02539853 63302

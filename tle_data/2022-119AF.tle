@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:27+00:00
+validtle:1
+satid:53915
+launchyear:2022
+epoch:24242.41352732
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5017
+meananomly:261.9610
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9182545844
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2191
+eccentricity:0.0001366
+argumentofperigree:98.1537
+nickname:STARLINK-5017
+idesg:22119AF 
+cosparid:2022-119AF
+altkm:540.81111112992
+velkms:7.5930566530759
+velkmh:27335
+onumepoch:10727
+onumnow:161862.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:55:29+00:00
+nowjuliandate:2460552.6378158
+nowepochdate:24243.09.1378125
+TLE:
+STARLINK-5017
+1 53915U 22119AF  24242.41352732 -.00001281  00000+0 -62414-4 0  9993
+2 53915  53.2191 295.9320 0001366  98.1537 261.9610 15.08828287107276

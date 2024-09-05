@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52302
+launchyear:2022
+epoch:24242.23732255
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3564
+meananomly:280.9858
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8684745866
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2203
+eccentricity:0.0001785
+argumentofperigree:79.1335
+nickname:STARLINK-3564
+idesg:22041AT 
+cosparid:2022-041AT
+altkm:540.39408386306
+velkms:7.5934869848478
+velkmh:27337
+onumepoch:13169
+onumnow:198713.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T05:41:45+00:00
+nowjuliandate:2460552.6379341
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3564
+1 52302U 22041AT  24242.23732255  .00001005  00000+0  81247-4 0  9995
+2 52302  53.2203  71.6190 0001785  79.1335 280.9858 15.08844573131697

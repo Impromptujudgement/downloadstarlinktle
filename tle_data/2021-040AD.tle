@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:45+00:00
+validtle:1
+satid:48455
+launchyear:2021
+epoch:24242.51855649
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2497
+meananomly:263.5926
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3381833625
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.052
+eccentricity:0.0001593
+argumentofperigree:96.5244
+nickname:STARLINK-2497
+idesg:21040AD 
+cosparid:2021-040AD
+altkm:548.20330936875
+velkms:7.5890119788106
+velkmh:27320
+onumepoch:18325
+onumnow:276057.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:26:43+00:00
+nowjuliandate:2460552.6380281
+nowepochdate:24243.1380208333
+TLE:
+STARLINK-2497
+1 48455U 21040AD  24242.51855649  .00027242  00000+0  18405-2 0  9996
+2 48455  53.0520 162.8534 0001593  96.5244 263.5926 15.06404059183256

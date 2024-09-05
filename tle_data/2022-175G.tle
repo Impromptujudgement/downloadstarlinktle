@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:24+00:00
+validtle:1
+satid:54764
+launchyear:2022
+epoch:24242.70057115
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5458
+meananomly:267.9398
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.840962398
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.22
+eccentricity:0.0001769
+argumentofperigree:92.1796
+nickname:STARLINK-5458
+idesg:22175G  
+cosparid:2022-175G
+altkm:540.6458623366
+velkms:7.5931956477642
+velkmh:27336
+onumepoch:9367
+onumnow:141340.91
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T16:48:49+00:00
+nowjuliandate:2460552.6377871
+nowepochdate:24243.1377777778
+TLE:
+STARLINK-5458
+1 54764U 22175G   24242.70057115 -.00005577  00000+0 -33246-3 0  9999
+2 54764  53.2200  24.4709 0001769  92.1796 267.9398 15.08853574 93678

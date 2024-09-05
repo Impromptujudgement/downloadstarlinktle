@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55378
+launchyear:2023
+epoch:24241.8844361
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5572
+meananomly:92.6858
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.188047398
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0007
+eccentricity:0.0001296
+argumentofperigree:267.3836
+nickname:STARLINK-5572
+idesg:23013AZ 
+cosparid:2023-013AZ
+altkm:558.87118750013
+velkms:7.5838071524965
+velkmh:27302
+onumepoch:8765
+onumnow:131716.98
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:13:35+00:00
+nowjuliandate:2460552.6377695
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5572
+1 55378U 23013AZ  24241.88443610  .00003109  00000+0  24503-3 0  9993
+2 55378  43.0007 104.0551 0001296 267.3836  92.6858 15.02545927 87657

@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:07+00:00
+validtle:1
+satid:47151
+launchyear:2020
+epoch:24242.37479987
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1864
+meananomly:275.0501
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3617919497
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0535
+eccentricity:0.0001449
+argumentofperigree:85.0653
+nickname:STARLINK-1864
+idesg:20088AF 
+cosparid:2020-088AF
+altkm:548.01560119671
+velkms:7.5892305168653
+velkmh:27321
+onumepoch:20808
+onumnow:313462.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:59:43+00:00
+nowjuliandate:2460552.6396649
+nowepochdate:24243.1396643519
+TLE:
+STARLINK-1864
+1 47151U 20088AF  24242.37479987 -.00000889  00000+0 -40764-4 0  9995
+2 47151  53.0535 283.5011 0001449  85.0653 275.0501 15.06396356208088

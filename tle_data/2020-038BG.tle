@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:45+00:00
+validtle:1
+satid:45784
+launchyear:2020
+epoch:24242.54258428
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1510
+meananomly:252.4501
+meanmotion:15.0869
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6918.336003536
+altitudeatperigee:539
+altitudeatapogee:542
+inclination:53.0532
+eccentricity:0.0002109
+argumentofperigree:107.6719
+nickname:STARLINK-1510
+idesg:20038BG 
+cosparid:2020-038BG
+altkm:541.51909521575
+velkms:7.5925086048932
+velkmh:27333
+onumepoch:23278
+onumnow:351208.11
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:01:19+00:00
+nowjuliandate:2460553.0283051
+nowepochdate:24243.5282986111
+TLE:
+STARLINK-1510
+1 45784U 20038BG  24242.54258428  .00058259  00000+0  36630-2 0  9991
+2 45784  53.0532 177.4941 0002109 107.6719 252.4501 15.08691628232781

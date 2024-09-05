@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53556
+launchyear:2022
+epoch:24242.17521929
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4505
+meananomly:279.2887
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8626670804
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.216
+eccentricity:0.0001721
+argumentofperigree:80.83
+nickname:STARLINK-4505
+idesg:22101AF 
+cosparid:2022-101AF
+altkm:540.43095354034
+velkms:7.5934433470657
+velkmh:27336
+onumepoch:11214
+onumnow:169216.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:12:19+00:00
+nowjuliandate:2460552.6378501
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4505
+1 53556U 22101AF  24242.17521929  .00002217  00000+0  15729-3 0  9998
+2 53556  53.2160  46.9003 0001721  80.8300 279.2887 15.08846473112143

@@ -1,0 +1,38 @@
+date:2024-08-28T18:02:42+00:00
+validtle:1
+satid:58096
+launchyear:2023
+epoch:24241.27756094
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30581
+meananomly:87.1183
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2156384627
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0017
+eccentricity:0.0001221
+argumentofperigree:272.9519
+nickname:STARLINK-30581
+idesg:23160X  
+cosparid:2023-160X
+altkm:558.81418102871
+velkms:7.5838844806801
+velkmh:27302
+onumepoch:4893
+onumnow:73515.07
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T06:39:41+00:00
+nowjuliandate:2460551.2518805
+nowepochdate:24241.007.751875
+TLE:
+STARLINK-30581
+1 58096U 23160X   24241.27756094  .00000651  00000+0  63257-4 0  9991
+2 58096  43.0017 234.8917 0001221 272.9519  87.1183 15.02536963 48932

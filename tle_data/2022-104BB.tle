@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53637
+launchyear:2022
+epoch:24242.61780508
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4396
+meananomly:275.3842
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8900419373
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.0001455
+argumentofperigree:84.7316
+nickname:STARLINK-4396
+idesg:22104BB 
+cosparid:2022-104BB
+altkm:540.55595990962
+velkms:7.5933211690497
+velkmh:27336
+onumepoch:11110
+onumnow:167639.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:49:38+00:00
+nowjuliandate:2460552.6378413
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4396
+1 53637U 22104BB  24242.61780508  .00000008  00000+0  18566-4 0  9999
+2 53637  53.2157 205.1003 0001455  84.7316 275.3842 15.08837517111104

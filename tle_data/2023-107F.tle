@@ -1,0 +1,38 @@
+date:2024-08-28T22:58:33+00:00
+validtle:1
+satid:57462
+launchyear:2023
+epoch:24241.41746515
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30088
+meananomly:92.7819
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2041513863
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0007
+eccentricity:0.0001029
+argumentofperigree:267.2905
+nickname:STARLINK-30088
+idesg:23107F  
+cosparid:2023-107F
+altkm:558.87977166308
+velkms:7.5838065500887
+velkmh:27302
+onumepoch:6113
+onumnow:91858.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T10:01:09+00:00
+nowjuliandate:2460551.4573361
+nowepochdate:24241.9573263889
+TLE:
+STARLINK-30088
+1 57462U 23107F   24241.41746515  .00002296  00000+0  18492-3 0  9998
+2 57462  43.0007 132.5601 0001029 267.2905  92.7819 15.02540695 61135

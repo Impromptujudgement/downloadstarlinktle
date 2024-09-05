@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:26+00:00
+validtle:1
+satid:53985
+launchyear:2022
+epoch:24242.17617195
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5147
+meananomly:259.4316
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8389817511
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2163
+eccentricity:0.0001326
+argumentofperigree:100.6826
+nickname:STARLINK-5147
+idesg:22125X  
+cosparid:2022-125X
+altkm:540.76762258017
+velkms:7.5930609605405
+velkmh:27335
+onumepoch:10536
+onumnow:158987.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:13:41+00:00
+nowjuliandate:2460552.6378038
+nowepochdate:24243.1378009259
+TLE:
+STARLINK-5147
+1 53985U 22125X   24242.17617195  .00000873  00000+0  72919-4 0  9992
+2 53985  53.2163 197.1317 0001326 100.6826 259.4316 15.08854222105368

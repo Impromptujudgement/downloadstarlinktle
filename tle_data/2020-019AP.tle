@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45397
+launchyear:2020
+epoch:24242.9991238
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1307
+meananomly:265.4931
+meanmotion:15.0640
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.363842348
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001451
+argumentofperigree:94.6224
+nickname:STARLINK-1307
+idesg:20019AP 
+cosparid:2020-019AP
+altkm:548.18492682947
+velkms:7.5890461443325
+velkmh:27321
+onumepoch:24592
+onumnow:370460.80
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:58:44+00:00
+nowjuliandate:2460553.0283578
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1307
+1 45397U 20019AP  24242.99912380  .00024876  00000+0  16832-2 0  9993
+2 45397  53.0534 125.6947 0001451  94.6224 265.4931 15.06395687245924

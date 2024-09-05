@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49142
+launchyear:2021
+epoch:24241.6877645
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3042
+meananomly:106.2749
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1809708471
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9991
+eccentricity:0.0003237
+argumentofperigree:253.8054
+nickname:STARLINK-3042
+idesg:21082N  
+cosparid:2021-082N
+altkm:575.098956106
+velkms:7.5731809976527
+velkmh:27263
+onumepoch:16338
+onumnow:244819.62
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:30:23+00:00
+nowjuliandate:2460552.6380014
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3042
+1 49142U 21082N   24241.68776450  .00000515  00000+0  50944-4 0  9995
+2 49142  69.9991 221.3729 0003237 253.8054 106.2749 14.98334525163387

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:37+00:00
+validtle:1
+satid:52140
+launchyear:2022
+epoch:24242.76908617
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3682
+meananomly:279.6005
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9155922519
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2155
+eccentricity:0.0001224
+argumentofperigree:80.5125
+nickname:STARLINK-3682
+idesg:22029BE 
+cosparid:2022-029BE
+altkm:540.53467454597
+velkms:7.5933585153796
+velkmh:27336
+onumepoch:13686
+onumnow:206503.92
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:27:29+00:00
+nowjuliandate:2460552.6379388
+nowepochdate:24243.1379282407
+TLE:
+STARLINK-3682
+1 52140U 22029BE  24242.76908617 -.00002028  00000+0 -10940-3 0  9995
+2 52140  53.2155  49.2339 0001224  80.5125 279.6005 15.08829158136865

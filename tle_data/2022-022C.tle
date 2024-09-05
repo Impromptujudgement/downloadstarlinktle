@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51854
+launchyear:2022
+epoch:24241.64391997
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3541
+meananomly:259.3049
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8565386463
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.218
+eccentricity:0.0002392
+argumentofperigree:100.8212
+nickname:STARLINK-3541
+idesg:22022C  
+cosparid:2022-022C
+altkm:540.92448156386
+velkms:7.5928984649623
+velkmh:27334
+onumepoch:13877
+onumnow:209405.45
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:27:15+00:00
+nowjuliandate:2460552.6379508
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3541
+1 51854U 22022C   24241.64391997  .00003721  00000+0  25172-3 0  9994
+2 51854  53.2180   4.2867 0002392 100.8212 259.3049 15.08848478138772

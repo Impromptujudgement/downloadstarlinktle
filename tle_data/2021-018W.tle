@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:26+00:00
+validtle:1
+satid:47807
+launchyear:2021
+epoch:24241.63023907
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2388
+meananomly:278.3308
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3055582996
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001717
+argumentofperigree:81.7876
+nickname:STARLINK-2388
+idesg:21018W  
+cosparid:2021-018W
+altkm:547.87544321273
+velkms:7.5893533193083
+velkmh:27322
+onumepoch:19289
+onumnow:290595.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:07:33+00:00
+nowjuliandate:2460552.6392
+nowepochdate:24243.1391898148
+TLE:
+STARLINK-2388
+1 47807U 21018W   24241.63023907  .00002342  00000+0  17599-3 0  9995
+2 47807  53.0532 206.8421 0001717  81.7876 278.3308 15.06414704192894

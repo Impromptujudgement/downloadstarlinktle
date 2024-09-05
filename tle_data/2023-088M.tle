@@ -1,0 +1,38 @@
+date:2024-08-29T07:01:18+00:00
+validtle:1
+satid:57059
+launchyear:2023
+epoch:24241.7559056
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-6211
+meananomly:93.0227
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2060812857
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0016
+eccentricity:0.0001176
+argumentofperigree:267.0481
+nickname:STARLINK-6211
+idesg:23088M  
+cosparid:2023-088M
+altkm:558.89018880184
+velkms:7.5837962196719
+velkmh:27302
+onumepoch:6644
+onumnow:99836.83
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:08:30+00:00
+nowjuliandate:2460551.7925796
+nowepochdate:24242.2925694444
+TLE:
+STARLINK-6211
+1 57059U 23088M   24241.75590560  .00000929  00000+0  83858-4 0  9992
+2 57059  43.0016 258.9918 0001176 267.0481  93.0227 15.02540068 66441

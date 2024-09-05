@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49174
+launchyear:2021
+epoch:24241.69408928
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3047
+meananomly:92.7225
+meanmotion:15.0818
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6919.8880615421
+altitudeatperigee:539
+altitudeatapogee:545
+inclination:69.9948
+eccentricity:0.0004192
+argumentofperigree:267.3459
+nickname:STARLINK-3047
+idesg:21082AW 
+cosparid:2021-082AW
+altkm:544.32412256262
+velkms:7.5902836267568
+velkmh:27325
+onumepoch:16423
+onumnow:247710.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T16:39:29+00:00
+nowjuliandate:2460552.6380044
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3047
+1 49174U 21082AW  24241.69408928  .00049157  00000+0  31569-2 0  9998
+2 49174  69.9948 234.3681 0004192 267.3459  92.7225 15.08184081164230

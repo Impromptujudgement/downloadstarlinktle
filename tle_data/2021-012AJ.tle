@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:47+00:00
+validtle:1
+satid:47652
+launchyear:2021
+epoch:24242.76731726
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2036
+meananomly:276.0670
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2773806071
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0547
+eccentricity:0.0001078
+argumentofperigree:84.0442
+nickname:STARLINK-2036
+idesg:21012AJ 
+cosparid:2021-012AJ
+altkm:547.94068807168
+velkms:7.5892664378084
+velkmh:27321
+onumepoch:19552
+onumnow:294541.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:24:56+00:00
+nowjuliandate:2460552.6394424
+nowepochdate:24243.1394328704
+TLE:
+STARLINK-2036
+1 47652U 21012AJ  24242.76731726  .00010386  00000+0  71467-3 0  9998
+2 47652  53.0547  51.7271 0001078  84.0442 276.0670 15.06423898195527

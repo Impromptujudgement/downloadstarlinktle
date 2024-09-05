@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:48+00:00
+validtle:1
+satid:47571
+launchyear:2021
+epoch:24242.57108276
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1970
+meananomly:258.3107
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3919351027
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0567
+eccentricity:9.36E-5
+argumentofperigree:101.7987
+nickname:STARLINK-1970
+idesg:21009Z  
+cosparid:2021-009Z
+altkm:548.26565268004
+velkms:7.5889730708219
+velkmh:27320
+onumepoch:19757
+onumnow:297625.35
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T13:42:22+00:00
+nowjuliandate:2460552.6394512
+nowepochdate:24243.1394444444
+TLE:
+STARLINK-1970
+1 47571U 21009Z   24242.57108276  .00008755  00000+0  60610-3 0  9996
+2 47571  53.0567 352.6186 0000936 101.7987 258.3107 15.06386521197576

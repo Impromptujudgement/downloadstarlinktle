@@ -1,0 +1,38 @@
+date:2024-08-29T07:05:05+00:00
+validtle:1
+satid:57054
+launchyear:2023
+epoch:24241.76589508
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5881
+meananomly:83.9295
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1998729858
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.001
+eccentricity:0.0001087
+argumentofperigree:276.1423
+nickname:STARLINK-5881
+idesg:23088G  
+cosparid:2023-088G
+altkm:558.76115855488
+velkms:7.5839338247931
+velkmh:27302
+onumepoch:6644
+onumnow:99836.85
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:22:53+00:00
+nowjuliandate:2460551.7951982
+nowepochdate:24242.2951967593
+TLE:
+STARLINK-5881
+1 57054U 23088G   24241.76589508  .00001605  00000+0  13383-3 0  9995
+2 57054  43.0010 259.0689 0001087 276.1423  83.9295 15.02542085 66449

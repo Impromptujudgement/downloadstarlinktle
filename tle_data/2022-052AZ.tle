@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52645
+launchyear:2022
+epoch:24241.71753208
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3973
+meananomly:265.5336
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8728332808
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2158
+eccentricity:0.0001332
+argumentofperigree:94.5808
+nickname:STARLINK-3973
+idesg:22052AZ 
+cosparid:2022-052AZ
+altkm:540.70494687404
+velkms:7.5931482681196
+velkmh:27335
+onumepoch:12689
+onumnow:191478.54
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T17:13:15+00:00
+nowjuliandate:2460552.6379084
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3973
+1 52645U 22052AZ  24241.71753208  .00000890  00000+0  74005-4 0  9995
+2 52645  53.2158 244.0633 0001332  94.5808 265.5336 15.08843147126890

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:49+00:00
+validtle:1
+satid:45413
+launchyear:2020
+epoch:24242.95949604
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1298
+meananomly:281.8018
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3834729196
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001505
+argumentofperigree:78.314
+nickname:STARLINK-1298
+idesg:20019BF 
+cosparid:2020-019BF
+altkm:547.91245373921
+velkms:7.589355367939
+velkmh:27322
+onumepoch:24604
+onumnow:370640.59
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T23:01:40+00:00
+nowjuliandate:2460553.0283523
+nowepochdate:24243.5283449074
+TLE:
+STARLINK-1298
+1 45413U 20019BF  24242.95949604  .00024396  00000+0  16515-2 0  9992
+2 45413  53.0536 115.8767 0001505  78.3140 281.8018 15.06389282246048

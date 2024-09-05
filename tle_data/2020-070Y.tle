@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:38+00:00
+validtle:1
+satid:46554
+launchyear:2020
+epoch:24242.01365566
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1671
+meananomly:188.0715
+meanmotion:15.3487
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6839.4380719049
+altitudeatperigee:461
+altitudeatapogee:462
+inclination:53.0502
+eccentricity:0.0001119
+argumentofperigree:172.0304
+nickname:STARLINK-1671
+idesg:20070Y  
+cosparid:2020-070Y
+altkm:462.94846757227
+velkms:7.6358750146888
+velkmh:27489
+onumepoch:21572
+onumnow:331125.96
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T00:19:40+00:00
+nowjuliandate:2460553.0282278
+nowepochdate:24243.5282175926
+TLE:
+STARLINK-1671
+1 46554U 20070Y   24242.01365566  .00049083  00000+0  14326-2 0  9990
+2 46554  53.0502 140.6147 0001119 172.0304 188.0715 15.34872567215728

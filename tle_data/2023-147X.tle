@@ -1,0 +1,38 @@
+date:2024-08-28T19:34:43+00:00
+validtle:1
+satid:57934
+launchyear:2023
+epoch:24241.35785926
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30458
+meananomly:99.2730
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2404995889
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0084
+eccentricity:0.0001615
+argumentofperigree:260.793
+nickname:STARLINK-30458
+idesg:23147X  
+cosparid:2023-147X
+altkm:559.0629345012
+velkms:7.5836262289971
+velkmh:27301
+onumepoch:5253
+onumnow:78922.47
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T08:35:19+00:00
+nowjuliandate:2460551.3157789
+nowepochdate:24241..815775463
+TLE:
+STARLINK-30458
+1 57934U 23147X   24241.35785926  .00008728  00000+0  66047-3 0  9993
+2 57934  43.0084 119.5893 0001615 260.7930  99.2730 15.02528886 52535

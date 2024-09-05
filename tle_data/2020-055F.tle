@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46032
+launchyear:2020
+epoch:24241.90991749
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-1555
+meananomly:270.3244
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3296140744
+altitudeatperigee:545
+altitudeatapogee:549
+inclination:53.0548
+eccentricity:0.000252
+argumentofperigree:89.8034
+nickname:STARLINK-1555
+idesg:20055F  
+cosparid:2020-055F
+altkm:548.06230622448
+velkms:7.5891617610469
+velkmh:27321
+onumepoch:22430
+onumnow:337903.48
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T21:50:17+00:00
+nowjuliandate:2460553.0282924
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1555
+1 46032U 20055F   24241.90991749  .00012554  00000+0  86000-3 0  9991
+2 46032  53.0548 110.5881 0002520  89.8034 270.3244 15.06406855224300

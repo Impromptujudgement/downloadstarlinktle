@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:41+00:00
+validtle:1
+satid:50167
+launchyear:2021
+epoch:24242.20792734
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3271
+meananomly:263.6183
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.861857087
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2145
+eccentricity:0.0001761
+argumentofperigree:96.501
+nickname:STARLINK-3271
+idesg:21125M  
+cosparid:2021-125M
+altkm:540.75756631445
+velkms:7.5930845210583
+velkmh:27335
+onumepoch:15181
+onumnow:229069.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:59:25+00:00
+nowjuliandate:2460552.6379824
+nowepochdate:24243..137974537
+TLE:
+STARLINK-3271
+1 50167U 21125M   24242.20792734 -.00000298  00000+0 -59004-6 0  9992
+2 50167  53.2145 241.7609 0001761  96.5010 263.6183 15.08846738151811

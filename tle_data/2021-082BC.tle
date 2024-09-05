@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49180
+launchyear:2021
+epoch:24242.25128731
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3050
+meananomly:95.0432
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1666283196
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.9983
+eccentricity:0.0002733
+argumentofperigree:265.0415
+nickname:STARLINK-3050
+idesg:21082BC 
+cosparid:2021-082BC
+altkm:574.62082516878
+velkms:7.5736941453451
+velkmh:27265
+onumepoch:16414
+onumnow:245950.68
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:01:51+00:00
+nowjuliandate:2460552.6380036
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3050
+1 49180U 21082BC  24242.25128731 -.00000051  00000+0  35422-5 0  9995
+2 49180  69.9983 239.9508 0002733 265.0415  95.0432 14.98339163164148

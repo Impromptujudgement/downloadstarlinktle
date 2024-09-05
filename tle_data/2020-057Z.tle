@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46140
+launchyear:2020
+epoch:24242.33471382
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1594
+meananomly:288.2361
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3318759226
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0532
+eccentricity:0.0001378
+argumentofperigree:71.8778
+nickname:STARLINK-1594
+idesg:20057Z  
+cosparid:2020-057Z
+altkm:547.7753288208
+velkms:7.5894773848449
+velkmh:27322
+onumepoch:22388
+onumnow:337264.22
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:01:59+00:00
+nowjuliandate:2460553.0282782
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1594
+1 46140U 20057Z   24242.33471382 -.00001484  00000+0 -80750-4 0  9996
+2 46140  53.0532 258.6812 0001378  71.8778 288.2361 15.06406117223888

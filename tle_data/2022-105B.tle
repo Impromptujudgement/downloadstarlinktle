@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53649
+launchyear:2022
+epoch:24242.42929718
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4386
+meananomly:272.1439
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1503171589
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6566
+eccentricity:9.12E-5
+argumentofperigree:87.989
+nickname:STARLINK-4386
+idesg:22105B  
+cosparid:2022-105B
+altkm:566.04723319229
+velkms:7.5781340866906
+velkmh:27281
+onumepoch:10990
+onumnow:164999.06
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:18:11+00:00
+nowjuliandate:2460552.6378354
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4386
+1 53649U 22105B   24242.42929718 -.00003466  00000+0 -26541-3 0  9994
+2 53649  97.6566 122.2078 0000912  87.9890 272.1439 15.01259546109908

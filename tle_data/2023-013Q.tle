@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55345
+launchyear:2023
+epoch:24241.84177567
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5653
+meananomly:82.9840
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1842214833
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.004
+eccentricity:0.0001029
+argumentofperigree:277.0885
+nickname:STARLINK-5653
+idesg:23013Q  
+cosparid:2023-013Q
+altkm:558.73838064142
+velkms:7.5839501841537
+velkmh:27302
+onumepoch:8837
+onumnow:132799.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:12:09+00:00
+nowjuliandate:2460552.6377666
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5653
+1 55345U 23013Q   24241.84177567  .00001160  00000+0  10091-3 0  9990
+2 55345  43.0040  78.5784 0001029 277.0885  82.9840 15.02547170 88372

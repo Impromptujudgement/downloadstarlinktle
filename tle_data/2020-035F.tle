@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:46+00:00
+validtle:1
+satid:45662
+launchyear:2020
+epoch:24240.9497222
+epochday:240
+tleage:3
+tleclassification:U
+active:1
+name:STARLINK-1445
+meananomly:264.7026
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.302092005
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0542
+eccentricity:0.0001258
+argumentofperigree:95.4107
+nickname:STARLINK-1445
+idesg:20035F  
+cosparid:2020-035F
+altkm:548.12470345732
+velkms:7.58907835867
+velkmh:27321
+onumepoch:23451
+onumnow:353308.42
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-27T22:47:36+00:00
+nowjuliandate:2460553.0283168
+nowepochdate:24243.5283101852
+TLE:
+STARLINK-1445
+1 45662U 20035F   24240.94972220  .00006081  00000+0  42659-3 0  9993
+2 45662  53.0542  54.8986 0001258  95.4107 264.7026 15.06415835234516

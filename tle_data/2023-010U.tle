@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55287
+launchyear:2023
+epoch:24242.50077558
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5341
+meananomly:97.1884
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.2039753272
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0016
+eccentricity:0.0002776
+argumentofperigree:262.896
+nickname:STARLINK-5341
+idesg:23010U  
+cosparid:2023-010U
+altkm:574.73285966105
+velkms:7.5735923966586
+velkmh:27265
+onumepoch:8998
+onumnow:134829.02
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T12:01:07+00:00
+nowjuliandate:2460552.6377733
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5341
+1 55287U 23010U   24242.50077558 -.00000004  00000+0  74613-5 0  9994
+2 55287  70.0016 329.5261 0002776 262.8960  97.1884 14.98327086 89985

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55571
+launchyear:2023
+epoch:24242.4595373
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5739
+meananomly:85.7623
+meanmotion:15.0253
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2351899945
+altitudeatperigee:559
+altitudeatapogee:560
+inclination:43.0025
+eccentricity:7.43E-5
+argumentofperigree:274.3134
+nickname:STARLINK-5739
+idesg:23020C  
+cosparid:2023-020C
+altkm:558.83824986931
+velkms:7.5838688374219
+velkmh:27302
+onumepoch:8509
+onumnow:127860.52
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:01:44+00:00
+nowjuliandate:2460552.6377498
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5739
+1 55571U 23020C   24242.45953730  .00000203  00000+0  30074-4 0  9992
+2 55571  43.0025 152.8001 0000743 274.3134  85.7623 15.02530611 85091

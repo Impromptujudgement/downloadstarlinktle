@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:44+00:00
+validtle:1
+satid:48574
+launchyear:2021
+epoch:24241.85878661
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2225
+meananomly:321.7076
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3019694129
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:8.18E-5
+argumentofperigree:38.3971
+nickname:STARLINK-2225
+idesg:21041X  
+cosparid:2021-041X
+altkm:547.59939318237
+velkms:7.589653782435
+velkmh:27323
+onumepoch:18154
+onumnow:273494.01
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:36:39+00:00
+nowjuliandate:2460552.6380153
+nowepochdate:24243.1380092593
+TLE:
+STARLINK-2225
+1 48574U 21041X   24241.85878661  .00018886  00000+0  12828-2 0  9991
+2 48574  53.0536  85.8987 0000818  38.3971 321.7076 15.06415875181542

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:46+00:00
+validtle:1
+satid:48323
+launchyear:2021
+epoch:24241.86246243
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-2515
+meananomly:265.4198
+meanmotion:15.0642
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.2974212489
+altitudeatperigee:544
+altitudeatapogee:550
+inclination:53.0534
+eccentricity:0.0004092
+argumentofperigree:94.7258
+nickname:STARLINK-2515
+idesg:21036AZ 
+cosparid:2021-036AZ
+altkm:548.26685797549
+velkms:7.5889200796376
+velkmh:27320
+onumepoch:18395
+onumnow:277124.69
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T20:41:57+00:00
+nowjuliandate:2460552.6380427
+nowepochdate:24243.1380324074
+TLE:
+STARLINK-2515
+1 48323U 21036AZ  24241.86246243  .00022084  00000+0  14960-2 0  9997
+2 48323  53.0534  85.7993 0004092  94.7258 265.4198 15.06417359183955

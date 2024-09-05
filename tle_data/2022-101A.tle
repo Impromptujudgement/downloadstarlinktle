@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53527
+launchyear:2022
+epoch:24242.76310504
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4511
+meananomly:267.5896
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8920317906
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2198
+eccentricity:0.0001286
+argumentofperigree:92.5244
+nickname:STARLINK-4511
+idesg:22101A  
+cosparid:2022-101A
+altkm:540.69020953444
+velkms:7.5931749521795
+velkmh:27335
+onumepoch:11208
+onumnow:169116.09
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:18:52+00:00
+nowjuliandate:2460552.6378509
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4511
+1 53527U 22101A   24242.76310504 -.00001139  00000+0 -53479-4 0  9995
+2 53527  53.2198  54.2604 0001286  92.5244 267.5896 15.08836866112082

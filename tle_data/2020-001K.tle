@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:23+00:00
+validtle:1
+satid:44923
+launchyear:2020
+epoch:24242.3562629
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1106
+meananomly:314.6393
+meanmotion:15.3443
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6840.741821742
+altitudeatperigee:459
+altitudeatapogee:466
+inclination:53.0153
+eccentricity:0.000503
+argumentofperigree:45.5018
+nickname:STARLINK-1106
+idesg:20001K  
+cosparid:2020-001K
+altkm:461.0737535809
+velkms:7.6386935010417
+velkmh:27499
+onumepoch:25666
+onumnow:393845.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:33:01+00:00
+nowjuliandate:2460553.0294375
+nowepochdate:24243.5294328704
+TLE:
+STARLINK-1106
+1 44923U 20001K   24242.35626290  .00071029  00000+0  20905-2 0  9998
+2 44923  53.0153 270.1644 0005030  45.5018 314.6393 15.34433800256661

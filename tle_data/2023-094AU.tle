@@ -1,0 +1,38 @@
+date:2024-08-29T05:54:43+00:00
+validtle:1
+satid:57260
+launchyear:2023
+epoch:24241.08639206
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5026
+meananomly:92.6961
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2025415989
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:42.9999
+eccentricity:0.0001004
+argumentofperigree:267.3767
+nickname:STARLINK-5026
+idesg:23094AU 
+cosparid:2023-094AU
+altkm:558.87617654849
+velkms:7.5838096008022
+velkmh:27302
+onumepoch:6388
+onumnow:95999.76
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T02:04:24+00:00
+nowjuliandate:2460551.7463382
+nowepochdate:24242.2463310185
+TLE:
+STARLINK-5026
+1 57260U 23094AU  24241.08639206 -.00000451  00000+0 -18329-4 0  9993
+2 57260  42.9999 172.4340 0001004 267.3767  92.6961 15.02541218 63885

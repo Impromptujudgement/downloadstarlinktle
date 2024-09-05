@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53174
+launchyear:2022
+epoch:24242.47516028
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4205
+meananomly:299.2794
+meanmotion:15.0886
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8335869406
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001427
+argumentofperigree:60.8341
+nickname:STARLINK-4205
+idesg:22083AU 
+cosparid:2022-083AU
+altkm:540.11123593532
+velkms:7.5937782570751
+velkmh:27338
+onumepoch:11773
+onumnow:177647.61
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:24:14+00:00
+nowjuliandate:2460552.6378781
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4205
+1 53174U 22083AU  24242.47516028  .00000625  00000+0  57356-4 0  9994
+2 53174  53.2167 155.4831 0001427  60.8341 299.2794 15.08855987117736

@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46132
+launchyear:2020
+epoch:24242.42317998
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1630
+meananomly:265.9421
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3659969535
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0533
+eccentricity:0.0001302
+argumentofperigree:94.1716
+nickname:STARLINK-1630
+idesg:20057R  
+cosparid:2020-057R
+altkm:548.17189908325
+velkms:7.5890615936919
+velkmh:27321
+onumepoch:22333
+onumnow:336431.88
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:09:23+00:00
+nowjuliandate:2460553.0282815
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1630
+1 46132U 20057R   24242.42317998  .00021285  00000+0  14437-2 0  9995
+2 46132  53.0533 298.2837 0001302  94.1716 265.9421 15.06394984223331

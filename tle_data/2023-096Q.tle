@@ -1,0 +1,38 @@
+date:2024-08-29T05:24:02+00:00
+validtle:1
+satid:57304
+launchyear:2023
+epoch:24241.63928889
+epochday:241
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-30211
+meananomly:80.7100
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2048285439
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0042
+eccentricity:0.0001661
+argumentofperigree:279.3555
+nickname:STARLINK-30211
+idesg:23096Q  
+cosparid:2023-096Q
+altkm:558.66031105581
+velkms:7.5840467226181
+velkmh:27303
+onumepoch:6277
+onumnow:94323.27
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:20:35+00:00
+nowjuliandate:2460551.7250291
+nowepochdate:24242.2250231481
+TLE:
+STARLINK-30211
+1 57304U 23096Q   24241.63928889  .00001447  00000+0  12216-3 0  9995
+2 57304  43.0042  15.3124 0001661 279.3555  80.7100 15.02540475 62771

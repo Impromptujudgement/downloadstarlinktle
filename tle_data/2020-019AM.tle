@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:50+00:00
+validtle:1
+satid:45395
+launchyear:2020
+epoch:24242.4093638
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1297
+meananomly:279.8354
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3726078944
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0534
+eccentricity:0.0001108
+argumentofperigree:80.276
+nickname:STARLINK-1297
+idesg:20019AM 
+cosparid:2020-019AM
+altkm:547.98360036639
+velkms:7.5892714865077
+velkmh:27321
+onumepoch:24519
+onumnow:369369.31
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:49:29+00:00
+nowjuliandate:2460553.0283585
+nowepochdate:24243.5283564815
+TLE:
+STARLINK-1297
+1 45395U 20019AM  24242.40936380  .00026611  00000+0  17990-2 0  9998
+2 45395  53.0534 128.3449 0001108  80.2760 279.8354 15.06392827245194

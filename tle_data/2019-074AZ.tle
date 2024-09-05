@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:44+00:00
+validtle:1
+satid:44760
+launchyear:2019
+epoch:24242.41584367
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1055
+meananomly:266.2018
+meanmotion:15.4404
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6812.3421885918
+altitudeatperigee:429
+altitudeatapogee:439
+inclination:53.0101
+eccentricity:0.0007159
+argumentofperigree:93.9805
+nickname:STARLINK-1055
+idesg:19074AZ 
+cosparid:2019-074AZ
+altkm:435.42056596476
+velkms:7.6515521052209
+velkmh:27546
+onumepoch:26515
+onumnow:409419.15
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T09:58:49+00:00
+nowjuliandate:2460553.0296843
+nowepochdate:24243.5296759259
+TLE:
+STARLINK-1055
+1 44760U 19074AZ  24242.41584367  .00098610  00000+0  21072-2 0  9991
+2 44760  53.0101 140.8058 0007159  93.9805 266.2018 15.44039030265158

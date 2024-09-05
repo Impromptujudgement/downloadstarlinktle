@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53037
+launchyear:2022
+epoch:24242.20005534
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4153
+meananomly:286.1099
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8503490944
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2234
+eccentricity:0.00017
+argumentofperigree:74.008
+nickname:STARLINK-4153
+idesg:22076BD 
+cosparid:2022-076BD
+altkm:540.28525973145
+velkms:7.5935964743376
+velkmh:27337
+onumepoch:11942
+onumnow:180201.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:48:05+00:00
+nowjuliandate:2460552.6378887
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4153
+1 53037U 22076BD  24242.20005534  .00001550  00000+0  11546-3 0  9998
+2 53037  53.2234  56.7862 0001700  74.0080 286.1099 15.08850503119427

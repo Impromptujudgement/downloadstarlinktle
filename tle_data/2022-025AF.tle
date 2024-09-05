@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51985
+launchyear:2022
+epoch:24242.65872542
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3651
+meananomly:272.9956
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9109828464
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2164
+eccentricity:0.0001604
+argumentofperigree:87.122
+nickname:STARLINK-3651
+idesg:22025AF 
+cosparid:2022-025AF
+altkm:540.61345984794
+velkms:7.5932695430701
+velkmh:27336
+onumepoch:13805
+onumnow:208301.30
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:48:34+00:00
+nowjuliandate:2460552.6379475
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3651
+1 51985U 22025AF  24242.65872542 -.00000520  00000+0 -14600-4 0  9995
+2 51985  53.2164  19.7397 0001604  87.1220 272.9956 15.08830666138058

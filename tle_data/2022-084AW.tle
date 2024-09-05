@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:32+00:00
+validtle:1
+satid:53233
+launchyear:2022
+epoch:24242.43417116
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4372
+meananomly:261.0052
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1442726429
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6562
+eccentricity:0.0001988
+argumentofperigree:99.1398
+nickname:STARLINK-4372
+idesg:22084AW 
+cosparid:2022-084AW
+altkm:566.28088284709
+velkms:7.5778757092917
+velkmh:27280
+onumepoch:11571
+onumnow:173721.53
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:25:12+00:00
+nowjuliandate:2460552.6378718
+nowepochdate:24243.1378703704
+TLE:
+STARLINK-4372
+1 53233U 22084AW  24242.43417116  .00001949  00000+0  15628-3 0  9990
+2 53233  97.6562 302.2288 0001988  99.1398 261.0052 15.01261507115712

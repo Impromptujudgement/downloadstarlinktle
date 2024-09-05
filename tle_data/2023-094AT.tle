@@ -1,0 +1,38 @@
+date:2024-08-29T05:55:28+00:00
+validtle:1
+satid:57259
+launchyear:2023
+epoch:24043.14071728
+epochday:43
+tleage:199
+tleclassification:U
+active:0
+name:STARLINK-5505
+meananomly:26.6340
+meanmotion:15.9766
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6659.0478684824
+altitudeatperigee:271
+altitudeatapogee:291
+inclination:42.9848
+eccentricity:0.0014464
+argumentofperigree:82.044
+nickname:STARLINK-5505
+idesg:23094AT 
+cosparid:2023-094AT
+altkm:274.80109297736
+velkms:7.7533599695231
+velkmh:27912
+onumepoch:3472
+onumnow:58651.85
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2024-02-12T03:22:38+00:00
+nowjuliandate:2460551.7468594
+nowepochdate:24242.2468518519
+TLE:
+STARLINK-5505
+1 57259U 23094AT  24043.14071728  .00422359  81358-4  89915-3 0  9998
+2 57259  42.9848  74.1032 0014464  82.0440  26.6340 15.97661431 34729

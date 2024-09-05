@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:28+00:00
+validtle:1
+satid:53745
+launchyear:2022
+epoch:24241.76307134
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-4656
+meananomly:268.1486
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8624928554
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2154
+eccentricity:0.000132
+argumentofperigree:91.9657
+nickname:STARLINK-4656
+idesg:22107AX 
+cosparid:2022-107AX
+altkm:540.65230792547
+velkms:7.5932003641506
+velkmh:27336
+onumepoch:11036
+onumnow:166537.05
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:18:49+00:00
+nowjuliandate:2460552.6378303
+nowepochdate:24243.1378240741
+TLE:
+STARLINK-4656
+1 53745U 22107AX  24241.76307134  .00001241  00000+0  96028-4 0  9996
+2 53745  53.2154 248.8763 0001320  91.9657 268.1486 15.08846530110363

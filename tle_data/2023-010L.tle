@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55279
+launchyear:2023
+epoch:24241.62899761
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-5323
+meananomly:88.7939
+meanmotion:14.9834
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1689537955
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:70.0021
+eccentricity:0.0002894
+argumentofperigree:271.2888
+nickname:STARLINK-5323
+idesg:23010L  
+cosparid:2023-010L
+altkm:574.4141465509
+velkms:7.5739206106919
+velkmh:27266
+onumepoch:8919
+onumnow:133659.41
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T15:05:45+00:00
+nowjuliandate:2460552.6377739
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5323
+1 55279U 23010L   24241.62899761  .00000812  00000+0  75840-4 0  9993
+2 55279  70.0021  11.5332 0002894 271.2888  88.7939 14.98338411 89197

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:51855
+launchyear:2022
+epoch:24242.62279228
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3545
+meananomly:265.9829
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8869241976
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.22
+eccentricity:0.000176
+argumentofperigree:94.1364
+nickname:STARLINK-3545
+idesg:22022D  
+cosparid:2022-022D
+altkm:540.73311083878
+velkms:7.5931250821362
+velkmh:27335
+onumepoch:13887
+onumnow:209540.18
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:56:49+00:00
+nowjuliandate:2460552.6379507
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3545
+1 51855U 22022D   24242.62279228 -.00000518  00000+0 -14474-4 0  9993
+2 51855  53.2200 359.8116 0001760  94.1364 265.9829 15.08838537138878

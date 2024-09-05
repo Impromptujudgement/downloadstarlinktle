@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:18+00:00
+validtle:1
+satid:56345
+launchyear:2023
+epoch:24242.75392114
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5979
+meananomly:271.4837
+meanmotion:15.0126
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6941.1535012463
+altitudeatperigee:562
+altitudeatapogee:564
+inclination:97.6553
+eccentricity:0.0001611
+argumentofperigree:88.6572
+nickname:STARLINK-5979
+idesg:23058AE 
+cosparid:2023-058AE
+altkm:566.04530582451
+velkms:7.5781379286951
+velkmh:27281
+onumepoch:7408
+onumnow:111218.99
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:05:39+00:00
+nowjuliandate:2460552.6377096
+nowepochdate:24243.1377083333
+TLE:
+STARLINK-5979
+1 56345U 23058AE  24242.75392114  .00000823  00000+0  68671-4 0  9991
+2 56345  97.6553 242.5742 0001611  88.6572 271.4837 15.01258513 74083

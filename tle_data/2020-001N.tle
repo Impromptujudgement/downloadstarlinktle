@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:22+00:00
+validtle:1
+satid:44926
+launchyear:2020
+epoch:24243.00001157
+epochday:243
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-1113
+meananomly:307.3715
+meanmotion:15.8619
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6691.1118175434
+altitudeatperigee:308
+altitudeatapogee:318
+inclination:53.0436
+eccentricity:0.0007553
+argumentofperigree:4.0016
+nickname:STARLINK-1113
+idesg:20001N  
+cosparid:2020-001N
+altkm:321.86874290074
+velkms:7.7166246310833
+velkmh:27780
+onumepoch:598
+onumnow:9493.82
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-30T00:00:01+00:00
+nowjuliandate:2460553.0294267
+nowepochdate:24243.5294212963
+TLE:
+STARLINK-1113
+1 44926U 20001N   24243.00001157  .00341646  00000+0  12948-2 0  9996
+2 44926  53.0436 264.2254 0007553   4.0016 307.3715 15.86191159  5988

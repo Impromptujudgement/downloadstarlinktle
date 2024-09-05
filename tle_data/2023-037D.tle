@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:19+00:00
+validtle:1
+satid:55917
+launchyear:2023
+epoch:24242.43281077
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5855
+meananomly:100.3850
+meanmotion:15.1659
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6894.2857354147
+altitudeatperigee:513
+altitudeatapogee:520
+inclination:69.9967
+eccentricity:0.0005272
+argumentofperigree:259.6725
+nickname:STARLINK-5855
+idesg:23037D  
+cosparid:2023-037D
+altkm:519.24908865919
+velkms:7.603798079843
+velkmh:27374
+onumepoch:8066
+onumnow:122339.08
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T10:23:15+00:00
+nowjuliandate:2460552.6377295
+nowepochdate:24243.1377199074
+TLE:
+STARLINK-5855
+1 55917U 23037D   24242.43281077  .00015939  00000+0  81778-3 0  9998
+2 55917  69.9967 257.2552 0005272 259.6725 100.3850 15.16592968 80664

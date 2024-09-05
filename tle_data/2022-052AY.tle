@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52644
+launchyear:2022
+epoch:24242.72215768
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3985
+meananomly:271.4496
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8557469942
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2147
+eccentricity:0.0001295
+argumentofperigree:88.6644
+nickname:STARLINK-3985
+idesg:22052AY 
+cosparid:2022-052AY
+altkm:540.5933215962
+velkms:7.5932613937413
+velkmh:27336
+onumepoch:12742
+onumnow:192263.78
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T17:19:54+00:00
+nowjuliandate:2460552.6379083
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-3985
+1 52644U 22052AY  24242.72215768  .00000218  00000+0  31773-4 0  9999
+2 52644  53.2147 239.4436 0001295  88.6644 271.4496 15.08848737127429

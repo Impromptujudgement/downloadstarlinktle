@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:21+00:00
+validtle:1
+satid:55569
+launchyear:2023
+epoch:24242.4628551
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5749
+meananomly:98.3438
+meanmotion:15.0254
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.2018798319
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0032
+eccentricity:0.0001743
+argumentofperigree:261.7206
+nickname:STARLINK-5749
+idesg:23020A  
+cosparid:2023-020A
+altkm:559.01870917553
+velkms:7.5836535008655
+velkmh:27301
+onumepoch:8509
+onumnow:127861.39
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T11:06:31+00:00
+nowjuliandate:2460552.6377538
+nowepochdate:24243.1377430556
+TLE:
+STARLINK-5749
+1 55569U 23020A   24242.46285510  .00001437  00000+0  12144-3 0  9991
+2 55569  43.0032 152.8311 0001743 261.7206  98.3438 15.02541433 85099

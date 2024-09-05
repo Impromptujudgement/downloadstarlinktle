@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:43+00:00
+validtle:1
+satid:49150
+launchyear:2021
+epoch:24241.78002393
+epochday:241
+tleage:2
+tleclassification:U
+active:1
+name:STARLINK-3104
+meananomly:90.6266
+meanmotion:14.9833
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6950.1868093098
+altitudeatperigee:570
+altitudeatapogee:574
+inclination:69.998
+eccentricity:0.0003097
+argumentofperigree:269.4538
+nickname:STARLINK-3104
+idesg:21082W  
+cosparid:2021-082W
+altkm:574.49767078871
+velkms:7.5738393161411
+velkmh:27266
+onumepoch:16360
+onumnow:245147.57
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T18:43:14+00:00
+nowjuliandate:2460552.6380008
+nowepochdate:24243.1379976852
+TLE:
+STARLINK-3104
+1 49150U 21082W   24241.78002393  .00000328  00000+0  35314-4 0  9999
+2 49150  69.9980 261.1396 0003097 269.4538  90.6266 14.98332637163607

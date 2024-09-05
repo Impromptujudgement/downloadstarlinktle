@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:43+00:00
+validtle:1
+satid:46354
+launchyear:2020
+epoch:24242.88208491
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1657
+meananomly:285.7509
+meanmotion:15.0639
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3938414728
+altitudeatperigee:547
+altitudeatapogee:548
+inclination:53.054
+eccentricity:8.54E-5
+argumentofperigree:74.3574
+nickname:STARLINK-1657
+idesg:20062AF 
+cosparid:2020-062AF
+altkm:547.97538849839
+velkms:7.5892920905729
+velkmh:27321
+onumepoch:22056
+onumnow:332250.25
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T21:10:12+00:00
+nowjuliandate:2460553.0282781
+nowepochdate:24243..528275463
+TLE:
+STARLINK-1657
+1 46354U 20062AF  24242.88208491  .00007508  00000+0  52256-3 0  9998
+2 46354  53.0540 356.2302 0000854  74.3574 285.7509 15.06385899220564

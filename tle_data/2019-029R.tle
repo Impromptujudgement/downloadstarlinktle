@@ -1,0 +1,38 @@
+date:2024-08-30T12:42:49+00:00
+validtle:1
+satid:44250
+launchyear:2019
+epoch:20259.91668981
+epochday:259
+tleage:1444
+tleclassification:U
+active:0
+name:STARLINK-36
+meananomly:304.7602
+meanmotion:16.2620
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6580.9039917997
+altitudeatperigee:197
+altitudeatapogee:209
+inclination:52.9869
+eccentricity:0.0009234
+argumentofperigree:267.0021
+nickname:STARLINK-36
+idesg:19029R  
+cosparid:2019-029R
+altkm:206.56953819644
+velkms:7.7844785180618
+velkmh:28024
+onumepoch:7336
+onumnow:184079.85
+otype:98
+otypedesc:Inactive TLE
+status:98
+timestamp:2020-09-15T22:00:02+00:00
+nowjuliandate:2460553.031214
+nowepochdate:24243.5312037037
+TLE:
+STARLINK-36
+1 44250U 19029R   20259.91668981 -.00007975  11981-4 -12493-5 0  9990
+2 44250  52.9869 115.1258 0009234 267.0021 304.7602 16.26202498 73366

@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:23+00:00
+validtle:1
+satid:55343
+launchyear:2023
+epoch:24242.30686682
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-5661
+meananomly:89.6026
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1857327651
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0029
+eccentricity:0.0001293
+argumentofperigree:270.4668
+nickname:STARLINK-5661
+idesg:23013N  
+cosparid:2023-013N
+altkm:558.82077328759
+velkms:7.5838609780029
+velkmh:27302
+onumepoch:8829
+onumnow:132672.33
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:21:53+00:00
+nowjuliandate:2460552.6377668
+nowepochdate:24243.1377662037
+TLE:
+STARLINK-5661
+1 55343U 23013N   24242.30686682  .00001628  00000+0  13556-3 0  9991
+2 55343  43.0029  89.0742 0001293 270.4668  89.6026 15.02546679 88291

@@ -1,0 +1,38 @@
+date:2024-08-30T03:20:41+00:00
+validtle:1
+satid:47766
+launchyear:2021
+epoch:24242.62219378
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-2184
+meananomly:265.4584
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3342266529
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.054
+eccentricity:0.0001479
+argumentofperigree:94.6574
+nickname:STARLINK-2184
+idesg:21017AW 
+cosparid:2021-017AW
+altkm:548.15752826101
+velkms:7.5890599679271
+velkmh:27321
+onumepoch:19292
+onumnow:290623.51
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T14:55:58+00:00
+nowjuliandate:2460552.6393747
+nowepochdate:24243.1393634259
+TLE:
+STARLINK-2184
+1 47766U 21017AW  24242.62219378  .00001613  00000+0  12713-3 0  9990
+2 47766  53.0540 207.3818 0001479  94.6574 265.4584 15.06405350192920

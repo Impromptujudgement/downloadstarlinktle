@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:42+00:00
+validtle:1
+satid:49728
+launchyear:2021
+epoch:24242.35599868
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3240
+meananomly:273.5964
+meanmotion:15.0883
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.9180436762
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2159
+eccentricity:0.0001342
+argumentofperigree:86.5182
+nickname:STARLINK-3240
+idesg:21115E  
+cosparid:2021-115E
+altkm:540.62016532867
+velkms:7.5932660515391
+velkmh:27336
+onumepoch:15236
+onumnow:229896.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T08:32:38+00:00
+nowjuliandate:2460552.6379898
+nowepochdate:24243.1379861111
+TLE:
+STARLINK-3240
+1 49728U 21115E   24242.35599868 -.00012974  00000+0 -79877-3 0  9992
+2 49728  53.2159 141.0898 0001342  86.5182 273.5964 15.08828356152367

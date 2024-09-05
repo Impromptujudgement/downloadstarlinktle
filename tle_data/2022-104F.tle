@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:29+00:00
+validtle:1
+satid:53593
+launchyear:2022
+epoch:24242.65375616
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4671
+meananomly:274.8780
+meanmotion:15.1187
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6908.6335898836
+altitudeatperigee:528
+altitudeatapogee:533
+inclination:53.2151
+eccentricity:0.0003157
+argumentofperigree:85.2574
+nickname:STARLINK-4671
+idesg:22104F  
+cosparid:2022-104F
+altkm:531.21016524441
+velkms:7.5985128016371
+velkmh:27355
+onumepoch:11083
+onumnow:167567.97
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T15:41:25+00:00
+nowjuliandate:2460552.6378402
+nowepochdate:24243.1378356481
+TLE:
+STARLINK-4671
+1 53593U 22104F   24242.65375616  .00024742  00000+0  14419-2 0  9996
+2 53593  53.2151 224.5908 0003157  85.2574 274.8780 15.11870930110835

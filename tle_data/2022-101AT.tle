@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:30+00:00
+validtle:1
+satid:53568
+launchyear:2022
+epoch:24242.12460027
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4583
+meananomly:276.6771
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8580210842
+altitudeatperigee:539
+altitudeatapogee:540
+inclination:53.2181
+eccentricity:0.0001013
+argumentofperigree:83.4337
+nickname:STARLINK-4583
+idesg:22101AT 
+cosparid:2022-101AT
+altkm:540.53708271898
+velkms:7.5933243489541
+velkmh:27336
+onumepoch:11227
+onumnow:169413.65
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T02:59:25+00:00
+nowjuliandate:2460552.6378489
+nowepochdate:24243.1378472222
+TLE:
+STARLINK-4583
+1 53568U 22101AT  24242.12460027  .00001808  00000+0  13162-3 0  9991
+2 53568  53.2181  36.9975 0001013  83.4337 276.6771 15.08847993112274

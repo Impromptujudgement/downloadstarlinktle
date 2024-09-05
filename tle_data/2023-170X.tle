@@ -1,0 +1,38 @@
+date:2024-08-28T16:30:20+00:00
+validtle:1
+satid:58227
+launchyear:2023
+epoch:24241.13989852
+epochday:241
+tleage:0
+tleclassification:U
+active:1
+name:STARLINK-30874
+meananomly:94.6291
+meanmotion:15.0255
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6937.1791336097
+altitudeatperigee:558
+altitudeatapogee:560
+inclination:43.0032
+eccentricity:0.0001318
+argumentofperigree:265.4401
+nickname:STARLINK-30874
+idesg:23170X  
+cosparid:2023-170X
+altkm:558.8942081204
+velkms:7.5837771405755
+velkmh:27302
+onumepoch:4616
+onumnow:69365.89
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-28T03:21:27+00:00
+nowjuliandate:2460551.1877321
+nowepochdate:24241.6877314815
+TLE:
+STARLINK-30874
+1 58227U 23170X   24241.13989852  .00007472  00000+0  56743-3 0  9992
+2 58227  43.0032 351.3762 0001318 265.4401  94.6291 15.02548823 46166

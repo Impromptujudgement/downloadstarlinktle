@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:33+00:00
+validtle:1
+satid:53026
+launchyear:2022
+epoch:24242.78152684
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4119
+meananomly:263.3529
+meanmotion:15.0884
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8780661682
+altitudeatperigee:538
+altitudeatapogee:541
+inclination:53.2167
+eccentricity:0.0001841
+argumentofperigree:96.7673
+nickname:STARLINK-4119
+idesg:22076AS 
+cosparid:2022-076AS
+altkm:540.78604002315
+velkms:7.5930621549386
+velkmh:27335
+onumepoch:11938
+onumnow:180130.87
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T18:45:24+00:00
+nowjuliandate:2460552.6378904
+nowepochdate:24243.1378819444
+TLE:
+STARLINK-4119
+1 53026U 22076AS  24242.78152684  .00000686  00000+0  61217-4 0  9998
+2 53026  53.2167  64.0720 0001841  96.7673 263.3529 15.08841435119384

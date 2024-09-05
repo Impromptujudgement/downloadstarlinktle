@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:38+00:00
+validtle:1
+satid:52132
+launchyear:2022
+epoch:24242.20603348
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-3718
+meananomly:273.2037
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8513424783
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2176
+eccentricity:0.0001342
+argumentofperigree:86.9108
+nickname:STARLINK-3718
+idesg:22029AW 
+cosparid:2022-029AW
+altkm:540.56001748116
+velkms:7.5932955261184
+velkmh:27336
+onumepoch:13677
+onumnow:206379.50
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T04:56:41+00:00
+nowjuliandate:2460552.6379399
+nowepochdate:24243.1379398148
+TLE:
+STARLINK-3718
+1 52132U 22029AW  24242.20603348  .00001417  00000+0  10706-3 0  9997
+2 52132  53.2176  51.7605 0001342  86.9108 273.2037 15.08850178136776

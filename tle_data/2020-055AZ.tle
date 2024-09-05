@@ -1,0 +1,38 @@
+date:2024-08-30T12:40:44+00:00
+validtle:1
+satid:46074
+launchyear:2020
+epoch:24242.28127187
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1549
+meananomly:267.3078
+meanmotion:15.0641
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6925.3138761984
+altitudeatperigee:546
+altitudeatapogee:548
+inclination:53.0536
+eccentricity:0.0001442
+argumentofperigree:92.8076
+nickname:STARLINK-1549
+idesg:20055AZ 
+cosparid:2020-055AZ
+altkm:548.10293520596
+velkms:7.5891086479128
+velkmh:27321
+onumepoch:22528
+onumnow:339375.32
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T06:45:02+00:00
+nowjuliandate:2460553.0282956
+nowepochdate:24243..528287037
+TLE:
+STARLINK-1549
+1 46074U 20055AZ  24242.28127187  .00010427  00000+0  71763-3 0  9993
+2 46074  53.0536  78.9219 0001442  92.8076 267.3078 15.06411990225282

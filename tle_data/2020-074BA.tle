@@ -1,0 +1,38 @@
+date:2024-08-30T03:21:10+00:00
+validtle:1
+satid:46787
+launchyear:2020
+epoch:24242.91667824
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-1899
+meananomly:32.6928
+meanmotion:15.6000
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6765.7945606163
+altitudeatperigee:383
+altitudeatapogee:392
+inclination:53.0402
+eccentricity:0.0007019
+argumentofperigree:30.7239
+nickname:STARLINK-1899
+idesg:20074BA 
+cosparid:2020-074BA
+altkm:388.4980368581
+velkms:7.6850558276917
+velkmh:27666
+onumepoch:21346
+onumnow:333001.19
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T22:00:01+00:00
+nowjuliandate:2460552.6397086
+nowepochdate:24243.1396990741
+TLE:
+STARLINK-1899
+1 46787U 20074BA  24242.91667824  .00294215  00000+0  34490-2 0  9996
+2 46787  53.0402 228.1624 0007019  30.7239  32.6928 15.60000532213462

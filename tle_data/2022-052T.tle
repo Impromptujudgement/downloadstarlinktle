@@ -1,0 +1,38 @@
+date:2024-08-30T03:18:35+00:00
+validtle:1
+satid:52615
+launchyear:2022
+epoch:24242.33161805
+epochday:242
+tleage:1
+tleclassification:U
+active:1
+name:STARLINK-4011
+meananomly:269.2638
+meanmotion:15.0885
+rightascension:0.0000
+declination:0.0000
+semimajoraxis:6917.8539894662
+altitudeatperigee:539
+altitudeatapogee:541
+inclination:53.2157
+eccentricity:0.000137
+argumentofperigree:90.8511
+nickname:STARLINK-4011
+idesg:22052T  
+cosparid:2022-052T
+altkm:540.62652080105
+velkms:7.5932240031335
+velkmh:27336
+onumepoch:12701
+onumnow:191651.12
+otype:1
+otypedesc:Low Earth Orbit (LEO)
+status:1
+timestamp:2024-08-29T07:57:32+00:00
+nowjuliandate:2460552.6379056
+nowepochdate:24243.1379050926
+TLE:
+STARLINK-4011
+1 52615U 22052T   24242.33161805  .00000494  00000+0  49113-4 0  9999
+2 52615  53.2157 266.1977 0001370  90.8511 269.2638 15.08849312127015
